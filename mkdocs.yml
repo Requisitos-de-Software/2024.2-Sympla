@@ -1,0 +1,5 @@
+site_name: "Grupo 8"
+ite_url: "https://requisitos-de-software.github.io/2024.2-Grupo08/"
+
+theme:
+  name: "material" 
