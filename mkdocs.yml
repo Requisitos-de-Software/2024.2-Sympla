@@ -3,3 +3,14 @@ ite_url: "https://requisitos-de-software.github.io/2024.2-Grupo08/"
 
 theme:
   name: "material" 
+
+nav:
+  - Home: index.md
+  - Atas: atas.md
+  - Planejamento: planejamento.md
+  - Apresentações: apresentacoes.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/requisitos-de-software
