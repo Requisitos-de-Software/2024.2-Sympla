@@ -20,12 +20,7 @@ jobs:
     - name: Configurar Python
       uses: actions/setup-python@v4
       with:
-        python-version: '3.x'
-
-      uses: actions/cache@v2
-        with:
-          key: ${{ github.ref }}
-          path: .cache   
+        python-version: '3.x' 
 
     - name: Instalar dependências
       run: |
