@@ -8,8 +8,8 @@ nav:
   - Home: index.md
   - Atas: atas.md
   - Planejamento: 
-    - Ferramentas: ferramentas.md
-    - Aplicativo selecionado: aplicativo.md
+    - Ferramentas: planejamento/ferramentas.md
+    - Aplicativo selecionado: planejamento/aplicativo.md
   - Apresentações: apresentacoes.md
   - Ferramentas: ferramentas.md
 
