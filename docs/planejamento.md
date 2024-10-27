@@ -4,19 +4,40 @@
 Como primeiro passo do projeto, cada integrante do grupo selecionou individualmente um aplicativo open source ou governamental com potencial para ser analisado. O objetivo era escolher um aplicativo que serviria como foco central de estudo para a disciplina de Requisitos de Software. Abaixo, a Tabela 1 apresenta os aplicativos avaliados, juntamente com o nome do integrante responsável por cada análise.
 
 <div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Tabela de aplicativos avaliados</p></font>
+  
+<table>
+  <thead>
+    <tr>
+      <th>Aplicativo avaliado</th>
+      <th>Avaliador</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Querido Diário</td>
+      <td><a href="https://github.com/rafgpereira">Rafael Pereira</a></td>
+    </tr>
+    <tr>
+      <td>Sympla</td>
+      <td><a href="https://github.com/VHbernardes">Victor Hugo Bernardes</a></td>
+    </tr>
+    <tr>
+      <td>Buson</td>
+      <td><a href="https://github.com/Gxaite">Gabriel Scheidt</a></td>
+    </tr>
+    <tr>
+      <td>OLX</td>
+      <td><a href="https://github.com/renantfm4">Renan Araújo</a></td>
+    </tr>
+    <tr>
+      <td>Life360</td>
+      <td><a href="https://github.com/MilenaFRocha">Milena Fernandes</a></td>
+    </tr>
+  </tbody>
+</table>
 
-### Tabela 1: Tabela de Aplicativos Avaliados
-
-| Aplicativo Avaliado | Avaliador                                               |
-|---------------------|---------------------------------------------------------|
-| Sympla              | [Victor Hugo Bernardes](https://github.com/VHbernardes) |
-| OLX                 | [Renan Araújo](https://github.com/renantfm4)            |
-| Querido Diário      | [Rafael Pereira](https://github.com/rafgpereira)        |
-| Buson               | [Gabriel Scheidt](https://github.com/Gxaite)            |
-| Life360             | [Milena Fernandes](https://github.com/MilenaFRocha)     |
-
-<p>Fonte: Milena Fernandes, 2024</p>
-
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/MilenaFRocha">Milena Fernandes </a>, 2024</p></font>
 </div>
 
 ---
