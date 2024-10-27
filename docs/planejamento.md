@@ -6,13 +6,13 @@ Como primeiro passo do projeto, cada integrante do grupo selecionou individualme
 <div align="center">
 Tabela 1: Tabela de Aplicativos Avaliados
 
-| Aplicativo Avaliado | Avaliador                                    |
-|---------------------|----------------------------------------------|
-| Sympla              | [Victor Hugo Bernardes](https://github.com/VHbernardes)      |
-| OLX                 | [Renan Araújo](https://github.com/renantfm4)                  |
-| Querido Diário      | [Rafael Pereira](https://github.com/rafgpereira)                |
-| Buson               | [Gabriel Scheidt](https://github.com/usuario_gabriel)             |
-| Life360             | [Milena Fernandes](https://github.com/usuario_milena)   
+| Aplicativo Avaliado | Avaliador                                               |
+|---------------------|---------------------------------------------------------|
+| Sympla              | [Victor Hugo Bernardes](https://github.com/VHbernardes) |
+| OLX                 | [Renan Araújo](https://github.com/renantfm4)            |
+| Querido Diário      | [Rafael Pereira](https://github.com/rafgpereira)        |
+| Buson               | [Gabriel Scheidt](https://github.com/Gxaite)            |
+| Life360             | [Milena Fernandes](https://github.com/MilenaFRocha)     |
 
 <p>Fonte: Milena Fernandes, 2024</p>
 
