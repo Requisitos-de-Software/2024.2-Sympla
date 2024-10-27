@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 
-Este é o Grupo 8 da disciplina de Requisitos de Software da Universidade de Brasília (UnB), ministrada pelo Professor André Barros do semestre 2024.2. Neste repositório organizamos e armazenamos todos os artefatos produzidos pela nossa equipe ao longo da disciplina. Aqui, é possível acessar desde documentos técnicos, que detalham requisitos e especificações do projeto. Nosso objetivo é manter um ambiente estruturado e acessível para facilitar a colaboração e o acompanhamento do progresso do projeto.
+Este é o Grupo 8 da disciplina de Requisitos de Software da Universidade de Brasília (UnB), ministrada pelo Professor André Barros do semestre 2024.2. Neste repositório organizamos e armazenamos todos os artefatos produzidos pela nossa equipe ao longo da disciplina. Aqui, é possível acessar documentos técnicos, que detalham requisitos e especificações do projeto. Nosso objetivo é manter um ambiente estruturado e acessível para facilitar a colaboração e o acompanhamento do progresso do projeto.
 
 ## Equipe
 
