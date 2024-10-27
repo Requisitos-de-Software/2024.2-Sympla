@@ -7,8 +7,10 @@ theme:
 nav:
   - Home: index.md
   - Atas: atas.md
-  - Planejamento: planejamento.md
+  - Planejamento: 
+    - Ferramentas: ferramentas.md
   - Apresentações: apresentacoes.md
+  - Ferramentas: ferramentas.md
 
 extra:
   social:
