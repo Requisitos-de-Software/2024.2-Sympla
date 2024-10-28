@@ -34,5 +34,5 @@ Os **Termos de Uso e Políticas de Privacidade do Sympla** detalham as condiçõ
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Introdução e adição do app escolhido e termos de uso | [Victor Hugo](https://github.com/VHbernardes) | 28/10/2024   | [Gabriel Scheidt](https://github.com/Gxaite)  ||
-|  1.0   | Introdução e adição do app escolhido e termos de uso | [Gabriel Scheidt](https://github.com/Gxaite)| 28/10/2024   |   ||
+|  1.0   | Introdução e adição do app escolhido e termos de uso | [Victor Hugo](https://github.com/VHbernardes) | 28/10/2024   | [Gabriel Scheidt](https://github.com/Gxaite)  |28/10/2024 |
+|  1.1   | Introdução e adição do app escolhido e termos de uso | [Gabriel Scheidt](https://github.com/Gxaite)| 28/10/2024   |   ||
