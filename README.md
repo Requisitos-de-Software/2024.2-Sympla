@@ -1,7 +1,7 @@
 # Grupo 08 - Requisitos de Software
 
  <center>
-  <img src="https://t.ctcdn.com.br/LlCIGVqm3EqYg5DBnCiHeDhw9Vw=/61x33:1179x662/1118x629/smart/i370243.jpeg" align-self="center">
+  <img src="https://images.sympla.com.br/5e824fb955749.png" align-self="center">
   </center>
 
 ## Sobre o projeto
