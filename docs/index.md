@@ -3,7 +3,7 @@
 # Inicío 
 
 <div align="center">
-    <img src="https://github.com/Requisitos-de-Software/2024.2-Sympla/blob/b62b14865d297c091d1007a6a1009076e999527b/docs/assets/sympla.png" style="width:20vw"/>
+    <img src="https://github.com/Requisitos-de-Software/2024.2-Sympla/raw/b62b14865d297c091d1007a6a1009076e999527b/docs/assets/sympla.png" style="width:20vw"/>
     <p> Figura 1: Imagem Sympla. Fonte: <a href="https://www.sympla.com.br/">Sympla</a></p> 
 </div>
 

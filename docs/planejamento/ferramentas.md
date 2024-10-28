@@ -12,15 +12,15 @@ Para facilitar o gerenciamento e o desenvolvimento da documentação do projeto 
 
 | Logo | Ferramenta | Finalidade |
 | :-----: | :----: | ----------- |
-| <img src="../assets/ferramentas/github.png"  width=75px> | <a id="b" href="#b">Github</a> | Plataforma para armazenar os documentos produzidos e versionamento deles |
-| <img style="border-radius: 25%" src="../assets/ferramentas/mkdocs.png" width=150px> | <a id="a" href="#a">MkDocs</a> | Ferramenta utilizada para a criação da documentação do projeto |
-| <img src="/assets/ferramentas/teams.png" width=125px> | <a id="d" href="#d">Teams</a> | Plataforma usada para fazer as reuniões e também para gravá-las |
-| <img src="/assets/ferramentas/whatsapp.png" width=70px> | <a id="e" href="#e">Whatsapp</a> | Principal meio de comunicação entre a equipe.|
-| <img src="/assets/ferramentas/canva.png"  width=80px> | <a id="f" href="#f">Canva</a> | Utilizado para criação do Rich picture |
-| <img src="/assets/ferramentas/vscode.png"  width=70px> | <a id="g" href="#g">Visual Studio Code</a> | IDE usada para edição dos arquivos de documentação |
-| <img src="/assets/ferramentas/panilha.png"  width=80px> | <a id="g" href="#g">Planilhas</a> | Ferramenta usada para montar os horários |
-| <img src="/assets/ferramentas/docs.png"  width=80px> | <a id="g" href="#g">Docs</a> | Ferramenta usada para criação de arquivos  |
-| <img src="/assets/ferramentas/youtube.png"  width=80px> | <a id="g" href="#g">Youtube</a> | Plataforma para hospedar os vídeos  |
+| <img src="https://github.com/Requisitos-de-Software/2024.2-Sympla/raw/main/docs/assets/ferramentas/github.png" width=75px> | [Github](#b) | Plataforma para armazenar os documentos produzidos e versionamento deles |
+| <img style="border-radius: 25%" src="https://github.com/Requisitos-de-Software/2024.2-Sympla/raw/main/docs/assets/ferramentas/mkdocs.png" width=150px> | [MkDocs](#a) | Ferramenta utilizada para a criação da documentação do projeto |
+| <img src="https://github.com/Requisitos-de-Software/2024.2-Sympla/raw/main/docs/assets/ferramentas/teams.png" width=75px> | [Teams](#d) | Plataforma usada para fazer as reuniões e também para gravá-las |
+| <img src="https://github.com/Requisitos-de-Software/2024.2-Sympla/raw/main/docs/assets/ferramentas/whatsapp.png" width=75px> | [Whatsapp](#e) | Principal meio de comunicação entre a equipe.|
+| <img src="https://github.com/Requisitos-de-Software/2024.2-Sympla/raw/main/docs/assets/ferramentas/canva.png" width=75> | [Canva](#f) | Utilizado para criação do Rich picture |
+| <img src="https://github.com/Requisitos-de-Software/2024.2-Sympla/raw/main/docs/assets/ferramentas/vscode.png" width=75px> | [Visual Studio Code](#g) | IDE usada para edição dos arquivos de documentação |
+| <img src="https://github.com/Requisitos-de-Software/2024.2-Sympla/raw/main/docs/assets/ferramentas/panilha.png" width=75px> | [Planilhas](#g) | Ferramenta usada para montar os horários |
+| <img src="https://github.com/Requisitos-de-Software/2024.2-Sympla/raw/main/docs/assets/ferramentas/docs.png" width=75px> | [Docs](#g) | Ferramenta usada para criação de arquivos |
+| <img src="https://github.com/Requisitos-de-Software/2024.2-Sympla/raw/main/docs/assets/ferramentas/youtube.png" width=75px> | [Youtube](#g) | Plataforma para hospedar os vídeos |
 
 
 
@@ -49,5 +49,6 @@ Para facilitar o gerenciamento e o desenvolvimento da documentação do projeto 
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Inicío e Adição das ferramentas | Renan Araújo | 27/10/2024   | Gabriel Scheidt  ||
-|  1.0   | Correção das imagens de ferramentas | Gabriel Scheidt | 27/10/2024   |  ||
+|  1.0   | Inicío e Adição das ferramentas | Renan Araújo | 27/10/2024   | [Gabriel Scheidt](https://github.com/Gxaite)  ||
+|  1.1   | Correção das imagens de ferramentas | [Gabriel Scheidt](https://github.com/Gxaite) | 27/10/2024   | [Victor Hugo](https://github.com/VHbernardes) | 28/10/2024 |
+|  1.2   | Corrigindo as imagens para aparecer | [Victor Hugo](https://github.com/VHbernardes) | 27/10/2024   |  |  |
