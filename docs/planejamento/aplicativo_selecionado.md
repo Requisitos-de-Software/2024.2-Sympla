@@ -28,9 +28,11 @@ Diante dessa análise, o grupo decidiu que utilizaria o que a API da Sympla perm
 
 Embora uma análise abrangente do aplicativo pudesse fornecer dados mais ricos e detalhados, o grupo entendeu que sua principal responsabilidade era manter a conformidade com os limites legais e éticos definidos. Dessa forma, concentrar-se nas funcionalidades permitidas pela API da Sympla, na interface do usuário e requisitos não implementados permitirá identificar lacunas ou oportunidades de aprimoramento na plataforma, sem violar as diretrizes da Sympla.
 
+Os **Termos de Uso e Políticas de Privacidade do Sympla** detalham as condições de uso da plataforma e os direitos e deveres dos usuários. Disponível em: https://termos-e-politicas.sympla.com.br/hc/pt-br. Acesso em: 28 out. 2024.
+
 #### **Histórico de Versões**
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Introdução e adição do app escolhido e termos de uso | [Victor Hugo](https://github.com/VHbernardes) | 28/10/2024   | [Gabriel Scheidt](https://github.com/Gxaite)  ||
-
+|  1.0   | Introdução e adição do app escolhido e termos de uso | [Gabriel Scheidt](https://github.com/Gxaite)| 28/10/2024   |   ||
