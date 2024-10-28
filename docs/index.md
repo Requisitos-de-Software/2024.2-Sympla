@@ -29,7 +29,9 @@ Bem-vindos, esse é o grupo 3 de Requisitos de Software da Universidade de Bras�
 
 #### Histórico de Versões
 
-|Versão|Data|Descrição|Autor|Revisor|
-|:----:|----|---------|-----|:-------:|
-|`1.0`|27/10/2024|Versão inicial|[Renan Araújo](https://github.com/renantfm4)|[Gabriel Scheidt](https://github.com/Gxaite)|
+
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0   | Inicío e Adição das ferramentas | [Renan Araújo](https://github.com/renantfm4) | 27/10/2024   | [Gabriel Scheidt](https://github.com/Gxaite) ||
+
 
