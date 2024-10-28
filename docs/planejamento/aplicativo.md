@@ -56,6 +56,7 @@ O Sympla é uma plataforma de venda de ingressos e gestão de eventos, criada pa
 A OLX é uma plataforma de compra e venda que facilita o contato entre pessoas interessadas em negociar produtos novos e usados. Com funcionalidades como busca avançada, criação de anúncios e comunicação direta com compradores e vendedores, a OLX visa tornar o processo de negociação rápido e seguro. O aplicativo ainda oferece recursos de verificação de perfis e moderação para manter a confiança na plataforma.
 
 Motivos para escolha:
+
 - Popularidade e relevância no mercado brasileiro, com um grande volume de usuários ativos e alto impacto no e-commerce local.
 - Facilidade de uso e abrangência de categorias, permitindo que os usuários encontrem de tudo, desde veículos até produtos eletrônicos e móveis, em uma única plataforma.
 - Potencial de aprimoramento em segurança, como na autenticação de usuários e na criação de um sistema de avaliações e recomendações para vendedores e compradores.
@@ -67,6 +68,7 @@ Motivos para escolha:
 O Buson é um aplicativo que facilita a compra de passagens de ônibus, permitindo que os usuários busquem, comparem e adquiram passagens de diferentes empresas. Ele oferece uma experiência eficiente, com recursos como rastreamento de ônibus, armazenamento de passagens e notificações sobre alterações de horários. 
 
 O Buson foi escolhido para análise devido:
+
 - Às suas altas avaliações na Play Store e à sua interface amigável, que oferece funcionalidades relevantes de forma simples.
 - A possibilidade de aplicar engenharia reversa no aplicativo permite explorar suas características e identificar melhorias.
 
@@ -75,6 +77,7 @@ O Buson foi escolhido para análise devido:
 O Life360 é um aplicativo que possibilita o rastreamento de localização, permitindo que os usuários compartilhem sua posição em tempo real com familiares e amigos. Além disso, ele oferece funcionalidades como notificações de chegada e partida, a criação de círculos para agrupar amigos e familiares, facilitando a comunicação entre eles, e relatórios de viagens que registram o histórico de deslocamentos.
 
 Os principais motivos dessa escolha são:
+
 - Aplicativo de muito utilidade hoje em dia que tem um potencial muito grande.
 - Facilidade e segurança para os membros.
 - Há oportunidades de melhoria, como a implementação de um modo offline.
