@@ -6,7 +6,8 @@ theme:
 
 nav:
   - Home: index.md
-  - Atas: atas.md
+  - Atas:
+    - Ata 1º reunião: Atas/ata1.md
   - Planejamento: 
     - Ferramentas: planejamento/ferramentas.md
     - Aplicativo selecionado: planejamento/aplicativo.md
