@@ -45,7 +45,9 @@ Como primeiro passo do projeto, cada integrante do grupo selecionou individualme
 ## Motivação da Análise 
 
 ### Sympla
-O Sympla é uma plataforma de venda de ingressos e gestão de eventos, criada para facilitar a organização e participação em diferentes tipos de eventos, como palestras, shows, workshops, cursos, entre outros. A plataforma é voltada tanto para organizadores quanto para participantes, oferecendo uma experiência simplificada e intuitiva para ambos os públicos. Os principais motivos para a escolha do Sympla como aplicativo de estudo são:
+O Sympla é uma plataforma de venda de ingressos e gestão de eventos, criada para facilitar a organização e participação em diferentes tipos de eventos, como palestras, shows, workshops, cursos, entre outros. A plataforma é voltada tanto para organizadores quanto para participantes, oferecendo uma experiência simplificada e intuitiva para ambos os públicos. 
+
+Os principais motivos para a escolha do Sympla como aplicativo de estudo são:
 
 - Amplamente utilizado atualmente, o que garante relevância e familiaridade entre os usuários;
 - Funcionalidades variadas e essenciais, que oferecem uma boa oportunidade de análise e aprendizado;
@@ -61,9 +63,18 @@ Motivos para escolha:
 - Facilidade de uso e abrangência de categorias, permitindo que os usuários encontrem de tudo, desde veículos até produtos eletrônicos e móveis, em uma única plataforma.
 - Potencial de aprimoramento em segurança, como na autenticação de usuários e na criação de um sistema de avaliações e recomendações para vendedores e compradores.
 
-  
+
 
 ### Querido Diário
+O Querido Diário é uma aplicação que permite consultas aos diários oficiais dos municípios de forma simplificada, através de uma busca intuitiva e de recortes dos trechos dos diários. Possui um importante papel social, reunindo em um só lugar dados dos diários de centenas de municípios brasileiros.
+
+Os principais motivos dessa escolha são:
+
+- Aplicação open source, brasileiro, com uma comunidade ativa.
+- Facilidade de aplicação de engenharia reversa para explorá-lo.
+- Documentação intuitiva, atualizada e de fácil acesso.
+- Arquitetura e escopo bem definidos.
+
 ### Buson
 O Buson é um aplicativo que facilita a compra de passagens de ônibus, permitindo que os usuários busquem, comparem e adquiram passagens de diferentes empresas. Ele oferece uma experiência eficiente, com recursos como rastreamento de ônibus, armazenamento de passagens e notificações sobre alterações de horários. 
 
@@ -90,6 +101,8 @@ Os principais motivos dessa escolha são:
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Criação do documento |  [Milena Fernandes](https://github.com/usuario_milena) | 27/10/2024   | [Rafael Pereira](https://github.com/rafgpereira) ||
+|  1.0   | Criação do documento |  [Milena Fernandes](https://github.com/usuario_milena) | 27/10/2024   | [Rafael Pereira](https://github.com/rafgpereira) | 28/10/2024 |
+|  1.0   | Adição da descrição do Querido Diário |  [Rafael Pereira](https://github.com/rafgpereira) | 28/10/2024   | [Milena Fernandes](https://github.com/usuario_milena) | 28/10/2024 |
+
 
 </center>
