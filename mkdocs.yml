@@ -11,6 +11,7 @@ nav:
   - Planejamento: 
     - Ferramentas: planejamento/ferramentas.md
     - Aplicativo selecionado: planejamento/aplicativo.md
+    - HeatMap: planejamento/heatmap.md
   - Apresentações: apresentacoes.md
   - Ferramentas: ferramentas.md
 
