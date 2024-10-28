@@ -20,6 +20,6 @@ Este é o Grupo 8 da disciplina de Requisitos de Software da Universidade de Bra
 
 ## Histórico de Versão
 
-|Versão|Data|Descrição|Autor|Revisor|
-|:----:|----|---------|-----|:-------:|
-|`1.0`|27/10/2024|Criação do documento|[Renan Araújo](https://github.com/renantfm4)|[Gabriel Scheidt](https://github.com/Gxaite)|
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0   | Criação do documento | [Renan Araújo](https://github.com/renantfm4) | 27/10/2024   | [Gabriel Scheidt](https://github.com/Gxaite) ||
