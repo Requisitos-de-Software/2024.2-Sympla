@@ -4,12 +4,16 @@ As reuniões do projeto foram programadas para ocorrer semanalmente às segundas
 
 O heatmap, ou mapa de calor, é uma ferramenta gráfica usada para representar dados em uma tabela de forma visual, usando cores para indicar a intensidade de determinados valores em cada ponto da matriz. Neste contexto, ele foi utilizado para mapear os horários preferenciais de cada membro da equipe para as reuniões, com cores mais intensas representando horários com maior disponibilidade e cores mais suaves representando horários com menor disponibilidade. Esse método facilita a identificação rápida de padrões, permitindo que a equipe escolha o horário mais adequado para maximizar a participação.
 
-O uso de heatmaps para análise de dados é particularmente eficaz em projetos colaborativos, onde é necessário considerar as preferências de múltiplos indivíduos. Esse tipo de visualização fornece uma base objetiva para a tomada de decisões, evitando conflitos de horário e promovendo um ambiente mais organizado e produtivo para as reuniões.
+O uso de heatmaps para análise de dados é particularmente eficaz em projetos colaborativos, onde é necessário considerar as preferências de múltiplos indivíduos. Esse tipo de visualização fornece uma base objetiva para a tomada de decisões, evitando conflitos de horário e promovendo um ambiente mais organizado e produtivo para as reuniões. O heatmap pode ser encontrado abaixo na tabela 1.
 
 ### Referências
 
 - TUFTE, E. *The Visual Display of Quantitative Information.* Graphics Press, 2001. Esta referência clássica explica a importância de uma visualização eficiente dos dados e o impacto que gráficos como os heatmaps têm para a análise e tomada de decisão.
 
+
+<div style="text-align: center">
+<p>Tabela 1: Ferramentas </p>
+</div>
 
 | Horário        | Domingo | Segunda | Terça | Quarta | Quinta | Sexta | Sábado |
 |----------------|:-------:|:-------:|:-----:|:------:|:------:|:-----:|:------:|
