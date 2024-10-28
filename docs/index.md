@@ -14,6 +14,15 @@
 Bem-vindos, esse é o grupo 3 de Requisitos de Software da Universidade de Brasília(UnB). Neste repositório iremos apresentar todos os nossos artefatos e documententação.
 </p>
 
+## Sobre o projeto
+
+Este é o Grupo 8 da disciplina de Requisitos de Software da Universidade de Brasília (UnB), ministrada pelo Professor André Barros do semestre 2024.2. Neste repositório organizamos e armazenamos todos os artefatos produzidos pela nossa equipe ao longo da disciplina. Aqui, é possível acessar documentos técnicos, que detalham requisitos e especificações do projeto. Nosso objetivo é manter um ambiente estruturado e acessível para facilitar a colaboração e o acompanhamento do progresso do projeto.
+
+## O que é Sympla.
+
+Sympla é uma plataforma brasileira de gestão de eventos e venda de ingressos online, fundada em 2012. A plataforma permite que organizadores de eventos criem e promovam seus eventos, gerenciem inscrições e vendam ingressos de maneira simples e eficiente. O Sympla atende a uma ampla variedade de eventos, como cursos, palestras, festas, conferências, shows, e oferece funcionalidades como check-in, emissão de relatórios e ferramentas de marketing. Ao longo dos anos, o Sympla tornou-se uma das principais referências em soluções para eventos no Brasil, sendo uma plataforma amplamente utilizada tanto por organizadores quanto por participantes.
+
+
 
 ### **Equipe**
 <table>
@@ -33,5 +42,6 @@ Bem-vindos, esse é o grupo 3 de Requisitos de Software da Universidade de Bras�
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação da página inicial | [Renan Araújo](https://github.com/renantfm4) | 27/10/2024   | [Gabriel Scheidt](https://github.com/Gxaite) ||
+|  1.0   | Revisão da página| [Gabriel Scheidt](https://github.com/Gxaite) | 27/10/2024   |  ||
 
 
