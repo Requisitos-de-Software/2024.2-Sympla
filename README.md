@@ -1,8 +1,16 @@
 # Grupo 08 - Requisitos de Software
 
+ <center>
+  <img src="https://t.ctcdn.com.br/LlCIGVqm3EqYg5DBnCiHeDhw9Vw=/61x33:1179x662/1118x629/smart/i370243.jpeg" align-self="center">
+  </center>
+
 ## Sobre o projeto
 
 Este é o Grupo 8 da disciplina de Requisitos de Software da Universidade de Brasília (UnB), ministrada pelo Professor André Barros do semestre 2024.2. Neste repositório organizamos e armazenamos todos os artefatos produzidos pela nossa equipe ao longo da disciplina. Aqui, é possível acessar documentos técnicos, que detalham requisitos e especificações do projeto. Nosso objetivo é manter um ambiente estruturado e acessível para facilitar a colaboração e o acompanhamento do progresso do projeto.
+
+## O que é Sympla.
+
+Sympla é uma plataforma brasileira de gestão de eventos e venda de ingressos online, fundada em 2012. A plataforma permite que organizadores de eventos criem e promovam seus eventos, gerenciem inscrições e vendam ingressos de maneira simples e eficiente. O Sympla atende a uma ampla variedade de eventos, como cursos, palestras, festas, conferências, shows, e oferece funcionalidades como check-in, emissão de relatórios e ferramentas de marketing. Ao longo dos anos, o Sympla tornou-se uma das principais referências em soluções para eventos no Brasil, sendo uma plataforma amplamente utilizada tanto por organizadores quanto por participantes.
 
 ## Equipe
 
