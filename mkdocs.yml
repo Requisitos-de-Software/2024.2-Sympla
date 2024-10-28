@@ -1,8 +1,8 @@
 site_name: "Grupo 8"
-ite_url: "https://requisitos-de-software.github.io/2024.2-Sympla/"
+site_url: "https://requisitos-de-software.github.io/2024.2-Sympla/"
 
 theme:
-  name: "material" 
+  name: material 
 
 nav:
   - Home: index.md
