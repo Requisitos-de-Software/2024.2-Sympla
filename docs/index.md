@@ -11,7 +11,7 @@
 
 <p style="text-align: center;">
 
-Bem-vindos, esse é o grupo 3 de Requisitos de Software da Universidade de Brasília(UnB). Neste repositório iremos apresentar todos os nossos artefatos e documententação.
+Bem-vindos, esse é o grupo 8 de Requisitos de Software da Universidade de Brasília(UnB). Neste repositório iremos apresentar todos os nossos artefatos e documententação.
 </p>
 
 ## Sobre o projeto
@@ -39,9 +39,9 @@ Sympla é uma plataforma brasileira de gestão de eventos e venda de ingressos o
 #### Histórico de Versões
 
 
-| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
-|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Criação da página inicial | [Renan Araújo](https://github.com/renantfm4) | 27/10/2024   | [Gabriel Scheidt](https://github.com/Gxaite) |28/10/2024|
-|  1.0   | Revisão da página| [Gabriel Scheidt](https://github.com/Gxaite) | 28/10/2024   |  ||
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
+|  1.0   | Criação da página inicial | [Renan Araújo](https://github.com/renantfm4) | 27/10/2024   | [Gabriel Scheidt](https://github.com/Gxaite) |
+|  1.1   | Revisão da página| [Gabriel Scheidt](https://github.com/Gxaite) | 28/10/2024   | [Renan Araújo](https://github.com/renantfm4)|
 
 

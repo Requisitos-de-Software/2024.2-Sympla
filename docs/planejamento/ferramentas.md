@@ -47,9 +47,9 @@ Para facilitar o gerenciamento e o desenvolvimento da documentação do projeto 
 
 #### **Histórico de Versões**
 
-| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |
-|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Inicío e Adição das ferramentas | [Renan Araújo](https://github.com/renantfm4) | 27/10/2024   | [Gabriel Scheidt](https://github.com/Gxaite)  |28/10/2024|
-|  1.1   | Correção das imagens de ferramentas | [Gabriel Scheidt](https://github.com/Gxaite) | 28/10/2024   | [Victor Hugo](https://github.com/VHbernardes) | 28/10/2024 |
-|  1.2   | Corrigindo as imagens para aparecer | [Victor Hugo](https://github.com/VHbernardes) | 28/10/2024   |  [Renan Araújo](https://github.com/renantfm4) |  28/10/2024 |
-|  1.3   | Corrigindo os links | [Milena Fernandes ](https://github.com/MilenaFRocha) | 28/10/2024   |  [Renan Araújo](https://github.com/renantfm4) |  28/10/2024 |
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
+|  1.0   | Inicío e Adição das ferramentas | [Renan Araújo](https://github.com/renantfm4) | 27/10/2024   | [Gabriel Scheidt](https://github.com/Gxaite)  |
+|  1.1   | Correção das imagens de ferramentas | [Gabriel Scheidt](https://github.com/Gxaite) | 28/10/2024   | [Victor Hugo](https://github.com/VHbernardes) | 
+|  1.2   | Corrigindo as imagens para aparecer | [Victor Hugo](https://github.com/VHbernardes) | 28/10/2024   |  [Renan Araújo](https://github.com/renantfm4) |
+|  1.3   | Corrigindo os links | [Milena Fernandes ](https://github.com/MilenaFRocha) | 28/10/2024   |  [Renan Araújo](https://github.com/renantfm4) |
