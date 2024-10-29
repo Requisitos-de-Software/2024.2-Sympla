@@ -8,7 +8,7 @@ O objetivo dessa página é armazenar o vídeo da apresentação da Primeira Ent
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wvlWso3-FhU?si=VG7jNbKps_YT4NpR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<font size="3"><p style="text-align: center">Fonte: GRUPO 08. Grupo 08 - Sympla - Entrega 1 - Requisitos de Software, 2024/2, UnB. 2024. Disponível em: <a href="https://www.youtube.com/watch?v=wvlWso3-FhU">https://www.youtube.com/watch?v=wvlWso3-FhU</a>. Acesso em: 29 out. 2024.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> GRUPO 08. Grupo 08 - Sympla - Entrega 1 - Requisitos de Software, 2024/2, UnB. 2024. Disponível em: <a href="https://www.youtube.com/watch?v=wvlWso3-FhU">https://www.youtube.com/watch?v=wvlWso3-FhU</a>. Acesso em: 29 out. 2024.</p></font>
 </div>
 
 A apresentação objetiva mostra o que foi feito para a entrega 1, obedecendo aos critérios na Tabela 1 solicitados pelo professor no plano de ensino.
@@ -45,4 +45,6 @@ A apresentação objetiva mostra o que foi feito para a entrega 1, obedecendo ao
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     | 
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
-1.0 | 17/04/2023 | Documentação da apresentação | [Gabriel Scheidt](github.com/Gxaite) | [Victor Hugo](https://github.com/VHbernardes)
+1.0 |  Documentação da apresentação | [Gabriel Scheidt](github.com/Gxaite)| 27/04/2023 | [Victor Hugo](https://github.com/VHbernardes)
+1.1 | Incorporação do vídeo da apresentação | [Rafael Pereira](github.com/rafgpereira) | 29/10/2024 | [Milena Fernandes](https://github.com/MilenaFRocha)
+1.2 | Adição da tabela de critérios da entrega 1 | [Rafael Pereira](github.com/rafgpereira) | 29/10/2024 | [Gabriel Scheidt](github.com/Gxaite)
