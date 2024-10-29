@@ -1,8 +1,42 @@
 site_name: "Grupo 8"
 site_url: "https://requisitos-de-software.github.io/2024.2-Sympla/"
 
+repo_url: "https://github.com/Requisitos-de-Software/2024.2-Sympla/"
+
 theme:
-  name: material 
+  name: 'material'
+  font:
+    text: Open Sans
+  language: pt-BR
+  favicon: assets/sympla.png
+  logo: assets/sympla.png
+  features:
+    - navigation.tabs
+    - content.code.copy
+    - navigation.instant
+    - navigation.instant.progress
+    - toc.integrate
+    - navigation.top
+    - content.tabs.link
+  palette:
+    - scheme: default  # Modo claro
+      primary: 'dark blue'
+      accent: 'light blue'
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - scheme: slate  # Modo escuro
+      primary: 'blue grey'
+      accent: 'cyan'
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+    - scheme: high-contrast  # Modo de alto contraste
+      primary: 'black'
+      accent: 'yellow'
+      toggle:
+        icon: material/weather-cloudy-alert
+        name: Switch to high contrast
 
 nav:
   - Home: index.md
@@ -21,4 +55,4 @@ nav:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/requisitos-de-software
+      link: https://github.com/Requisitos-de-Software/2024.2-Sympla
