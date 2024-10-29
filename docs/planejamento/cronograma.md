@@ -155,7 +155,146 @@ Nesta etapa, são realizadas atividades de elicitação e priorização de requi
 | Ordenação das prioridades de requisitos          | Rafael Pereira   | Victor Hugo     | 19/11   | -       |
 | Preparação final e gravação da apresentação      | Todos            | Gabriel Scheidt | 22/11   | -       |
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> SALES, André Barros de.<b> <a href="https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf">Plano de Ensino - Requisitos de Software</a></b>. p. 4-6.</p></font>
+## Entrega 3 - Modelagem de Requisitos 1
+
+### Planejado
+Na Tabela 5, tem-se o cronograma planejado para todas as atividades da terceira entrega.
+
+<font size="3"><p style="text-align: center"><b>Tabela 5</b> - Modelagem de Requisitos 1</p></font>
+
+| Atividade                                                     	| Período de desenvolvimento 	| Responsáveis                           	| Revisão                 	| Revisores                                  	|
+|---------------------------------------------------------------	|----------------------------	|-----------------------------------------	|-------------------------	|--------------------------------------------	|
+|   Modelagem de Requisitos: Cenários                          	| Início: 27/11<br>Fim: 29/11    	| Victor Hugo e Gabriel Scheidt           	| Início: 29/11 Fim: 29/11 	| Renan Araujo                              	|
+|   Modelagem de Requisitos: Léxico                            	| Início: 27/11<br>Fim: 29/11    	| Milena Fernandes e Rafael Pereira       	| Início: 29/11 Fim: 29/11 	| Gabriel Scheidt e Renan Araujo           	|
+|   Modelagem de Requisitos: Use Case                          	| Início: 30/11<br>Fim: 04/12    	| Victor Hugo e Rafael Pereira            	| Início: 04/12 Fim: 04/12 	| Milena Fernandes                           	|
+|   Modelagem de Requisitos: Especificação Suplementar        	| Início: 30/11<br>Fim: 04/12    	| Rafael Pereira e Gabriel Scheidt        	| Início: 04/12 Fim: 04/12 	| Milena Fernandes                           	|
+|   Gravação da Apresentação e Entrega                        	| Início: 05/12<br>Fim: 07/12    	|  Todos 	| Início: 06/12 Fim: 07/12 	| Todos 	|
+|   Correção pós apresentação                                   	| Início: 08/12<br>Fim: 09/12    	| Todos 	| Início: 08/12<br>Fim: 09/12 	| Todos 	|
+
+<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+
+### Executado
+Na Tabela 6, tem-se o cronograma executado para todas as atividades da terceira entrega.
+
+<font size="3"><p style="text-align: center"><b>Tabela 6</b> - Modelagem de Requisitos 1</p></font>
+
+| Atividade                                                     	| Período de desenvolvimento 	| Responsáveis                           	| Revisão                 	| Revisores                                  	|
+|---------------------------------------------------------------	|----------------------------	|-----------------------------------------	|-------------------------	|--------------------------------------------	|
+|   Modelagem de Requisitos: Cenários                          	| Início: 27/11<br>Fim: 29/11    	| Victor Hugo e Gabriel Scheidt           	| 	|                               	|
+|   Modelagem de Requisitos: Léxico                            	| Início: 27/11<br>Fim: 29/11    	| Milena Fernandes e Rafael Pereira       	|  	|            	|
+|   Modelagem de Requisitos: Use Case                          	| Início: 30/11<br>Fim: 04/12    	| Victor Hugo e Rafael Pereira            	|  	|                            	|
+|   Modelagem de Requisitos: Especificação Suplementar        	| Início: 30/11<br>Fim: 04/12    	| Rafael Pereira e Gabriel Scheidt        	|  	|                           	|
+|   Gravação da Apresentação e Entrega                        	| Início: 05/12<br>Fim: 07/12    	|  Todos 	|  	|  	|
+|   Correção pós apresentação                                   	| Início: 08/12<br>Fim: 09/12    	| Todos 	|  	|  	|
+
+<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+
+## Entrega 4 - Modelagem de Requisitos 1.2
+
+### Planejado
+Na Tabela 7, tem-se o cronograma planejado para todas as atividades da quarta entrega.
+
+<font size="3"><p style="text-align: center"><b>Tabela 7</b> - Modelagem de Requisitos 1.2</p></font>
+
+| Atividade                                                            	| Período de desenvolvimento 	| Responsáveis                      	| Revisão                 	| Revisores        	|
+|----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
+|   Modelagem de Requisitos - Ágil: NFR Framework                     	| Início: 10/12<br>Fim: 11/12    	| Victor Hugo e Milena Fernandes        	| Início: 11/12 Fim: 12/12 	| Rafael Pereira   	|
+|   Modelagem de Requisitos - Ágil: Backlogs                          	| Início: 11/12<br>Fim: 12/12    	| Gabriel Scheidt e Renan Araujo      	| Início: 12/12 Fim: 12/12 	| Victor Hugo      	|
+|   Modelagem de Requisitos - Ágil: Histórias de Usuário             	| Início: 13/12<br>Fim: 14/12    	| Milena Fernandes e Rafael Pereira    	| Início: 14/12 Fim: 14/12 	| Gabriel Scheidt  	|
+|   Gravação da Apresentação e Entrega                                	| Início: 14/12<br>Fim: 15/12    	| Todos	| Início: 15/12 Fim: 15/12 	| Todos 	|
+|   Correção pós apresentação                                            | Início: 16/12<br>Fim: 18/12    	| Todos 	| Início: 18/12<br>Fim: 20/12 	| Todos 	|
+
+<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+
+### Executado
+Na Tabela 8, tem-se o cronograma executado para todas as atividades da quarta entrega.
+
+<font size="3"><p style="text-align: center"><b>Tabela 8</b> - Modelagem de Requisitos 1.2</p></font>
+
+| Atividade                                                            	| Período de desenvolvimento 	| Responsáveis                      	| Revisão                 	| Revisores        	|
+|----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
+|   Modelagem de Requisitos - Ágil: NFR Framework                     	| Início: 10/12<br>Fim: 11/12    	| Victor Hugo e Milena Fernandes        	|  	|    	|
+|   Modelagem de Requisitos - Ágil: Backlogs                          	| Início: 11/12<br>Fim: 12/12    	| Gabriel Scheidt e Renan Araujo      	|  	|       	|
+|   Modelagem de Requisitos - Ágil: Histórias de Usuário             	| Início: 13/12<br>Fim: 14/12    	| Milena Fernandes e Rafael Pereira    	|  	|   	|
+|   Gravação da Apresentação e Entrega                                	| Início: 14/12<br>Fim: 15/12    	| Todos 	|  	|  	|
+|   Correção pós apresentação                                            | Início: 16/12<br>Fim: 18/12    	| Todos 	|  	|  	|
+
+<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+
+## Entrega 5 - Análise de Requisitos: Verificação e Validação 
+
+### Planejado
+Na Tabela 9, tem-se o cronograma planejado para todas as atividades da entrega 5.
+
+<font size="3"><p style="text-align: center"><b>Tabela 9</b> - Análise de Requisitos 1</p></font>
+
+| Atividade                                                            	| Período de desenvolvimento 	| Responsáveis                      	| Revisão                 	| Revisores        	|
+|----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
+|   Verificação por inspeção de todos os artefatos              	| Início: 21/01<br>Fim: 23/01    	| Victor Hugo, Milena Fernandes, Rafael Pereira e Gabriel Scheidt 	| Início: 23/01 Fim: 25/01 	| Renan Araujo     	|
+|   Validação: Prototipação e Comprovação Informal            	| Início: 23/01<br>Fim: 25/01    	| Milena Fernandes, Rafael Pereira e Renan Araujo          	| Início: 25/01 Fim: 27/01 	| Gabriel Scheidt  	|
+|   Gravação da Apresentação e Entrega                        	| Início: 27/01<br>Fim: 29/01    	| Todos 	| Início: 30/01 Fim: 31/01 	| Todos 	|
+|   Correção pós apresentação	| Início: 31/01<br>Fim: 02/02 	| Todos 	| Início: 02/02<br>Fim: 04/02 	| Todos 	|
+
+<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+
+### Executado
+Na Tabela 10, tem-se o cronograma executado para todas as atividades da entrega 5.
+
+<font size="3"><p style="text-align: center"><b>Tabela 10</b> - Análise de Requisitos 1</p></font>
+
+| Atividade                                                            	| Período de desenvolvimento 	| Responsáveis                      	| Revisão                 	| Revisores        	|
+|----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
+|   Verificação por inspeção de todos os artefatos              	| Início: 21/01<br>Fim: 23/01    	| Victor Hugo, Milena Fernandes, Rafael Pereira e Gabriel Scheidt 	|  	|      	|
+|   Validação: Prototipação e Comprovação Informal            	| Início: 23/01<br>Fim: 25/01    	| Milena Fernandes, Rafael Pereira e Renan Araujo          	|  	|   	|
+|   Gravação da Apresentação e Entrega                        	| Início: 27/01<br>Fim: 29/01    	| Todos 	|  	|  	|
+|   Correção pós apresentação	| Início: 31/01<br>Fim: 02/02 	| Todos 	|  	|  	|
+
+<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+
+## Entrega 6 - Pós-Rastreabilidade
+
+### Planejado
+Na Tabela 11, tem-se o cronograma planejado para todas as atividades da sexta entrega.
+
+<font size="3"><p style="text-align: center"><b>Tabela 11</b> - Pós-Rastreabilidade.</p></font>
+
+| Atividade                                                            	| Período de desenvolvimento 	| Responsáveis                      	| Revisão                 	| Revisores        	|
+|----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
+|   Pós-rastreabilidade: Backward-form                        	| Início: 17/12<br>Fim: 05/01    	| Victor Hugo, Milena Fernandes e Rafael Pereira         	| Início: 05/01 Fim: 07/01 	| Gabriel Scheidt e Renan Araujo 	|
+|   Pós-rastreabilidade: Forward-form                         	| Início: 06/01<br>Fim: 17/01    	| Matheus, Gabriel, Renan Araujo e Arthur  	| Início: 17/01 Fim: 19/01 	| Sidney e Victor Hugo 	|
+|   Gravação da Apresentação e Entrega                        	| Início: 18/01<br>Fim: 19/01    	| Todos                             	| Início: 19/01 Fim: 21/01 	| Todos 	|
+|   Correção pós apresentação	| Início: 21/01<br>Fim: 23/01 	| Todos 	| Início: 23/01<br>Fim: 25/01 	| Todos 	|
+
+<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+
+## Entrega Final 
+
+### Planejado
+Na Tabela 12, tem-se o cronograma planejado para todas as atividades da última entrega.
+
+<font size="3"><p style="text-align: center"><b>Tabela 12</b> - Entrega Final</p></font>
+
+| Atividade                                                            	| Período de desenvolvimento 	| Responsáveis                      	| Revisão                 	| Revisores        	|
+|----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
+|   Desenvolvimento do projeto final (correção e complemento) 	| Início: 21/01<br>Fim: 05/02    	| Todos                             	| Início: 30/01 Fim: 02/02 	| Rafael e Renan Araujo  	|
+|   Gravação da Apresentação e Entrega                        	| Início: 08/02<br>Fim: 09/02    	| Todos                             	| Início: 04/02 Fim: 05/02 	| Todos            	|
+|   Correção pós apresentação	| Início: 09/02<br>Fim: 11/02 	| Todos 	| Início: 10/02<br>Fim: 11/02 	| Todos 	|
+
+<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+
+### Executado
+Na Tabela 13, tem-se o cronograma executado para todas as atividades da última entrega.
+
+<font size="3"><p style="text-align: center"><b>Tabela 13</b> - Entrega Final</p></font>
+
+| Atividade                                                            	| Período de desenvolvimento 	| Responsáveis                      	| Revisão                 	| Revisores        	|
+|----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
+|   Desenvolvimento do projeto final (correção e complemento) 	| Início: 21/01<br>Fim: 05/02    	| Todos                             	|  	|   	|
+|   Gravação da Apresentação e Entrega                        	| Início: 08/02<br>Fim: 09/02    	| Todos                             	| 	|             	|
+|   Correção pós apresentação	| Início: 09/02<br>Fim: 11/02 	| Todos 	|  	|  	|
+
+<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+
 
 ## Histórico de Versão
 
