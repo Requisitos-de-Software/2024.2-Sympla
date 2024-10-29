@@ -3,7 +3,7 @@
 
 ## **Cronograma geral de entregas**
 
-Este cronograma organiza as entregas principais previstas, até a conclusão do projeto, resumindo-as.
+Este cronograma organiza as entregas principais previstas, até a conclusão do projeto, resumindo-as.Pode ser vizualizado abaixo na tabela 1.
 
 <div align="center">
 <font size="3"><p style="text-align: center">
@@ -72,9 +72,9 @@ Este cronograma organiza as entregas principais previstas, até a conclusão do 
 ## Entrega 1 - Planejamento do Projeto
 
 ### Planejado
-Na Tabela 1, tem-se o cronograma planejado para todas as atividades da primeira entrega.
+Na Tabela 2, tem-se o cronograma planejado para todas as atividades da primeira entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Planejamento do Projeto</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Primeira entrega planejado</p></font>
 
 | Atividade                                      	| Período de desenvolvimento 	| Responsáveis               	| Revisão                  	| Revisores        	|
 |------------------------------------------------	|----------------------------	|----------------------------	|--------------------------	|------------------	|
@@ -89,12 +89,12 @@ Na Tabela 1, tem-se o cronograma planejado para todas as atividades da primeira 
 |    Implementar Git Page              	| Início: 24/10 <br>Fim: 26/10     	| Victor Hugo                       	|Início: 27/10<br> Fim: 28/10 	| Rafael           	|
 |   Correção pós apresentação	| Início: 31/10<br>Fim: 02/11 	| Milena, Gabriel, Renan, Victor Hugo e Rafael 	| Início: 21/04<br>Fim: 23/04 	|Renan	|
 
-<font size="3"><p style="text-align: center">Fonte: Milena.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> SALES, André Barros de.<b> <a href="https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf">Plano de Ensino - Requisitos de Software</a></b>. p. 4-6.</p></font>
 
 ### Executado
-Na Tabela 2, está explicitado o cronograma executado das atividades da primeira entrega.
+Na Tabela 3, está explicitado o cronograma executado das atividades da primeira entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Planejamento do Projeto</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Primeira entrega executadi</p></font>
 
 | Atividade                                      	| Período de desenvolvimento 	| Responsáveis               	| Revisão                  	| Revisores        	|
 |------------------------------------------------	|----------------------------	|----------------------------	|--------------------------	|------------------	|
@@ -109,7 +109,7 @@ Na Tabela 2, está explicitado o cronograma executado das atividades da primeira
 |    Implementar Git Page              	| Início: 24/10 <br>Fim: 26/10     	| Victor Hugo                       	|Início: 27/10<br> Fim: 28/10 	| Rafael           	|
 |   Correção pós apresentação	|  	|  	|  	|	|
 
-<font size="3"><p style="text-align: center">Fonte: Milena.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> SALES, André Barros de.<b> <a href="https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf">Plano de Ensino - Requisitos de Software</a></b>. p. 4-6.</p></font>
 
 
 
@@ -117,9 +117,10 @@ Na Tabela 2, está explicitado o cronograma executado das atividades da primeira
 
 ## Cronograma de Entrega 2 - Elicitação
 
-Nesta etapa, são realizadas atividades de elicitação e priorização de requisitos, utilizando diferentes métodos para definir de forma clara os perfis de usuário e as principais demandas do projeto. Esta fase é essencial para assegurar que todos os requisitos críticos sejam registrados de maneira estruturada.
+Nesta etapa, são realizadas atividades de elicitação e priorização de requisitos, utilizando diferentes métodos para definir de forma clara os perfis de usuário e as principais demandas do projeto. Esta fase é essencial para assegurar que todos os requisitos críticos sejam registrados de maneira estruturada. O cronograma pode ser visto abaixo na tabela 4.
 
 ### Cronograma Planejado
+<font size="3"><p style="text-align: center"><b>Tabela 4</b> - Segunda entrega planejado</p></font>
 
 | Etapa                                            | Responsável      | Revisor         | Início  | Término |
 |--------------------------------------------------|------------------|-----------------|---------|---------|
@@ -134,7 +135,12 @@ Nesta etapa, são realizadas atividades de elicitação e priorização de requi
 | Ordenação das prioridades de requisitos          | Rafael Pereira   | Victor Hugo     | 19/11   | 21/11   |
 | Preparação final e gravação da apresentação      | Todos            | Gabriel Scheidt | 22/11   | 23/11   |
 
+<font size="3"><p style="text-align: center"><b>Fonte:</b> SALES, André Barros de.<b> <a href="https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf">Plano de Ensino - Requisitos de Software</a></b>. p. 4-6.</p></font>
+
 ### Cronograma Executado
+
+<font size="3"><p style="text-align: center"><b>Tabela 5</b> - Segunda entrega executado</p></font>
+
 
 | Etapa                                            | Responsável      | Revisor         | Início  | Término |
 |--------------------------------------------------|------------------|-----------------|---------|---------|
@@ -298,6 +304,7 @@ Na Tabela 13, tem-se o cronograma executado para todas as atividades da última 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação do documento |  [Rafael Pereira](https://github.com/rafgpereira) | 28/10/2024   | [Milena Fernandes](https://github.com/usuario_milena) |  |
-|  1.1   | Criação cronograma 2ª etapa |  [Gabriel Scheidt](https://github.com/) | 28/10/2024   | [Milena Fernandes](https://github.com/usuario_milena) |  |
+|  1.1   | Criação cronograma 1ª etapa |  [Milena Fernandes](https://github.com/usuario_milena)  | 28/10/2024   | [Gabriel Scheidt](https://github.com/) |  |
+|  1.2   | Criação cronograma 2ª etapa |  [Gabriel Scheidt](https://github.com/) | 28/10/2024   | [Victor Hugo](https://github.com/VHbernardes) |  |
 
 </center>
