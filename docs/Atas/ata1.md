@@ -57,4 +57,4 @@ Após a escolha do aplicativo, as seguintes tarefas foram atribuídas aos membro
 
 | Versão |          Descrição               |        Autor       |      Data      |      Revisor      |
 |:------:|:--------------------------------:|:------------------:|:--------------:|:-----------------:|
-|  1.0   | Criação da primeira ata de reunião | Gabriel Scheidt   | 28/10/2024    |
+|  1.0   | Criação da primeira ata de reunião | [Gabriel Scheidt](https://github.com/Gxaite)   | 28/10/2024    | [Rafael Pereira](https://github.com/rafgpereira) |
