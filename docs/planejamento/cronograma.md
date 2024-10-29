@@ -162,10 +162,10 @@ Nesta etapa, são realizadas atividades de elicitação e priorização de requi
 <center>
 
 
-| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |
-|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Criação do documento |  [Rafael Pereira](https://github.com/rafgpereira) | 28/10/2024   | [Milena Fernandes](https://github.com/usuario_milena) |  |
-|  1.1   | Criação cronograma 1ª etapa |  [Milena Fernandes](https://github.com/usuario_milena)  | 28/10/2024   | [Gabriel Scheidt](https://github.com/) |  |
-|  1.2   | Criação cronograma 2ª etapa |  [Gabriel Scheidt](https://github.com/) | 28/10/2024   | [Victor Hugo](https://github.com/VHbernardes) |  |
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
+|  1.0   | Criação do documento |  [Rafael Pereira](https://github.com/rafgpereira) | 28/10/2024   | [Milena Fernandes](https://github.com/usuario_milena) |
+|  1.1   | Criação cronograma 1ª etapa |  [Milena Fernandes](https://github.com/usuario_milena)  | 28/10/2024   | [Gabriel Scheidt](https://github.com/) |
+|  1.2   | Criação cronograma 2ª etapa |  [Gabriel Scheidt](https://github.com/) | 28/10/2024   | [Victor Hugo](https://github.com/VHbernardes) |
 
 </center>

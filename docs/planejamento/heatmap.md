@@ -37,7 +37,7 @@ O uso de heatmaps para análise de dados é particularmente eficaz em projetos c
 
 ### Histórico de Versões
 
-| Versão |          Descrição               |        Autor       |      Data      |      Revisor      |   Data de Revisão   |  
-|:------:|:--------------------------------:|:------------------:|:--------------:|:-----------------:|:-------------------:|
+| Versão |          Descrição               |        Autor       |      Data      |      Revisor | 
+|:------:|:--------------------------------:|:------------------:|:--------------:|:-----------------:|
 |  1.0   | Criação da primeira ata de reunião | [Gabriel Scheidt](Gxaite)   | 28/10/2024    |[MilenaFRocha](MilenaFRocha) | 28/10/2024|
 |  1.1   | Correção para paronizar | [MilenaFRocha](MilenaFRocha)   | 28/10/2024    | |

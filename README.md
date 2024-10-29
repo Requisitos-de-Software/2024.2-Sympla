@@ -28,7 +28,7 @@ Sympla é uma plataforma brasileira de gestão de eventos e venda de ingressos o
 
 ## Histórico de Versão
 
-| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
-|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Criação do documento | [Renan Araújo](https://github.com/renantfm4) | 27/10/2024   | [Gabriel Scheidt](https://github.com/Gxaite) ||
-|  1.1   | Revisão | [Gabriel Scheidt](https://github.com/Gxaite) | 27/10/2024   | |
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     | 
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
+|  1.0   | Criação do documento | [Renan Araújo](https://github.com/renantfm4) | 27/10/2024   | [Gabriel Scheidt](https://github.com/Gxaite) |
+|  1.1   | Revisão | [Gabriel Scheidt](https://github.com/Gxaite) |[Victor Hugo](https://github.com/VHbernardes)|

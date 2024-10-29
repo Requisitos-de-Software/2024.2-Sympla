@@ -27,6 +27,6 @@ Foi utilizado a aplicação do Canva para elaborar tanto o richpicture quanto su
 
 ## Histórico de Versões
 
-| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
-|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Criação desse documento | [Victor Hugo](https://github.com/VHbernardes) | 28/10/2024   | [Milena Fernandes](https://github.com/MilenaFRocha)  |28/10/2024 |
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     | 
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
+|  1.0   | Criação desse documento | [Victor Hugo](https://github.com/VHbernardes) | 28/10/2024 | [Milena Fernandes](https://github.com/MilenaFRocha)  |

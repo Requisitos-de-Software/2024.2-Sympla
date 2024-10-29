@@ -55,6 +55,6 @@ Após a escolha do aplicativo, as seguintes tarefas foram atribuídas aos membro
 
 ### Histórico de Versões
 
-| Versão |          Descrição               |        Autor       |      Data      |      Revisor      |   Data de Revisão   |  
-|:------:|:--------------------------------:|:------------------:|:--------------:|:-----------------:|:-------------------:|
-|  1.0   | Criação da primeira ata de reunião | Gabriel Scheidt   | 28/10/2024    |        -          |         -          |
+| Versão |          Descrição               |        Autor       |      Data      |      Revisor      |
+|:------:|:--------------------------------:|:------------------:|:--------------:|:-----------------:|
+|  1.0   | Criação da primeira ata de reunião | Gabriel Scheidt   | 28/10/2024    |        -          |
