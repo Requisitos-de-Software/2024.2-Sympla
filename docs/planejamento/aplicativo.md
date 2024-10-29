@@ -99,7 +99,7 @@ Os principais motivos dessa escolha são:
 <center>
 
 
-| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação do documento |  [Milena Fernandes](https://github.com/usuario_milena) | 27/10/2024   | [Rafael Pereira](https://github.com/rafgpereira) |
 |  1.1   | Adição da descrição do Querido Diário |  [Rafael Pereira](https://github.com/rafgpereira) | 28/10/2024   | [Milena Fernandes](https://github.com/usuario_milena) |
