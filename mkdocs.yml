@@ -8,7 +8,8 @@ nav:
   - Home: index.md
   - Atas:
     - Ata 1º reunião: Atas/ata1.md
-  - Planejamento: 
+  - Planejamento:
+    - Cronograma de Atividades: planejamento/cronograma.md
     - Ferramentas: planejamento/ferramentas.md
     - Aplicativos Avaliados: planejamento/aplicativo.md
     - HeatMap: planejamento/heatmap.md
