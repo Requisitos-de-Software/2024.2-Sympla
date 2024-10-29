@@ -70,6 +70,43 @@ Este cronograma organiza as entregas principais previstas, até a conclusão do 
 
 
 
+
+## Cronograma de Entrega 2 - Elicitação
+
+Nesta etapa, são realizadas atividades de elicitação e priorização de requisitos, utilizando diferentes métodos para definir de forma clara os perfis de usuário e as principais demandas do projeto. Esta fase é essencial para assegurar que todos os requisitos críticos sejam registrados de maneira estruturada.
+
+### Cronograma Planejado
+
+| Etapa                                            | Responsável      | Revisor         | Início  | Término |
+|--------------------------------------------------|------------------|-----------------|---------|---------|
+| Levantamento inicial para definição de perfis    | Victor Hugo      | Gabriel Scheidt | 01/11   | 03/11   |
+| Criação e detalhamento dos perfis de usuários    | Victor Hugo      | Milena Rocha    | 03/11   | 04/11   |
+| Estudo das técnicas para elicitação de requisitos| Milena Rocha     | Gabriel Scheidt | 03/11   | 07/11   |
+| Seleção das metodologias aplicáveis              | Milena Rocha     | Rafael Pereira  | 07/11   | 08/11   |
+| Análise reflexiva para identificação de requisitos| Gabriel Scheidt | Victor Hugo     | 09/11   | 11/11   |
+| Elaboração de formulários e questionários        | Rafael Pereira   | Renan Araujo    | 11/11   | 13/11   |
+| Realização de entrevistas de coleta de requisitos| Renan Araujo     | Milena Rocha    | 13/11   | 14/11   |
+| Sessão colaborativa para geração de ideias       | Gabriel Scheidt  | Victor Hugo     | 15/11   | 18/11   |
+| Ordenação das prioridades de requisitos          | Rafael Pereira   | Victor Hugo     | 19/11   | 21/11   |
+| Preparação final e gravação da apresentação      | Todos            | Gabriel Scheidt | 22/11   | 23/11   |
+
+### Cronograma Executado
+
+| Etapa                                            | Responsável      | Revisor         | Início  | Término |
+|--------------------------------------------------|------------------|-----------------|---------|---------|
+| Levantamento inicial para definição de perfis    | Victor Hugo      | Gabriel Scheidt | 01/11   | -       |
+| Criação e detalhamento dos perfis de usuários    | Victor Hugo      | Milena Rocha    | 03/11   | -       |
+| Estudo das técnicas para elicitação de requisitos| Milena Rocha     | Gabriel Scheidt | 03/11   | -       |
+| Seleção das metodologias aplicáveis              | Milena Rocha     | Rafael Pereira  | 07/11   | -       |
+| Análise reflexiva para identificação de requisitos| Gabriel Scheidt | Victor Hugo     | 09/11   | -       |
+| Elaboração de formulários e questionários        | Rafael Pereira   | Renan Araujo    | 11/11   | -       |
+| Realização de entrevistas de coleta de requisitos| Renan Araujo     | Milena Rocha    | 13/11   | -       |
+| Sessão colaborativa para geração de ideias       | Gabriel Scheidt  | Victor Hugo     | 15/11   | -       |
+| Ordenação das prioridades de requisitos          | Rafael Pereira   | Victor Hugo     | 19/11   | -       |
+| Preparação final e gravação da apresentação      | Todos            | Gabriel Scheidt | 22/11   | -       |
+
+
+
 ## Histórico de Versão
 
 <center>
@@ -78,5 +115,6 @@ Este cronograma organiza as entregas principais previstas, até a conclusão do 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação do documento |  [Rafael Pereira](https://github.com/rafgpereira) | 28/10/2024   | [Milena Fernandes](https://github.com/usuario_milena) |  |
+|  1.1   | Criação cronograma 2ª etapa |  [Gabriel Scheidt](https://github.com/) | 28/10/2024   | [Milena Fernandes](https://github.com/usuario_milena) |  |
 
 </center>
