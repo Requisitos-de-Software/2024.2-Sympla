@@ -11,7 +11,7 @@
 
 <p style="text-align: center;">
 
-Bem-vindos, esse é o grupo 3 de Requisitos de Software da Universidade de Brasília(UnB). Neste repositório iremos apresentar todos os nossos artefatos e documententação.
+Bem-vindos, esse é o grupo 8 de Requisitos de Software da Universidade de Brasília(UnB). Neste repositório iremos apresentar todos os nossos artefatos e documententação.
 </p>
 
 ## Sobre o projeto
