@@ -1,3 +1,5 @@
+# HeatMap
+## Introdução
 As reuniões do projeto foram programadas para ocorrer semanalmente às segundas-feiras, no horário das 19h às 20h. Esse horário foi escolhido com base em uma análise da disponibilidade dos membros da equipe, que permitiu identificar o melhor momento para que todos pudessem participar ativamente. Essa análise de disponibilidade foi visualizada por meio de um **heatmap**, uma ferramenta visual que facilita a compreensão das preferências e disponibilidades dos integrantes ao representar dados em uma matriz de cores.
 
 ### Função do Heatmap
@@ -38,3 +40,4 @@ O uso de heatmaps para análise de dados é particularmente eficaz em projetos c
 | Versão |          Descrição               |        Autor       |      Data      |      Revisor      |   Data de Revisão   |  
 |:------:|:--------------------------------:|:------------------:|:--------------:|:-----------------:|:-------------------:|
 |  1.0   | Criação da primeira ata de reunião | [Gabriel Scheidt](Gxaite)   | 28/10/2024    |[MilenaFRocha](MilenaFRocha) | 28/10/2024|
+|  1.1   | Correção para paronizar | [MilenaFRocha](MilenaFRocha)   | 28/10/2024    | |
