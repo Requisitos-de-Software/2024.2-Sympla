@@ -23,7 +23,7 @@ A apresentação objetiva mostra o que foi feito para a entrega 1, obedecendo ao
 | 4 - O cronograma prevê um período de revisão/ajustes nos artefatos devidos as considerações dos monitores/professor? | Sim | 1.0 | 29/10/2024 |
 | 5 - A motivação e os critérios para a escolha do App? | Sim | 1.0 | 29/10/2024 |
 | 6 - Cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo permitindo o estudo na disciplina. | Sim | 1.0 | 29/10/2024 |
-| 7 - Possui opção de contraste de cores? | Não | 1.0 | 29/10/2024 |
+| 7 - Possui opção de contraste de cores? | Sim | 1.1 | 29/10/2024 |
 | 8 - O histórico de versão padronizado? | Sim | 1.0 | 29/10/2024 |
 | 9 – O(s) autor(es) e o(s) revisor(es) para cada artefato? | Sim | 1.0 | 29/10/2024 |
 | 10 - Referências bibliográficas e/ou bibliografia em todos os artefatos? | Incompleto | 1.0 | 29/10/2024 |
@@ -47,4 +47,5 @@ A apresentação objetiva mostra o que foi feito para a entrega 1, obedecendo ao
 1.0 |  Documentação da apresentação | [Gabriel Scheidt](https://github.com/Gxaite)| 27/04/2023 | [Victor Hugo](https://github.com/VHbernardes)
 1.1 | Incorporação do vídeo da apresentação | [Rafael Pereira](https://github.com/rafgpereira) | 29/10/2024 | [Milena Fernandes](https://github.com/MilenaFRocha)
 1.2 | Adição da tabela de critérios da entrega 1 | [Rafael Pereira](https://github.com/rafgpereira) | 29/10/2024 | [Gabriel Scheidt](https://github.com/Gxaite)
-1.2 | Avaliação dos critérios da entrega 1 (v1.0) | [Rafael Pereira](https://github.com/rafgpereira) | 29/10/2024 | [Renan Araújo](https://github.com/renantfm4)
+1.3 | Avaliação dos critérios da entrega 1 (v1.0) | [Rafael Pereira](https://github.com/rafgpereira) | 29/10/2024 | [Renan Araújo](https://github.com/renantfm4)
+1.4 | Adição do contraste de cores | [Rafael Pereira](https://github.com/rafgpereira) | 29/10/2024 | [Milena Fernandes](https://github.com/MilenaFRocha)
