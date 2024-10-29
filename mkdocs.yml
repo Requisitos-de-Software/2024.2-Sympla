@@ -15,9 +15,6 @@ theme:
     - content.code.copy
     - navigation.instant
     - navigation.instant.progress
-    - toc.integrate
-    - navigation.top
-    - content.tabs.link
   palette:
     - scheme: default  # Modo claro
       primary: 'dark blue'
