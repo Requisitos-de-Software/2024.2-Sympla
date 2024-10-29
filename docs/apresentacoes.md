@@ -3,14 +3,15 @@
 O objetivo dessa página é armazenar o vídeo da apresentação da Primeira Entrega. Se não for possível acessar o vídeo pela própria página, clique no link correspondente.
 
 ## Apresentação 1
-<p style="text-align: center"><a href="" target="blanket">Clique aqui</a></p>
+<div style="text-align: center">
+<p ><a href="https://www.youtube.com/embed/wvlWso3-FhU?si=VG7jNbKps_YT4NpR" target="blanket">Clique aqui</a></p>
 
-<p style="text-align: center"><iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wvlWso3-FhU?si=VG7jNbKps_YT4NpR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+<font size="3"><p style="text-align: center">Fonte: GRUPO 08. Grupo 08 - Sympla - Entrega 1 - Requisitos de Software, 2024/2, UnB. 2024. Disponível em: <a href="https://www.youtube.com/watch?v=wvlWso3-FhU">https://www.youtube.com/watch?v=wvlWso3-FhU</a>. Acesso em: 29 out. 2024.</p></font>
+</div>
 
-
-A apresentação objetiva mostrar o que foi feito para a entrega 1, obedecendo aos critérios na Tabela 1 solicitados pelo professor no plano de ensino.
+A apresentação objetiva mostra o que foi feito para a entrega 1, obedecendo aos critérios na Tabela 1 solicitados pelo professor no plano de ensino.
 
 <font size="3"><p style="text-align: center">Tabela 1: Critérios para a Entrega 1</p></font>
 
