@@ -1,6 +1,6 @@
 # Ferramentas 
 
-## **Introdução**
+## Introdução
 
 Para facilitar o gerenciamento e o desenvolvimento da documentação do projeto da disciplina, foram selecionadas algumas ferramentas para ajudar nesse auxilio, elas estão apresentadas na Tabela 1. 
 
