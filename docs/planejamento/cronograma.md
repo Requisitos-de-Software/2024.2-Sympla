@@ -69,6 +69,50 @@ Este cronograma organiza as entregas principais previstas, até a conclusão do 
 </div>
 
 
+## Entrega 1 - Planejamento do Projeto
+
+### Planejado
+Na Tabela 1, tem-se o cronograma planejado para todas as atividades da primeira entrega.
+
+<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Planejamento do Projeto</p></font>
+
+| Atividade                                      	| Período de desenvolvimento 	| Responsáveis               	| Revisão                  	| Revisores        	|
+|------------------------------------------------	|----------------------------	|----------------------------	|--------------------------	|------------------	|
+|   Planejamento do Projeto                     	| Início: 24/10 <br>Fim: 24/10   	| Milena, Gabriel, Renan, Victor Hugo e Rafael 	| Início: 24/10<br>Fim: 24/10  	| Victor Hugo 	|
+|   Selecionar app                      	| Início: 26/10 <br>Fim: 26/10    	| Milena, Gabriel, Renan, Victor Hugo e Rafael 	| Início: 27/10 <br>Fim: 28/10  	| Victor Hugo 	|
+|   Selecionar ferramentas do projeto   	| Início: 24/10 <br>Fim: 26/10    	| Milena e Rafael 	| Início: 27/10<br> Fim: 28/10  	| Gabriel e Renan 	|
+|   Realização do cronograma            	| Início: 25/10 <br>Fim: 27/10    	| Milena, Gabriel, Renan, Victor Hugo e Rafael 	| Início: 27/10<br> Fim: 28/10  	| Rafael         	|
+|   Lista de app analisados             	| Início: 24/10 <br>Fim: 26/10    	| Milena, Gabriel, Renan, Victor Hugo e Rafael 	| Início: 27/10 <br>Fim: 28/10  	| Victor Hugo 	|
+|   Rich Picture                        	| Início: 26/10 <br>Fim: 27/10    	| Victor Hugo         	| Início: 27/10 <br>Fim: 28/10  	| Milena           	|
+|   Documentar Equipe                   	| Início: 24/10 <br>Fim: 27/10    	| Renan                    	|  Início: 27/10 <br>Fim: 28/10    	| Gabriel          	|
+|   Gravar apresentação                 	| Início: 28/10 <br>Fim: 28/10    	| Gabriel                    	| Início: 29/10 <br>Fim: 29/10  	| Renan           	|
+|    Implementar Git Page              	| Início: 24/10 <br>Fim: 26/10     	| Victor Hugo                       	|Início: 27/10<br> Fim: 28/10 	| Rafael           	|
+|   Correção pós apresentação	| Início: 31/10<br>Fim: 02/11 	| Milena, Gabriel, Renan, Victor Hugo e Rafael 	| Início: 21/04<br>Fim: 23/04 	|Renan	|
+
+<font size="3"><p style="text-align: center">Fonte: Milena.</p></font>
+
+### Executado
+Na Tabela 2, está explicitado o cronograma executado das atividades da primeira entrega.
+
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Planejamento do Projeto</p></font>
+
+| Atividade                                      	| Período de desenvolvimento 	| Responsáveis               	| Revisão                  	| Revisores        	|
+|------------------------------------------------	|----------------------------	|----------------------------	|--------------------------	|------------------	|
+|   Planejamento do Projeto                     	| Início: 24/10 <br>Fim: 24/10   	| Milena, Gabriel, Renan, Victor Hugo e Rafael 	| Início: 24/10<br>Fim: 24/10  	| Victor Hugo 	|
+|   Selecionar app                      	| Início: 26/10 <br>Fim: 26/10    	| Milena, Gabriel, Renan, Victor Hugo e Rafael 	| Início: 27/10 <br>Fim: 28/10  	| Victor Hugo 	|
+|   Selecionar ferramentas do projeto   	| Início: 24/10 <br>Fim: 26/10    	| Milena e Rafael 	| Início: 27/10<br> Fim: 28/10  	| Gabriel e Renan 	|
+|   Realização do cronograma            	| Início: 25/10 <br>Fim: 28/10    	| Milena, Gabriel, Renan, Victor Hugo e Rafael 	| Início: 28/10<br> Fim: 28/10  	| Rafael         	|
+|   Lista de app analisados             	| Início: 24/10 <br>Fim: 26/10    	| Milena, Gabriel, Renan, Victor Hugo e Rafael 	| Início: 27/10 <br>Fim: 28/10  	| Victor Hugo 	|
+|   Rich Picture                        	| Início: 26/10 <br>Fim: 27/10    	| Victor Hugo         	| Início: 27/10 <br>Fim: 28/10  	| Milena           	|
+|   Documentar Equipe                   	| Início: 24/10 <br>Fim: 27/10    	| Renan                    	|  Início: 27/10 <br>Fim: 28/10    	| Gabriel          	|
+|   Gravar apresentação                 	| Início: 28/10 <br>Fim: 28/10    	| Gabriel                    	| Início: 29/10 <br>Fim: 29/10  	| Renan           	|
+|    Implementar Git Page              	| Início: 24/10 <br>Fim: 26/10     	| Victor Hugo                       	|Início: 27/10<br> Fim: 28/10 	| Rafael           	|
+|   Correção pós apresentação	|  	|  	|  	|	|
+
+<font size="3"><p style="text-align: center">Fonte: Milena.</p></font>
+
+
+
 
 
 ## Cronograma de Entrega 2 - Elicitação
