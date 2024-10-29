@@ -303,11 +303,11 @@ Na Tabela 14, tem-se o cronograma executado para todas as atividades da última 
 <center>
 
 
-| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |
-|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Criação do documento |  [Rafael Pereira](https://github.com/rafgpereira) | 28/10/2024   | [Milena Fernandes](https://github.com/usuario_milena) |  |
-|  1.1   | Criação cronograma 1ª etapa |  [Milena Fernandes](https://github.com/usuario_milena)  | 28/10/2024   | [Gabriel Scheidt](https://github.com/) |  |
-|  1.2   | Criação cronograma 2ª etapa |  [Gabriel Scheidt](https://github.com/) | 28/10/2024   | [Victor Hugo](https://github.com/VHbernardes) |  |
-|  1.3  | Criação dos cronogramas restantes |  [Victor Hugo](https://github.com/VHbernardes) | 28/10/2024   | [Gabriel Scheidt](https://github.com/) |  |
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
+|  1.0   | Criação do documento |  [Rafael Pereira](https://github.com/rafgpereira) | 28/10/2024   | [Milena Fernandes](https://github.com/usuario_milena) |
+|  1.1   | Criação cronograma 1ª etapa |  [Milena Fernandes](https://github.com/usuario_milena)  | 28/10/2024   | [Gabriel Scheidt](https://github.com/Gxaite) |
+|  1.2   | Criação cronograma 2ª etapa |  [Gabriel Scheidt](https://github.com/Gxaite) | 28/10/2024   | [Victor Hugo](https://github.com/VHbernardes) |
+|  1.3  | Criação dos cronogramas restantes |  [Victor Hugo](https://github.com/VHbernardes) | 28/10/2024   | [Gabriel Scheidt](https://github.com/Gxaite) |
 
 </center>
