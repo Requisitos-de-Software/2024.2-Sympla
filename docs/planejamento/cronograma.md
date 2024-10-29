@@ -86,6 +86,8 @@ Na Tabela 2, tem-se o cronograma planejado para todas as atividades da primeira 
 |   Rich Picture                        	| Início: 26/10 <br>Fim: 27/10    	| Victor Hugo         	| Início: 27/10 <br>Fim: 28/10  	| Milena           	|
 |   Documentar Equipe                   	| Início: 24/10 <br>Fim: 27/10    	| Renan                    	|  Início: 27/10 <br>Fim: 28/10    	| Gabriel          	|
 |   Gravar apresentação                 	| Início: 28/10 <br>Fim: 28/10    	| Gabriel                    	| Início: 29/10 <br>Fim: 29/10  	| Renan           	|
+|   Editar e publicar gravação            | Início: 28/10 <br>Fim: 29/10    	| Rafael                    	| Início: 29/10 <br>Fim: 29/10  	| Renan           	|
+|   Implementar correções e lista de verificação   | Início: 29/10 <br>Fim: 29/10    	| Rafael                    	| Início: 29/10 <br>Fim: 29/10  	| Milena           	|
 |    Implementar Git Page              	| Início: 24/10 <br>Fim: 26/10     	| Victor Hugo                       	|Início: 27/10<br> Fim: 28/10 	| Rafael           	|
 |   Correção pós apresentação	| Início: 31/10<br>Fim: 02/11 	| Milena, Gabriel, Renan, Victor Hugo e Rafael 	| Início: 21/04<br>Fim: 23/04 	|Renan	|
 
@@ -106,6 +108,8 @@ Na Tabela 3, está explicitado o cronograma executado das atividades da primeira
 |   Rich Picture                        	| Início: 26/10 <br>Fim: 27/10    	| Victor Hugo         	| Início: 27/10 <br>Fim: 28/10  	| Milena           	|
 |   Documentar Equipe                   	| Início: 24/10 <br>Fim: 27/10    	| Renan                    	|  Início: 27/10 <br>Fim: 28/10    	| Gabriel          	|
 |   Gravar apresentação                 	| Início: 28/10 <br>Fim: 28/10    	| Gabriel                    	| Início: 29/10 <br>Fim: 29/10  	| Renan           	|
+|   Editar e publicar gravação            | Início: 28/10 <br>Fim: 29/10    	| Rafael                    	| Início: 29/10 <br>Fim: 29/10  	| Renan           	|
+|   Implementar correções e lista de verificação   | Início: 29/10 <br>Fim: 29/10    	| Rafael                    	| Início: 29/10 <br>Fim: 29/10  	| Milena           	|
 |    Implementar Git Page              	| Início: 24/10 <br>Fim: 26/10     	| Victor Hugo                       	|Início: 27/10<br> Fim: 28/10 	| Rafael           	|
 |   Correção pós apresentação	|  	|  	|  	|	|
 
@@ -309,5 +313,6 @@ Na Tabela 14, tem-se o cronograma executado para todas as atividades da última 
 |  1.1   | Criação cronograma 1ª etapa |  [Milena Fernandes](https://github.com/usuario_milena)  | 28/10/2024   | [Gabriel Scheidt](https://github.com/Gxaite) |
 |  1.2   | Criação cronograma 2ª etapa |  [Gabriel Scheidt](https://github.com/Gxaite) | 28/10/2024   | [Victor Hugo](https://github.com/VHbernardes) |
 |  1.3  | Criação dos cronogramas restantes |  [Victor Hugo](https://github.com/VHbernardes) | 28/10/2024   | [Gabriel Scheidt](https://github.com/Gxaite) |
+|  1.4  | Adição de atividades na entrega 1 |  [Rafael Pereira](https://github.com/rafgpereira) | 28/10/2024   | [Victor Hugo](https://github.com/VHbernardes) |
 
 </center>
