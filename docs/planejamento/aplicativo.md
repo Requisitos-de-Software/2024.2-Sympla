@@ -93,6 +93,19 @@ Os principais motivos dessa escolha são:
 - Facilidade e segurança para os membros.
 - Há oportunidades de melhoria, como a implementação de um modo offline.
 
+## **Bibliografia**
+
+> <a id="FRM1" href="#anchor_1"></a> [Buson](https://www.buson.com.br/). Aplicativo de compra de passagens de ônibus online. Acesso em: 29 de out. de 2024.
+>
+> <a id="FRM2" href="#anchor_2"></a> [Life360](https://www.life360.com/). Aplicativo de rastreamento de localização e compartilhamento em tempo real. Acesso em: 29 de out. de 2024.
+>
+> <a id="FRM3" href="#anchor_3"></a> [OLX Brasil](https://www.olx.com.br/). Site de compra e venda de produtos e serviços online. Acesso em: 29 de out. de 2024.
+> 
+> <a id="FRM4" href="#anchor_4"></a> [Querido Diário](https://github.com/okfn-brasil/querido-diario). Projeto open source para consulta de diários oficiais municipais. Acesso em: 29 de out. de 2024. 
+>
+> <a id="FRM5" href="#anchor_5"></a> [Sympla](https://www.sympla.com.br/). Plataforma de venda de ingressos e gestão de eventos. Acesso em: 29 de out. de 2024.
+
+
 
 ## Histórico de Versão
 
@@ -102,7 +115,8 @@ Os principais motivos dessa escolha são:
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação do documento |  [Milena Fernandes](https://github.com/usuario_milena) | 27/10/2024   | [Rafael Pereira](https://github.com/rafgpereira) |
-|  1.1   | Adição da descrição do Querido Diário |  [Rafael Pereira](https://github.com/rafgpereira) | 28/10/2024   | [Milena Fernandes](https://github.com/usuario_milena) |
+|  1.1   | Adição da descrição do Querido Diário |  [Rafael Pereira](https://github.com/rafgpereira) | 28/10/2024   | [Milena Fernandes](https://github.com/MilenaFRocha) |
+|  1.2   | Adição da descrição do Querido Diário |  [Milena Fernandes](https://github.com/MilenaFRocha) | 28/10/2024   | [Rafael Pereira](https://github.com/rafgpereira) |
 
 
 </center>
