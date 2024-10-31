@@ -28,7 +28,14 @@ Diante dessa análise, o grupo decidiu que utilizaria o que a API da Sympla perm
 
 Embora uma análise abrangente do aplicativo pudesse fornecer dados mais ricos e detalhados, o grupo entendeu que sua principal responsabilidade era manter a conformidade com os limites legais e éticos definidos. Dessa forma, concentrar-se nas funcionalidades permitidas pela API da Sympla, na interface do usuário e requisitos não implementados permitirá identificar lacunas ou oportunidades de aprimoramento na plataforma, sem violar as diretrizes da Sympla.
 
-Os **Termos de Uso e Políticas de Privacidade do Sympla** detalham as condições de uso da plataforma e os direitos e deveres dos usuários. Disponível em: https://termos-e-politicas.sympla.com.br/hc/pt-br. Acesso em: 28 out. 2024.
+Os **Termos de Uso e Políticas de Privacidade do Sympla** detalham as condições de uso da plataforma e os direitos e deveres dos usuários. Disponível em: [Termos de política de propriedade intelectual](https://termos-e-politicas.sympla.com.br/hc/pt-br/sections/360005978611-Pol%C3%ADtica-de-Propriedade-Intelectual) e [Termos de uso API](https://termos-e-politicas.sympla.com.br/hc/pt-br/sections/360005978591-Termos-de-Uso-API). Acesso em: 31 out. 2024.
+
+## **Bibliografia**
+
+> <a id="FRM1" href="#anchor_1"></a> [Sympla](https://www.sympla.com.br/). Plataforma de venda de ingressos e gestão de eventos. Acesso em: 29 de out. de 2024.
+
+> <a id="FRM2" href="#anchor_2"></a> [Termos de Uso Sympla](https://termos-e-politicas.sympla.com.br/hc/pt-br). Detalhes das condições de uso da plataforma e os direitos e deveres dos usuários. Acesso em: 31 de out. de 2024.
+
 
 #### **Histórico de Versões**
 
@@ -36,3 +43,4 @@ Os **Termos de Uso e Políticas de Privacidade do Sympla** detalham as condiçõ
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Introdução e adição do app escolhido e termos de uso | [Victor Hugo](https://github.com/VHbernardes) | 28/10/2024   | [Gabriel Scheidt](https://github.com/Gxaite)  |
 |  1.1   | Introdução e adição do app escolhido e termos de uso | [Gabriel Scheidt](https://github.com/Gxaite)| 28/10/2024   |[Milena Fernandes](https://github.com/usuario_milena) |
+|  1.2   | Revisão e correção dos links e referências | [Victor Hugo](https://github.com/VHbernardes)| 31/10/2024   |[Milena Fernandes](https://github.com/usuario_milena) |
