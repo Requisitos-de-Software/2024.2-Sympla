@@ -11,12 +11,14 @@ Foi utilizado a aplicação do Canva para elaborar tanto o richpicture quanto su
 
 <div style="text-align: center;">
     Figura 1: Richpicture versão 1.
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/VHBernardes">Victor Hugo </a>, 2024</p></font>
 </div>
 
 
 ![Figura 2: Legenda Richpicture versão 1](../assets/RichPictureProj01 (2).png)
 <div style="text-align: center;">
     Figura 2: Legenda Richpicture versão 1.
+      <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/VHBernardes">Victor Hugo </a>, 2024</p></font>
 </div>
 
 
