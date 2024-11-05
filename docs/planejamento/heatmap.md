@@ -32,6 +32,7 @@ O uso de heatmaps para análise de dados é particularmente eficaz em projetos c
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Gxaite">Gabriel Scheidt </a>, 2024</p></font>
 
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Gxaite">Gabriel Scheidt </a>, 2024</p></font>
 
 ## **Bibliografia**
 

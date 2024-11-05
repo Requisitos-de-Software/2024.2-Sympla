@@ -22,6 +22,8 @@ Para facilitar o gerenciamento e o desenvolvimento da documentação do projeto 
 | <img src="https://github.com/Requisitos-de-Software/2024.2-Sympla/raw/main/docs/assets/ferramentas/docs.png" width=75px> | [Docs]( https://www.google.com/intl/pt-BR/docs/about/) | Ferramenta usada para criação de arquivos |
 | <img src="https://github.com/Requisitos-de-Software/2024.2-Sympla/raw/main/docs/assets/ferramentas/youtube.png" width=75px> | [Youtube]( https://about.youtube/) | Plataforma para hospedar os vídeos |
 
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Milena Rocha](https://github.com/MilenaFRocha), 2024.</p></font>
+
 
 
 ## **Bibliografia**
