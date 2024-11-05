@@ -37,7 +37,7 @@ Os **Termos de Uso e Políticas de Privacidade do Sympla** detalham as condiçõ
 > <a id="FRM2" href="#anchor_2"></a> [Termos de Uso Sympla](https://termos-e-politicas.sympla.com.br/hc/pt-br). Detalhes das condições de uso da plataforma e os direitos e deveres dos usuários. Acesso em: 31 de out. de 2024.
 
 
-#### **Histórico de Versões**
+## Histórico de Versões
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|

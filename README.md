@@ -26,7 +26,7 @@ Sympla é uma plataforma brasileira de gestão de eventos e venda de ingressos o
 </table>
 
 
-## Histórico de Versão
+## Histórico de Versões
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     | 
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|

@@ -23,7 +23,7 @@ Foi utilizado a aplicação do Canva para elaborar tanto o richpicture quanto su
 
 
 
-# Bibliografia
+## **Bibliografia**
 
 > <a id="RP1" href="#TEC1"></a> CTEC2402 Software Development Project - Introducing Rich Pictures<<https://aprender3.unb.br/pluginfile.php/2972420/mod_resource/content/2/1_5145791542719414573.pdf>>. Acesso em: 28/10/2024.
 

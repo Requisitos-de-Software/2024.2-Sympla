@@ -26,26 +26,27 @@ Para facilitar o gerenciamento e o desenvolvimento da documentação do projeto 
 
 ## **Bibliografia**
 
-> <a id="FRM1" href="#anchor_1">1.</a> GitHub. Disponível em: https://docs.github.com/pt. Acesso em: 27 de out. de 2024.
+>  Canva. Disponível em: https://www.canva.com/. Acesso em: 27 de out. de 2024.
 >
-> <a id="FRM4" href="#anchor_2">2.</a> MkDocs. Disponível em: https://www.mkdocs.org/. Acesso em: 27 de out. de 2024.
+>  GitHub. Disponível em: https://docs.github.com/pt. Acesso em: 27 de out. de 2024.
+>
+>  Google Docs. Disponível em: https://www.google.com/intl/pt-BR/docs/about/. Acesso em: 27 de out. de 2024.
 > 
-> <a id="FRM2" href="#anchor_3">3.</a> Microsoft Teams. Disponível em: https://www.microsoft.com/pt-br/microsoft-teams/log-in. Acesso em: 27 de out. de 2024.
+>  Google Planilhas. Disponível em: https://www.google.com/intl/pt-BR/sheets/about/. Acesso em: 27 de out. de 2024.
 >
-> <a id="FRM6" href="#anchor_4">4.</a> WhatsApp. Disponível em: https://www.whatsapp.com/?lang=pt_br. Acesso em: 27 de out. de 2024.
->
-> <a id="FRM6" href="#anchor_5">5.</a> Canva. Disponível em: https://www.canva.com/. Acesso em: 27 de out. de 2024.
+>  Microsoft Teams. Disponível em: https://www.microsoft.com/pt-br/microsoft-teams/log-in. Acesso em: 27 de out. de 2024.
 > 
-> <a id="FRM5" href="#anchor_6">6.</a> Visual Studio Code. Disponível em: https://code.visualstudio.com/. Acesso em: 27 de out. de 2024.
+>  MkDocs. Disponível em: https://www.mkdocs.org/. Acesso em: 27 de out. de 2024.
 >
-> <a id="FRM8" href="#anchor_7">7.</a> Google Planilhas. Disponível em: https://www.google.com/intl/pt-BR/sheets/about/. Acesso em: 27 de out. de 2024.
+>  Visual Studio Code. Disponível em: https://code.visualstudio.com/. Acesso em: 27 de out. de 2024.
 >
-> <a id="FRM9" href="#anchor_8">8.</a> Google Docs. Disponível em: https://www.google.com/intl/pt-BR/docs/about/. Acesso em: 27 de out. de 2024.
+>  WhatsApp. Disponível em: https://www.whatsapp.com/?lang=pt_br. Acesso em: 27 de out. de 2024.
 > 
-> <a id="FRM7" href="#anchor_9">9.</a> YouTube. Disponível em: https://about.youtube/. Acesso em: 27 de out. de 2024.
+>  YouTube. Disponível em: https://about.youtube/. Acesso em: 27 de out. de 2024.
 >
 
-#### **Histórico de Versões**
+
+## Histórico de Versões
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|

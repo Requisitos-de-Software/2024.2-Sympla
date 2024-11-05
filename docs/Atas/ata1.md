@@ -53,7 +53,7 @@ Após a escolha do aplicativo, as seguintes tarefas foram atribuídas aos membro
 
 ---
 
-### Histórico de Versões
+## Histórico de Versões
 
 | Versão |          Descrição               |        Autor       |      Data      |      Revisor      |
 |:------:|:--------------------------------:|:------------------:|:--------------:|:-----------------:|

@@ -11,7 +11,7 @@ O objetivo dessa página é armazenar o vídeo da apresentação da Primeira Ent
 <font size="3"><p style="text-align: center"><b>Fonte:</b> GRUPO 08. Grupo 08 - Sympla - Entrega 1 - Requisitos de Software, 2024/2, UnB. 2024. Disponível em: <a href="https://www.youtube.com/watch?v=wvlWso3-FhU">https://www.youtube.com/watch?v=wvlWso3-FhU</a>. Acesso em: 29 out. 2024.</p></font>
 </div>
 
-A apresentação objetiva mostra o que foi feito para a entrega 1, obedecendo aos critérios na Tabela 1 solicitados pelo professor no plano de ensino.
+A apresentação tem por objetivo mostrar o que foi produzido para a entrega 1, obedecendo os critérios da Tabela 1.
 
 <font size="3"><p style="text-align: center">Tabela 1: Critérios para a Entrega 1</p></font>
 
@@ -26,7 +26,7 @@ A apresentação objetiva mostra o que foi feito para a entrega 1, obedecendo ao
 | 7 - Possui opção de contraste de cores? | Sim | 1.1 | 29/10/2024 |
 | 8 - O histórico de versão padronizado? | Sim | 1.0 | 29/10/2024 |
 | 9 – O(s) autor(es) e o(s) revisor(es) para cada artefato? | Sim | 1.0 | 29/10/2024 |
-| 10 - Referências bibliográficas e/ou bibliografia em todos os artefatos? | Incompleto | 1.0 | 29/10/2024 |
+| 10 - Referências bibliográficas e/ou bibliografia em todos os artefatos? | Sim | 1.1 | 05/11/2024 |
 | 11 - As tabelas e imagens possuem título, fonte e elas chamadas dentro dos texto? | Sim | 1.0 | 29/10/2024 |
 | 12 - Um texto fazendo uma introdução dos artefatos? | Sim | 1.0 | 29/10/2024 |
 | 13 - O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade. | Sim | 1.0 | 29/10/2024 |
@@ -35,10 +35,15 @@ A apresentação objetiva mostra o que foi feito para a entrega 1, obedecendo ao
 | 16 - Vídeo de apresentação na categoria “não listado” no youtube? | Sim | 1.0 | 29/10/2024 |
 | 17 – No artefato “Rich Picture” possui uma legenda explicando os símbolos utilizados no diagrama? | Sim | 1.0 | 29/10/2024 |
 | 18 – Todos os 5 componentes de um “Rich Picture” estão presentes no artefato do “Rich Picture” apresentado pelo grupo. | Sim | 1.0 | 29/10/2024 |
-| 19 - Cada integrante da equipe deve elaborar ao menos um 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência. | Incompleto | 1.0 | 29/10/2024 |
+| 19 - Cada integrante da equipe deve elaborar ao menos um 1 item de conteúdo da disciplina com referência bibliográfica/bibliografia da fonte. | Sim | 1.1 | 05/11/2024 |
 
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> SALES, André Barros de.<b> <a href="https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf">Plano de Ensino - Requisitos de Software</a></b>. p. 7-8.</p></font>
+
+## **Bibliografia**
+
+> SALES, André Barros de. <a href="https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf">Plano de Ensino - Requisitos de Software</a>. Acesso em: 29 de out. de 2024.
+
 
 ## Histórico de Versões
 
@@ -49,3 +54,4 @@ A apresentação objetiva mostra o que foi feito para a entrega 1, obedecendo ao
 1.2 | Adição da tabela de critérios da entrega 1 | [Rafael Pereira](https://github.com/rafgpereira) | 29/10/2024 | [Gabriel Scheidt](https://github.com/Gxaite)
 1.3 | Avaliação dos critérios da entrega 1 (v1.0) | [Rafael Pereira](https://github.com/rafgpereira) | 29/10/2024 | [Renan Araújo](https://github.com/renantfm4)
 1.4 | Adição do contraste de cores | [Rafael Pereira](https://github.com/rafgpereira) | 29/10/2024 | [Milena Rocha](https://github.com/MilenaFRocha)
+1.5 | Avaliação dos critérios da entrega 1 (v1.1) | [Rafael Pereira](https://github.com/rafgpereira) | 05/11/2024 | [Victor Hugo](https://github.com/VHbernardes)

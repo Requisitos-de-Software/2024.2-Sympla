@@ -300,9 +300,11 @@ Na Tabela 14, tem-se o cronograma executado para todas as atividades da última 
 |   Gravação da Apresentação e Entrega                        	| Início: 08/02<br>Fim: 09/02    	| Todos                             	| 	|             	|
 |   Correção pós apresentação	| Início: 09/02<br>Fim: 11/02 	| Todos 	|  	|  	|
 
+## **Bibliografia**
 
+> SALES, André Barros de. <a href="https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf">Plano de Ensino - Requisitos de Software</a>. Acesso em: 29 de out. de 2024.
 
-## Histórico de Versão
+## Histórico de Versões
 
 <center>
 
