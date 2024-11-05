@@ -23,12 +23,13 @@ Foi utilizado a aplicação do Canva para elaborar tanto o richpicture quanto su
 
 
 
-# Referências
+# Bibliografia
 
-> <a id="RP1" href="#TEC1">1.</a> CTEC2402 Software Development Project - Introducing Rich Pictures<<https://aprender3.unb.br/pluginfile.php/2972420/mod_resource/content/2/1_5145791542719414573.pdf>>. Acesso em: 28/10/2024.>
+> <a id="RP1" href="#TEC1"></a> CTEC2402 Software Development Project - Introducing Rich Pictures<<https://aprender3.unb.br/pluginfile.php/2972420/mod_resource/content/2/1_5145791542719414573.pdf>>. Acesso em: 28/10/2024.
 
 ## Histórico de Versões
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     | 
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação desse documento | [Victor Hugo](https://github.com/VHbernardes) | 28/10/2024 | [Milena Rocha](https://github.com/MilenaFRocha)  |
+|  1.1   | Correção da bibliografia | [Rafael Pereira](https://github.com/rafgpereira) | 05/11/2024 | [Victor Hugo](https://github.com/VHbernardes)  |
