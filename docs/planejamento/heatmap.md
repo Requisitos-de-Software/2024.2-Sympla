@@ -30,6 +30,8 @@ O uso de heatmaps para análise de dados é particularmente eficaz em projetos c
 | 20:00 ~ 21:00  |    4    |    4    |   2   |    4   |    2   |   5   |    5   |
 | 21:00 ~ 22:00  |    5    |    4    |   3   |    4   |    3   |   5   |    5   |
 
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Gxaite">Gabriel Scheidt </a>, 2024</p></font>
+
 
 ## **Bibliografia**
 
