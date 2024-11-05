@@ -89,14 +89,14 @@ Na Tabela 2, tem-se o cronograma planejado para todas as atividades da primeira 
 |   Editar e publicar gravação            | Início: 28/10 <br>Fim: 29/10    	| [Rafael](https://github.com/rafgpereira)                    	| Início: 29/10 <br>Fim: 29/10  	| [Renan](https://github.com/renantfm4)           	|
 |   Implementar correções e lista de verificação   | Início: 29/10 <br>Fim: 29/10    	| [Rafael](https://github.com/rafgpereira)                    	| Início: 29/10 <br>Fim: 29/10  	| [Milena](https://github.com/MilenaFRocha)           	|
 |    Implementar Git Page              	| Início: 24/10 <br>Fim: 26/10     	| [Victor Hugo](https://github.com/VHbernardes)                       	|Início: 27/10<br> Fim: 28/10 	| [Rafael](https://github.com/rafgpereira)           	|
-|   Correção pós apresentação	| Início: 31/10<br>Fim: 02/11 	| [Milena](https://github.com/MilenaFRocha),  [Gabriel](https://github.com/Gxaite), [Renan](https://github.com/renantfm4), [Victor Hugo](https://github.com/VHbernardes) e [Rafael](https://github.com/rafgpereira) 	| Início: 21/04<br>Fim: 23/04 	|[Renan](https://github.com/renantfm4)	|
+|   Correção pós apresentação	| Início: 31/10<br>Fim: 02/11 	| [Milena](https://github.com/MilenaFRocha),  [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) e [Rafael](https://github.com/rafgpereira) 	| Início: 21/04<br>Fim: 23/04 	|[Renan](https://github.com/renantfm4)	|
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> SALES, André Barros de.<b> <a href="https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf">Plano de Ensino - Requisitos de Software</a></b></p></font>
 
 ### Executado
 Na Tabela 3, está explicitado o cronograma executado das atividades da primeira entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Primeira entrega executadi</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Primeira entrega executado</p></font>
 
 | Atividade                                      	| Período de desenvolvimento 	| Responsáveis               	| Revisão                  	| Revisores        	|
 |------------------------------------------------	|----------------------------	|----------------------------	|--------------------------	|------------------	|
