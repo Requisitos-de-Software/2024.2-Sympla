@@ -8,7 +8,7 @@ theme:
   font:
     text: Open Sans
   language: pt-BR
-  favicon: assets/sympla.png
+  favicon: assets/sympla-icon.png
   logo: assets/sympla.png
   features:
     - navigation.tabs
