@@ -37,7 +37,7 @@ Como primeiro passo do projeto, cada integrante do grupo selecionou individualme
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/MilenaFRocha">Milena Rocha </a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/MilenaFRocha">Milena Rocha</a>, 2024</p></font>
 </div>
 
 ---
