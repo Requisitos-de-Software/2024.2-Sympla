@@ -30,7 +30,7 @@ Sympla é uma plataforma brasileira de gestão de eventos e venda de ingressos o
      <td align="center"><a href="https://github.com/renantfm4"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/111506459?v=4" width="150px;" alt=""/><br /><sub><b>Renan Araújo</b></sub></a><br />
     <td align="center"><a href="https://github.com/MilenaFRocha"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/104432227?v=4" width="150px;" alt=""/><br /><sub><b>Milena Rocha</b></sub></a><br />
     <td align="center"><a href="https://github.com/VHbernardes"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/151786821?v=4" width="150px;" alt=""/><br /><sub><b>Victor Hugo</b></sub></a><br />
-    <td align="center"><a href="https://github.com/rafgpereira"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/81361524?v=4" width="150px;" alt=""/><br /><sub><b>Rafael Gomes</b></sub></a><br />
+    <td align="center"><a href="https://github.com/rafgpereira"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/81361524?v=4" width="150px;" alt=""/><br /><sub><b>Rafael Pereira</b></sub></a><br />
     <td align="center"><a href="https://github.com/Gxaite"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/111130521?v=4" width="150px;" alt=""/><br /><sub><b>Gabriel Scheidt</b></sub></a><br />
 
 </tr>
