@@ -32,12 +32,12 @@ Como primeiro passo do projeto, cada integrante do grupo selecionou individualme
     </tr>
     <tr>
       <td>Life360</td>
-      <td><a href="https://github.com/MilenaFRocha">Milena Fernandes</a></td>
+      <td><a href="https://github.com/MilenaFRocha">Milena Rocha</a></td>
     </tr>
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/MilenaFRocha">Milena Fernandes </a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/MilenaFRocha">Milena Rocha </a>, 2024</p></font>
 </div>
 
 ---
@@ -114,9 +114,9 @@ Os principais motivos dessa escolha são:
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
-|  1.0   | Criação do documento |  [Milena Fernandes](https://github.com/usuario_milena) | 27/10/2024   | [Rafael Pereira](https://github.com/rafgpereira) |
-|  1.1   | Adição da descrição do Querido Diário |  [Rafael Pereira](https://github.com/rafgpereira) | 28/10/2024   | [Milena Fernandes](https://github.com/MilenaFRocha) |
-|  1.2   | Adição da descrição do Querido Diário |  [Milena Fernandes](https://github.com/MilenaFRocha) | 28/10/2024   | [Rafael Pereira](https://github.com/rafgpereira) |
+|  1.0   | Criação do documento |  [Milena Rocha](https://github.com/MilenaFRocha) | 27/10/2024   | [Rafael Pereira](https://github.com/rafgpereira) |
+|  1.1   | Adição da descrição do Querido Diário |  [Rafael Pereira](https://github.com/rafgpereira) | 28/10/2024   | [Milena Rocha](https://github.com/MilenaFRocha) |
+|  1.2   | Adição da descrição do Querido Diário |  [Milena Rocha](https://github.com/MilenaFRocha) | 28/10/2024   | [Rafael Pereira](https://github.com/rafgpereira) |
 
 
 </center>

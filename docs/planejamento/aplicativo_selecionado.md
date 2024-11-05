@@ -42,5 +42,5 @@ Os **Termos de Uso e Políticas de Privacidade do Sympla** detalham as condiçõ
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Introdução e adição do app escolhido e termos de uso | [Victor Hugo](https://github.com/VHbernardes) | 28/10/2024   | [Gabriel Scheidt](https://github.com/Gxaite)  |
-|  1.1   | Introdução e adição do app escolhido e termos de uso | [Gabriel Scheidt](https://github.com/Gxaite)| 28/10/2024   |[Milena Fernandes](https://github.com/usuario_milena) |
-|  1.2   | Revisão e correção dos links e referências | [Victor Hugo](https://github.com/VHbernardes)| 31/10/2024   |[Milena Fernandes](https://github.com/usuario_milena) |
+|  1.1   | Introdução e adição do app escolhido e termos de uso | [Gabriel Scheidt](https://github.com/Gxaite)| 28/10/2024   |[Milena Rocha](https://github.com/MilenaFRocha) |
+|  1.2   | Revisão e correção dos links e referências | [Victor Hugo](https://github.com/VHbernardes)| 31/10/2024   |[Milena Rocha](https://github.com/MilenaFRocha) |

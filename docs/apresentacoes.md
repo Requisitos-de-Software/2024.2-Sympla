@@ -45,7 +45,7 @@ A apresentação objetiva mostra o que foi feito para a entrega 1, obedecendo ao
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     | 
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 1.0 |  Documentação da apresentação | [Gabriel Scheidt](https://github.com/Gxaite)| 27/04/2023 | [Victor Hugo](https://github.com/VHbernardes)
-1.1 | Incorporação do vídeo da apresentação | [Rafael Pereira](https://github.com/rafgpereira) | 29/10/2024 | [Milena Fernandes](https://github.com/MilenaFRocha)
+1.1 | Incorporação do vídeo da apresentação | [Rafael Pereira](https://github.com/rafgpereira) | 29/10/2024 | [Milena Rocha](https://github.com/MilenaFRocha)
 1.2 | Adição da tabela de critérios da entrega 1 | [Rafael Pereira](https://github.com/rafgpereira) | 29/10/2024 | [Gabriel Scheidt](https://github.com/Gxaite)
 1.3 | Avaliação dos critérios da entrega 1 (v1.0) | [Rafael Pereira](https://github.com/rafgpereira) | 29/10/2024 | [Renan Araújo](https://github.com/renantfm4)
-1.4 | Adição do contraste de cores | [Rafael Pereira](https://github.com/rafgpereira) | 29/10/2024 | [Milena Fernandes](https://github.com/MilenaFRocha)
+1.4 | Adição do contraste de cores | [Rafael Pereira](https://github.com/rafgpereira) | 29/10/2024 | [Milena Rocha](https://github.com/MilenaFRocha)
