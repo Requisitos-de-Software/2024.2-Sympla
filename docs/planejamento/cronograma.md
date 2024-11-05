@@ -117,9 +117,6 @@ Na Tabela 3, está explicitado o cronograma executado das atividades da primeira
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/MilenaFRocha">Milena Rocha</a>, 2024</p></font>
 
 
-
-
-
 ## Entrega 2 - Elicitação
 
 Na Tabela 4, tem-se o cronograma planejado para todas as atividades da terceira entrega.
@@ -181,7 +178,7 @@ Na Tabela 6, tem-se o cronograma planejado para todas as atividades da terceira 
 |   Gravação da Apresentação e Entrega                        	| Início: 05/12<br>Fim: 07/12    	|  Todos 	| Início: 06/12 Fim: 07/12 	| Todos 	|
 |   Correção pós apresentação                                   	| Início: 08/12<br>Fim: 09/12    	| Todos 	| Início: 08/12<br>Fim: 09/12 	| Todos 	|
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> SALES, André Barros de.<b> <a href="https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf">Plano de Ensino - Requisitos de Software</a></b></p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/VHbernardes">Victor Hugo</a>, 2024</p></font>
 
 ### Executado
 Na Tabela 7, tem-se o cronograma executado para todas as atividades da terceira entrega.
@@ -197,7 +194,7 @@ Na Tabela 7, tem-se o cronograma executado para todas as atividades da terceira 
 |   Gravação da Apresentação e Entrega                        	| Início: 05/12<br>Fim: 07/12    	|  Todos 	|  	|  	|
 |   Correção pós apresentação                                   	| Início: 08/12<br>Fim: 09/12    	| Todos 	|  	|  	|
 
-
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/VHbernardes">Victor Hugo</a>, 2024</p></font>
 
 ## Entrega 4 - Modelagem de Requisitos 1.2
 
@@ -214,7 +211,7 @@ Na Tabela 8, tem-se o cronograma planejado para todas as atividades da quarta en
 |   Gravação da Apresentação e Entrega                                	| Início: 14/12<br>Fim: 15/12    	| Todos	| Início: 15/12 Fim: 15/12 	| Todos 	|
 |   Correção pós apresentação                                            | Início: 16/12<br>Fim: 18/12    	| Todos 	| Início: 18/12<br>Fim: 20/12 	| Todos 	|
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> SALES, André Barros de.<b> <a href="https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf">Plano de Ensino - Requisitos de Software</a></b></p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/VHbernardes">Victor Hugo</a>, 2024</p></font>
 
 ### Executado
 Na Tabela 9, tem-se o cronograma executado para todas as atividades da quarta entrega.
@@ -229,7 +226,7 @@ Na Tabela 9, tem-se o cronograma executado para todas as atividades da quarta en
 |   Gravação da Apresentação e Entrega                                	| Início: 14/12<br>Fim: 15/12    	| Todos 	|  	|  	|
 |   Correção pós apresentação                                            | Início: 16/12<br>Fim: 18/12    	| Todos 	|  	|  	|
 
-
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/VHbernardes">Victor Hugo</a>, 2024</p></font>
 
 ## Entrega 5 - Análise de Requisitos: Verificação e Validação 
 
@@ -245,7 +242,7 @@ Na Tabela 10, tem-se o cronograma planejado para todas as atividades da entrega 
 |   Gravação da Apresentação e Entrega                        	| Início: 27/01<br>Fim: 29/01    	| Todos 	| Início: 30/01 Fim: 31/01 	| Todos 	|
 |   Correção pós apresentação	| Início: 31/01<br>Fim: 02/02 	| Todos 	| Início: 02/02<br>Fim: 04/02 	| Todos 	|
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> SALES, André Barros de.<b> <a href="https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf">Plano de Ensino - Requisitos de Software</a></b></p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/VHbernardes">Victor Hugo</a>, 2024</p></font>
 
 ### Executado
 Na Tabela 11, tem-se o cronograma executado para todas as atividades da entrega 5.
@@ -259,7 +256,7 @@ Na Tabela 11, tem-se o cronograma executado para todas as atividades da entrega 
 |   Gravação da Apresentação e Entrega                        	| Início: 27/01<br>Fim: 29/01    	| Todos 	|  	|  	|
 |   Correção pós apresentação	| Início: 31/01<br>Fim: 02/02 	| Todos 	|  	|  	|
 
-
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/VHbernardes">Victor Hugo</a>, 2024</p></font>
 
 ## Entrega 6 - Pós-Rastreabilidade
 
@@ -275,7 +272,7 @@ Na Tabela 12, tem-se o cronograma planejado para todas as atividades da sexta en
 |   Gravação da Apresentação e Entrega                        	| Início: 18/01<br>Fim: 19/01    	| Todos                             	| Início: 19/01 Fim: 21/01 	| Todos 	|
 |   Correção pós apresentação	| Início: 21/01<br>Fim: 23/01 	| Todos 	| Início: 23/01<br>Fim: 25/01 	| Todos 	|
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> SALES, André Barros de.<b> <a href="https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf">Plano de Ensino - Requisitos de Software</a></b></p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/VHbernardes">Victor Hugo</a>, 2024</p></font>
 
 ## Entrega Final 
 
@@ -290,7 +287,7 @@ Na Tabela 13, tem-se o cronograma planejado para todas as atividades da última 
 |   Gravação da Apresentação e Entrega                        	| Início: 08/02<br>Fim: 09/02    	| Todos                             	| Início: 04/02 Fim: 05/02 	| Todos            	|
 |   Correção pós apresentação	| Início: 09/02<br>Fim: 11/02 	| Todos 	| Início: 10/02<br>Fim: 11/02 	| Todos 	|
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> SALES, André Barros de.<b> <a href="https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf">Plano de Ensino - Requisitos de Software</a></b></p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/VHbernardes">Victor Hugo</a>, 2024</p></font>
 
 ### Executado
 Na Tabela 14, tem-se o cronograma executado para todas as atividades da última entrega.
@@ -302,6 +299,8 @@ Na Tabela 14, tem-se o cronograma executado para todas as atividades da última 
 |   Desenvolvimento do projeto final (correção e complemento) 	| Início: 21/01<br>Fim: 05/02    	| Todos                             	|  	|   	|
 |   Gravação da Apresentação e Entrega                        	| Início: 08/02<br>Fim: 09/02    	| Todos                             	| 	|             	|
 |   Correção pós apresentação	| Início: 09/02<br>Fim: 11/02 	| Todos 	|  	|  	|
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/VHbernardes">Victor Hugo</a>, 2024</p></font>
 
 ## **Bibliografia**
 
