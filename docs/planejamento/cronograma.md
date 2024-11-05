@@ -81,7 +81,7 @@ Na Tabela 2, tem-se o cronograma planejado para todas as atividades da primeira 
 |   Planejamento do Projeto                     	| Início: 24/10 <br>Fim: 24/10   	| [Milena](https://github.com/MilenaFRocha),  [Gabriel](https://github.com/Gxaite), [Renan](https://github.com/renantfm4), [Victor Hugo](https://github.com/VHbernardes) e [Rafael](https://github.com/rafgpereira) 	| Início: 24/10<br>Fim: 24/10  	| [Victor Hugo](https://github.com/VHbernardes) 	|
 |   Selecionar app                      	| Início: 26/10 <br>Fim: 26/10    	| [Milena](https://github.com/MilenaFRocha),  [Gabriel](https://github.com/Gxaite), [Renan](https://github.com/renantfm4), [Victor Hugo](https://github.com/VHbernardes) e [Rafael](https://github.com/rafgpereira) 	| Início: 27/10 <br>Fim: 28/10  	| [Victor Hugo](https://github.com/VHbernardes) 	|
 |   Selecionar ferramentas do projeto   	| Início: 24/10 <br>Fim: 26/10    	| [Milena](https://github.com/MilenaFRocha) e [Rafael](https://github.com/rafgpereira) 	| Início: 27/10<br> Fim: 28/10  	|  [Gabriel](https://github.com/Gxaite) e [Renan](https://github.com/renantfm4) 	|
-|   Realização do cronograma            	| Início: 25/10 <br>Fim: 27/10    	| [Milena](https://github.com/MilenaFRocha),  [Gabriel](https://github.com/Gxaite), [Renan](https://github.com/renantfm4), [Victor Hugo](https://github.com/VHbernardes) e [Rafael](https://github.com/rafgpereira) 	| Início: 27/10<br> Fim: 28/10  	| [Rafael](https://github.com/rafgpereira)         	|
+|   Realização do cronograma            	| Início: 25/10 <br>Fim: 27/10    	| [Milena](https://github.com/MilenaFRocha),  [Gabriel](https://github.com/Gxaite), [Renan](https://github.com/renantfm4), [Victor Hugo](https://github.com/VHbernardes)| Início: 27/10<br> Fim: 28/10  	| [Rafael](https://github.com/rafgpereira)         	|
 |   Lista de app analisados             	| Início: 24/10 <br>Fim: 26/10    	| [Milena](https://github.com/MilenaFRocha),  [Gabriel](https://github.com/Gxaite), [Renan](https://github.com/renantfm4), [Victor Hugo](https://github.com/VHbernardes) e [Rafael](https://github.com/rafgpereira) 	| Início: 27/10 <br>Fim: 28/10  	| [Victor Hugo](https://github.com/VHbernardes) 	|
 |   Rich Picture                        	| Início: 26/10 <br>Fim: 27/10    	| [Victor Hugo](https://github.com/VHbernardes)         	| Início: 27/10 <br>Fim: 28/10  	| [Milena](https://github.com/MilenaFRocha)           	|
 |   Documentar Equipe                   	| Início: 24/10 <br>Fim: 27/10    	| [Renan](https://github.com/renantfm4)                    	|  Início: 27/10 <br>Fim: 28/10    	|  [Gabriel](https://github.com/Gxaite)          	|
@@ -111,6 +111,7 @@ Na Tabela 3, está explicitado o cronograma executado das atividades da primeira
 |   Editar e publicar gravação            | Início: 28/10 <br>Fim: 29/10    	| [Rafael](https://github.com/rafgpereira)                    	| Início: 29/10 <br>Fim: 29/10  	| [Renan](https://github.com/renantfm4)           	|
 |   Implementar correções e lista de verificação   | Início: 29/10 <br>Fim: 29/10    	| [Rafael](https://github.com/rafgpereira)                    	| Início: 29/10 <br>Fim: 29/10  	| [Milena](https://github.com/MilenaFRocha)           	|
 |    Implementar Git Page              	| Início: 24/10 <br>Fim: 26/10     	| [Victor Hugo](https://github.com/VHbernardes)                       	|Início: 27/10<br> Fim: 28/10 	| [Rafael](https://github.com/rafgpereira)           	|
+|    Regravação da 1º entrega            	| Início: 05/11 <br>Fim: 05/11     	| [Gabriel Scheidt](https://github.com/Gxaite)                       	|Início: 05/11<br> Fim: 05/11 	| [Rafael](https://github.com/rafgpereira)           	|
 |   Correção pós apresentação	|  	|  	|  	|	|
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/MilenaFRocha">Milena Rocha</a>, 2024</p></font>
@@ -140,7 +141,7 @@ Na Tabela 4, tem-se o cronograma planejado para todas as atividades da terceira 
 | Preparação final e gravação da apresentação      | Início: 22/11 <br>Fim: 23/11 | Todos                                     | Início: 23/11 <br>Fim: 25/11 |  [Gabriel](https://github.com/Gxaite)    |
 
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> SALES, André Barros de.<b> <a href="https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf">Plano de Ensino - Requisitos de Software</a></b>. p. 4-6.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Gxaite">Gabriel Scheidt</a>, 2024</p></font>
 
 
 ### Executado
@@ -161,6 +162,8 @@ Na Tabela 5, tem-se o cronograma executado para todas as atividades da última e
 | Sessão colaborativa para geração de ideias       | Início: 15/11 <br>Fim: 18/11 |  [Gabriel](https://github.com/Gxaite)                           |  |   |
 | Ordenação das prioridades de requisitos           | Início: 19/11 <br>Fim: 21/11 | [Rafael](https://github.com/rafgpereira)                            |  |     |
 | Preparação final e gravação da apresentação      | Início: 22/11 <br>Fim: 23/11 | Todos                                     |  |    |
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Gxaite">Gabriel Scheidt</a>, 2024</p></font>
 
 ## Entrega 3 - Modelagem de Requisitos 1
 
