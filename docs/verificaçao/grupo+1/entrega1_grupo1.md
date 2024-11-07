@@ -1,5 +1,5 @@
 
-O artefato a seguir apresenta o planejamento para a verificação dos artefatos elaborados pelo grupo 1 (BlueSky).
+O artefato a seguir apresenta o planejamento para a verificação dos artefatos elaborados pelo grupo 1 - [BlueSky](https://github.com/Requisitos-de-Software/2024.2-Grupo01).
 
 ## Objetivos
 
