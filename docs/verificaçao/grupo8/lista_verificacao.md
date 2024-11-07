@@ -39,6 +39,20 @@ Cada um dos itens da Tabela 1 será avaliado com Sim, Não ou Incompleto de acor
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> SALES, André Barros de.<b> <a href="https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf">Plano de Ensino - Requisitos de Software</a></b>. p. 7-8.</p></font>
 
+## Vídeo
+
+Abaixo, no Vídeo 1, apresentamos o processo de auto verificação do grupo, justificando a Tabela 1.
+
+
+<div style="text-align: center">
+
+<font size="3"><p style="text-align: center">Vídeo 1: Auto Verificação Entrega 1 - Grupo 08 - Sympla</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRVJSeqUjA4?si=5Tn88yUw4Svk0TvB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Os Autores. Auto Verificação Entrega 1 - Grupo 08 - Sympla. Disponível em: <a href="https://youtu.be/QRVJSeqUjA4">https://youtu.be/QRVJSeqUjA4</a>. Acesso em: 05 nov. 2024.</p></font>
+</div>
+
 ## **Bibliografia**
 
 > SALES, André Barros de. <a href="https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf">Plano de Ensino - Requisitos de Software</a>. Acesso em: 29 de out. de 2024.
@@ -50,4 +64,5 @@ Cada um dos itens da Tabela 1 será avaliado com Sim, Não ou Incompleto de acor
 1.0 | Criação do documento e inserção da tabela | [Rafael Pereira](https://github.com/rafgpereira) | 29/10/2024 | [Gabriel Scheidt](https://github.com/Gxaite)
 1.1 | Avaliação dos critérios da entrega 1 (v1.0) | [Rafael Pereira](https://github.com/rafgpereira) | 29/10/2024 | [Renan Araújo](https://github.com/renantfm4)
 1.2 | Avaliação dos critérios da entrega 1 (v1.1) | [Rafael Pereira](https://github.com/rafgpereira) | 05/11/2024 | [Victor Hugo](https://github.com/VHbernardes)
+1.3 | Adição do vídeo da verificação | [Rafael Pereira](https://github.com/rafgpereira) | 05/11/2024 | [Milena Rocha](https://github.com/MilenaFRocha)
 
