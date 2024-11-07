@@ -39,6 +39,7 @@ nav:
   - Home: index.md
   - Atas:
     - Ata 1º reunião: Atas/ata1.md
+    - Ata 2º reunião: Atas/ata2.md
   - Planejamento:
     - Cronograma de Atividades: planejamento/cronograma.md
     - Ferramentas: planejamento/ferramentas.md

@@ -14,7 +14,7 @@ Cada membro da equipe apresentou uma sugestão de aplicativo para o projeto:
 - **Gabriel**: Buson
 - **Rafael**: Querido Diário
 - **Victor**: Sympla
-- **Milena**: Life360
+- **Milena**: Life360   
 - **Renan**: OLX
 
 **Aplicativo Escolhido**: Sympla
