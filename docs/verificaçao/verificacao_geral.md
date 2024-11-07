@@ -8,7 +8,15 @@ Esta seção tem como objetivo reunir as verificações de cada etapa e artefato
 
 ## Metodologia
 
-O grupo optou pela metodologia de inspeção criada por Michael E. Fagan na IBM em 1976 <a id="anchor_1" href="#REF1"><sup>1</sup></a> para realizar a verificação dos materiais. Para cada entrega foi elaborada uma lista de verificação dos artefatos baseando-se em alguma fonte externa e nos próprios requisitos do trabalho, e estas serão preenchidas em conjunto por todos os membros do grupo tanto para o próprio grupo quanto para o grupo +1. As verificações serão gravadas e disponibilizadas nas respectivas páginas.
+O grupo optou pela metodologia de inspeção criada por Michael E. Fagan na IBM em 1976 <a id="anchor_1" href="#REF1"><sup>1</sup></a> para realizar a verificação dos materiais. Para cada entrega foi elaborada uma lista de verificação dos artefatos baseando-se em alguma fonte externa e nos próprios requisitos do trabalho, e estas serão preenchidas em conjunto por todos os membros do grupo tanto para o próprio grupo quanto para o grupo +1. As verificações serão gravadas e disponibilizadas nas respectivas páginas. A figura 1 exemplifica as etapas que Fagan propôs para esse processo.
+
+<center>
+**Figura 1:** Etapas da Inspeção proposta por Fagan
+
+![inspeção Fagan](../assets/inspecao_fagan.png)
+
+_Fonte: SOMMERVILLE (2007)._<a id="anchor_1" href="#REF1">^1^</a>
+</center>
 
 
 ## **Referências bibliográficas**
@@ -22,3 +30,4 @@ O grupo optou pela metodologia de inspeção criada por Michael E. Fagan na IBM 
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação desse documento | [Victor Hugo](https://github.com/VHbernardes) | 05/11/2024 | [Milena Rocha](https://github.com/MilenaFRocha)  |
 |  1.1   | Complementação dos textos | [Rafael Pereira](https://github.com/rafgpereira) | 05/11/2024 | [Victor Hugo](https://github.com/VHbernardes)  |
+1.2| Adição da figura de Inspeção | [Victor Hugo](https://github.com/VHbernardes) | 07/11/2024 | [Rafael Pereira](https://github.com/rafgpereira)
