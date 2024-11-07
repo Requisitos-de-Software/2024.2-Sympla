@@ -1,16 +1,17 @@
 ## Introdução
 
-O objetivo dessa página é armazenar o vídeo da apresentação da Primeira Entrega. Se não for possível acessar o vídeo pela própria página, clique no link correspondente.
+O objetivo dessa página é armazenar o Vídeo 1, que contém a apresentação da Primeira Entrega. Se não for possível acessar o vídeo pela própria página, clique no link correspondente.
 
 ## Apresentação 1
 <div style="text-align: center">
+
+<font size="3"><p style="text-align: center">Vídeo 1: Grupo 08 - Sympla - Entrega 1 - Requisitos de Software, 2024/2, UnB. 2024</p></font>
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xI2A7K3JI6c?si=LRzlsNRAumMp9l44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Os Autores. Grupo 08 - Sympla - Entrega 1 - Requisitos de Software, 2024/2, UnB. 2024. Disponível em: <a href="https://youtu.be/xI2A7K3JI6c">https://youtu.be/xI2A7K3JI6c</a>. Acesso em: 05 nov. 2024.</p></font>
 </div>
-
-A apresentação tem por objetivo mostrar o que foi produzido para a entrega 1.
 
 ## Histórico de Versões
 
