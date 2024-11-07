@@ -48,7 +48,8 @@ nav:
     - Aplicativo Selecionado: planejamento/aplicativo_selecionado.md
   - Pré-rastreabilidade:
     - Rich Picture: pre-rastreabilidade/rich_picture.md
-  - Apresentações: apresentacoes.md
+  - Apresentações:
+    - Apresentação 1: apresentacoes/apresentacao1.md
   - Verificação:
     - Geral: verificaçao/lv_geral.md
     - Grupo 8:
