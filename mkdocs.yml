@@ -51,15 +51,15 @@ nav:
   - Apresentações:
     - Apresentação 1: apresentacoes/apresentacao1.md
   - Verificação:
-    - Geral: verificaçao/lv_geral.md
+    - Geral: verificaçao/verificacao_geral.md
     - Grupo 8:
       - Entrega 1:
         - Planejamento da Verificação: verificaçao/grupo8/entrega1.md
-        - Lista de Verificação executada: verificaçao/grupo8/lv_exec.md
+        - Lista de Verificação executada: verificaçao/grupo8/lista_verificacao.md
     - Grupo + 1:
       - Entrega 1:
         - Planejamento da Verificação: verificaçao/grupo+1/entrega1_grupo1.md
-        - Lista de Verificação executada: verificaçao/grupo+1/lista_verificaçao_grupo1.md
+        - Lista de Verificação executada: verificaçao/grupo+1/lista_verificacao_grupo1.md
 
 extra:
   social:
