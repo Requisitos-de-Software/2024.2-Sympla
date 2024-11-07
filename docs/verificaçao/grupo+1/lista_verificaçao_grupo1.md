@@ -1,5 +1,5 @@
 
-O artefato a seguir apresenta a verificação dos itens propostos para a entrega 1 do grupo 1 (BlueSky).
+O artefato a seguir apresenta a verificação dos itens propostos para a entrega 1 do grupo 1 - [BlueSky](https://github.com/Requisitos-de-Software/2024.2-Grupo01).
 
 ## Objetivos
 
@@ -16,9 +16,9 @@ Cada um dos itens da Tabela 1 será avaliado com Sim, Não ou Incompleto de acor
 
 | O github pages possui: |   Sim/Não/Incompleto   |  Versão da avaliação | Data da última avaliação |
 |------|:-------------------------------:|:--------------:|:--------------:|
-| 1 - Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula? | Sim | 1.0 | 29/10/2024 |
-| 2 - o cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? | Sim | 1.0 | 29/10/2024 |
-| 3 - o cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa. | Sim | 1.0 | 29/10/2024 |
+| 1 - Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula? | Sim | 1.0 | 07/11/2024 |
+| 2 - o cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? | Sim | 1.1 | 07/11/2024 |
+| 3 - o cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa. | Sim | 1.1 | 07/11/2024 |
 | 4 - O cronograma prevê um período de revisão/ajustes nos artefatos devidos as considerações dos monitores/professor? | Sim | 1.0 | 29/10/2024 |
 | 5 - A motivação e os critérios para a escolha do App? | Sim | 1.0 | 29/10/2024 |
 | 6 - Cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo permitindo o estudo na disciplina. | Sim | 1.0 | 29/10/2024 |
