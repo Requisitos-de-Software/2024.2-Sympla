@@ -1,3 +1,4 @@
+## Introdução
 
 O artefato a seguir apresenta o planejamento para a verificação dos artefatos elaborados pelo grupo 1 - [BlueSky](https://github.com/Requisitos-de-Software/2024.2-Grupo01).
 
@@ -34,7 +35,7 @@ A Tabela 1 apresenta os itens elaborados para a avaliação.
 | 19 - Cada integrante da equipe deve elaborar ao menos um 1 item de conteúdo da disciplina com referência bibliográfica/bibliografia da fonte. |  |  |  |
 
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> SALES, André Barros de.<b> <a href="https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf">Plano de Ensino - Requisitos de Software</a></b>. p. 7-8.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Autores - todos, 2024</p></font>
 
 ## **Bibliografia**
 
@@ -45,3 +46,4 @@ A Tabela 1 apresenta os itens elaborados para a avaliação.
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     | 
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação desse documento |  [Milena Rocha](https://github.com/MilenaFRocha) | 07/11/2024 |[Victor Hugo](https://github.com/VHbernardes)  |
+|  1.1   | Mudanças na introdução e fontes |  [Victor Hugo](https://github.com/VHbernardes) | 07/11/2024 |[Gabriel](https://github.com/Gxaite)  |

@@ -1,5 +1,6 @@
+## Introdução
 
-O artefato a seguir apresenta a verificação dos itens propostos para a entrega 1 do grupo.
+Após realizado o [planejamento](https://requisitos-de-software.github.io/2024.2-Sympla/verifica%C3%A7ao/grupo8/entrega1/), iremos apresentar nesse artefato a verificação dos itens propostos para a entrega 1 do grupo. 
 
 ## Objetivos
 
@@ -37,7 +38,7 @@ Cada um dos itens da Tabela 1 será avaliado com Sim, Não ou Incompleto de acor
 | 19 - Cada integrante da equipe deve elaborar ao menos um 1 item de conteúdo da disciplina com referência bibliográfica/bibliografia da fonte. | Sim | 1.1 | 05/11/2024 |
 
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> SALES, André Barros de.<b> <a href="https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf">Plano de Ensino - Requisitos de Software</a></b>. p. 7-8.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Autores - todos, 2024</p></font>
 
 ## Vídeo
 
@@ -65,4 +66,5 @@ Abaixo, no Vídeo 1, apresentamos o processo de auto verificação do grupo, jus
 1.1 | Avaliação dos critérios da entrega 1 (v1.0) | [Rafael Pereira](https://github.com/rafgpereira) | 29/10/2024 | [Renan Araújo](https://github.com/renantfm4)
 1.2 | Avaliação dos critérios da entrega 1 (v1.1) | [Rafael Pereira](https://github.com/rafgpereira) | 05/11/2024 | [Victor Hugo](https://github.com/VHbernardes)
 1.3 | Adição do vídeo da verificação | [Rafael Pereira](https://github.com/rafgpereira) | 05/11/2024 | [Milena Rocha](https://github.com/MilenaFRocha)
+1.4| Mudanças na introdução e fontes | [Victor Hugo](https://github.com/VHbernardes) | 07/11/2024 | [Rafael Pereira](https://github.com/rafgpereira)
 
