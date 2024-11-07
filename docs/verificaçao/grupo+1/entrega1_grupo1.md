@@ -40,8 +40,7 @@ A Tabela 1 apresenta os itens elaborados para a avaliação.
 | <a id="anchor_4" href="#REF4">21</a> - O que está sendo armazenado está bem descrito e definido? **Autor: Milena** |  | |  |
 | <a id="anchor_5" href="#REF5">22</a> - Todas as setas estão direcionadas, refletindo a origem e o destino de dados? **Autor: Renan** |  | |  |
 | <a id="anchor_6" href="#REF6">23</a> - Os elementos internos e externos ao sistema estão corretamente conectados? **Autor: Gabriel** |  |  |  |
-| <a id="anchor_7" href="#REF7">24</a> - Cada integrante da equipe deve elaborar ao menos um 1 item de conteúdo da disciplina com
-referência bibliográfica da fonte e foto do texto da referência. **Autor: Prof. André** |  |  |  |
+| <a id="anchor_7" href="#REF7">24</a> - Cada integrante da equipe deve elaborar ao menos um 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência. **Autor: Prof. André** |  |  |  |
 
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Autores - todos, 2024</p></font>
