@@ -49,6 +49,16 @@ nav:
   - Pré-rastreabilidade:
     - Rich Picture: pre-rastreabilidade/rich_picture.md
   - Apresentações: apresentacoes.md
+  - Verificação:
+    - Geral: verificaçao/lv_geral.md
+    - Grupo 8:
+      - Entrega 1:
+        - Planejamento da Verificação: verificaçao/grupo8/entrega1.md
+        - Lista de Verificação executada: verificaçao/grupo8/lv_exec.md
+    - Grupo + 1:
+      - Entrega 1:
+        - Planejamento da Verificação: verificaçao/grupo+1/entrega1_grupo1.md
+        - Lista de Verificação executada: verificaçao/grupo+1/lista_verificaçao_grupo1.md
 
 extra:
   social:
