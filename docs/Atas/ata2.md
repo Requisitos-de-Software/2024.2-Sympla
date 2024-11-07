@@ -28,7 +28,11 @@ A reunião foi realizada para análise das entregas previstas para a semana. A e
 
 ### 4. Link para a Gravação da Reunião
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kv1svjKhk6o?si=lvkrXTkn2iOrShZd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [Gravação da reunião](https://youtu.be/kv1svjKhk6o)
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Os Autores. Ata de reunião 2- Grupo 08 - Sympla. Disponível em: <a href="https://youtu.be/kv1svjKhk6o">https://youtu.be/kv1svjKhk6o</a>. Acesso em: 05 nov. 2024.</p></font>
 
 ---
 

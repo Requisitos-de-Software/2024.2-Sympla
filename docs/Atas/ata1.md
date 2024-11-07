@@ -41,8 +41,11 @@ Após a escolha do aplicativo, as seguintes tarefas foram atribuídas aos membro
 
 ### 4. Link para a Gravação da Reunião
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IGVM2Y_aXLE?si=KJH956-3FzPMnzhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [Gravação da reunião](https://youtu.be/IGVM2Y_aXLE)
 
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Os Autores. Ata de reunião 1- Grupo 08 - Sympla. Disponível em: <a href="https://youtu.be/IGVM2Y_aXLE">https://youtu.be/IGVM2Y_aXLE</a>. Acesso em: 27 out. 2024.</p></font>
 ---
 
 ### 5. Decisões Tomadas
