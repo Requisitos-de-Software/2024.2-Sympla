@@ -35,12 +35,12 @@ A Tabela 1 apresenta os itens elaborados para a avaliação.
 | **Itens do Conteúdo da Disciplina** |
 | 17 – No artefato “Rich Picture” possui uma legenda explicando os símbolos utilizados no diagrama? **Autor: Prof. André** |  |  |  |
 | 18 – Todos os 5 componentes de um “Rich Picture” estão presentes no artefato do “Rich Picture” apresentado pelo grupo. **Autor: Prof. André** |  |  |  |
-| <a id="anchor_2" href="#REF2">19</a> - Os atores estão claramente identificados? **Autor: Victor**|  | |  |
-| <a id="anchor_3" href="#REF3">20</a> - As operações refletem as funcionalidades principais do sistema? **Autor: Rafael**  |  |  |  |
-| <a id="anchor_4" href="#REF4">21</a> - O que está sendo armazenado está bem descrito e definido? **Autor: Milena** |  | |  |
-| <a id="anchor_5" href="#REF5">22</a> - Todas as setas estão direcionadas, refletindo a origem e o destino de dados? **Autor: Renan** |  | |  |
-| <a id="anchor_6" href="#REF6">23</a> - Os elementos internos e externos ao sistema estão corretamente conectados? **Autor: Gabriel** |  |  |  |
-| <a id="anchor_7" href="#REF7">24</a> - Cada integrante da equipe deve elaborar ao menos um 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência. **Autor: Prof. André** |  |  |  |
+| 19 - Os atores estão claramente identificados? <a id="anchor_1" href="#REF1"><sup>1</sup></a> **Autor: Victor** |  |  | |
+| 20 - As operações refletem as funcionalidades principais do sistema? <a id="anchor_2" href="#REF2"><sup>2</sup></a> **Autor: Rafael**  |  |  | |
+| 21 - O que está sendo armazenado está bem descrito e definido? <a id="anchor_3" href="#REF3"><sup>3</sup></a> **Autor: Milena** |  |  | |
+| 22 - Todas as setas estão direcionadas, refletindo a origem e o destino de dados? <a id="anchor_4" href="#REF4"><sup>4</sup></a> **Autor: Renan** |  |  | |
+| 23 - Os elementos internos e externos ao sistema estão corretamente conectados? <a id="anchor_5" href="#REF5"><sup>5</sup></a> **Autor: Gabriel** |  |  | |
+| 24 - Cada integrante da equipe deve elaborar ao menos um 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência. <a id="anchor_6" href="#REF6"><sup>6</sup></a> **Autor: Prof. André** |  |  | |
 
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Autores - todos, 2024</p></font>
@@ -49,17 +49,19 @@ A Tabela 1 apresenta os itens elaborados para a avaliação.
 
 > SALES, André Barros de. <a href="https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf">Plano de Ensino - Requisitos de Software</a>. Acesso em: 29 de out. de 2024.
 
-><a id="REF2" href="#anchor_2">2.</a> REVADI, Chindy Elsanna. Introducing Rich Pictures - Rich Picture Drawing Guidelines. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972420/mod_resource/content/2/1_5145791542719414573.pdf](https://aprender3.unb.br/pluginfile.php/2972420/mod_resource/content/2/1_5145791542719414573.pdf). Acesso em: 03 de nov. de 2024.
+## **Referências bibliográficas**
 
-><a id="anchor_3" href="#REF3"><sup>3</sup></a><br>![Referência 1](../grupo8/atores.png)
+><a id="REF1">1.</a> REVADI, Chindy Elsanna. Introducing Rich Pictures - Rich Picture Drawing Guidelines. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972420/mod_resource/content/2/1_5145791542719414573.pdf](https://aprender3.unb.br/pluginfile.php/2972420/mod_resource/content/2/1_5145791542719414573.pdf). Acesso em: 03 de nov. de 2024.
+
+><a id="REF2">2.</a><br>![Referência 2](../grupo8/atores.png)
 >****
-><a id="anchor_4" href="#REF4"><sup>4</sup></a><br>![Referência 2](../grupo8/operacoes.png)
+><a id="REF3">3.</a><br>![Referência 3](../grupo8/operacoes.png)
 >****
-><a id="anchor_5" href="#REF5"><sup>5</sup></a><br>![Referência 3](../grupo8/datas.png)
+><a id="REF4">4.</a><br>![Referência 4](../grupo8/datas.png)
 >****
-><a id="anchor_6" href="#REF6"><sup>6</sup></a><br>![Referência 4](../grupo8/setas.png)
+><a id="REF5">5.</a><br>![Referência 5](../grupo8/setas.png)
 >****
-><a id="anchor_7" href="#REF7"><sup>7</sup></a><br>![Referência 5](../grupo8/sistema.png)
+><a id="REF6">6.</a><br>![Referência 6](../grupo8/sistema.png)
 
 ## Histórico de Versões
 
