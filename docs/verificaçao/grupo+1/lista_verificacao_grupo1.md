@@ -37,51 +37,54 @@ Cada um dos itens da Tabela 1 será avaliado com Sim, Não ou Incompleto de acor
 | **Itens do Conteúdo da Disciplina** |
 | 17 – No artefato “Rich Picture” possui uma legenda explicando os símbolos utilizados no diagrama? **Autor: Prof. André** | Sim | 1.0 | 07/11/2024 |
 | 18 – Todos os 5 componentes de um “Rich Picture” estão presentes no artefato do “Rich Picture” apresentado pelo grupo. **Autor: Prof. André** | Sim | 1.0 | 07/11/2024 |
-| <a id="anchor_2" href="#REF2">19</a> - Os atores estão claramente identificados? **Autor: Victor** | Sim | 1.0 | 07/11/2024 |
-| <a id="anchor_3" href="#REF3">20</a> - As operações refletem as funcionalidades principais do sistema? **Autor: Rafael**  | Sim | 1.0 | 07/11/2024 |
-| <a id="anchor_4" href="#REF4">21</a> - O que está sendo armazenado está bem descrito e definido? **Autor: Milena** | Sim | 1.0 | 07/11/2024 |
-| <a id="anchor_5" href="#REF5">22</a> - Todas as setas estão direcionadas, refletindo a origem e o destino de dados? **Autor: Renan** | Sim | 1.0 | 07/11/2024 |
-| <a id="anchor_6" href="#REF6">23</a> - Os elementos internos e externos ao sistema estão corretamente conectados? **Autor: Gabriel** | Sim | 1.0 | 07/11/2024 |
-| <a id="anchor_7" href="#REF7">24</a> - Cada integrante da equipe deve elaborar ao menos um 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência. **Autor: Prof. André** | Incompleto | 1.0 | 07/11/2024 |
+| 19 - Os atores estão claramente identificados? <a id="anchor_1" href="#REF1"><sup>1</sup></a> **Autor: Victor** | Sim | 1.0 | 07/11/2024 |
+| 20 - As operações refletem as funcionalidades principais do sistema? <a id="anchor_2" href="#REF2"><sup>2</sup></a> **Autor: Rafael**  | Sim | 1.0 | 07/11/2024 |
+| 21 - O que está sendo armazenado está bem descrito e definido? <a id="anchor_3" href="#REF3"><sup>3</sup></a> **Autor: Milena** | Sim | 1.0 | 07/11/2024 |
+| 22 - Todas as setas estão direcionadas, refletindo a origem e o destino de dados? <a id="anchor_4" href="#REF4"><sup>4</sup></a> **Autor: Renan** | Sim | 1.0 | 07/11/2024 |
+| 23 - Os elementos internos e externos ao sistema estão corretamente conectados? <a id="anchor_5" href="#REF5"><sup>5</sup></a> **Autor: Gabriel** | Sim | 1.0 | 07/11/2024 |
+| 24 - Cada integrante da equipe deve elaborar ao menos um 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência. <a id="anchor_6" href="#REF6"><sup>6</sup></a> **Autor: Prof. André** | Incompleto | 1.0 | 07/11/2024 |
 
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Autores - todos, 2024</p></font>
 
 ## Vídeo
 
-Abaixo, no Vídeo 1, apresentamos o processo de auto verificação do grupo, justificando a Tabela 1.
+Abaixo, no Vídeo 1, apresentamos o processo de auto verificação do grupo 1, BlueSky, justificando a Tabela 1.
 
 
 <div style="text-align: center">
 
-<font size="3"><p style="text-align: center">Vídeo 1: Auto Verificação Entrega 1 - Grupo 08 - Sympla</p></font>
+<font size="3"><p style="text-align: center">Vídeo 1:  Verificação do Grupo +1: Grupo 1 - BlueSky</p></font>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRVJSeqUjA4?si=5Tn88yUw4Svk0TvB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aJtHxY5Kzrw?si=v09nlIVCYnBH2SdN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Os Autores. Auto Verificação Entrega 1 - Grupo 08 - Sympla. Disponível em: <a href="https://youtu.be/QRVJSeqUjA4">https://youtu.be/QRVJSeqUjA4</a>. Acesso em: 05 nov. 2024.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Os Autores. Grupo 8 - Sympla - Verificação do Grupo +1: Grupo 1 - BlueSky. Disponível em: <a href="https://youtu.be/aJtHxY5Kzrw">https://youtu.be/aJtHxY5Kzrw</a>. Acesso em: 07 nov. 2024.</p></font>
 </div>
 
 ## **Bibliografia**
 
 > SALES, André Barros de. <a href="https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf">Plano de Ensino - Requisitos de Software</a>. Acesso em: 29 de out. de 2024.
 
-><a id="REF2" href="#anchor_2">2.</a> REVADI, Chindy Elsanna. Introducing Rich Pictures - Rich Picture Drawing Guidelines. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972420/mod_resource/content/2/1_5145791542719414573.pdf](https://aprender3.unb.br/pluginfile.php/2972420/mod_resource/content/2/1_5145791542719414573.pdf). Acesso em: 03 de nov. de 2024.
+## **Referências bibliográficas**
 
-><a id="anchor_3" href="#REF3"><sup>3</sup></a><br>![Referência 1](../grupo8/atores.png)
+><a id="REF1">1.</a> REVADI, Chindy Elsanna. Introducing Rich Pictures - Rich Picture Drawing Guidelines. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972420/mod_resource/content/2/1_5145791542719414573.pdf](https://aprender3.unb.br/pluginfile.php/2972420/mod_resource/content/2/1_5145791542719414573.pdf). Acesso em: 03 de nov. de 2024.
+
+><a id="REF2">2.</a><br>![Referência 2](../grupo8/atores.png)
 >****
-><a id="anchor_4" href="#REF4"><sup>4</sup></a><br>![Referência 2](../grupo8/operacoes.png)
+><a id="REF3">3.</a><br>![Referência 3](../grupo8/operacoes.png)
 >****
-><a id="anchor_5" href="#REF5"><sup>5</sup></a><br>![Referência 3](../grupo8/datas.png)
+><a id="REF4">4.</a><br>![Referência 4](../grupo8/datas.png)
 >****
-><a id="anchor_6" href="#REF6"><sup>6</sup></a><br>![Referência 4](../grupo8/setas.png)
+><a id="REF5">5.</a><br>![Referência 5](../grupo8/setas.png)
 >****
-><a id="anchor_7" href="#REF7"><sup>7</sup></a><br>![Referência 5](../grupo8/sistema.png)
+><a id="REF6">6.</a><br>![Referência 6](../grupo8/sistema.png)
 
 ## Histórico de Versões
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
-1.0 | Criação do documento e inserção da tabela | [Milena Fernandes](https://github.com/MilenaFRocha) | 29/10/2024 | [Gabriel Scheidt](https://github.com/Gxaite)
+1.0 | Criação do documento e inserção da tabela | [Milena Rocha](https://github.com/MilenaFRocha) | 29/10/2024 | [Gabriel Scheidt](https://github.com/Gxaite)
 |   1.1  | Mudanças na introdução e fontes |  [Victor Hugo](https://github.com/VHbernardes) | 07/11/2024 |[Gabriel Scheidt](https://github.com/Gxaite)  |
 |  1.2   |  Mudanças no rich picture e fontes |  [Victor Hugo](https://github.com/VHbernardes) | 07/11/2024 |[Gabriel Scheidt](https://github.com/Gxaite)  |
-|  1.3   |  Verificação do grupo 1 |  [Rafael Pereira](https://github.com/rafgpereira) | 07/11/2024 |[Milena Fernandes](https://github.com/MilenaFRocha)  |
+|  1.3   |  Verificação do grupo 1 |  [Rafael Pereira](https://github.com/rafgpereira) | 07/11/2024 |[Milena Rocha](https://github.com/MilenaFRocha)  |
+|  1.4   |  Adição do vídeo da verificação do grupo 1 |  [Rafael Pereira](https://github.com/rafgpereira) | 07/11/2024 | [Victor Hugo](https://github.com/VHbernardes)  |
