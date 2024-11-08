@@ -17,32 +17,32 @@ Cada um dos itens da Tabela 1 será avaliado com Sim, Não ou Incompleto de acor
 | O github pages possui: |   Sim/Não/Incompleto   |  Versão da avaliação | Data da última avaliação |
 |------|:-------------------------------:|:--------------:|:--------------:|
 | **Itens do Planejamento Geral do projeto** |
-| 1 - Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula? | Sim | 1.0 | 29/10/2024 |
-| 2 - o cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? | Sim | 1.0 | 29/10/2024 |
-| 3 - o cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa. | Sim | 1.0 | 29/10/2024 |
-| 4 - O cronograma prevê um período de revisão/ajustes nos artefatos devidos as considerações dos monitores/professor? | Sim | 1.0 | 29/10/2024 |
-| 5 - A motivação e os critérios para a escolha do App? | Sim | 1.0 | 29/10/2024 |
-| 6 - Cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo permitindo o estudo na disciplina. | Sim | 1.0 | 29/10/2024 |
-| 7 - Possui opção de contraste de cores? | Sim | 1.1 | 29/10/2024 |
+| 1 - Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula? | Sim | 1.0 | 07/11/2024 |
+| 2 - o cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? | Sim | 1.0 | 07/11/2024 |
+| 3 - o cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa. | Sim | 1.0 | 07/11/2024 |
+| 4 - O cronograma prevê um período de revisão/ajustes nos artefatos devidos as considerações dos monitores/professor? | Sim | 1.0 | 07/11/2024 |
+| 5 - A motivação e os critérios para a escolha do App? | Sim | 1.0 | 07/11/2024 |
+| 6 - Cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo permitindo o estudo na disciplina. | Sim | 1.0 | 07/11/2024 |
+| 7 - Possui opção de contraste de cores? | Sim | 1.0 | 07/11/2024 |
 | **Itens do Desenvolvimento do projeto** |
-| 8 - O histórico de versão padronizado? | Sim | 1.0 | 29/10/2024 |
-| 9 – O(s) autor(es) e o(s) revisor(es) para cada artefato? | Sim | 1.0 | 29/10/2024 |
-| 10 - Referências bibliográficas e/ou bibliografia em todos os artefatos? | Sim | 1.1 | 05/11/2024 |
-| 11 - As tabelas e imagens possuem título, fonte e elas chamadas dentro dos texto? | Sim | 1.0 | 29/10/2024 |
-| 12 - Um texto fazendo uma introdução dos artefatos? | Sim | 1.0 | 29/10/2024 |
-| 13 - O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade. | Sim | 1.0 | 29/10/2024 |
-| 14 - Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc). | Sim | 1.0 | 29/10/2024 |
-| 15 – A gravação da reunião do grupo | Sim | 1.0 |  29/10/2024 |
-| 16 - Vídeo de apresentação na categoria “não listado” no youtube? | Sim | 1.0 | 29/10/2024 |
+| 8 - O histórico de versão padronizado? | Sim | 1.0 | 07/11/2024 |
+| 9 – O(s) autor(es) e o(s) revisor(es) para cada artefato? | Sim | 1.0 | 07/11/2024 |
+| 10 - Referências bibliográficas e/ou bibliografia em todos os artefatos? | Incompleto | 1.0 | 07/11/2024 |
+| 11 - As tabelas e imagens possuem título, fonte e elas chamadas dentro dos texto? | Incompleto | 1.0 | 07/11/2024 |
+| 12 - Um texto fazendo uma introdução dos artefatos? | Sim | 1.0 | 07/11/2024 |
+| 13 - O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade. | Não | 1.0  | 07/11/2024 |
+| 14 - Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc). | Sim | 1.0 | 07/11/2024 |
+| 15 – A gravação da reunião do grupo | Sim | 1.0 |  07/11/2024 |
+| 16 - Vídeo de apresentação na categoria “não listado” no youtube? | Sim | 1.0 | 07/11/2024 |
 | **Itens do Conteúdo da Disciplina** |
-| 17 – No artefato “Rich Picture” possui uma legenda explicando os símbolos utilizados no diagrama? **Autor: Prof. André** | Sim | 1.0 | 29/10/2024 |
-| 18 – Todos os 5 componentes de um “Rich Picture” estão presentes no artefato do “Rich Picture” apresentado pelo grupo. **Autor: Prof. André** | Sim | 1.0 | 29/10/2024 |
-| <a id="anchor_2" href="#REF2">19</a> - Os atores estão claramente identificados? **Autor: Victor** | Sim | 1.1 | 05/11/2024 |
-| <a id="anchor_3" href="#REF3">20</a> - As operações refletem as funcionalidades principais do sistema? **Autor: Rafael**  | Sim | 1.1 | 05/11/2024 |
-| <a id="anchor_4" href="#REF4">21</a> - O que está sendo armazenado está bem descrito e definido? **Autor: Milena** | Sim | 1.1 | 05/11/2024 |
-| <a id="anchor_5" href="#REF5">22</a> - Todas as setas estão direcionadas, refletindo a origem e o destino de dados? **Autor: Renan** | Sim | 1.1 | 05/11/2024 |
-| <a id="anchor_6" href="#REF6">23</a> - Os elementos internos e externos ao sistema estão corretamente conectados? **Autor: Gabriel** | Sim | 1.1 | 05/11/2024 |
-| <a id="anchor_7" href="#REF7">24</a> - Cada integrante da equipe deve elaborar ao menos um 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência. **Autor: Prof. André** | Sim | 1.1 | 05/11/2024 |
+| 17 – No artefato “Rich Picture” possui uma legenda explicando os símbolos utilizados no diagrama? **Autor: Prof. André** | Sim | 1.0 | 07/11/2024 |
+| 18 – Todos os 5 componentes de um “Rich Picture” estão presentes no artefato do “Rich Picture” apresentado pelo grupo. **Autor: Prof. André** | Sim | 1.0 | 07/11/2024 |
+| <a id="anchor_2" href="#REF2">19</a> - Os atores estão claramente identificados? **Autor: Victor** | Sim | 1.0 | 07/11/2024 |
+| <a id="anchor_3" href="#REF3">20</a> - As operações refletem as funcionalidades principais do sistema? **Autor: Rafael**  | Sim | 1.0 | 07/11/2024 |
+| <a id="anchor_4" href="#REF4">21</a> - O que está sendo armazenado está bem descrito e definido? **Autor: Milena** | Sim | 1.0 | 07/11/2024 |
+| <a id="anchor_5" href="#REF5">22</a> - Todas as setas estão direcionadas, refletindo a origem e o destino de dados? **Autor: Renan** | Sim | 1.0 | 07/11/2024 |
+| <a id="anchor_6" href="#REF6">23</a> - Os elementos internos e externos ao sistema estão corretamente conectados? **Autor: Gabriel** | Sim | 1.0 | 07/11/2024 |
+| <a id="anchor_7" href="#REF7">24</a> - Cada integrante da equipe deve elaborar ao menos um 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência. **Autor: Prof. André** | Incompleto | 1.0 | 07/11/2024 |
 
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Autores - todos, 2024</p></font>
@@ -82,5 +82,6 @@ Abaixo, no Vídeo 1, apresentamos o processo de auto verificação do grupo, jus
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 1.0 | Criação do documento e inserção da tabela | [Milena Fernandes](https://github.com/MilenaFRocha) | 29/10/2024 | [Gabriel Scheidt](https://github.com/Gxaite)
-|  1.1   | Mudanças na introdução e fontes |  [Victor Hugo](https://github.com/VHbernardes) | 07/11/2024 |[Gabriel](https://github.com/Gxaite)  |
-|  1.2   |  Mudanças no rich picture e fontes |  [Victor Hugo](https://github.com/VHbernardes) | 07/11/2024 |[Gabriel](https://github.com/Gxaite)  |
+|   1.1  | Mudanças na introdução e fontes |  [Victor Hugo](https://github.com/VHbernardes) | 07/11/2024 |[Gabriel Scheidt](https://github.com/Gxaite)  |
+|  1.2   |  Mudanças no rich picture e fontes |  [Victor Hugo](https://github.com/VHbernardes) | 07/11/2024 |[Gabriel Scheidt](https://github.com/Gxaite)  |
+|  1.3   |  Verificação do grupo 1 |  [Rafael Pereira](https://github.com/rafgpereira) | 07/11/2024 |[Milena Fernandes](https://github.com/MilenaFRocha)  |
