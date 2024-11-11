@@ -149,11 +149,13 @@ Na Tabela 5, tem-se o cronograma executado para todas as atividades da última e
 
 | Atividade                                       | Período de desenvolvimento    | Responsáveis                              | Revisão                      | Revisores          |
 |-------------------------------------------------|------------------------------|-------------------------------------------|------------------------------|--------------------|
-| Levantamento inicial para definição de perfis    | Início: 01/11 <br>Fim: 03/11 | [Victor Hugo](https://github.com/VHbernardes)                               |  |      |
-| Criação e detalhamento dos perfis de usuários    | Início: 03/11 <br>Fim: 05/11 | [Victor Hugo](https://github.com/VHbernardes)                               |  |       |
-| Estudo das técnicas para elicitação de requisitos | Início: 03/11 <br>Fim: 07/11 | [Milena](https://github.com/MilenaFRocha)                              |  |      |
-| Seleção das metodologias aplicáveis              | Início: 07/11 <br>Fim: 08/11 | [Milena](https://github.com/MilenaFRocha)                              |  |      |
-| Análise reflexiva para identificação de requisitos| Início: 09/11 <br>Fim: 11/11 |  [Gabriel](https://github.com/Gxaite)                           |  |     |
+| Levantamento inicial para definição de perfis    | Início: 11/11 <br>Fim: 13/11 | [Victor Hugo](https://github.com/VHbernardes)                               |  |      |
+| Criação e detalhamento dos perfis de usuários e personas    | Início: 11/11 <br>Fim: 13/11 | [Victor Hugo](https://github.com/VHbernardes)                               |  |       |
+| Estudo das técnicas para elicitação de requisitos (Brainstorming) | Início: 11/11 <br>Fim: 14/11 |  [Milena](https://github.com/MilenaFRocha) e [Gabriel](https://github.com/Gxaite)                              |  |      |
+| Estudo das técnicas para elicitação de requisitos (Questionário) | Início: 11/11 <br>Fim: 14/11 |  [Rafael](https://github.com/rafgpereira) e [Renan](https://github.com/renantfm4)                              |  |      |
+| Estudo das técnicas para elicitação de requisitos (Entrevista) | Início: 11/11 <br>Fim: 14/11 |  [Rafael](https://github.com/rafgpereira) e [Renan](https://github.com/renantfm4)                              |  |      |
+| Seleção das metodologias aplicáveis              | Início: 11/11 <br>Fim: 13/11 | Todos                              |  |      |
+| Análise reflexiva para identificação de requisitos| Início: 11/11 <br>Fim: 13/11 |  [Gabriel](https://github.com/Gxaite)                           |  |     |
 | Elaboração de formulários e questionários        | Início: 11/11 <br>Fim: 13/11 | [Rafael](https://github.com/rafgpereira)                            |  |     |
 | Realização de entrevistas de coleta de requisitos | Início: 13/11 <br>Fim: 14/11 | [Renan](https://github.com/renantfm4)                              | |      |
 | Sessão colaborativa para geração de ideias       | Início: 15/11 <br>Fim: 18/11 |  [Gabriel](https://github.com/Gxaite)                           |  |   |
@@ -319,5 +321,6 @@ Na Tabela 14, tem-se o cronograma executado para todas as atividades da última 
 |  1.3  | Criação dos cronogramas restantes |  [Victor Hugo](https://github.com/VHbernardes) | 28/10/2024   | [Gabriel Scheidt](https://github.com/Gxaite) |
 |  1.4  | Adição de atividades na entrega 1 |  [Rafael Pereira](https://github.com/rafgpereira) | 28/10/2024   | [Victor Hugo](https://github.com/VHbernardes) |
 |  1.5  | Correção de atribuições e links de perfil |  [Rafael Pereira](https://github.com/rafgpereira) | 05/11/2024   | [Renan Araújo](https://github.com/renantfm4) |
+|  2.0  | Adições no cronograma executado |  [Victor Hugo](https://github.com/VHbernardes) | 11/11/2024   | [Rafael Pereira](https://github.com/rafgpereira) |
 
 </center>
