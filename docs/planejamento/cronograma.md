@@ -152,11 +152,11 @@ Na Tabela 5, tem-se o cronograma executado para todas as atividades da última e
 | Levantamento inicial para definição de perfis    | Início: 11/11 <br>Fim: 13/11 | [Victor Hugo](https://github.com/VHbernardes)                               |  |      |
 | Criação e detalhamento dos perfis de usuários e personas    | Início: 11/11 <br>Fim: 13/11 | [Victor Hugo](https://github.com/VHbernardes)                               |  |       |
 | Estudo das técnicas para elicitação de requisitos (Brainstorming) | Início: 11/11 <br>Fim: 14/11 |  [Milena](https://github.com/MilenaFRocha) e [Gabriel](https://github.com/Gxaite)                              |  |      |
-| Estudo das técnicas para elicitação de requisitos (Questionário) | Início: 11/11 <br>Fim: 14/11 |  [Rafael](https://github.com/rafgpereira) e [Renan](https://github.com/renantfm4)                              |  |      |
+| Estudo das técnicas para elicitação de requisitos (Questionário) | Início: 12/11 <br>Fim: 12/11 |  [Rafael](https://github.com/rafgpereira) e [Renan](https://github.com/renantfm4)                              | Início: 12/11 <br>Fim: 13/11 |   [Victor Hugo](https://github.com/VHbernardes)   |
 | Estudo das técnicas para elicitação de requisitos (Entrevista) | Início: 11/11 <br>Fim: 14/11 |  [Rafael](https://github.com/rafgpereira) e [Renan](https://github.com/renantfm4)                              |  |      |
 | Seleção das metodologias aplicáveis              | Início: 11/11 <br>Fim: 13/11 | Todos                              |  |      |
 | Análise reflexiva para identificação de requisitos| Início: 11/11 <br>Fim: 13/11 |  [Gabriel](https://github.com/Gxaite)                           |  |     |
-| Elaboração de formulários e questionários        | Início: 11/11 <br>Fim: 13/11 | [Rafael](https://github.com/rafgpereira)                            |  |     |
+| Elaboração de formulários e questionários        | Início: 12/11 <br>Fim: 12/11 | [Rafael](https://github.com/rafgpereira) e [Renan](https://github.com/renantfm4)                            | Início: 12/11 <br>Fim: 13/11 |  [Victor Hugo](https://github.com/VHbernardes)   |
 | Realização de entrevistas de coleta de requisitos | Início: 13/11 <br>Fim: 14/11 | [Renan](https://github.com/renantfm4)                              | |      |
 | Sessão colaborativa para geração de ideias       | Início: 15/11 <br>Fim: 18/11 |  [Gabriel](https://github.com/Gxaite)                           |  |   |
 | Ordenação das prioridades de requisitos           | Início: 19/11 <br>Fim: 21/11 | [Rafael](https://github.com/rafgpereira)                            |  |     |
