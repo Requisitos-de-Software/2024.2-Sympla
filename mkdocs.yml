@@ -62,6 +62,9 @@ nav:
       - Entrega 1:
         - Planejamento da Verificação - Bluesky: verificaçao/grupo+1/entrega1_grupo1.md
         - Lista de Verificação executada - Bluesky: verificaçao/grupo+1/lista_verificacao_grupo1.md
+  - Elicitação:
+    - Perfil do usuário: elicitacao/perfil_usuario.md
+    - Personas: elicitacao/personas.md
 
 extra:
   social:
