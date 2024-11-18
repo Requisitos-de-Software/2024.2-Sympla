@@ -89,6 +89,11 @@ Após analisar as respostas coletadas, foi possível traçar o perfil de usuári
 - **Tarefas Primárias**:
     Compra e consulta. Os usuários frequentemente realizam compras online, com 37,8% comprando com frequência e 31,1% comprando de vez em quando. Além disso, a maioria consulta e explora diversas opções dentro de sites até encontrar o que procuram. Isso aponta para uma preferência por comprar e consultar informações online.
 
+## **Bibliografia**
+
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972437/mod_resource/content/2/ihc-ux-%20Personas.pdf](https://aprender3.unb.br/pluginfile.php/2972437/mod_resource/content/2/ihc-ux-%20Personas.pdf). Acesso em: 18 de Nov. 2024
+
+
 ## Histórico de Versões
 
 <center>
