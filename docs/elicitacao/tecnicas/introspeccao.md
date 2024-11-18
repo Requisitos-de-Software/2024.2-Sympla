@@ -87,6 +87,6 @@ Vale ressaltar que os requisitos RF11 só é possível por meio do email e não 
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                     | Autor(es)                                      | Revisor(es)                                      |
-| ------ | ---------- | --------------------------------------------- | ---------------------------------------------- | ------------------------------------------------ |
-| 1.0    | 18/11/2024 | Criação do arquivo              | [Milena Fernandes](https://github.com/MilenaFRocha)  [Gabriel Scheidt](https://github.com/Gxaite)  | [Rafael Pereira](https://github.com/rafgpereira)      |
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     | 
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
+|  1.0   | Criação desse documento | [Milena Rocha](https://github.com/MilenaFRocha) | 18/11/2024 | [Rafael Pereira](https://github.com/rafgpereira)  |
