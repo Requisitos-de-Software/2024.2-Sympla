@@ -55,8 +55,8 @@ nav:
     - Personas: elicitacao/personas.md
     - Técnicas:
       - Questionário: elicitacao/tecnicas/questionario.md
-      - Observação: elecitacao/tecnicas/observacao.md
-      - Introspecção: elecitacao/tecnicas/introspeccao.md
+      - Observação: elicitacao/tecnicas/observacao.md
+      - Introspecção: elicitacao/tecnicas/introspeccao.md
   - Apresentações:
     - Apresentação 1: apresentacoes/apresentacao1.md
   - Verificação:
