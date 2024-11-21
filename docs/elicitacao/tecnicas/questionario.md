@@ -10,6 +10,14 @@ O formulário foi produzido com o objetivo de elaborar os perfis de usuário e i
 
 ## Resultados
 
+Nesta página, são apresentados os resultados obtidos a partir de um questionário online aplicado pelo grupo. No início do questionário, os participantes tem acesso ao termo de consentimento, garantindo a clareza sobre os objetivos da pesquisa. O questionário ficou disponibilizado do dia 13/11/2024 até o dia 17/11/2024, o questionário obteve 54 respostas com 24 perguntas com dois fluxos distintos. Esses fluxos foram determinados com base na resposta à pergunta inicial, ilustrada na Figura 1, direcionando os participantes para um caminho específico: um para aqueles que nunca utilizaram o aplicativo e outro para os que já tiveram experiência com ele.
+
+<figure markdown>
+<font size="4"><p style="text-align: center"><b>Figura 1</b> - Pergunta 1.</p></font>
+<iframe style="border:3px solid blue" width="648" height="401" seamless frameborder="0" scrolling="no" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBKvPNRGAkOBk2oHFzEnW5kqLTSQ8JKvrQdmrmp8rF0POqylGDGWV-VQjFjGt9dhb6reUp-NRKlkqR/pubchart?oid=1105751934&format=interactive"></iframe>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/renantfm4">Renan Araújo</a>, 2024</p></font>
+</figure>
+
 ## **Bibliografia**
 
 > **Universidade Federal de Santa Catarina (UFSC)**. "Técnicas de Elicitação de Requisitos: Questionários." REtraining - Guia Facetado de Técnicas de Elicitação de Requisitos, 2024. Acessado em 12 de novembro de 2024. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-questionarios.
