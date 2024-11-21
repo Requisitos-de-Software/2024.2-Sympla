@@ -130,7 +130,7 @@ Nas figuras de 2 a 18, as perguntas foram elaboradas com o objetivo de coletar i
 
 ### Pessoas que não utilizaram o aplicativo
 
-Nas figuras de 2 a 18, as perguntas foram elaboradas com o objetivo de coletar informações sobre os usuários e analisá-las estatisticamente para a elicitação de requisitos.
+Nas figuras de 17 a 21, as perguntas foram elaboradas com o objetivo de coletar informações sobre os usuários e analisá-las estatisticamente para a elicitação de requisitos.
 
 <figure markdown>
 <font size="4"><p style="text-align: center"><b>Figura 17</b> - Pergunta 2.</p></font>
