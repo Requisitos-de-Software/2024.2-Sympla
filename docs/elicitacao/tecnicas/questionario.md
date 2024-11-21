@@ -43,6 +43,37 @@ Nas figuras de 2 a 18, as perguntas foram elaboradas com o objetivo de coletar i
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/renantfm4">Renan Araújo</a>, 2024</p></font>
 </figure>
 
+<figure markdown>
+<font size="4"><p style="text-align: center"><b>Figura 5</b> - Pergunta 5.</p></font>
+<iframe style="border:3px solid blue" width="648" height="401" seamless frameborder="0" scrolling="no" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBKvPNRGAkOBk2oHFzEnW5kqLTSQ8JKvrQdmrmp8rF0POqylGDGWV-VQjFjGt9dhb6reUp-NRKlkqR/pubchart?oid=1530431102&format=interactive"></iframe>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/renantfm4">Renan Araújo</a>, 2024</p></font>
+</figure>
+
+<figure markdown>
+<font size="4"><p style="text-align: center"><b>Figura 6</b> - Pergunta 6.</p></font>
+<iframe style="border:3px solid blue" width="648" height="401" seamless frameborder="0" scrolling="no" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBKvPNRGAkOBk2oHFzEnW5kqLTSQ8JKvrQdmrmp8rF0POqylGDGWV-VQjFjGt9dhb6reUp-NRKlkqR/pubchart?oid=1389444095&format=interactive"></iframe>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/renantfm4">Renan Araújo</a>, 2024</p></font>
+</figure>
+
+<figure markdown>
+<font size="4"><p style="text-align: center"><b>Figura 7</b> - Pergunta 7.</p></font>
+<iframe style="border:3px solid blue" width="648" height="401" seamless frameborder="0" scrolling="no" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBKvPNRGAkOBk2oHFzEnW5kqLTSQ8JKvrQdmrmp8rF0POqylGDGWV-VQjFjGt9dhb6reUp-NRKlkqR/pubchart?oid=289153411&format=interactive"></iframe>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/renantfm4">Renan Araújo</a>, 2024</p></font>
+</figure>
+
+<figure markdown>
+<font size="4"><p style="text-align: center"><b>Figura 8</b> - Pergunta 8.</p></font>
+<iframe style="border:3px solid blue" width="648" height="401" seamless frameborder="0" scrolling="no" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBKvPNRGAkOBk2oHFzEnW5kqLTSQ8JKvrQdmrmp8rF0POqylGDGWV-VQjFjGt9dhb6reUp-NRKlkqR/pubchart?oid=1980204085&format=interactive"></iframe>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/renantfm4">Renan Araújo</a>, 2024</p></font>
+</figure>
+
+<figure markdown>
+<font size="4"><p style="text-align: center"><b>Figura 8</b> - Pergunta 8.</p></font>
+<iframe style="border:3px solid blue" width="648" height="401" seamless frameborder="0" scrolling="no" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBKvPNRGAkOBk2oHFzEnW5kqLTSQ8JKvrQdmrmp8rF0POqylGDGWV-VQjFjGt9dhb6reUp-NRKlkqR/pubchart?oid=623768043&format=interactive"></iframe>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/renantfm4">Renan Araújo</a>, 2024</p></font>
+</figure>
+
+
 ## **Bibliografia**
 
 > **Universidade Federal de Santa Catarina (UFSC)**. "Técnicas de Elicitação de Requisitos: Questionários." REtraining - Guia Facetado de Técnicas de Elicitação de Requisitos, 2024. Acessado em 12 de novembro de 2024. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-questionarios.
