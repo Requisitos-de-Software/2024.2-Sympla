@@ -57,6 +57,8 @@ nav:
       - Questionário: elicitacao/tecnicas/questionario.md
       - Observação: elicitacao/tecnicas/observacao.md
       - Introspecção: elicitacao/tecnicas/introspeccao.md
+    - Requisitos:
+      - Requisitos Elicitados: elicitacao/requisitos/requisitos_elicitados.md
   - Apresentações:
     - Apresentação 1: apresentacoes/apresentacao1.md
   - Verificação:
