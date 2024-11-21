@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Esta página reúne todos os requisitos funcionais e não funcionais elicitados por meio das técnicas de [introspecção](tecnicas/introspeccao.md), [questionário](tecnicas/questionario.md), [entrevista](tecnicas/entrevista.md) e [observação](tecnicas/observacao.md).
+Esta página reúne todos os requisitos funcionais e não funcionais elicitados por meio das técnicas de [introspecção](../tecnicas/introspeccao.md), [questionário](../tecnicas/questionario.md), [entrevista](../tecnicas/entrevista.md) e [observação](../tecnicas/observacao.md).
 
 ## Metodologia
 
