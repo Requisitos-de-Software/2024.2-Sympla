@@ -112,5 +112,6 @@ Legenda das Tabelas 2 e 3:
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     | 
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação desse documento | [Milena Rocha](https://github.com/MilenaFRocha) | 18/11/2024 | [Rafael Pereira](https://github.com/rafgpereira)  |
+|  2.0   |Adição do Termo assinado | [Gabriel Scheidt](https://github.com/gxaite) | 18/11/2024 | [Milena Rocha](https://github.com/MilenaFRocha) |
 
 
