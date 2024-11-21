@@ -25,7 +25,11 @@ O processo de introspecção foi conduzido individualmente pelos alunos [Milena 
 
 ### [Gabriel Scheidt](https://github.com/Gxaite)
 
-Para a aplicação deste método, imaginei-me em uma situação na qual eu desejasse participar de um evento utilizando o Sympla. Assim, como usuário e sem visualizar o aplicativo, refleti sobre as funcionalidades que seriam indispensáveis para realizar essa tarefa. Além disso, considerei as possíveis dificuldades que poderiam surgir e o que o aplicativo deveria oferecer como solução para essas situações.
+Para a aplicação deste método, imaginei-me em uma situação cotidiana de João (persona escolhida) na qual eu desejasse participar de um evento utilizando o Sympla. Assim, como usuário e sem visualizar o aplicativo, refleti sobre as funcionalidades que seriam indispensáveis para realizar essa tarefa. Além disso, considerei as possíveis dificuldades que poderiam surgir e o que o aplicativo deveria oferecer como solução para essas situações.
+
+### [Milena Rocha](https://github.com/MilenaFRocha)
+
+Para a aplicação deste método, imaginei-me em uma situação cotidiana de Beatriz (persona escolhida). Sou Beatriz, analista de marketing e mãe. Minha rotina é corrida, e, quando tenho tempo livre, gosto de encontrar eventos culturais ou de entretenimento para aproveitar com minha família. Uso o Sympla porque preciso de uma forma rápida e prática de achar eventos interessantes. Quero filtros simples por categoria e localização, sugestões que combinem com meus gostos e uma integração fácil com meu calendário para organizar tudo. Também preciso que a compra de ingressos seja descomplicada, com pagamento rápido e seguro. Não posso perder tempo, então, se algo der errado, espero suporte imediato e soluções rápidas, para que eu possa curtir meu tempo livre sem preocupações.
 
 ## Requisitos elicitados
 
