@@ -19,7 +19,7 @@ As siglas representam:
 
 ## Requisitos funcionais
 
-<p style="text-align: center"><b><a id="tab_1" style="visibility: hidden;"></a>Tabela 1</b> - Requisitos funcionais</p>
+<p style="text-align: center"><b><a id="tab_1" style="visibility: hidden;"></a>Tabela 1</b> - Requisitos funcionais e não funcionais</p>
 
 
 
