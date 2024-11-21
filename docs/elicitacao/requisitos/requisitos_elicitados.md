@@ -22,7 +22,6 @@ As siglas representam:
 <p style="text-align: center"><b><a id="tab_1" style="visibility: hidden;"></a>Tabela 1</b> - Requisitos funcionais</p>
 
 
-Aqui está a tabela com os requisitos repetidos consolidados e os IDs agrupados:
 
 | Tipo  | Descrição                                                                                                                         | ID                             | Implementado |
 |-------|-----------------------------------------------------------------------------------------------------------------------------------|--------------------------------|--------------|
