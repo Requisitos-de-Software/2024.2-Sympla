@@ -21,8 +21,31 @@ No dia 18/11/2024, das 14:00 às 15:00, os integrantes se reuniram, conforme det
 
 <font size="3"><p style="text-align: center">Fonte: [Milena Rocha](https://github.com/MilenaFRocha) e [Gabriel Scheidt](https://github.com/Gxaite).</p></font>
 
+### Termo de uso de imagem
+Abaixo está o temro de uso de imagem e voz do participante Gabriel Pessoa Zaranza na Figura 1.
+
+<font size="3"><p style="text-align: center">Figura 1: Termo de Uso assinado.</p></font>
+![Termo Zaranza](../../assets/observacao/termozaranza.png)
+
+
 ### [Link para a gravação da observação.](https://www.youtube.com/watch?v=YAJ2Utv1DEg)
+No dia 18/11/2024 a Observação foi realizada e publicada, o contéudo pode ser visto no Vídeo 1.
+
+<div style="text-align: center">
+
+<font size="3"><p style="text-align: center">Vídeo 1: Requisitos grupo 8 - Sympla - Observação, 2024/2, UnB. 2024</p></font>
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YAJ2Utv1DEg?si=hrKmBmviNJFMxqnc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Os Autores. Grupo 08 - Sympla - Entrega 1 - Requisitos de Software, 2024/2, UnB. 2024. Disponível em: <a href="https://www.youtube.com/watch?v=YAJ2Utv1DEg">https://www.youtube.com/watch?v=YAJ2Utv1DEg</a>. Acesso em: 21 nov. 2024.</p></font>
+</div>
+
+Durante a observação realizada o usuário entrou em contato com a assistência técnica do aplicativo sympla afim de receber um direcionamento de como prosseguir com a compra do ingresso. O contato do usuário foi feito as 14:45 no dia 18/11/2024 e a resposta foi enviada e notificada por email as 14:52.
+
+<center>
+![Resposta ](../../assets/observacao/respostaAtendimento.png)
+</center>
 
 ## Requisitos elicitados
 
