@@ -73,6 +73,40 @@ Nas figuras de 2 a 18, as perguntas foram elaboradas com o objetivo de coletar i
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/renantfm4">Renan Araújo</a>, 2024</p></font>
 </figure>
 
+<figure markdown>
+<font size="4"><p style="text-align: center"><b>Figura 9</b> - Pergunta 9.</p></font>
+<iframe style="border:3px solid blue" width="648" height="401" seamless frameborder="0" scrolling="no" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBKvPNRGAkOBk2oHFzEnW5kqLTSQ8JKvrQdmrmp8rF0POqylGDGWV-VQjFjGt9dhb6reUp-NRKlkqR/pubchart?oid=1976134991&format=interactive"></iframe>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/renantfm4">Renan Araújo</a>, 2024</p></font>
+</figure>
+
+<figure markdown>
+<font size="4"><p style="text-align: center"><b>Figura 10</b> - Pergunta 10.</p></font>
+<iframe style="border:3px solid blue" width="648" height="401" seamless frameborder="0" scrolling="no" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBKvPNRGAkOBk2oHFzEnW5kqLTSQ8JKvrQdmrmp8rF0POqylGDGWV-VQjFjGt9dhb6reUp-NRKlkqR/pubchart?oid=3565947&format=interactive"></iframe>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/renantfm4">Renan Araújo</a>, 2024</p></font>
+</figure>
+
+<figure markdown>
+<font size="4"><p style="text-align: center"><b>Figura 11</b> - Pergunta 11.</p></font>
+<iframe style="border:3px solid blue" width="648" height="401" seamless frameborder="0" scrolling="no" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBKvPNRGAkOBk2oHFzEnW5kqLTSQ8JKvrQdmrmp8rF0POqylGDGWV-VQjFjGt9dhb6reUp-NRKlkqR/pubchart?oid=573709459&format=interactive"></iframe>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/renantfm4">Renan Araújo</a>, 2024</p></font>
+</figure>
+
+<figure markdown>
+<font size="4"><p style="text-align: center"><b>Figura 12</b> - Pergunta 12.</p></font>
+<iframe style="border:3px solid blue" width="648" height="401" seamless frameborder="0" scrolling="no" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBKvPNRGAkOBk2oHFzEnW5kqLTSQ8JKvrQdmrmp8rF0POqylGDGWV-VQjFjGt9dhb6reUp-NRKlkqR/pubchart?oid=1877431952&format=interactive"></iframe>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/renantfm4">Renan Araújo</a>, 2024</p></font>
+</figure>
+
+<figure markdown>
+<font size="4"><p style="text-align: center"><b>Figura 13</b> - Pergunta 13.</p></font>
+<iframe style="border:3px solid blue" width="648" height="401" seamless frameborder="0" scrolling="no" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBKvPNRGAkOBk2oHFzEnW5kqLTSQ8JKvrQdmrmp8rF0POqylGDGWV-VQjFjGt9dhb6reUp-NRKlkqR/pubchart?oid=525931892&format=interactive"></iframe>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/renantfm4">Renan Araújo</a>, 2024</p></font>
+</figure>
+
+
+
+
+
 
 ## **Bibliografia**
 
