@@ -75,36 +75,92 @@ Nas figuras de 2 a 18, as perguntas foram elaboradas com o objetivo de coletar i
 
 <figure markdown>
 <font size="4"><p style="text-align: center"><b>Figura 9</b> - Pergunta 9.</p></font>
-<iframe style="border:3px solid blue" width="648" height="401" seamless frameborder="0" scrolling="no" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBKvPNRGAkOBk2oHFzEnW5kqLTSQ8JKvrQdmrmp8rF0POqylGDGWV-VQjFjGt9dhb6reUp-NRKlkqR/pubchart?oid=1976134991&format=interactive"></iframe>
+<iframe style="border:3px solid blue" width="648" height="401" seamless frameborder="0" scrolling="no" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBKvPNRGAkOBk2oHFzEnW5kqLTSQ8JKvrQdmrmp8rF0POqylGDGWV-VQjFjGt9dhb6reUp-NRKlkqR/pubchart?oid=1384459793&format=interactive"></iframe>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/renantfm4">Renan Araújo</a>, 2024</p></font>
 </figure>
 
 <figure markdown>
 <font size="4"><p style="text-align: center"><b>Figura 10</b> - Pergunta 10.</p></font>
-<iframe style="border:3px solid blue" width="648" height="401" seamless frameborder="0" scrolling="no" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBKvPNRGAkOBk2oHFzEnW5kqLTSQ8JKvrQdmrmp8rF0POqylGDGWV-VQjFjGt9dhb6reUp-NRKlkqR/pubchart?oid=3565947&format=interactive"></iframe>
+<iframe style="border:3px solid blue" width="648" height="401" seamless frameborder="0" scrolling="no" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBKvPNRGAkOBk2oHFzEnW5kqLTSQ8JKvrQdmrmp8rF0POqylGDGWV-VQjFjGt9dhb6reUp-NRKlkqR/pubchart?oid=827534274&format=interactive"></iframe>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/renantfm4">Renan Araújo</a>, 2024</p></font>
 </figure>
 
 <figure markdown>
 <font size="4"><p style="text-align: center"><b>Figura 11</b> - Pergunta 11.</p></font>
-<iframe style="border:3px solid blue" width="648" height="401" seamless frameborder="0" scrolling="no" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBKvPNRGAkOBk2oHFzEnW5kqLTSQ8JKvrQdmrmp8rF0POqylGDGWV-VQjFjGt9dhb6reUp-NRKlkqR/pubchart?oid=573709459&format=interactive"></iframe>
+<iframe style="border:3px solid blue" width="648" height="401" seamless frameborder="0" scrolling="no" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBKvPNRGAkOBk2oHFzEnW5kqLTSQ8JKvrQdmrmp8rF0POqylGDGWV-VQjFjGt9dhb6reUp-NRKlkqR/pubchart?oid=1392588269&format=interactive"></iframe>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/renantfm4">Renan Araújo</a>, 2024</p></font>
 </figure>
 
 <figure markdown>
 <font size="4"><p style="text-align: center"><b>Figura 12</b> - Pergunta 12.</p></font>
-<iframe style="border:3px solid blue" width="648" height="401" seamless frameborder="0" scrolling="no" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBKvPNRGAkOBk2oHFzEnW5kqLTSQ8JKvrQdmrmp8rF0POqylGDGWV-VQjFjGt9dhb6reUp-NRKlkqR/pubchart?oid=1877431952&format=interactive"></iframe>
+<iframe style="border:3px solid blue" width="648" height="401" seamless frameborder="0" scrolling="no" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBKvPNRGAkOBk2oHFzEnW5kqLTSQ8JKvrQdmrmp8rF0POqylGDGWV-VQjFjGt9dhb6reUp-NRKlkqR/pubchart?oid=359616327&format=interactive"></iframe>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/renantfm4">Renan Araújo</a>, 2024</p></font>
 </figure>
 
 <figure markdown>
 <font size="4"><p style="text-align: center"><b>Figura 13</b> - Pergunta 13.</p></font>
-<iframe style="border:3px solid blue" width="648" height="401" seamless frameborder="0" scrolling="no" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBKvPNRGAkOBk2oHFzEnW5kqLTSQ8JKvrQdmrmp8rF0POqylGDGWV-VQjFjGt9dhb6reUp-NRKlkqR/pubchart?oid=525931892&format=interactive"></iframe>
+<iframe style="border:3px solid blue" width="648" height="401" seamless frameborder="0" scrolling="no" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBKvPNRGAkOBk2oHFzEnW5kqLTSQ8JKvrQdmrmp8rF0POqylGDGWV-VQjFjGt9dhb6reUp-NRKlkqR/pubchart?oid=8442416&format=interactive"></iframe>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/renantfm4">Renan Araújo</a>, 2024</p></font>
+</figure>
+
+<figure markdown>
+<font size="4"><p style="text-align: center"><b>Figura 14</b> - Pergunta 14.</p></font>
+<iframe style="border:3px solid blue" width="648" height="401" seamless frameborder="0" scrolling="no" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBKvPNRGAkOBk2oHFzEnW5kqLTSQ8JKvrQdmrmp8rF0POqylGDGWV-VQjFjGt9dhb6reUp-NRKlkqR/pubchart?oid=19808192&format=interactive"></iframe>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/renantfm4">Renan Araújo</a>, 2024</p></font>
+</figure>
+
+<figure markdown>
+<font size="4"><p style="text-align: center"><b>Figura 15</b> - Pergunta 15.</p></font>
+<iframe style="border:3px solid blue" width="648" height="401" seamless frameborder="0" scrolling="no" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBKvPNRGAkOBk2oHFzEnW5kqLTSQ8JKvrQdmrmp8rF0POqylGDGWV-VQjFjGt9dhb6reUp-NRKlkqR/pubchart?oid=1029326459&format=interactive"></iframe>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/renantfm4">Renan Araújo</a>, 2024</p></font>
+</figure>
+
+<figure markdown>
+<font size="4"><p style="text-align: center"><b>Figura 16</b> - Pergunta 16.</p></font>
+<iframe style="border:3px solid blue" width="648" height="401" seamless frameborder="0" scrolling="no" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBKvPNRGAkOBk2oHFzEnW5kqLTSQ8JKvrQdmrmp8rF0POqylGDGWV-VQjFjGt9dhb6reUp-NRKlkqR/pubchart?oid=902389692&format=interactive"></iframe>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/renantfm4">Renan Araújo</a>, 2024</p></font>
+</figure>
+
+<figure markdown>
+<font size="4"><p style="text-align: center"><b>Figura 17</b> - Pergunta 17.</p></font>
+<iframe style="border:3px solid blue" width="648" height="401" seamless frameborder="0" scrolling="no" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBKvPNRGAkOBk2oHFzEnW5kqLTSQ8JKvrQdmrmp8rF0POqylGDGWV-VQjFjGt9dhb6reUp-NRKlkqR/pubchart?oid=1146452841&format=interactive"></iframe>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/renantfm4">Renan Araújo</a>, 2024</p></font>
 </figure>
 
 
+### Pessoas que não utilizaram o aplicativo
 
+Nas figuras de 2 a 18, as perguntas foram elaboradas com o objetivo de coletar informações sobre os usuários e analisá-las estatisticamente para a elicitação de requisitos.
+
+<figure markdown>
+<font size="4"><p style="text-align: center"><b>Figura 17</b> - Pergunta 2.</p></font>
+<iframe style="border:3px solid blue" width="648" height="401" seamless frameborder="0" scrolling="no" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBKvPNRGAkOBk2oHFzEnW5kqLTSQ8JKvrQdmrmp8rF0POqylGDGWV-VQjFjGt9dhb6reUp-NRKlkqR/pubchart?oid=1699228445&format=interactive"></iframe>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/renantfm4">Renan Araújo</a>, 2024</p></font>
+</figure>
+
+<figure markdown>
+<font size="4"><p style="text-align: center"><b>Figura 18</b> - Pergunta 3.</p></font>
+<iframe style="border:3px solid blue" width="648" height="401" seamless frameborder="0" scrolling="no" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBKvPNRGAkOBk2oHFzEnW5kqLTSQ8JKvrQdmrmp8rF0POqylGDGWV-VQjFjGt9dhb6reUp-NRKlkqR/pubchart?oid=1764122581&format=interactive"></iframe>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/renantfm4">Renan Araújo</a>, 2024</p></font>
+</figure>
+
+<figure markdown>
+<font size="4"><p style="text-align: center"><b>Figura 19</b> - Pergunta 4.</p></font>
+<iframe style="border:3px solid blue" width="648" height="401" seamless frameborder="0" scrolling="no" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBKvPNRGAkOBk2oHFzEnW5kqLTSQ8JKvrQdmrmp8rF0POqylGDGWV-VQjFjGt9dhb6reUp-NRKlkqR/pubchart?oid=353574814&format=interactive"></iframe>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/renantfm4">Renan Araújo</a>, 2024</p></font>
+</figure>
+
+<figure markdown>
+<font size="4"><p style="text-align: center"><b>Figura 20</b> - Pergunta 5.</p></font>
+<iframe style="border:3px solid blue" width="648" height="401" seamless frameborder="0" scrolling="no" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBKvPNRGAkOBk2oHFzEnW5kqLTSQ8JKvrQdmrmp8rF0POqylGDGWV-VQjFjGt9dhb6reUp-NRKlkqR/pubchart?oid=513908517&format=interactive"></iframe>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/renantfm4">Renan Araújo</a>, 2024</p></font>
+</figure>
+
+<figure markdown>
+<font size="4"><p style="text-align: center"><b>Figura 21</b> - Pergunta 6.</p></font>
+<iframe style="border:3px solid blue" width="648" height="401" seamless frameborder="0" scrolling="no" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBKvPNRGAkOBk2oHFzEnW5kqLTSQ8JKvrQdmrmp8rF0POqylGDGWV-VQjFjGt9dhb6reUp-NRKlkqR/pubchart?oid=1499283355&format=interactive"></iframe>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/renantfm4">Renan Araújo</a>, 2024</p></font>
+</figure>
 
 
 
@@ -118,4 +174,5 @@ Nas figuras de 2 a 18, as perguntas foram elaboradas com o objetivo de coletar i
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     | 
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação desse documento | [Rafael Pereira](https://github.com/rafgpereira) | 12/11/2024 | [Renan Araújo](https://github.com/renantfm4)  |
+|  1.1   | Adicionando os resultados | [Renan Araújo](https://github.com/renantfm4) | 21/11/2024 | |
 
