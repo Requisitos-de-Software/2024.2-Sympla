@@ -14,7 +14,7 @@ Nesta página, são apresentados os resultados obtidos a partir de um questioná
 
 <figure markdown>
 <font size="4"><p style="text-align: center"><b>Figura 1</b> - Pergunta 1.</p></font>
-<iframe style="border:3px solid blue" width="648" height="401" seamless frameborder="0" scrolling="no" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBKvPNRGAkOBk2oHFzEnW5kqLTSQ8JKvrQdmrmp8rF0POqylGDGWV-VQjFjGt9dhb6reUp-NRKlkqR/pubchart?oid=770852701&format=interactive"></iframe>
+<iframe style="border:3px solid blue" width="648" height="401" seamless frameborder="0" scrolling="no" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBKvPNRGAkOBk2oHFzEnW5kqLTSQ8JKvrQdmrmp8rF0POqylGDGWV-VQjFjGt9dhb6reUp-NRKlkqR/pubchart?oid=1852095838&format=interactive"></iframe>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/renantfm4">Renan Araújo</a>, 2024</p></font>
 </figure>
 
@@ -39,7 +39,7 @@ Nas figuras de 2 a 18, as perguntas foram elaboradas com o objetivo de coletar i
 
 <figure markdown>
 <font size="4"><p style="text-align: center"><b>Figura 4</b> - Pergunta 4.</p></font>
-<iframe style="border:3px solid blue" width="648" height="401" seamless frameborder="0" scrolling="no" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBKvPNRGAkOBk2oHFzEnW5kqLTSQ8JKvrQdmrmp8rF0POqylGDGWV-VQjFjGt9dhb6reUp-NRKlkqR/pubchart?oid=2060985428&format=interactive"></iframe>
+<iframe style="border:3px solid blue" width="648" height="401" seamless frameborder="0" scrolling="no" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBKvPNRGAkOBk2oHFzEnW5kqLTSQ8JKvrQdmrmp8rF0POqylGDGWV-VQjFjGt9dhb6reUp-NRKlkqR/pubchart?oid=1891491603&format=interactive"></iframe>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/renantfm4">Renan Araújo</a>, 2024</p></font>
 </figure>
 
