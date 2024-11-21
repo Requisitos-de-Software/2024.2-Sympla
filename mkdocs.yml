@@ -67,11 +67,16 @@ nav:
       - Entrega 1:
         - Planejamento da Verificação: verificaçao/grupo8/entrega1.md
         - Lista de Verificação executada: verificaçao/grupo8/lista_verificacao.md
+      - Entrega 2:
+        - Planejamento da Verificação 2: verificaçao/grupo8/entrega2.md
+        - Lista de Verificação executada: verificaçao/grupo8/lista_verificacao2.md
     - Grupo + 1 - Bluesky:
       - Entrega 1:
         - Planejamento da Verificação - Bluesky: verificaçao/grupo+1/entrega1_grupo1.md
         - Lista de Verificação executada - Bluesky: verificaçao/grupo+1/lista_verificacao_grupo1.md
-
+      - Entrega 2:
+        - Planejamento da Verificação 2 - Bluesky: verificaçao/grupo+1/entrega2_grupo1.md
+        - Lista de Verificação executada - Bluesky: verificaçao/grupo+1/lista_verificacao2_grupo1.md
 extra:
   social:
     - icon: fontawesome/brands/github
