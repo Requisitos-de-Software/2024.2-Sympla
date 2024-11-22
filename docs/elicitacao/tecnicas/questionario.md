@@ -174,5 +174,5 @@ Apresentadas nas figuras 17 a 21, essas perguntas buscavam compreender os motivo
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     | 
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação desse documento | [Rafael Pereira](https://github.com/rafgpereira) | 12/11/2024 | [Renan Araújo](https://github.com/renantfm4)  |
-|  1.1   | Adicionando os resultados | [Renan Araújo](https://github.com/renantfm4) | 21/11/2024 | |
+|  1.1   | Adicionando os resultados | [Renan Araújo](https://github.com/renantfm4) | 21/11/2024 | [Victor Hugo](https://github.com/VHbernardes) |
 
