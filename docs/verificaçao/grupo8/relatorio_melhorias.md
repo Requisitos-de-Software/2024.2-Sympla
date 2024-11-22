@@ -15,7 +15,8 @@ O principal objetivo deste relatório é organizar o trabalho do grupo, monitora
 ## Relatório: 
 **[Veja o relatório completo](relatorio_1.pdf)**
 
-**Composição da Entrega 1:**  
+**Composição da Entrega 1:** 
+ 
 - Planejamento do Projeto, equipe, App selecionado para o projeto da disciplina.  
 - Ferramentas do projeto.  
 - Cronograma detalhado das atividades do projeto (com data de início e fim de cada atividade, responsáveis e período de gravação da apresentação).  
@@ -36,6 +37,7 @@ O principal objetivo deste relatório é organizar o trabalho do grupo, monitora
 | 5. A motivação e os critérios para a escolha do App? | **Sim** v. 1.2 - 16/11/2024 - 11:00 | Sim |
 | 6. Cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo permitindo o estudo na disciplina. | **Não*** v. 1.2 - 16/11/2024 - 11:07 | Sim |
 | 7. Possui opção de contraste de cores? | **Sim** - 16/11/2024 - 11:08 | Sim |
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a >Douglas Alves</a>, 2024</p></font>
 
 ---
 
@@ -52,7 +54,7 @@ O principal objetivo deste relatório é organizar o trabalho do grupo, monitora
 | 7. Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc). | **Sim** v. 2.0 - 16/11/2024 - 11:16 | Sim |
 | 8. A gravação da reunião do grupo.                         | **Sim** v. 2.0 - 16/11/2024 - 11:16 | Sim                              |
 | 9. Vídeo de apresentação na categoria “não listado” no YouTube? | **Sim** v. 1.3 - 16/11/2024 - 11:16 | Sim |
-
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a >Douglas Alves</a>, 2024</p></font>
 ---
 
 ### Itens do Conteúdo da disciplina:
@@ -62,7 +64,7 @@ O principal objetivo deste relatório é organizar o trabalho do grupo, monitora
 | 1. No artefato “Rich Picture” possui uma legenda explicando os símbolos utilizados no diagrama? | **Sim** v. 1.1 - 16/11/2024 - 11:17 | Sim |
 | 2. Todos os 5 componentes de um “Rich Picture” estão presentes no artefato do “Rich Picture” apresentado pelo grupo? | **Sim** v. 1.1 - 16/11/2024 - 11:17 | Sim |
 | 3. Cada integrante da equipe deve elaborar ao menos um item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência. | **Sim** v. 1.1 - 16/11/2024 - 11:22 | Sim |
-
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a >Douglas Alves</a>, 2024</p></font>
 ---
 
 ### Observações:
