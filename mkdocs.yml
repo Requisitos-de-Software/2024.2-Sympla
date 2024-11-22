@@ -57,7 +57,9 @@ nav:
       - Questionário: elicitacao/tecnicas/questionario.md
       - Observação: elicitacao/tecnicas/observacao.md
       - Introspecção: elicitacao/tecnicas/introspeccao.md
-      - Entrevista: elicitacao/tecnicas/entrevista.md
+      - Entrevistas:
+        - Manoela: elicitacao/tecnicas/entrevista.md
+        - Leonardo: elicitacao/tecnicas/entrevista2.md
     - Requisitos:
       - Requisitos Elicitados: elicitacao/requisitos/requisitos_elicitados.md
   - Apresentações:
