@@ -174,7 +174,7 @@ A partir dos resultados do questionário, foi possível elicitar alguns requisit
 
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Requisitos elicitados por meio do questionário</p></font>
 
-| Tipo  | Descrição                                                                                                      | IDs                   | Implementado |
+| Tipo  | Descrição                                                                                                      | ID                  | Implementado |
 |-------|--------------------------------------------------------------------------------------------------------------|-----------------------|--------------|
 | RF01  | O aplicativo deve fornecer uma funcionalidade de busca eficiente para facilitar a localização dos produtos (eventos, ingressos, etc.). | QS01                 | Sim          |
 | RF02  | O aplicativo deve oferecer diversas opções de pagamento para a compra de ingressos.                           | QS02                 | Sim          |
@@ -199,4 +199,5 @@ A partir dos resultados do questionário, foi possível elicitar alguns requisit
 |  1.0   | Criação desse documento | [Rafael Pereira](https://github.com/rafgpereira) | 12/11/2024 | [Renan Araújo](https://github.com/renantfm4)  |
 |  1.1   | Adicionando os resultados | [Renan Araújo](https://github.com/renantfm4) | 21/11/2024 | [Victor Hugo](https://github.com/VHbernardes) |
 |  1.2   | Adicionando os requisitos elicitados| [Victor Hugo](https://github.com/VHbernardes) | 23/11/2024 | [Renan Araújo](https://github.com/renantfm4) |
+|  1.3   | Padronizando tabelas | [Milena Rocha](https://github.com/MilenaFRocha) | 23/11/2024 | [Victor Hugo](https://github.com/VHbernardes) |
 
