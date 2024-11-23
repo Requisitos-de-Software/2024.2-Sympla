@@ -129,18 +129,19 @@ Como resultado da técnica de Entrevista, foram levantados os seguintes requisit
 
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Requisitos elicitados por meio da segunda entrevista</p></font>
 
-| Identificador | Requisito                                                                                                                                           | Tipo | Implementado |
-| :-----------: | --------------------------------------------------------------------------------------------------------------------------------------------------- | :--: | :-----------: |
-|     2ENT01     | Deve ser possível filtrar ingressos por tipo.                                    |  RF  | Sim           |
-|     2ENT02     | O sistema deve exibir detalhes importantes do evento, como horário de entrada, local, estacionamento e trânsito. |  RF  | Sim           |
-|     2ENT03     | O sistema deve enviar notificações ou lembretes sobre os eventos comprados com uma semana de antecedência.  |  RF  | Sim           |
-|     2ENT04     | O sistema deve fornecer uma ampla variedade de eventos.                              | RF  | Não           |
-|     2ENT05     | O envio do ingresso deve ser rápido.                                                 | RNF  | Não           |
-|     2ENT06     | O sistema deve ser seguro para uso comercial.             | RNF  | Sim           |
-|     2ENT07     | O sistema deve permitir cancelamento e transferências de ingressos diretamente na plataforma             | RF  | Não           |
-|     2ENT08     | Deve ser possível visualizar a planta do local para a escolha de assentos.(quando aplicável)             | RF  | Sim           |
-|     2ENT09     | O sistema deve disponibilizar um histórico completo das compras realizadas pelo usuário.            | RF  | Sim           |
-|     2ENT10    | O sistema deve simplificar filas de compra.            | RF  | Não           |
+
+| Tipo  | Descrição                                                                 | ID     | Implementado |
+|-------|---------------------------------------------------------------------------|--------|--------------|
+| RF01  | Deve ser possível filtrar ingressos por tipo.                            | 2ENT01 | Sim          |
+| RF02  | O sistema deve exibir detalhes importantes do evento, como horário de entrada, local, estacionamento e trânsito. | 2ENT02 | Sim          |
+| RF03  | O sistema deve enviar notificações ou lembretes sobre os eventos comprados com uma semana de antecedência. | 2ENT03 | Sim          |
+| RF04  | O sistema deve fornecer uma ampla variedade de eventos.                  | 2ENT04 | Não          |
+| RF05  | O sistema deve permitir cancelamento e transferências de ingressos diretamente na plataforma. | 2ENT07 | Não          |
+| RF06  | Deve ser possível visualizar a planta do local para a escolha de assentos (quando aplicável). | 2ENT08 | Sim          |
+| RF07  | O sistema deve disponibilizar um histórico completo das compras realizadas pelo usuário. | 2ENT09 | Sim          |
+| RF08  | O sistema deve simplificar filas de compra.                              | 2ENT10 | Não          |
+| RNF01 | O envio do ingresso deve ser rápido.                                     | 2ENT05 | Não          |
+| RNF02 | O sistema deve ser seguro para uso comercial.                            | 2ENT06 | Sim          |  
 
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/rafgpereira">Rafael Pereira</a>, 2024</p></font>
