@@ -174,16 +174,16 @@ A partir dos resultados do questionário, foi possível elicitar alguns requisit
 
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Requisitos elicitados por meio do questionário</p></font>
 
-| Identificador | Requisito                                                                                                                                           | Tipo | Implementado |
-| :-----------: | --------------------------------------------------------------------------------------------------------------------------------------------------- | :--: | :-----------: |
-|    QS01     | O aplicativo deve fornecer uma funcionalidade de busca eficiente para facilitar a localização dos produtos (eventos, ingressos, etc.).|  RF  | Sim           |
-|    QS02     | O aplicativo deve oferecer diversas opções de pagamento para a compra de ingressos.                                    |  RF  | Sim           |
-|    QS03     | O aplicativo deve incluir notificações sobre eventos comprados ou de interesse do usuário. |  RF  | Sim           |
-|    QS04     | O aplicativo deve exibir uma ampla variedade de eventos e locais com ingressos disponíveis para compra. |  RF  | Sim           |
-|    QS05     | As opções de pagamento devem ser seguras, utilizando criptografia para proteger os dados financeiros do usuário.|  RF  | Sim           |
-|    QS06     | O sistema deve ser acessível por dispositivos móveis (celulares e tablets), computadores e notebooks, com uma interface intuitiva e responsiva.  |  RF  | Sim           |
-|    QS07     | O aplicativo deve garantir um bom desempenho, evitando travamentos ou lentidão durante o uso.                                                                                              | RNF  | Sim           |
-|    QS08     | O sistema deve exibir preços competitivos de forma clara e transparente.                                                                    | RNF  | Não           |
+| Tipo  | Descrição                                                                                                      | IDs                   | Implementado |
+|-------|--------------------------------------------------------------------------------------------------------------|-----------------------|--------------|
+| RF01  | O aplicativo deve fornecer uma funcionalidade de busca eficiente para facilitar a localização dos produtos (eventos, ingressos, etc.). | QS01                 | Sim          |
+| RF02  | O aplicativo deve oferecer diversas opções de pagamento para a compra de ingressos.                           | QS02                 | Sim          |
+| RF03  | O aplicativo deve incluir notificações sobre eventos comprados ou de interesse do usuário.                    | QS03                 | Sim          |
+| RF04  | O aplicativo deve exibir uma ampla variedade de eventos e locais com ingressos disponíveis para compra.       | QS04                 | Sim          |
+| RF05  | As opções de pagamento devem ser seguras, utilizando criptografia para proteger os dados financeiros do usuário. | QS05                 | Sim          |
+| RF06  | O sistema deve ser acessível por dispositivos móveis (celulares e tablets), computadores e notebooks, com uma interface intuitiva e responsiva. | QS06 | Sim          |
+| RNF01 | O aplicativo deve garantir um bom desempenho, evitando travamentos ou lentidão durante o uso.                 | QS07                 | Sim          |
+| RNF02 | O sistema deve exibir preços competitivos de forma clara e transparente.                                      | QS08                 | Não          |
 
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/VHbernardes">Victor Hugo</a>, 2024</p></font>
