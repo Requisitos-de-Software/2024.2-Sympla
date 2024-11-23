@@ -119,16 +119,16 @@ Como resultado da técnica de Entrevista, foram levantados os seguintes requisit
 
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Requisitos elicitados por meio da entrevista</p></font>
 
-| Identificador | Requisito                                                                                                                                           | Tipo | Implementado |
-| :-----------: | --------------------------------------------------------------------------------------------------------------------------------------------------- | :--: | :-----------: |
-|    1ENT01     | Deve ser possível adicionar vários ingressos ao carrinho antes de finalizar a compra.                                    |  RF  | Não           |
-|    1ENT02     | Deve ser possível retirar vários ingressos do carrinho adicionados.                                    |  RF  | Não           |
-|    1ENT03     | O sistema deve exibir detalhes importantes do evento, como horário de entrada e local. |  RF  | Sim           |
-|    1ENT04     | O sistema deve enviar notificações ou lembretes sobre os eventos comprados.  |  RF  | Sim           |
-|    1ENT05     | O usuário deve ficar logado por um tempo determinado, para não precisar relogar frequentemente para acessar funcionalidades como visualizar ingressos comprados ou realizar novas compras.                                                                                              | RF  | Não           |
-|    1ENT06     | O login deve ser estável, evitando falhas frequentes que exijam que o usuário se autentique novamente.                                                                    | RNF  | Não           |
-|    1ENT07     | O sistema deve processar compras de ingressos rapidamente, sem atrasos perceptíveis.                                                                    | RNF  | sim           |
 
+| Tipo  | Descrição                                                                                                           | ID     | Implementado |
+|-------|-------------------------------------------------------------------------------------------------------------------|--------|--------------|
+| RF01  | Deve ser possível adicionar vários ingressos ao carrinho antes de finalizar a compra.                            | 1ENT01 | Não          |
+| RF02  | Deve ser possível retirar vários ingressos do carrinho adicionados.                                               | 1ENT02 | Não          |
+| RF03  | O sistema deve exibir detalhes importantes do evento, como horário de entrada e local.                           | 1ENT03 | Sim          |
+| RF04  | O sistema deve enviar notificações ou lembretes sobre os eventos comprados.                                       | 1ENT04 | Sim          |
+| RF05  | O usuário deve ficar logado por um tempo determinado, para não precisar relogar frequentemente para acessar funcionalidades como visualizar ingressos comprados ou realizar novas compras. | 1ENT05 | Não          |
+| RNF01 | O login deve ser estável, evitando falhas frequentes que exijam que o usuário se autentique novamente.            | 1ENT06 | Não          |
+| RNF02 | O sistema deve processar compras de ingressos rapidamente, sem atrasos perceptíveis.                              | 1ENT07 | Sim          |  
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/VHbernardes">Victor Hugo</a>, 2024</p></font>
 
