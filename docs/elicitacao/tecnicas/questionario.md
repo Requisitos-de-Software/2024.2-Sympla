@@ -162,8 +162,31 @@ Apresentadas nas figuras 17 a 21, essas perguntas buscavam compreender os motivo
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/renantfm4">Renan Araújo</a>, 2024</p></font>
 </figure>
 
+## Requisitos
+
+A partir dos resultados do questionário, foi possível elicitar alguns requisitos funcionais e não funcionais, descritos abaixo.
+
+**Legenda:**
+
+  - QS: Questionário
+  - RF: Requisito funcional
+  - RNF: Requisito não funcional
+
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Requisitos elicitados por meio do questionário</p></font>
+
+| Identificador | Requisito                                                                                                                                           | Tipo | Implementado |
+| :-----------: | --------------------------------------------------------------------------------------------------------------------------------------------------- | :--: | :-----------: |
+|    QS01     | O aplicativo deve fornecer uma funcionalidade de busca eficiente para facilitar a localização dos produtos (eventos, ingressos, etc.).|  RF  | Sim           |
+|    QS02     | O aplicativo deve oferecer diversas opções de pagamento para a compra de ingressos.                                    |  RF  | Sim           |
+|    QS03     | O aplicativo deve incluir notificações sobre eventos comprados ou de interesse do usuário. |  RF  | Sim           |
+|    QS04     | O aplicativo deve exibir uma ampla variedade de eventos e locais com ingressos disponíveis para compra. |  RF  | Sim           |
+|    QS05     | As opções de pagamento devem ser seguras, utilizando criptografia para proteger os dados financeiros do usuário.|  RF  | Sim           |
+|    QS06     | O sistema deve ser acessível por dispositivos móveis (celulares e tablets), computadores e notebooks, com uma interface intuitiva e responsiva.  |  RF  | Sim           |
+|    QS07     | O aplicativo deve garantir um bom desempenho, evitando travamentos ou lentidão durante o uso.                                                                                              | RNF  | Sim           |
+|    QS08     | O sistema deve exibir preços competitivos de forma clara e transparente.                                                                    | RNF  | Não           |
 
 
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/VHbernardes">Victor Hugo</a>, 2024</p></font>
 ## **Bibliografia**
 
 > **Universidade Federal de Santa Catarina (UFSC)**. "Técnicas de Elicitação de Requisitos: Questionários." REtraining - Guia Facetado de Técnicas de Elicitação de Requisitos, 2024. Acessado em 12 de novembro de 2024. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-questionarios.
@@ -175,4 +198,5 @@ Apresentadas nas figuras 17 a 21, essas perguntas buscavam compreender os motivo
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação desse documento | [Rafael Pereira](https://github.com/rafgpereira) | 12/11/2024 | [Renan Araújo](https://github.com/renantfm4)  |
 |  1.1   | Adicionando os resultados | [Renan Araújo](https://github.com/renantfm4) | 21/11/2024 | [Victor Hugo](https://github.com/VHbernardes) |
+|  1.2   | Adicionando os requisitos elicitados| [Victor Hugo](https://github.com/VHbernardes) | 23/11/2024 | [Renan Araújo](https://github.com/renantfm4) |
 
