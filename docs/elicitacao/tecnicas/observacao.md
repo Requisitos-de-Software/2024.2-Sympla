@@ -5,6 +5,15 @@ A técnica de observação de requisitos é uma abordagem essencial para coletar
 
 
 No dia 18/11/2024, das 14:00 às 15:00, os integrantes se reuniram, conforme detalhado na Tabela 1, por meio do Microsoft Teams, com o propósito de realizar uma Observação Participativa, na qual o Engenheiro de Software exerce influência sobre o processo. Durante essa atividade, os observadores [Milena Rocha](https://github.com/MilenaFRocha) e [Gabriel Scheidt](https://github.com/Gxaite) orientaram o usuário Gabriel Pessoa sobre as ações a serem executadas no aplicativo da Sympla. O usuário compartilhou a tela de seu celular, enquanto os observadores guiavam os passos a serem seguidos. Os requisitos identificados estão registrados nas Tabelas 2 e 3.
+
+### Cronograma de Reuniões
+
+| **Data**    | **Horário** | **Atividade**                             | **Local**  | **Responsável** |
+|-------------|-------------|-------------------------------------------|------------|-----------------|
+| 16/11/2024  | -           | Contato inicial com Gabriel              | -          | Gabriel          |
+| 18/11/2024  | 14:00       | Reunião com Gabriel                      | AILAB      | Gabriel          |
+
+
 ### Participantes
 
 <font size="3"><p style="text-align: center">Tabela 1: Participantes.</p></font>
