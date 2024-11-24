@@ -62,6 +62,8 @@ nav:
         - Leonardo: elicitacao/tecnicas/entrevista2.md
     - Requisitos:
       - Requisitos Elicitados: elicitacao/requisitos/requisitos_elicitados.md
+    - Priorização:
+      - Three Level Scale: elicitacao/priorizacao/three_level_scale.md
   - Apresentações:
     - Apresentação 1: apresentacoes/apresentacao1.md
   - Verificação:
