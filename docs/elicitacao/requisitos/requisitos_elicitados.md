@@ -6,7 +6,7 @@ Esta página reúne todos os requisitos funcionais e não funcionais elicitados 
 
 ## Metodologia
 
-A Tabela 1 apresenta os requisitos funcionais e não funcionais, organizados por ID, com suas respectivas descrições e se estão implementados
+A Tabela 1 apresenta os requisitos funcionais e não funcionais, organizados por ID, com suas respectivas descrições e se estão implementados.
 
 As siglas representam:
 
