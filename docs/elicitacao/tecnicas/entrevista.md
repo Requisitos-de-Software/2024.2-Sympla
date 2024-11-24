@@ -4,18 +4,27 @@ A técnica de entrevistas é um método direto e eficaz para elicitar requisitos
 
 ## Metodologia
 
-A metodologia durante a entrevista foi realizada seguindo um roteiro estruturado de perguntas, abrangendo aspectos como experiência de uso, preferências de compra, usabilidade da interface e sugestões de melhoria. Essa abordagem permitiu coletar informações detalhadas e compreender as necessidades e expectativas dos usuários em relação ao processo de compra de ingressos online. Além disso, temos um termo de consentimento, devidamente assinado pelos usuários entrevistados, garantindo a ética e o respeito à privacidade dos participantes durante a coleta de dados.
+A metodologia durante a entrevista foi realizada seguindo um roteiro estruturado de perguntas, abrangendo aspectos como experiência de uso, preferências de compra, usabilidade da interface e sugestões de melhoria. Essa abordagem permitiu coletar informações detalhadas e compreender as necessidades e expectativas dos usuários em relação ao processo de compra de ingressos online. Além disso, temos um [termo de consentimento](../assets/Termo%20de%20Consetimento%20-%20Manoela.pdf), devidamente assinado pelos usuários entrevistados, garantindo a ética e o respeito à privacidade dos participantes durante a coleta de dados.
 
 ## Dados da entrevista
 
 - **Entrevistador**: Victor Hugo
 - **Entrevistado**: Manoela Garcia
-- **Duração**:
+- **Duração**: 13:48
 - **Local**: Presencial (UnB - Campus Gama)
 
 ## Gravação
 
-...
+Abaixo, no Vídeo 1, apresentamos a entrevista realizada.
+
+<div style="text-align: center">
+
+<font size="3"><p style="text-align: center">Vídeo 1: Entrevista Manoela Garcia</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l820ZOc2QM8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Os Autores. Grupo 08 - Sympla - Elicitação de Requisitos - Entrevista. Disponível em: <a href="https://youtu.be/l820ZOc2QM8">https://youtu.be/l820ZOc2QM8</a>. Acesso em: 24 nov. 2024.</p></font>
+</div>
 
 ## Perguntas e respostas
 
