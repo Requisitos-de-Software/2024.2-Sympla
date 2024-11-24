@@ -58,7 +58,14 @@ Legenda das Tabelas 2 e 3:
 | RF08  | O Sympla oferece a opção de cancelar compras realizadas.    | IS08 | Não          |
 | RF09  | O Sympla dispõe de um mecanismo de busca integrado.         | IS09 | Sim          |
 | RF10  | O Sympla oferece a opção de transferir ingressos.           | IS10 | Sim          |
-| RF11  | O Sympla oferece a opção imprimir ingressos.                | IS11 | Sim          |
+| RF11  | O aplicativo dá sugestões de eventos com base no histórico de buscas do usuário. | IS11 | Sim          |
+| RF12  | O usuário é capaz de conectar uma carteira digital.         | IS12 | Sim          |
+| RF13  | O usuário é capaz de mudar o idioma do app.               | IS13 | Sim          |
+| RF14  | O usuário é capaz de entrar na aba de configurações.                 | IS14 | Sim          |
+| RF15  | O sistema apresenta uma aba de acessibilidades.                 | IS15 | Sim          |
+| RF16  | O usuário é capaz de criar preferências de eventos.              | IS16 | Sim          |
+| RF17  | O app faz sugestões e envia notificações com base na preferência escolhida do usuário.                   | IS18 | Sim          |
+| RF18  | O Sympla oferece a opção imprimir ingressos.                | IS19 | Sim          |
 
 </center>
 
@@ -96,3 +103,5 @@ Vale ressaltar que os requisitos RF11 só é possível por meio do email e não 
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação desse documento | [Milena Rocha](https://github.com/MilenaFRocha) | 18/11/2024 | [Rafael Pereira](https://github.com/rafgpereira)  |
 |  1.1   | Vídeo postado | [Milena Rocha](https://github.com/MilenaFRocha) | 23/11/2024 | [Rafael Pereira](https://github.com/rafgpereira)  |
+|  1.2   | Vídeo postado | [Gabriel Scheidt](https://github.com/MilenaFRocha) | 24/11/2024 | [Victor Hugo](https://github.com/VHbernardes)  |
+

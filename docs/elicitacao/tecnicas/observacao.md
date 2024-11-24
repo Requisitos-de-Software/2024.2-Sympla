@@ -98,6 +98,7 @@ Legenda das Tabelas 2 e 3:
 | RNF06 | Deve apresentar uma tela com os dados da conta com ao menos uma etapa de segurança.                                                                                             | OBS20                                                   | Sim          |
 | RNF07 | Deve apresentar uma página com o histórico de pedidos do usuário em dois cliques.                                                                                               | OBS21                                                   | Sim          |
 | RNF08 | Deve permitir a filtragem dos eventos com apenas 1 clique.                                                                                                                      | OBS22                                                   | Sim          |
+| RNF09 | O aplicativo mostra os eventos de preferência escolhida pelo usuário ao abrir.                    | OBS23 | Não          |
 
 </center>
 
