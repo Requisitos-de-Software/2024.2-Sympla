@@ -67,6 +67,7 @@ nav:
       - Requisitos Elicitados: elicitacao/requisitos/requisitos_elicitados.md
     - Priorização:
       - Three Level Scale: elicitacao/priorizacao/three_level_scale.md
+      - In our Out: elicitacao/priorizacao/in_or_out.md
   - Apresentações:
     - Apresentação 1: apresentacoes/apresentacao1.md
   - Verificação:
