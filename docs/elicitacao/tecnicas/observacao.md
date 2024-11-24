@@ -30,6 +30,45 @@ No dia 18/11/2024, das 14:00 às 15:00, os integrantes se reuniram, conforme det
 
 <font size="3"><p style="text-align: center">Fonte: [Milena Rocha](https://github.com/MilenaFRocha) e [Gabriel Scheidt](https://github.com/Gxaite).</p></font>
 
+### Roteiro de Observação
+
+## **Fluxo 1: Login e Cadastro**
+1. Acessar a tela inicial e identificar as opções de login e cadastro.
+2. Realizar o cadastro (novo usuário), observando:
+   - Facilidade no preenchimento e validação de campos.
+   - Integração com contas de terceiros (Google, Facebook, etc.).
+3. Realizar o login, testando credenciais corretas e incorretas.
+4. Verificar mensagens de erro e processo de recuperação de senha.
+5. Analisar a tela inicial pós-login.
+
+---
+
+## **Fluxo 2: Busca de Eventos por Preferências**
+1. Explorar categorias e filtros:
+   - Localização, data, tipo de evento.
+2. Usar a barra de busca:
+   - Testar sugestões e relevância dos resultados.
+3. Selecionar um evento:
+   - Avaliar clareza das informações (data, local, descrição).
+   - Testar marcar como favorito ou adicionar ao calendário.
+4. Iniciar o processo de compra (se aplicável).
+
+---
+
+## **Fluxo 3: Suporte Técnico**
+1. Identificar canais de suporte (chat, FAQ, e-mail ou telefone).
+2. Entrar em contato para relatar um problema ou dúvida:
+   - Avaliar tempo de resposta e clareza das respostas.
+3. Testar a navegação nas FAQs e finalizar o contato.
+
+---
+
+## **Pontos Gerais a Observar**
+- **Interface:** Clareza, organização e mensagens consistentes.
+- **Desempenho:** Velocidade de carregamento e respostas rápidas.
+- **Experiência:** Facilidade de uso e possíveis frustrações.
+
+
 ### Termo de uso de imagem
 Abaixo está o temro de uso de imagem e voz do participante Gabriel Pessoa Zaranza na Figura 1.
 
@@ -123,5 +162,6 @@ Legenda das Tabelas 2 e 3:
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação desse documento | [Milena Rocha](https://github.com/MilenaFRocha) | 18/11/2024 | [Rafael Pereira](https://github.com/rafgpereira)  |
 |  2.0   |Adição do Termo assinado | [Gabriel Scheidt](https://github.com/gxaite) | 18/11/2024 | [Milena Rocha](https://github.com/MilenaFRocha) |
+|  2.1   |Cronograma e roteiro da entrevista | [Gabriel Scheidt](https://github.com/gxaite) | 24/11/2024 | [Rafael Pereira](https://github.com/rafgpereira)  |
 
 
