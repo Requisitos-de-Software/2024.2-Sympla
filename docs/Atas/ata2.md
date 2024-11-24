@@ -47,7 +47,7 @@ A reunião foi realizada para análise das entregas previstas para a semana. A e
 
 | Versão |          Descrição                |        Autor       |      Data      |      Revisor      |
 |:------:|:---------------------------------:|:------------------:|:--------------:|:-----------------:|
-|  1.0   | Criação da ata da reunião         | Gabriel           | 05/10/2024     | [Renan](https://github.com/renantfm4) |
-|  2.0   | Padronização do vídeo        | Gabriel           | 07/10/2024     |  |
+|  1.0   | Criação da ata da reunião         | Gabriel           | 05/11/2024     | [Renan](https://github.com/renantfm4) |
+|  2.0   | Padronização do vídeo        | Gabriel           | 07/11/2024     |  |
 
 --- 
