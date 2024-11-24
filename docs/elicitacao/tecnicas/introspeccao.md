@@ -29,7 +29,8 @@ Para a aplicação deste método, imaginei-me em uma situação cotidiana de Jo�
 
 ### [Milena Rocha](https://github.com/MilenaFRocha)
 
-Para a aplicação deste método, imaginei-me em uma situação cotidiana de Beatriz (persona escolhida). Sou Beatriz, analista de marketing e mãe. Minha rotina é corrida, e, quando tenho tempo livre, gosto de encontrar eventos culturais ou de entretenimento para aproveitar com minha família. Uso o Sympla porque preciso de uma forma rápida e prática de achar eventos interessantes. Quero filtros simples por categoria e localização, sugestões que combinem com meus gostos e uma integração fácil com meu calendário para organizar tudo. Também preciso que a compra de ingressos seja descomplicada, com pagamento rápido e seguro. Não posso perder tempo, então, se algo der errado, espero suporte imediato e soluções rápidas, para que eu possa curtir meu tempo livre sem preocupações.
+Para a aplicação deste método, imaginei-me em uma situação cotidiana de Beatriz (persona escolhida). Sou Beatriz, analista de marketing e mãe. Minha rotina é corrida, e, quando tenho tempo livre, gosto de encontrar eventos culturais ou de entretenimento para aproveitar com minha família. Uso o Sympla porque preciso de uma forma rápida e prática de achar eventos interessantes. Quero filtros simples por categoria e localização, sugestões que combinem com meus gostos e uma integração fácil com meu calendário para organizar tudo. Também preciso que a compra de ingressos seja descomplicada, com pagamento rápido e seguro. Não posso perder tempo, então, se algo der errado, espero suporte imediato e soluções rápidas, para que eu possa curtir meu tempo livre sem preocupações. [Vídeo da execução da técnica](https://youtu.be/mq34x8JQDG8)
+
 
 ## Requisitos elicitados
 
@@ -94,3 +95,4 @@ Vale ressaltar que os requisitos RF11 só é possível por meio do email e não 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     | 
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação desse documento | [Milena Rocha](https://github.com/MilenaFRocha) | 18/11/2024 | [Rafael Pereira](https://github.com/rafgpereira)  |
+|  1.1   | Vídeo postado | [Milena Rocha](https://github.com/MilenaFRocha) | 23/11/2024 | [Rafael Pereira](https://github.com/rafgpereira)  |
