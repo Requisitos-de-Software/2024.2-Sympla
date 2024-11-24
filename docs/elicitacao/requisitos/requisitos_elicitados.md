@@ -22,7 +22,7 @@ As siglas representam:
 <p style="text-align: center"><b><a id="tab_1" style="visibility: hidden;"></a>Tabela 1</b> - Requisitos funcionais e não funcionais</p>
  
 
-| Tipo  | Descrição                                                                                                      | IDs                                   | Implementado |
+| Tipo  | Descrição                                                                                                      | ID                                   | Implementado |
 |-------|--------------------------------------------------------------------------------------------------------------|---------------------------------------|--------------|
 | RF01  | O sistema permite filtrar eventos por Estado e Município.                                                     | OBS01, IS01                           | Sim          |
 | RF02  | O sistema exibe detalhes importantes do evento, como horário de entrada e local.                              | 2ENT02, 1ENT03, OBS16, IS02           | Sim          |
