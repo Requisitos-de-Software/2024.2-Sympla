@@ -38,9 +38,6 @@ No dia 18/11/2024, das 14:00 às 15:00, os integrantes se reuniram, conforme det
    - Facilidade no preenchimento e validação de campos.
    - Integração com contas de terceiros (Google, Facebook, etc.).
 3. Realizar o login, testando credenciais corretas e incorretas.
-4. Verificar mensagens de erro e processo de recuperação de senha.
-5. Analisar a tela inicial pós-login.
-
 ---
 
 ## **Fluxo 2: Busca de Eventos por Preferências**
