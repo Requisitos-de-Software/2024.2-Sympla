@@ -133,9 +133,10 @@ Na Tabela 4, tem-se o cronograma planejado para todas as atividades da terceira 
 | Análise reflexiva para identificação de requisitos| Início: 09/11 <br>Fim: 11/11 |  [Gabriel](https://github.com/Gxaite)                           | Início: 09/11 <br>Fim: 11/11 | [Victor Hugo](https://github.com/VHbernardes)         |
 | Elaboração de formulários e questionários        | Início: 11/11 <br>Fim: 13/11 | [Rafael](https://github.com/rafgpereira)                            | Início: 11/11 <br>Fim: 13/11 | [Renan](https://github.com/renantfm4)       |
 | Realização de entrevistas de coleta de requisitos | Início: 13/11 <br>Fim: 14/11 | [Renan](https://github.com/renantfm4)                              | Início: 14/11 <br>Fim: 16/11 | [Milena](https://github.com/MilenaFRocha)       |
-| Sessão colaborativa para geração de ideias       | Início: 15/11 <br>Fim: 18/11 |  [Gabriel](https://github.com/Gxaite)                           | Início: 15/11 <br>Fim: 20/11 | [Victor Hugo](https://github.com/VHbernardes)        |
+| Realização das técnicas escolhidas       | Início: 15/11 <br>Fim: 18/11 |  [Gabriel](https://github.com/Gxaite)                           | Início: 15/11 <br>Fim: 20/11 | [Victor Hugo](https://github.com/VHbernardes)        |
 | Ordenação das prioridades de requisitos           | Início: 19/11 <br>Fim: 21/11 | [Rafael](https://github.com/rafgpereira)                            | Início: 20/11 <br>Fim: 22/11 | [Victor Hugo](https://github.com/VHbernardes)        |
 | Preparação final e gravação da apresentação      | Início: 22/11 <br>Fim: 23/11 | Todos                                     | Início: 23/11 <br>Fim: 25/11 |  [Gabriel](https://github.com/Gxaite)    |
+|   Correção pós apresentação	|  	|  	|  	|	|
 
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Gxaite">Gabriel Scheidt</a>, 2024</p></font>
@@ -149,18 +150,19 @@ Na Tabela 5, tem-se o cronograma executado para todas as atividades da última e
 
 | Atividade                                       | Período de desenvolvimento    | Responsáveis                              | Revisão                      | Revisores          |
 |-------------------------------------------------|------------------------------|-------------------------------------------|------------------------------|--------------------|
-| Levantamento inicial para definição de perfis    | Início: 11/11 <br>Fim: 13/11 | [Victor Hugo](https://github.com/VHbernardes)                               |  |      |
-| Criação e detalhamento dos perfis de usuários e personas    | Início: 11/11 <br>Fim: 13/11 | [Victor Hugo](https://github.com/VHbernardes)                               |  |       |
-| Estudo das técnicas para elicitação de requisitos (Brainstorming) | Início: 11/11 <br>Fim: 14/11 |  [Milena](https://github.com/MilenaFRocha) e [Gabriel](https://github.com/Gxaite)                              |  |      |
+| Levantamento inicial para definição de perfis    | Início: 11/11 <br>Fim: 13/11 | [Victor Hugo](https://github.com/VHbernardes)                               | Início: 12/11 <br>Fim: 18/11 |  [Milena](https://github.com/MilenaFRocha)   |
+| Criação e detalhamento dos perfis de usuários e personas    | Início: 11/11 <br>Fim: 13/11 | [Victor Hugo](https://github.com/VHbernardes)                               | Início: 12/11 <br>Fim: 18/11 |  [Renan](https://github.com/renantfm4)   |
+| Estudo das técnicas para elicitação de requisitos (Introspecção e Observação) | Início: 11/11 <br>Fim: 14/11 |  [Milena](https://github.com/MilenaFRocha) e [Gabriel](https://github.com/Gxaite)                              | Início: 11/11 <br>Fim: 18/11 |   [Victor Hugo](https://github.com/VHbernardes)   |
 | Estudo das técnicas para elicitação de requisitos (Questionário) | Início: 12/11 <br>Fim: 12/11 |  [Rafael](https://github.com/rafgpereira) e [Renan](https://github.com/renantfm4)                              | Início: 12/11 <br>Fim: 13/11 |   [Victor Hugo](https://github.com/VHbernardes)   |
-| Estudo das técnicas para elicitação de requisitos (Entrevista) | Início: 11/11 <br>Fim: 14/11 |  [Rafael](https://github.com/rafgpereira) e [Renan](https://github.com/renantfm4)                              |  |      |
-| Seleção das metodologias aplicáveis              | Início: 11/11 <br>Fim: 13/11 | Todos                              |  |      |
-| Análise reflexiva para identificação de requisitos| Início: 11/11 <br>Fim: 13/11 |  [Gabriel](https://github.com/Gxaite)                           |  |     |
+| Estudo das técnicas para elicitação de requisitos (Entrevista) | Início: 11/11 <br>Fim: 14/11 |  [Rafael](https://github.com/rafgpereira) e [Victor Hugo](https://github.com/VHbernardes)                              | Início: 11/11 <br>Fim: 13/11 |   [Renan](https://github.com/renantfm4)   |
+| Seleção das metodologias aplicáveis              | Início: 11/11 <br>Fim: 13/11 | Todos                              | Início: 11/11 <br>Fim: 12/11 |   [Rafael](https://github.com/rafgpereira)   |
+| Análise reflexiva para identificação de requisitos| Início: 11/11 <br>Fim: 13/11 |  [Gabriel](https://github.com/Gxaite)                           | Início: 16/11 <br>Fim: 18/11 |   [Rafael](https://github.com/rafgpereira)  |
 | Elaboração de formulários e questionários        | Início: 12/11 <br>Fim: 12/11 | [Rafael](https://github.com/rafgpereira) e [Renan](https://github.com/renantfm4)                            | Início: 12/11 <br>Fim: 13/11 |  [Victor Hugo](https://github.com/VHbernardes)   |
-| Realização de entrevistas de coleta de requisitos | Início: 13/11 <br>Fim: 14/11 | [Renan](https://github.com/renantfm4)                              | |      |
-| Sessão colaborativa para geração de ideias       | Início: 15/11 <br>Fim: 18/11 |  [Gabriel](https://github.com/Gxaite)                           |  |   |
-| Ordenação das prioridades de requisitos           | Início: 19/11 <br>Fim: 21/11 | [Rafael](https://github.com/rafgpereira)                            |  |     |
+| Realização de entrevistas de coleta de requisitos | Início: 13/11 <br>Fim: 14/11 | [Victor Hugo](https://github.com/VHbernardes) e [Rafael](https://github.com/rafgpereira)                             |  Início: 19/11 <br>Fim: 21/11|   [Gabriel](https://github.com/Gxaite)   |
+| Realização da introspecção e observação       | Início: 15/11 <br>Fim: 18/11 |  [Gabriel](https://github.com/Gxaite) e [Milena](https://github.com/MilenaFRocha)                   | Início: 18/11 <br>Fim: 18/11  |  [Victor Hugo](https://github.com/VHbernardes) |
+| Ordenação das prioridades de requisitos           | Início: 19/11 <br>Fim: 21/11 | Todos                        | Início: 20/11 <br>Fim: 23/11 |  [Milena](https://github.com/MilenaFRocha)   |
 | Preparação final e gravação da apresentação      | Início: 22/11 <br>Fim: 23/11 | Todos                                     |  |    |
+|   Correção pós apresentação	|  	|  	|  	|	|
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Gxaite">Gabriel Scheidt</a>, 2024</p></font>
 
