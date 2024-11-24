@@ -70,15 +70,15 @@ Abaixo, no Vídeo 1, apresentamos o processo de auto verificação do grupo, jus
 
 ><a id="REF1">1.</a> REVADI, Chindy Elsanna. Introducing Rich Pictures - Rich Picture Drawing Guidelines. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972420/mod_resource/content/2/1_5145791542719414573.pdf](https://aprender3.unb.br/pluginfile.php/2972420/mod_resource/content/2/1_5145791542719414573.pdf). Acesso em: 03 de nov. de 2024.
 
-><a id="REF2">2.</a><br>![Referência 2](./atores.png)
+><a id="REF2">2.</a><br>![Referência 2](../atores.png)
 >****
-><a id="REF3">3.</a><br>![Referência 3](./operacoes.png)
+><a id="REF3">3.</a><br>![Referência 3](../operacoes.png)
 >****
-><a id="REF4">4.</a><br>![Referência 4](./datas.png)
+><a id="REF4">4.</a><br>![Referência 4](../datas.png)
 >****
-><a id="REF5">5.</a><br>![Referência 5](./setas.png)
+><a id="REF5">5.</a><br>![Referência 5](../setas.png)
 >****
-><a id="REF6">6.</a><br>![Referência 6](./sistema.png)
+><a id="REF6">6.</a><br>![Referência 6](../sistema.png)
 
 ## Histórico de Versões
 
