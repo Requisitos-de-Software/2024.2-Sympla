@@ -324,5 +324,6 @@ Na Tabela 14, tem-se o cronograma executado para todas as atividades da última 
 |  1.4  | Adição de atividades na entrega 1 |  [Rafael Pereira](https://github.com/rafgpereira) | 28/10/2024   | [Victor Hugo](https://github.com/VHbernardes) |
 |  1.5  | Correção de atribuições e links de perfil |  [Rafael Pereira](https://github.com/rafgpereira) | 05/11/2024   | [Renan Araújo](https://github.com/renantfm4) |
 |  2.0  | Adições no cronograma executado |  [Victor Hugo](https://github.com/VHbernardes) | 11/11/2024   | [Rafael Pereira](https://github.com/rafgpereira) |
+|  2.1  | Adições no cronograma executado |  [Victor Hugo](https://github.com/VHbernardes) | 24/11/2024   | [Gabriel Scheidt](https://github.com/Gxaite) |
 
 </center>
