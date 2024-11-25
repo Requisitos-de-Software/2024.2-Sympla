@@ -250,4 +250,5 @@ A partir dos resultados do questionário, foi possível elicitar alguns requisit
 |  1.1   | Adicionando os resultados | [Renan Araújo](https://github.com/renantfm4) | 21/11/2024 | [Victor Hugo](https://github.com/VHbernardes) |
 |  1.2   | Adicionando os requisitos elicitados| [Victor Hugo](https://github.com/VHbernardes) | 23/11/2024 | [Renan Araújo](https://github.com/renantfm4) |
 |  1.3   | Padronizando tabelas | [Milena Rocha](https://github.com/MilenaFRocha) | 23/11/2024 | [Victor Hugo](https://github.com/VHbernardes) |
+|  1.4   | Adicionando legendas das figuras | [Renan Araújo](https://github.com/renantfm4) | 24/11/2024 |  |
 
