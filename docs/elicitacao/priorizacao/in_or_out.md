@@ -8,6 +8,8 @@ Esse método organiza os requisitos em duas categorias: "In" e "Out" do escopo d
 
  Para priorizar os requisitos, o integrante do grupo Renan Araújo reuniu-se junto com a usuária do Sympla Fernanda, explicou como funciona o processo de prorização e pediu a realização da técnica. 
 
+Além disso, temos um [termo de consentimento](../assets/Termo%20de%20Consetimento%20-%20Fernanda.pdf),, devidamente assinado pelos usuários entrevistados, garantindo a ética e o respeito à privacidade dos participantes durante a coleta de dados.
+
 <div align="center">
 <font size="3"><p style="text-align: center">Tabela 1: Reunião</p></font>
 </div>
