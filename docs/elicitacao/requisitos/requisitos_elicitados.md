@@ -53,11 +53,11 @@ As siglas representam:
 | RF27  | O Sympla oferece funcionalidades para cadastro e login de usuários. | IS05 | Sim          |
 | RF28  | O Sympla possibilita a exclusão do cadastro de usuários.    | IS06 | Sim          |
 | RF29  | O Sympla oferece a opção imprimir ingressos.                | IS11 | Sim          |
-| RF30  | O aplicativo dá sugestões de eventos com base no histórico de buscas do usuário.                  | IS11 | Não          |O Sympla oferece a opção imprimir ingressos.
+| RF30  | O aplicativo dá sugestões de eventos com base no histórico de buscas do usuário.                  | IS18 | Não          |O Sympla oferece a opção imprimir ingressos.
 | RF31  | O usuário é capaz de conectar uma carteira digital.                                               | IS12 | Não          |
 | RF32  | O usuário é capaz de mudar o idioma do app.                                                       | IS13 | Não          |
 | RF33  | O usuário é capaz de entrar na aba de configurações.                                              | IS14 | Não          |
-| RF34  | O sistema apresenta uma aba de acessibilidades.                                                   | IS55 | Não          |
+| RF34  | O sistema apresenta uma aba de acessibilidades.                                                   | IS15 | Não          |
 | RF35  | O usuário é capaz de criar preferências de eventos.                                               | IS16 | Não          |
 | RF36  | O app faz sugestões e envia notificações com base na preferência escolhida do usuário.            | IS17 | Não          |
 | RNF01 | O envio do ingresso deve ser rápido.                                                                          | 2ENT05                                | Não          |
