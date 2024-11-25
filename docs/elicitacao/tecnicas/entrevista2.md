@@ -9,10 +9,19 @@ A metodologia durante a entrevista foi realizada seguindo um roteiro estruturado
 ## Dados da entrevista
 ### Cronograma
 
-| **Data**   | **Entrevistador** | **Entrevistado**             | **Duração** | **Local**                      |
-|------------|--------------------|------------------------------|-------------|---------------------------------|
-| 21/11/2024 | [Rafael](https://github.com/rafgpereira)     | Leonardo Gonçalves Martins   | 09:04       | Presencial (Sala de Reuniões)  |
+Na Tabela 1 são listadas as informações técnicas da entrevista.
 
+<div align="center">
+<font size="3"><p style="text-align: center">Tabela 1: Cronograma de entrevista</p></font>
+</div>
+
+
+| **Data**  | **Hora** | **Entrevistador** | **Entrevistado**             | **Duração** | **Local**                      |
+|----------|--|--------------------|------------------------------|-------------|---------------------------------|
+| 21/11/2024 | 19:00 | [Rafael](https://github.com/rafgpereira)     | Leonardo Gonçalves Martins   | 09:04       | Presencial (Sala de Reuniões)  |
+
+
+<font size="3"><p style="text-align: center">Fonte: [Rafael Pereira](https://github.com/rafgpereira), 2024.<p><font>
 
 ## Gravação
 
