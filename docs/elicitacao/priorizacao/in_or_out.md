@@ -117,5 +117,5 @@ Abaixo, no Vídeo 1, apresentamos a priorização in or out
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     | 
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
-|  1.0   | Criação do documento |  [Renan Araújo](https://github.com/renantfm4) | 24/11/2024 |  |
-|  1.1   | Adição da tabela de requisitos e vídeo |  [Renan Araújo](https://github.com/renantfm4) | 24/11/2024 |  |
+|  1.0   | Criação do documento |  [Renan Araújo](https://github.com/renantfm4) | 24/11/2024 | [Victor Hugo](https://github.com/VHbernardes) |
+|  1.1   | Adição da tabela de requisitos e vídeo |  [Renan Araújo](https://github.com/renantfm4) | 24/11/2024 | [Victor Hugo](https://github.com/VHbernardes) |
