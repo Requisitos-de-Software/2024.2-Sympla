@@ -67,7 +67,7 @@ No dia 18/11/2024, das 14:00 às 15:00, os integrantes se reuniram, conforme det
 
 
 ### Termo de uso de imagem
-Abaixo está o temro de uso de imagem e voz do participante Gabriel Pessoa Zaranza na Figura 1.
+Abaixo está o termo de uso de imagem e voz do participante Gabriel Pessoa Zaranza na Figura 1.
 
 <font size="3"><p style="text-align: center">Figura 1: Termo de Uso assinado.</p></font>
 ![Termo Zaranza](../../assets/observacao/termozaranza.png)
