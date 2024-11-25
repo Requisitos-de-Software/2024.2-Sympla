@@ -45,11 +45,11 @@ Abaixo, no Vídeo 1, apresentamos o processo de auto verificação do grupo, jus
 
 <div style="text-align: center">
 
-<font size="3"><p style="text-align: center">Vídeo 1: Auto Verificação Entrega 1 - Grupo 08 - Sympla</p></font>
+<font size="3"><p style="text-align: center">Vídeo 1: Auto Verificação Entrega 2 - Grupo 08 - Sympla</p></font>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PiSQN0lOV60?si=xX998F0ylb9xVWz9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Os Autores. Auto Verificação Entrega 2 - Grupo 08 - Sympla. Disponível em: <a href="https://youtu.be/QRVJSeqUjA4">https://youtu.be/QRVJSeqUjA4</a>. Acesso em: 05 nov. 2024.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Os Autores. Auto Verificação Entrega 2 - Grupo 08 - Sympla. Disponível em: <a href="https://youtu.be/PiSQN0lOV60">https://youtu.be/PiSQN0lOV60</a>. Acesso em: 05 nov. 2024.</p></font>
 </div>
 
 ## **Bibliografia**
@@ -78,5 +78,5 @@ Abaixo, no Vídeo 1, apresentamos o processo de auto verificação do grupo, jus
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação desse documento | [Victor Hugo](https://github.com/VHbernardes) | 24/11/2024 | [Milena Rocha](https://github.com/MilenaFRocha)  |
 |  1.1   | Avaliação dos critérios da entrega 1 (v1.0) | [Renan Araújo](https://github.com/renantfm4) | 24/11/2024 | [Rafael Pereira](https://github.com/rafgpereira)  |
-|  1.2   | Adição do vídeo da verificação | [Renan Araújo](https://github.com/renantfm4) | 24/11/2024 | [Rafael Pereira](https://github.com/rafgpereira)  |
+|  1.2   | Adição do vídeo da verificação | [Rafael Pereira](https://github.com/rafgpereira) | 24/11/2024 | [Renan Araújo](https://github.com/renantfm4)  |
 
