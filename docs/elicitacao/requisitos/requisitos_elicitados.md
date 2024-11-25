@@ -14,7 +14,8 @@ As siglas representam:
 - RNFx: Requisito Não-Funcional nºx
 - ISx: Requisito nºx elicitado pela Introspecção
 - Qx: Requisito nºx elicitado pelo Questionário
-- BSx: Requisito nºx elicitado pelo Brainstorming
+- 1ENT: Requisito nºx elicitado pelo Entrevista 1
+- 1ENT: Requisito nºx elicitado pelo Entrevista 1
 - OBSx: Requisito nºx elicitado pela Observação
 
 ## Requisitos
