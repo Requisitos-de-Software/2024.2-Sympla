@@ -63,15 +63,15 @@ Abaixo, no Vídeo 1, apresentamos o processo de auto verificação do grupo, jus
 
 ## **Referências bibliográficas**
 
-><a id="REF2">1.</a><br>![Referência 1](../personas1.png)
+><a id="REF2">1.</a><br>![Referência 1](../grupo8/personas1.png)
 >****
-><a id="REF3">2.</a><br>![Referência 2](../personas2.png)
+><a id="REF3">2.</a><br>![Referência 2](../grupo8/personas2.png)
 >****
-><a id="REF4">3.</a><br>![Referência 3](../usuarios.png)
+><a id="REF4">3.</a><br>![Referência 3](../grupo8/usuarios.png)
 >****
-><a id="REF5">4.</a><br>![Referência 4](../termos.png)
+><a id="REF5">4.</a><br>![Referência 4](../grupo8/termos.png)
 >****
-><a id="REF6">5.</a><br>![Referência 5](../requisitos.png) 
+><a id="REF6">5.</a><br>![Referência 5](../grupo8/requisitos.png) 
 
 ## Histórico de Versões
 
