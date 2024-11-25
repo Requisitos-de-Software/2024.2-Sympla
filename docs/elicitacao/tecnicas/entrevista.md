@@ -8,10 +8,12 @@ A metodologia durante a entrevista foi realizada seguindo um roteiro estruturado
 
 ## Dados da entrevista
 
-- **Entrevistador**: Victor Hugo
-- **Entrevistado**: Manoela Garcia
-- **Duração**: 13:48
-- **Local**: Presencial (UnB - Campus Gama)
+### Cronograma
+
+| **Data**   | **Entrevistador** | **Entrevistado** | **Duração** | **Local**                  |
+|------------|--------------------|------------------|-------------|---------------------------|
+| 19/11/2024 |[Victor Hugo](https://github.com/VHbernardes)        | Manoela Garcia   | 13:48       | Presencial (UnB - Campus Gama) |
+
 
 ## Gravação
 
