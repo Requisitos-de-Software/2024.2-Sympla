@@ -77,3 +77,4 @@ Abaixo, no Vídeo 1, apresentamos o processo de verificação do grupo, justific
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     | 
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação desse documento |  [Milena Rocha](https://github.com/MilenaFRocha) | 24/11/2024 | [Victor Hugo](https://github.com/VHbernardes)  |
+|  1.1   | Verificação do grupo 1 |  [Rafael Pereira](https://github.com/rafgpereira) | 25/11/2024 | [Milena Rocha](https://github.com/MilenaFRocha)  |
