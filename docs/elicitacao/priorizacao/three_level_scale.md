@@ -16,7 +16,7 @@ Para padronizar a abordagem e deixá-la útil, o integrante [Rafael Pereira](htt
 
 
 
-Para priorizar os requisitos utilizando essa metodologia, o desenvolvedor [Rafael Pereira](https://github.com/rafgpereira) convidou a usuária do Sympla Denise Cristina, explicou-a como funciona esse processo de priorização, como mostra a Tabela 1, e então mediou uma sessão de priorização com a usuária listando todos os requisitos elicitados, e obetiveram-se os resultados exibidos abaixo.
+Para priorizar os requisitos utilizando essa metodologia, o desenvolvedor [Rafael Pereira](https://github.com/rafgpereira) convidou a usuária do Sympla Denise Cristina, explicou-a como funciona esse processo de priorização, como mostra a Tabela 1, e então mediou uma sessão de priorização com a usuária listando todos os requisitos elicitados, e obetiveram-se os resultados exibidos abaixo. Além disso, um [termo de consentimento]() para uso de imagem e voz foi assinado, permitindo a realização e publicação da priorização.
 
 
 <div align="center">

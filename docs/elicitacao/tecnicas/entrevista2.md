@@ -4,7 +4,7 @@ A técnica de entrevistas é um método direto e eficaz para elicitar requisitos
 
 ## Metodologia
 
-A metodologia durante a entrevista foi realizada seguindo um roteiro estruturado de perguntas, abrangendo aspectos como experiência de uso, preferências de compra, usabilidade da interface e sugestões de melhoria. Essa abordagem permitiu coletar informações detalhadas e compreender as necessidades e expectativas dos usuários em relação ao processo de compra de ingressos online. Além disso, temos um termo de consentimento, devidamente assinado pelos usuários entrevistados, garantindo a ética e o respeito à privacidade dos participantes durante a coleta de dados.
+A metodologia durante a entrevista foi realizada seguindo um roteiro estruturado de perguntas, abrangendo aspectos como experiência de uso, preferências de compra, usabilidade da interface e sugestões de melhoria. Essa abordagem permitiu coletar informações detalhadas e compreender as necessidades e expectativas dos usuários em relação ao processo de compra de ingressos online. Além disso, temos um [termo de consentimento](), devidamente assinado pelos usuários entrevistados, garantindo a ética e o respeito à privacidade dos participantes durante a coleta de dados.
 
 ## Dados da entrevista
 ### Cronograma
