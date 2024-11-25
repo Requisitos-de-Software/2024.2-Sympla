@@ -16,7 +16,7 @@ Esse método organiza os requisitos em duas categorias: "In" e "Out" do escopo d
 
 | Mediador                                        | Participante | Data       | Hora   | Local |
 |------------------------------------------------|--------------|------------|--------|-------|
-| [Renan Araújo](https://github.com/renantfm4) | Fernanda Souza       | 24/11/2024 | 16:00  | Presencial |
+| [Renan Araújo](https://github.com/renantfm4) | Fernanda Souza       | 24/11/2024 | 19:00  | Presencial |
 
 </center>
 
@@ -116,3 +116,4 @@ Abaixo, no Vídeo 1, apresentamos a priorização in or out
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     | 
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação do documento |  [Renan Araújo](https://github.com/renantfm4) | 24/11/2024 |  |
+|  1.1   | Adição da tabela de requisitos e vídeo |  [Renan Araújo](https://github.com/renantfm4) | 24/11/2024 |  |
