@@ -15,7 +15,7 @@ As siglas representam:
 - ISx: Requisito nºx elicitado pela Introspecção
 - QSx: Requisito nºx elicitado pelo Questionário
 - 1ENTx: Requisito nºx elicitado pelo Entrevista 1
-- 1ENTx: Requisito nºx elicitado pelo Entrevista 1
+- 2ENTx: Requisito nºx elicitado pelo Entrevista 2
 - OBSx: Requisito nºx elicitado pela Observação
 
 ## Requisitos
