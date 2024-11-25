@@ -17,4 +17,4 @@ O objetivo dessa página é armazenar o Vídeo 2, que contém a apresentação d
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     | 
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
-2.0 |  Documentação da apresentação | [Gabriel Scheidt](https://github.com/Gxaite)| 24/11/2023 | [Victor Hugo](https://github.com/VHbernardes)
+2.0 |  Documentação da apresentação | [Gabriel Scheidt](https://github.com/Gxaite)| 24/11/2023 | [Renan Araújo](https://github.com/renantfm4)
