@@ -10,10 +10,17 @@ A metodologia durante a entrevista foi realizada seguindo um roteiro estruturado
 
 ### Cronograma
 
-| **Data**   | **Entrevistador** | **Entrevistado** | **Duração** | **Local**                  |
-|------------|--------------------|------------------|-------------|---------------------------|
-| 19/11/2024 |[Victor Hugo](https://github.com/VHbernardes)        | Manoela Garcia   | 13:48       | Presencial (UnB - Campus Gama) |
+Na Tabela 1 são listadas as informações técnicas da entrevista.
 
+<div align="center">
+<font size="3"><p style="text-align: center">Tabela 1: Cronograma de entrevista</p></font>
+</div>
+
+| **Data**  | **Hora** | **Entrevistador** | **Entrevistado** | **Duração** | **Local**                  |
+|------------|-------|--------------------|------------------|-------------|---------------------------|
+| 19/11/2024 | 14:00 | [Victor Hugo](https://github.com/VHbernardes)        | Manoela Garcia   | 13:48       | Presencial (UnB - Campus Gama) |
+
+<font size="3"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/VHbernardes), 2024.<p><font>
 
 ## Gravação
 

@@ -6,7 +6,7 @@ A introspecção é um método de obtenção de requisitos que envolve, através
 
 ## Metodologia
 
-O processo de introspecção foi conduzido individualmente pelos alunos [Milena Fernandes](https://github.com/MilenaFRocha) e  [Gabriel Scheidt](https://github.com/Gxaite). Após essa etapa, os requisitos identificados foram consolidados em duas tabelas: a Tabela 2 reúne os Requisitos Funcionais, enquanto a Tabela 3 apresenta os Requisitos Não-Funcionais. Ao término do processo, revisitamos o aplicativo escolhido pelo grupo para verificar se os requisitos levantados estavam presentes. Abaixo estão descritos os participantes e o cronograma de aplicação da técnica
+O processo de introspecção foi conduzido individualmente pelos alunos [Milena Rocha](https://github.com/MilenaFRocha) e  [Gabriel Scheidt](https://github.com/Gxaite). Após essa etapa, os requisitos identificados foram consolidados em duas tabelas: a Tabela 2 reúne os Requisitos Funcionais, enquanto a Tabela 3 apresenta os Requisitos Não-Funcionais. Ao término do processo, revisitamos o aplicativo escolhido pelo grupo para verificar se os requisitos levantados estavam presentes. Abaixo estão descritos os participantes e o cronograma de aplicação da técnica
 
 ### Cronograma
 
@@ -21,7 +21,7 @@ O processo de introspecção foi conduzido individualmente pelos alunos [Milena 
 
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Milena Fernandes](https://github.com/MilenaFRocha) e  [Gabriel Scheidt](https://github.com/Gxaite).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Milena Rocha](https://github.com/MilenaFRocha) e  [Gabriel Scheidt](https://github.com/Gxaite).</p></font>
 
 ### [Gabriel Scheidt](https://github.com/Gxaite)
 
@@ -78,7 +78,7 @@ Legenda das Tabelas 2 e 3:
 
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Milena Fernandes](https://github.com/MilenaFRocha) e  [Gabriel Scheidt](https://github.com/Gxaite).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Milena Rocha](https://github.com/MilenaFRocha) e  [Gabriel Scheidt](https://github.com/Gxaite).</p></font>
 
 Vale ressaltar que os requisitos RF11 só é possível por meio do email e não direto no aplicativo. O RF08 não há no app, mas pode ser que isso dependa do produtor.
 
@@ -99,7 +99,7 @@ Vale ressaltar que os requisitos RF11 só é possível por meio do email e não 
 
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Milena Fernandes](https://github.com/MilenaFRocha) e  [Gabriel Scheidt](https://github.com/Gxaite).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Milena Rocha](https://github.com/MilenaFRocha) e  [Gabriel Scheidt](https://github.com/Gxaite).</p></font>
 
 
 ## Bibliografia

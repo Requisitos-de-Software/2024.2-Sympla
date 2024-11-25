@@ -11,7 +11,7 @@ No dia 18/11/2024, das 14:00 às 15:00, os integrantes se reuniram, conforme det
 | **Data**    | **Horário** | **Atividade**                             | **Local**  | **Responsável** |
 |-------------|-------------|-------------------------------------------|------------|-----------------|
 | 16/11/2024  | -           | Contato inicial com Gabriel              | -          | Gabriel          |
-| 18/11/2024  | 14:00       | Reunião com Gabriel                      | AILAB      | Gabriel          |
+| 18/11/2024  | 14:00       | Reunião com Gabriel                      | FGA      | Gabriel          |
 
 
 ### Participantes

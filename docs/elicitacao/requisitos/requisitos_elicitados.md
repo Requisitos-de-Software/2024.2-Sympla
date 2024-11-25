@@ -89,5 +89,6 @@ As siglas representam:
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação desse documento | [Milena Rocha](https://github.com/MilenaFRocha) | 18/11/2024 | [Rafael Pereira](https://github.com/rafgpereira)  |
 |  1.1   | Atualização da tabela| [Milena Rocha](https://github.com/MilenaFRocha) | 18/11/2024 | [Rafael Pereira](https://github.com/rafgpereira)  |
-|  1.2   | Atualização da tabela| [Gabriel Scheidt](https://github.com/gxaite) | 24/11/2024 | [Milena ROcha](https://github.com/MilenaFRocha)  |
+|  1.2   | Atualização da tabela| [Gabriel Scheidt](https://github.com/gxaite) | 24/11/2024 | [Milena Rocha](https://github.com/MilenaFRocha)  |
+|  1.3   | Ajustes de escrita|  [Milena Rocha](https://github.com/MilenaFRocha) | 24/11/2024 | [Gabriel Scheidt](https://github.com/gxaite) |
 
