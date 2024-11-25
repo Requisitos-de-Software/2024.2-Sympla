@@ -17,24 +17,24 @@ Cada um dos itens da Tabela 1 será avaliado com Sim, Não ou Incompleto de acor
 | O github pages possui: |   Sim/Não/Incompleto   |  Versão da avaliação | Data da última avaliação |
 |------|:-------------------------------:|:--------------:|:--------------:|
 | **Itens do Desenvolvimento do projeto** |
-| 1 - Todos os 9 itens. |  |  |  |
+| 1 - Todos os 9 itens. | Sim |  |  |
 | **Itens do conteúdo da disciplina.** |
-| 2 - A Especificação do Perfil do usuário possui informação de: <br> • **Idade** (criança, jovem, adulto, terceira idade etc.); <br> • **Experiência** (leigo/ novato, especialista); <br> • **Atitudes** (tecnófilos, tecnófobos); <br> • **tarefas primárias** (compra, venda) |  |  |  |
-| 3 - Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? |  |  |  |
-| 4 - No mínimo três técnicas de elicitação foram utilizadas (quanto mais melhor)? |  |  |  |
-| 5 - A participação do cliente e/ou persona na elicitação de requisitos? |  |  |  |
-| 6 - A gravação e o(s) registro(s) da elicitação dos requisitos (pré-rastreabilidade)? |  |  |  |
-| 7 - Um cronograma (data e horário) e local para realização da priorização dos requisitos com o do cliente e/ou persona do projeto? |  |  |  |
-| 8 - No mínimo duas técnicas de priorização (quanto mais melhor)?|  |  |  |
-| 9 – A participação do cliente e/ou persona no processo de priorização? |  |  |  |
-| 10 - A gravação e o(s) registro(s) da atividade de priorização dos requisitos? |  |  |  |
+| 2 - A Especificação do Perfil do usuário possui informação de: <br> • **Idade** (criança, jovem, adulto, terceira idade etc.); <br> • **Experiência** (leigo/ novato, especialista); <br> • **Atitudes** (tecnófilos, tecnófobos); <br> • **tarefas primárias** (compra, venda) | Sim |  |  |
+| 3 - Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? | Sim |  |  |
+| 4 - No mínimo três técnicas de elicitação foram utilizadas (quanto mais melhor)? | Sim |  |  |
+| 5 - A participação do cliente e/ou persona na elicitação de requisitos? | Sim |  |  |
+| 6 - A gravação e o(s) registro(s) da elicitação dos requisitos (pré-rastreabilidade)? | Sim |  |  |
+| 7 - Um cronograma (data e horário) e local para realização da priorização dos requisitos com o do cliente e/ou persona do projeto? | Sim |  |  |
+| 8 - No mínimo duas técnicas de priorização (quanto mais melhor)?| Sim |  |  |
+| 9 – A participação do cliente e/ou persona no processo de priorização? | Sim |  |  |
+| 10 - A gravação e o(s) registro(s) da atividade de priorização dos requisitos? | Sim |  |  |
 | **Itens do Conteúdo da disciplina feitas pelos integrantes** |
-| 11 - As personas foram definidas de forma a representar grupos de usuários reais? <a id="anchor_1" href="#REF1"><sup>1</sup></a> **Autor: Victor** |  |  | |
-| 12 - Os objetivos principais das personas foram identificados e refinados durante a análise do domínio de atividade do usuário? <a id="anchor_2" href="#REF2"><sup>2</sup></a> **Autor: Rafael**  |  |  | |
-| 13 - Foram aplicados métodos (como entrevistas ou questionários) para coletar dados sobre os usuários? <a id="anchor_3" href="#REF3"><sup>3</sup></a> **Autor: Milena** |  |  | |
-| 14 - Foi apresentado um termo de consetimento para os participantes das técnicasS? <a id="anchor_4" href="#REF4"><sup>4</sup></a> **Autor: Renan** |  |  | |
-| 15 - Dentre os Requisitos Elicitados estão os Funcionais e Não-Funcionais? <a id="anchor_5" href="#REF5"><sup>5</sup></a> **Autor: Gabriel** |  |  |  |
-| 16 - Cada integrante da equipe deve elaborar ao menos um 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência. <a id="anchor_6" href="#REF6"><sup>6</sup></a> **Autor: Prof. André** |  |  | |
+| 11 - As personas foram definidas de forma a representar grupos de usuários reais? <a id="anchor_1" href="#REF1"><sup>1</sup></a> **Autor: Victor** | Sim |  | |
+| 12 - Os objetivos principais das personas foram identificados e refinados durante a análise do domínio de atividade do usuário? <a id="anchor_2" href="#REF2"><sup>2</sup></a> **Autor: Rafael**  | Sim |  | |
+| 13 - Foram aplicados métodos (como entrevistas ou questionários) para coletar dados sobre os usuários? <a id="anchor_3" href="#REF3"><sup>3</sup></a> **Autor: Milena** | Sim |  | |
+| 14 - Foi apresentado um termo de consetimento para os participantes das técnicas? <a id="anchor_4" href="#REF4"><sup>4</sup></a> **Autor: Renan** | Sim |  | |
+| 15 - Dentre os Requisitos Elicitados estão os Funcionais e Não-Funcionais? <a id="anchor_5" href="#REF5"><sup>5</sup></a> **Autor: Gabriel** | Sim |  |  |
+| 16 - Cada integrante da equipe deve elaborar ao menos um 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência. <a id="anchor_6" href="#REF6"><sup>6</sup></a> **Autor: Prof. André** | Sim |  | |
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/VHbernardes">Victor Hugo</a>, 2024</p></font>
 
@@ -47,9 +47,9 @@ Abaixo, no Vídeo 1, apresentamos o processo de auto verificação do grupo, jus
 
 <font size="3"><p style="text-align: center">Vídeo 1: Auto Verificação Entrega 1 - Grupo 08 - Sympla</p></font>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRVJSeqUjA4?si=5Tn88yUw4Svk0TvB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Os Autores. Auto Verificação Entrega 1 - Grupo 08 - Sympla. Disponível em: <a href="https://youtu.be/QRVJSeqUjA4">https://youtu.be/QRVJSeqUjA4</a>. Acesso em: 05 nov. 2024.</p></font>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Os Autores. Auto Verificação Entrega 2 - Grupo 08 - Sympla. Disponível em: <a href="https://youtu.be/QRVJSeqUjA4">https://youtu.be/QRVJSeqUjA4</a>. Acesso em: 05 nov. 2024.</p></font>
 </div>
 
 ## **Bibliografia**
