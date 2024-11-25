@@ -6,7 +6,7 @@ A introspecção é um método de obtenção de requisitos que envolve, através
 
 ## Metodologia
 
-O processo de introspecção foi conduzido individualmente pelos alunos [Milena Fernandes](https://github.com/MilenaFRocha) e  [Gabriel Scheidt](https://github.com/Gxaite). Após essa etapa, os requisitos identificados foram consolidados em duas tabelas: a Tabela 2 reúne os Requisitos Funcionais, enquanto a Tabela 3 apresenta os Requisitos Não-Funcionais. Ao término do processo, revisitamos o aplicativo escolhido pelo grupo para verificar se os requisitos levantados estavam presentes. Abaixo estão descritos os participantes e o cronograma de aplicação da técnica
+O processo de introspecção foi conduzido individualmente pelos alunos [Milena Rocha](https://github.com/MilenaFRocha) e  [Gabriel Scheidt](https://github.com/Gxaite). Após essa etapa, os requisitos identificados foram consolidados em duas tabelas: a Tabela 2 reúne os Requisitos Funcionais, enquanto a Tabela 3 apresenta os Requisitos Não-Funcionais. Ao término do processo, revisitamos o aplicativo escolhido pelo grupo para verificar se os requisitos levantados estavam presentes. Abaixo estão descritos os participantes e o cronograma de aplicação da técnica
 
 ### Cronograma
 
@@ -16,12 +16,12 @@ O processo de introspecção foi conduzido individualmente pelos alunos [Milena 
 
 | Nome                                             | Data                   |  Hora |
 | ------------------------------------------------ | ------------------------ | -------------- |
-| [Milena Fernandes](https://github.com/MilenaFRocha)   |  18/11/2024| 14:00|
+| [Milena Rocha](https://github.com/MilenaFRocha)   |  18/11/2024| 14:00|
 |  [Gabriel Scheidt](https://github.com/Gxaite) |  18/11/2024|   14:00 |
 
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Milena Fernandes](https://github.com/MilenaFRocha) e  [Gabriel Scheidt](https://github.com/Gxaite).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Milena Rocha](https://github.com/MilenaFRocha) e  [Gabriel Scheidt](https://github.com/Gxaite).</p></font>
 
 ### [Gabriel Scheidt](https://github.com/Gxaite)
 
@@ -38,7 +38,7 @@ Para a aplicação deste método, imaginei-me em uma situação cotidiana de Bea
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mq34x8JQDG8?si=ygLm9ctYI98R9imB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Milena Rocha.Técnica de Introspecção, 2024/2, UnB. 2024. Disponível em: <a href="https://youtu.be/mq34x8JQDG8">https://youtu.be/mq34x8JQDG8</a>. Acesso em: 24 nov. 2024.</p></font>
-</div>
+
 
 
 ## Requisitos elicitados
@@ -78,7 +78,7 @@ Legenda das Tabelas 2 e 3:
 
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Milena Fernandes](https://github.com/MilenaFRocha) e  [Gabriel Scheidt](https://github.com/Gxaite).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Milena Rocha](https://github.com/MilenaFRocha) e  [Gabriel Scheidt](https://github.com/Gxaite).</p></font>
 
 Vale ressaltar que os requisitos RF11 só é possível por meio do email e não direto no aplicativo. O RF08 não há no app, mas pode ser que isso dependa do produtor.
 
@@ -99,7 +99,7 @@ Vale ressaltar que os requisitos RF11 só é possível por meio do email e não 
 
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Milena Fernandes](https://github.com/MilenaFRocha) e  [Gabriel Scheidt](https://github.com/Gxaite).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Milena Rocha](https://github.com/MilenaFRocha) e  [Gabriel Scheidt](https://github.com/Gxaite).</p></font>
 
 
 ## Bibliografia
