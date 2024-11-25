@@ -38,7 +38,7 @@ Para a aplicação deste método, imaginei-me em uma situação cotidiana de Bea
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mq34x8JQDG8?si=ygLm9ctYI98R9imB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Milena Rocha.Técnica de Introspecção, 2024/2, UnB. 2024. Disponível em: <a href="https://youtu.be/mq34x8JQDG8">https://youtu.be/mq34x8JQDG8</a>. Acesso em: 24 nov. 2024.</p></font>
-</div>
+
 
 
 ## Requisitos elicitados
