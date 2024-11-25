@@ -2,6 +2,21 @@
 
 Os questionários são utilizados como uma ferramenta simples, que contém perguntas abertas e/ou fechadas durante a fase inicial da elicitação de requisitos. São úteis em situações em que os alvos estão dispersos e/ou são numerosos.
 
+## Cronograma 
+Planejamos a data de abertura do questionário no dia 13/11/2024 e fechamos ele no dia 17/11/2024, na Tabela 1.
+
+
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Cronograma </p></font>
+
+| Nome                                             | Data                   |  Hora | Local |
+| ------------------------------ | ------------------------ | --------- |-------------- |
+| [Victor Hugo](https://github.com/VHbernardes)   |  13/11/2024| 14:00| Remoto |
+|  [Victor Hugo](https://github.com/VHbernardes)  |  17/11/2024|   14:00 | Remoto |
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/VHbernardes">Victor Hugo</a>, 2024</p></font>
+
+
+
 ## Metodologia
 
 Para a elaboração de um bom questionário é importante planejamento, além da utilização do uso recomendado da escala Likert, para maior neutralidade e distinção. Para planejar um formulário, primeiro define-se a proposta, em seguida, um grupo de amostragem é definida. Só então é feito o desenvolvimento do questionário. Por fim, os dados são coletados e analisados. Outros princípios também são importantes: as questões devem ser bem organizadas, ordenadas estratégicamente, com preferência para questões fechadas, e perguntas mais íntimas devem ser evitadas de início.
@@ -222,7 +237,7 @@ A partir dos resultados do questionário, foi possível elicitar alguns requisit
   - RF: Requisito funcional
   - RNF: Requisito não funcional
 
-<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Requisitos elicitados por meio do questionário</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Requisitos elicitados por meio do questionário</p></font>
 
 | Tipo  | Descrição                                                                                                      | ID                  | Implementado |
 |-------|--------------------------------------------------------------------------------------------------------------|-----------------------|--------------|

@@ -14,10 +14,10 @@ O processo de introspecção foi conduzido individualmente pelos alunos [Milena 
 
 <center>
 
-| Nome                                             | Data                   |  Hora |
-| ------------------------------------------------ | ------------------------ | -------------- |
-| [Milena Fernandes](https://github.com/MilenaFRocha)   |  18/11/2024| 14:00|
-|  [Gabriel Scheidt](https://github.com/Gxaite) |  18/11/2024|   14:00 |
+| Nome                                             | Data                   |  Hora | Local |
+| ------------------------------------------------ | ------------------------ | -------------- |-------------- |
+| [Milena Fernandes](https://github.com/MilenaFRocha)   |  18/11/2024| 14:00| Remoto |
+|  [Gabriel Scheidt](https://github.com/Gxaite) |  18/11/2024|   14:00 | Remoto |
 
 </center>
 
