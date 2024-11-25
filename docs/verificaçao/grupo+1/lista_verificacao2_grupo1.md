@@ -38,19 +38,7 @@ Cada um dos itens da Tabela 1 será avaliado com Sim, Não ou Incompleto de acor
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/VHbernardes">Victor Hugo</a>, 2024</p></font>
 
-## Vídeo
 
-Abaixo, no Vídeo 1, apresentamos o processo de verificação do grupo, justificando a Tabela 1.
-
-
-<div style="text-align: center">
-
-<font size="3"><p style="text-align: center">Vídeo 1:  Verificação do Grupo +1: Grupo 1 - BlueSky</p></font>
-
-
-
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Os Autores. Grupo 8 - Sympla - Verificação do Grupo +1: Grupo 1 - BlueSky. Disponível em: <a href="https://youtu.be/QRVJSeqUjA4">https://youtu.be/QRVJSeqUjA4</a>. Acesso em: 05 nov. 2024.</p></font>
-</div>
 
 ## **Bibliografia**
 
