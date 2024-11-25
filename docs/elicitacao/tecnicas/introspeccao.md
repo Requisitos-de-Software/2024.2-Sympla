@@ -27,9 +27,18 @@ O processo de introspecção foi conduzido individualmente pelos alunos [Milena 
 
 Para a aplicação deste método, imaginei-me em uma situação cotidiana de João (persona escolhida) na qual eu desejasse participar de um evento utilizando o Sympla. Assim, como usuário e sem visualizar o aplicativo, refleti sobre as funcionalidades que seriam indispensáveis para realizar essa tarefa. Além disso, considerei as possíveis dificuldades que poderiam surgir e o que o aplicativo deveria oferecer como solução para essas situações.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EXQK9Ttb9YQ?si=2h67PuAjvNV9gueW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Gabriel Scheidt.Técnica de Introspecção, 2024/2, UnB. 2024. Disponível em: <a href="https://youtu.be/EXQK9Ttb9YQ">https://youtu.be/EXQK9Ttb9YQ</a>. Acesso em: 24 nov. 2024.</p></font>
+
 ### [Milena Rocha](https://github.com/MilenaFRocha)
 
 Para a aplicação deste método, imaginei-me em uma situação cotidiana de Beatriz (persona escolhida). Sou Beatriz, analista de marketing e mãe. Minha rotina é corrida, e, quando tenho tempo livre, gosto de encontrar eventos culturais ou de entretenimento para aproveitar com minha família. Uso o Sympla porque preciso de uma forma rápida e prática de achar eventos interessantes. Quero filtros simples por categoria e localização, sugestões que combinem com meus gostos e uma integração fácil com meu calendário para organizar tudo. Também preciso que a compra de ingressos seja descomplicada, com pagamento rápido e seguro. Não posso perder tempo, então, se algo der errado, espero suporte imediato e soluções rápidas, para que eu possa curtir meu tempo livre sem preocupações. [Vídeo da execução da técnica](https://youtu.be/mq34x8JQDG8)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mq34x8JQDG8?si=ygLm9ctYI98R9imB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Milena Rocha.Técnica de Introspecção, 2024/2, UnB. 2024. Disponível em: <a href="https://youtu.be/mq34x8JQDG8">https://youtu.be/mq34x8JQDG8</a>. Acesso em: 24 nov. 2024.</p></font>
+</div>
 
 
 ## Requisitos elicitados
