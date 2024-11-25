@@ -90,12 +90,12 @@ Vale ressaltar que os requisitos RF11 só é possível por meio do email e não 
 
 | Tipo  | Descrição                                                                                                                         | ID   | Implementado |
 |-------|-----------------------------------------------------------------------------------------------------------------------------------|-------|--------------|
-| RNF01 | O Sympla deve apresentar eventos de forma personalizada, com base na atividade do usuário.                                        | IS12  | Sim          |
-| RNF02 | O usuário deve conseguir acessar informações como data, local e preço do ingresso em, no máximo, 2 cliques durante a busca no Sympla. | IS13  | Sim          |
-| RNF03 | O Sympla deve permitir que o usuário acesse seus ingressos em, no máximo, 3 cliques.                                                 | IS14  | Sim          |
-| RNF04 | O Sympla deve oferecer atendimento especial para idosos e pessoas com deficiência durante o processo de compra de ingressos.      | IS15  | Não          |
-| RNF05 | O Sympla deve incluir um mecanismo de autenticação seguro, permitindo que os usuários façam login com suas credenciais.           | IS16  | Sim          |
-| RNF06 | O Sympla deve contar com uma área para que os usuários reportem erros de funcionamento da plataforma.                             | IS17  | Sim          |
+| RNF01 | O Sympla deve apresentar eventos de forma personalizada, com base na atividade do usuário.                                        | IS20  | Sim          |
+| RNF02 | O usuário deve conseguir acessar informações como data, local e preço do ingresso em, no máximo, 2 cliques durante a busca no Sympla. | IS21  | Sim          |
+| RNF03 | O Sympla deve permitir que o usuário acesse seus ingressos em, no máximo, 3 cliques.                                                 | IS22  | Sim          |
+| RNF04 | O Sympla deve oferecer atendimento especial para idosos e pessoas com deficiência durante o processo de compra de ingressos.      | IS23  | Não          |
+| RNF05 | O Sympla deve incluir um mecanismo de autenticação seguro, permitindo que os usuários façam login com suas credenciais.           | IS24  | Sim          |
+| RNF06 | O Sympla deve contar com uma área para que os usuários reportem erros de funcionamento da plataforma.                             | IS25  | Sim          |
 
 </center>
 
@@ -113,4 +113,5 @@ Vale ressaltar que os requisitos RF11 só é possível por meio do email e não 
 |  1.0   | Criação desse documento | [Milena Rocha](https://github.com/MilenaFRocha) | 18/11/2024 | [Rafael Pereira](https://github.com/rafgpereira)  |
 |  1.1   | Vídeo postado | [Milena Rocha](https://github.com/MilenaFRocha) | 23/11/2024 | [Rafael Pereira](https://github.com/rafgpereira)  |
 |  1.2   | Vídeo postado | [Gabriel Scheidt](https://github.com/MilenaFRocha) | 24/11/2024 | [Victor Hugo](https://github.com/VHbernardes)  |
+|  1.3   |  Ajuste de index | [Milena Rocha](https://github.com/MilenaFRocha) | 24/11/2024 |   |
 
