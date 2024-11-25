@@ -77,6 +77,4 @@ Abaixo, no Vídeo 1, apresentamos o processo de auto verificação do grupo, jus
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     | 
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação desse documento | [Victor Hugo](https://github.com/VHbernardes) | 24/11/2024 | [Milena Rocha](https://github.com/MilenaFRocha)  |
-|  1.1   | Avaliação dos critérios da entrega 1 (v1.0) | [Renan Araújo](https://github.com/renantfm4) | 24/11/2024 | [Rafael Pereira](https://github.com/rafgpereira)  |
-|  1.2   | Adição do vídeo da verificação | [Renan Araújo](https://github.com/renantfm4) | 24/11/2024 | [Rafael Pereira](https://github.com/rafgpereira)  |
 
