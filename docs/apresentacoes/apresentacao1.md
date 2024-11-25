@@ -17,7 +17,7 @@ O objetivo dessa página é armazenar o Vídeo 1, que contém a apresentação d
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     | 
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
-1.0 |  Documentação da apresentação | [Gabriel Scheidt](https://github.com/Gxaite)| 27/04/2023 | [Victor Hugo](https://github.com/VHbernardes)
+1.0 |  Documentação da apresentação | [Gabriel Scheidt](https://github.com/Gxaite)| 27/10/2023 | [Victor Hugo](https://github.com/VHbernardes)
 1.1 | Incorporação do vídeo da apresentação | [Rafael Pereira](https://github.com/rafgpereira) | 29/10/2024 | [Milena Rocha](https://github.com/MilenaFRocha)
 1.2 | Adição do contraste de cores | [Rafael Pereira](https://github.com/rafgpereira) | 29/10/2024 | [Milena Rocha](https://github.com/MilenaFRocha)
 1.3 | Incorporação do novo vídeo da apresentação | [Rafael Pereira](https://github.com/rafgpereira) | 05/11/2024 | [Gabriel Scheidt](https://github.com/Gxaite)

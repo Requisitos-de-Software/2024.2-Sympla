@@ -27,7 +27,7 @@ As siglas representam:
 |-------|--------------------------------------------------------------------------------------------------------------|---------------------------------------|--------------|
 | RF01  | O sistema permite filtrar eventos por Estado e Município.                                                     | OBS01, IS01                           | Sim          |
 | RF02  | O sistema exibe detalhes importantes do evento, como horário de entrada e local.                              | 2ENT02, 1ENT03, OBS16, IS02           | Sim          |
-| RF03  | O sistema envia notificações ou lembretes sobre os eventos comprados.                                         | 2ENT03, 1ENT04, QS03                  | Sim          |
+| RF03  | O sistema envia notificações ou lembretes sobre os eventos comprados.                                         | 2ENT03, 1ENT04, QS03  ,IS18                | Sim          |
 | RF04  | O sistema fornece uma ampla variedade de eventos.                                                             | 2ENT04, QS04                          | Sim          |
 | RF05  | O aplicativo permite compartilhar o evento por meio das redes sociais.                                        | OBS03                                 | Sim          |
 | RF06  | Deve ser possível adicionar vários ingressos ao carrinho antes de finalizar a compra.                         | 1ENT01                                | Não          |
@@ -53,14 +53,13 @@ As siglas representam:
 | RF26  | O Sympla possibilita filtrar eventos por categorias.        | IS03 | Não          |
 | RF27  | O Sympla oferece funcionalidades para cadastro e login de usuários. | IS05 | Sim          |
 | RF28  | O Sympla possibilita a exclusão do cadastro de usuários.    | IS06 | Sim          |
-| RF29  | O Sympla oferece a opção imprimir ingressos.                | IS11 | Sim          |
-| RF30  | O aplicativo dá sugestões de eventos com base no histórico de buscas do usuário.                  | IS18 | Não          |O Sympla oferece a opção imprimir ingressos.
+| RF29  | O Sympla oferece a opção imprimir ingressos.                | IS19 | Sim          |
+| RF30  | O aplicativo dá sugestões de eventos com base no histórico de buscas do usuário.                  | IS11 | Não          |O Sympla oferece a opção imprimir ingressos.
 | RF31  | O usuário é capaz de conectar uma carteira digital.                                               | IS12 | Não          |
 | RF32  | O usuário é capaz de mudar o idioma do app.                                                       | IS13 | Não          |
 | RF33  | O usuário é capaz de entrar na aba de configurações.                                              | IS14 | Não          |
 | RF34  | O sistema apresenta uma aba de acessibilidades.                                                   | IS15 | Não          |
 | RF35  | O usuário é capaz de criar preferências de eventos.                                               | IS16 | Não          |
-| RF36  | O app faz sugestões e envia notificações com base na preferência escolhida do usuário.            | IS17 | Não          |
 | RNF01 | O envio do ingresso deve ser rápido.                                                                          | 2ENT05                                | Não          |
 | RNF02 | O sistema deve ser seguro para uso comercial.                                                                 | 2ENT06                                | Sim          |
 | RNF03 | O login deve ser estável, evitando falhas frequentes que exijam que o usuário se autentique novamente.        | 1ENT06                                | Não          |
@@ -73,11 +72,14 @@ As siglas representam:
 | RNF10 | Deve apresentar uma página acessível de suporte e de perguntas frequentes com, no máximo, 1 clique.           | OBS19                                 | Sim          |
 | RNF11 | Deve apresentar uma tela com os dados da conta com ao menos uma etapa de segurança.                           | OBS20, IS16                           | Sim          |
 | RNF12 | Deve permitir a filtragem dos eventos com apenas 1 clique.                                                    | OBS22 ,2ENT01                               | Sim          |
-| RNF13 | O sistema apresenta eventos de forma personalizada, com base na atividade do usuário.                        | IS12                                 | Sim          |
-| RNF14 | O usuário deve conseguir acessar informações como data, local e preço do ingresso em, no máximo, 2 cliques durante a busca no Sympla. | IS13  | Sim          |
-| RNF15 | O Sympla deve permitir que o usuário acesse seus ingressos em, no máximo, 3 cliques.                                                 | IS14  | Sim          |
-| RNF16 | O Sympla deve oferecer atendimento especial para idosos e pessoas com deficiência durante o processo de compra de ingressos.      | IS15  | Não          |
+| RNF13 | O sistema apresenta eventos de forma personalizada, com base na atividade do usuário.                        | IS19                                 | Sim          |
+| RNF14 | O usuário deve conseguir acessar informações como data, local e preço do ingresso em, no máximo, 2 cliques durante a busca no Sympla. | IS20  | Sim          |
+| RNF15 | O Sympla deve permitir que o usuário acesse seus ingressos em, no máximo, 3 cliques.                                                 | IS21  | Sim          |
+| RNF16 | O Sympla deve oferecer atendimento especial para idosos e pessoas com deficiência durante o processo de compra de ingressos.      | IS22  | Não          |
 | RNF17 | O aplicativo mostra os eventos de preferência escolhida pelo usuário ao abrir.                    | OBS23 | Não          |
+| RNF18 | O Sympla deve incluir um mecanismo de autenticação seguro, permitindo que os usuários façam login com suas credenciais.           | IS23  | Sim          |
+| RNF19 | O Sympla deve contar com uma área para que os usuários reportem erros de funcionamento da plataforma.                             | IS24  | Sim          |
+
 
 
 
