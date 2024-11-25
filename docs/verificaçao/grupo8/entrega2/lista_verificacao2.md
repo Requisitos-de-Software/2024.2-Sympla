@@ -45,11 +45,11 @@ Abaixo, no Vídeo 1, apresentamos o processo de auto verificação do grupo, jus
 
 <div style="text-align: center">
 
-<font size="3"><p style="text-align: center">Vídeo 1: Auto Verificação Entrega 1 - Grupo 08 - Sympla</p></font>
+<font size="3"><p style="text-align: center">Vídeo 1: Auto Verificação Entrega 2 - Grupo 08 - Sympla</p></font>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PiSQN0lOV60?si=xX998F0ylb9xVWz9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Os Autores. Auto Verificação Entrega 2 - Grupo 08 - Sympla. Disponível em: <a href="https://youtu.be/QRVJSeqUjA4">https://youtu.be/QRVJSeqUjA4</a>. Acesso em: 05 nov. 2024.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Os Autores. Auto Verificação Entrega 2 - Grupo 08 - Sympla. Disponível em: <a href="https://youtu.be/PiSQN0lOV60">https://youtu.be/PiSQN0lOV60</a>. Acesso em: 05 nov. 2024.</p></font>
 </div>
 
 ## **Bibliografia**
