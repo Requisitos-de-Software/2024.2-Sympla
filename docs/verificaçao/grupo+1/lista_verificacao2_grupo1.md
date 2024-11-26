@@ -17,24 +17,24 @@ Cada um dos itens da Tabela 1 será avaliado com Sim, Não ou Incompleto de acor
 | O github pages possui: |   Sim/Não/Incompleto   |  Versão da avaliação | Data da última avaliação |
 |------|:-------------------------------:|:--------------:|:--------------:|
 | **Itens do Desenvolvimento do projeto** |
-| 1 - Todos os 9 itens. | Sim (Alguns incompletos) |  |  |
+| 1 - Todos os 9 itens. | Sim (Alguns incompletos) | 1.0 | 25/11/2024 |
 | **Itens do conteúdo da disciplina.** |
-| 2 - A Especificação do Perfil do usuário possui informação de: <br> • **Idade** (criança, jovem, adulto, terceira idade etc.); <br> • **Experiência** (leigo/ novato, especialista); <br> • **Atitudes** (tecnófilos, tecnófobos); <br> • **tarefas primárias** (compra, venda) | Incompleto (Descrição confusa e incompleta) |  |  |
-| 3 - Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? | Incompleto (Faltou horário e local para todos, exceto questionario (não se aplica)) |  |  |
-| 4 - No mínimo três técnicas de elicitação foram utilizadas (quanto mais melhor)? | Sim |  |  |
-| 5 - A participação do cliente e/ou persona na elicitação de requisitos? | Sim |  |  |
-| 6 - A gravação e o(s) registro(s) da elicitação dos requisitos (pré-rastreabilidade)? | Incompleto *** faltou na instrospecção, ignorando questionário. |  |  |
-| 7 - Um cronograma (data e horário) e local para realização da priorização dos requisitos com o do cliente e/ou persona do projeto? | Incompleto (100$ falta hora e local, nos outros estava de difícil acesso, no meio dos textos.) |  |  |
-| 8 - No mínimo duas técnicas de priorização (quanto mais melhor)?| Sim |  |  |
-| 9 – A participação do cliente e/ou persona no processo de priorização? | Sim |  |  |
-| 10 - A gravação e o(s) registro(s) da atividade de priorização dos requisitos? | Sim (Um dos links estava inoperante no First Things First) |  |  |
+| 2 - A Especificação do Perfil do usuário possui informação de: <br> • **Idade** (criança, jovem, adulto, terceira idade etc.); <br> • **Experiência** (leigo/ novato, especialista); <br> • **Atitudes** (tecnófilos, tecnófobos); <br> • **tarefas primárias** (compra, venda) | Incompleto (Descrição confusa e incompleta) | 1.0 | 25/11/2024 |
+| 3 - Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? | Incompleto (Faltou horário e local para todos, exceto questionario (não se aplica)) | 1.0 | 25/11/2024 |
+| 4 - No mínimo três técnicas de elicitação foram utilizadas (quanto mais melhor)? | Sim |  | 25/11/2024 |
+| 5 - A participação do cliente e/ou persona na elicitação de requisitos? | Sim | 1.0 | 25/11/2024 |
+| 6 - A gravação e o(s) registro(s) da elicitação dos requisitos (pré-rastreabilidade)? | Incompleto *** faltou na instrospecção, ignorando questionário. | 1.0 | 25/11/2024 |
+| 7 - Um cronograma (data e horário) e local para realização da priorização dos requisitos com o do cliente e/ou persona do projeto? | Incompleto (100$ falta hora e local, nos outros estava de difícil acesso, no meio dos textos.) | 1.0 | 25/11/2024 |
+| 8 - No mínimo duas técnicas de priorização (quanto mais melhor)?| Sim | 1.0 | 25/11/2024 |
+| 9 – A participação do cliente e/ou persona no processo de priorização? | Sim | 1.0 | 25/11/2024 |
+| 10 - A gravação e o(s) registro(s) da atividade de priorização dos requisitos? | Sim (Um dos links estava inoperante no First Things First) | 1.0 | 25/11/2024 |
 | **Itens do Conteúdo da disciplina feitas pelos integrantes** |
-| 11 - As personas foram definidas de forma a representar grupos de usuários reais? <a id="anchor_1" href="#REF1"><sup>1</sup></a> **Autor: Victor** | Sim |  | |
-| 12 - Os objetivos principais das personas foram identificados e refinados durante a análise do domínio de atividade do usuário? <a id="anchor_2" href="#REF2"><sup>2</sup></a> **Autor: Rafael**  | Sim |  | |
-| 13 - Foram aplicados métodos (como entrevistas ou questionários) para coletar dados sobre os usuários? <a id="anchor_3" href="#REF3"><sup>3</sup></a> **Autor: Milena** | Sim |  | |
-| 14 - Foi apresentado um termo de consetimento para os participantes das técnicas? <a id="anchor_4" href="#REF4"><sup>4</sup></a> **Autor: Renan** | Incompleto (Citado brevemente apenas no vídeo da observação) |  | |
-| 15 - Dentre os Requisitos Elicitados estão os Funcionais e Não-Funcionais? <a id="anchor_5" href="#REF5"><sup>5</sup></a> **Autor: Gabriel** | Sim |  |  |
-| 16 - Cada integrante da equipe deve elaborar ao menos um 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência. <a id="anchor_6" href="#REF6"><sup>6</sup></a> **Autor: Prof. André** | Sim |  | |
+| 11 - As personas foram definidas de forma a representar grupos de usuários reais? <a id="anchor_1" href="#REF1"><sup>1</sup></a> **Autor: Victor** | Sim | 1.0 |25/11/2024 |
+| 12 - Os objetivos principais das personas foram identificados e refinados durante a análise do domínio de atividade do usuário? <a id="anchor_2" href="#REF2"><sup>2</sup></a> **Autor: Rafael**  | Sim | 1.0 |25/11/2024 |
+| 13 - Foram aplicados métodos (como entrevistas ou questionários) para coletar dados sobre os usuários? <a id="anchor_3" href="#REF3"><sup>3</sup></a> **Autor: Milena** | Sim | 1.0 |25/11/2024 |
+| 14 - Foi apresentado um termo de consetimento para os participantes das técnicas? <a id="anchor_4" href="#REF4"><sup>4</sup></a> **Autor: Renan** | Incompleto (Citado brevemente apenas no vídeo da observação) | 1.0 |25/11/2024 |
+| 15 - Dentre os Requisitos Elicitados estão os Funcionais e Não-Funcionais? <a id="anchor_5" href="#REF5"><sup>5</sup></a> **Autor: Gabriel** | Sim | 1.0 | 25/11/2024 |
+| 16 - Cada integrante da equipe deve elaborar ao menos um 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência. <a id="anchor_6" href="#REF6"><sup>6</sup></a> **Autor: Prof. André** | Sim | 1.0 |25/11/2024 |
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/VHbernardes">Victor Hugo</a>, 2024</p></font>
 
@@ -78,3 +78,4 @@ Abaixo, no Vídeo 1, apresentamos o processo de verificação do grupo 01, justi
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação desse documento |  [Milena Rocha](https://github.com/MilenaFRocha) | 24/11/2024 | [Victor Hugo](https://github.com/VHbernardes)  |
 |  1.1   | Verificação do grupo 1 |  [Rafael Pereira](https://github.com/rafgpereira) | 25/11/2024 | [Milena Rocha](https://github.com/MilenaFRocha)  |
+|  1.2   | Adição da gravação |  [Victor Hugo](https://github.com/VHbernardes) | 25/11/2024 | [Milena Rocha](https://github.com/MilenaFRocha)  |
