@@ -106,7 +106,7 @@ Legenda das Tabelas 2 e 3:
 
 <center>
 
-| Tipo | Descrição                                                                                                             | <a id="anchor_OBS" style="visibility: hidden;"></a> ID | Implementado |
+| Tipo | Descrição                                                                                                             | <a id="anchor_OBS" style="color:black;">ID</a>  | Implementado |
 | ---- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ------------ |
 | RF01 | O aplicativo filtra os eventos por Estado.                                                                            | OBS01                                                  | Sim          |
 | RF02 | O aplicativo permite a busca por eventos.                                                                             | OBS02                                                  | Sim          |

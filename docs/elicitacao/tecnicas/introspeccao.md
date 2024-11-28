@@ -55,7 +55,7 @@ Legenda das Tabelas 2 e 3:
 
 <center>
 
-| Tipo  | Descrição                                                   | ID   | Implementado |
+| Tipo  | Descrição                                                   | <a id="anchor_ISF" style="color:black;">ID</a>    | Implementado |
 |-------|-------------------------------------------------------------|------|--------------|
 | RF01  | O Sympla permite filtrar eventos por Estado e Município.    | IS01 | Sim          |
 | RF02  | O Sympla oferece filtros por data e horário dos eventos.    | IS02 | Sim          |
@@ -88,7 +88,7 @@ Vale ressaltar que os requisitos RF11 só é possível por meio do email e não 
 
 <center>
 
-| Tipo  | Descrição                                                                                                                         | ID   | Implementado |
+| Tipo  | Descrição                                                                                                                         | <a id="anchor_ISNF" style="color:black;">ID</a>    | Implementado |
 |-------|-----------------------------------------------------------------------------------------------------------------------------------|-------|--------------|
 | RNF01 | O Sympla deve apresentar eventos de forma personalizada, com base na atividade do usuário.                                        | IS19  | Sim          |
 | RNF02 | O usuário deve conseguir acessar informações como data, local e preço do ingresso em, no máximo, 2 cliques durante a busca no Sympla. | IS20  | Sim          |

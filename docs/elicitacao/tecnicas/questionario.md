@@ -239,7 +239,7 @@ A partir dos resultados do questionário, foi possível elicitar alguns requisit
 
 <font size="3"><p style="text-align: center"><b>Tabela 2:</b> Requisitos elicitados por meio do questionário</p></font>
 
-| Tipo  | Descrição                                                                                                      | ID                  | Implementado |
+| Tipo  | Descrição                                                                                                      |  <a id="anchor_QS" style="color:black;">ID</a>                  | Implementado |
 |-------|--------------------------------------------------------------------------------------------------------------|-----------------------|--------------|
 | RF01  | O aplicativo deve fornecer uma funcionalidade de busca eficiente para facilitar a localização dos produtos (eventos, ingressos, etc.). | QS01                 | Sim          |
 | RF02  | O aplicativo deve oferecer diversas opções de pagamento para a compra de ingressos.                           | QS02                 | Sim          |
