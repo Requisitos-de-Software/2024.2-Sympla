@@ -4,7 +4,7 @@
 A técnica de observação de requisitos é uma abordagem essencial para coletar informações sobre as necessidades de um software. Ela consiste em observar usuários, processos e sistemas em funcionamento para compreender as demandas e preferências dos usuários finais, além de identificar limitações e restrições no ambiente de uso do aplicativo. Agradecemos, desde já, a participação de Gabriel Pessoa, usuário que foi observado durante a utilização do app Sympla
 
 
-No dia 18/11/2024, das 14:00 às 15:00, os integrantes se reuniram, conforme detalhado na Tabela 1, por meio do Microsoft Teams, com o propósito de realizar uma Observação Participativa, na qual o Engenheiro de Software exerce influência sobre o processo. Durante essa atividade, os observadores [Milena Rocha](https://github.com/MilenaFRocha) e [Gabriel Scheidt](https://github.com/Gxaite) orientaram o usuário Gabriel Pessoa sobre as ações a serem executadas no aplicativo da Sympla. O usuário compartilhou a tela de seu celular, enquanto os observadores guiavam os passos a serem seguidos. Os requisitos identificados estão registrados nas Tabelas 2 e 3.
+No dia 18/11/2024, das 14:00 às 15:00, os integrantes se reuniram, conforme detalhado na Tabela 1, por meio do Microsoft Teams, com o propósito de realizar uma Observação Participativa, na qual o Engenheiro de Software exerce influência sobre o processo. Durante essa atividade, os observadores [Milena Rocha](https://github.com/MilenaFRocha) e [Gabriel Scheidt](https://github.com/Gxaite) orientaram o usuário Gabriel Pessoa sobre as ações a serem executadas no aplicativo da Sympla. O usuário compartilhou a tela de seu celular e concordou em disponibilizar sua imagem e voz para o uso durante a disciplina de Requisitos de Software, assinou também o [termo de uso](../../assets/termozaranza.png).Depois os observadores guiavam os passos a serem seguidos. Os requisitos identificados estão registrados nas Tabelas 2 e 3.
 
 ### Cronograma de Reuniões
 
@@ -66,12 +66,6 @@ No dia 18/11/2024, das 14:00 às 15:00, os integrantes se reuniram, conforme det
 - **Experiência:** Facilidade de uso e possíveis frustrações.
 
 
-### Termo de uso de imagem
-Abaixo está o termo de uso de imagem e voz do participante Gabriel Pessoa Zaranza na Figura 1.
-
-<font size="3"><p style="text-align: center">Figura 1: Termo de Uso assinado.</p></font>
-![Termo Zaranza](../../assets/observacao/termozaranza.png)
-
 
 ### [Link para a gravação da observação.](https://www.youtube.com/watch?v=YAJ2Utv1DEg)
 No dia 18/11/2024 a Observação foi realizada e publicada, o contéudo pode ser visto no Vídeo 1.
@@ -88,9 +82,11 @@ No dia 18/11/2024 a Observação foi realizada e publicada, o contéudo pode ser
 
 Durante a observação realizada o usuário entrou em contato com a assistência técnica do aplicativo sympla afim de receber um direcionamento de como prosseguir com a compra do ingresso. O contato do usuário foi feito as 14:45 no dia 18/11/2024 e a resposta foi enviada e notificada por email as 14:52.
 
+<font size="3"><p style="text-align: center">Figura 1: Print da tela do celular do Gabriel Zaranza 2024</p></font>
 <center>
 ![Resposta ](../../assets/observacao/respostaAtendimento.png)
 </center>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Gabriel Zaranza <a href="https://github.com/renantfm4"></a>, 2024</p></font>
 
 ## Requisitos elicitados
 
@@ -160,5 +156,6 @@ Legenda das Tabelas 2 e 3:
 |  1.0   | Criação desse documento | [Milena Rocha](https://github.com/MilenaFRocha) | 18/11/2024 | [Rafael Pereira](https://github.com/rafgpereira)  |
 |  2.0   |Adição do Termo assinado | [Gabriel Scheidt](https://github.com/gxaite) | 18/11/2024 | [Milena Rocha](https://github.com/MilenaFRocha) |
 |  2.1   |Cronograma e roteiro da entrevista | [Gabriel Scheidt](https://github.com/gxaite) | 24/11/2024 | [Rafael Pereira](https://github.com/rafgpereira)  |
+|  2.2   |Padroniza o termo e fonte | [Milena Rocha](https://github.com/MilenaFRocha)| 02/12/2024 |   |
 
 
