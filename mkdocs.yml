@@ -65,6 +65,7 @@ nav:
     - Modelagem:
       - Diagrama de Caso de Uso: modelagem/diagrama_caso_de_uso.md
       - Especificação Suplementar: modelagem/especificacao_suplementar.md
+      - Léxicos: modelagem/lexico.md
     - Requisitos:
       - Requisitos Elicitados: elicitacao/requisitos/requisitos_elicitados.md
     - Priorização:
