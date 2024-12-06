@@ -113,13 +113,31 @@ As tabelas e figuras de 1 a 6 apresentam nosso elenco de personas.
 
 <font size="2"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/VHbernardes">Victor Hugo</a>, 2024</p></font>
 
+<font size="4"><p style="text-align: center"><b>Figura 6 - Persona:</b> Jéssica - Produtora de Eventos</p></font>
+<figure style="text-align: center;">
+    <img src="../assets/jessica.jpeg" alt="Jéssica" style="height: 300px; width: 300px;">
+    <figcaption><font size="3"><p style="text-align: center"><b>Fonte:</b> Imagens geradas por <a href="https://this-person-does-not-exist.com/en" target="_blank">This Person Does Not Exist</a>.<a id="TEC1" href="#QT1"><sup>1</sup></a></p></font></figcaption>
+</figure>
+<font size="3"><p style="text-align: center"><b>Tabela 6</b> - Persona 6</p></font>
 
-<font size="4"><p style="text-align: center"><b>Figura 6 - Anti-Persona:</b> Maria - A Cética Tecnológica</p></font>
+| **Atributo**                   | **Descrição**                                                                                  |
+|---------------------------------|----------------------------------------------------------------------------------------------|
+| **Idade:**                      | 35 anos                                                                                      |
+| **Gênero:**                     | Feminino                                                                                     |
+| **Profissão:**                  | Produtora de Eventos                                                                         |
+| **Objetivos:**                  | Criar, divulgar e gerenciar eventos de forma eficiente e profissional, alcançando um público diversificado. |
+| **Comportamento Digital:**      | Maria é uma usuária frequente de plataformas digitais para gerenciamento e promoção de eventos. Ela valoriza ferramentas intuitivas que facilitem a criação de páginas de eventos, a venda de ingressos e o acompanhamento de métricas. |
+| **Desafios:**                   | Garantir uma divulgação eficaz dos eventos e gerenciar vendas de ingressos sem dificuldades técnicas. |
+| **Motivação para usar o aplicativo:** | **Criação de eventos:** Maria utiliza o Sympla para criar páginas profissionais para seus eventos, com informações detalhadas e design atraente. **Gestão de ingressos e público:** A plataforma ajuda Maria a organizar a venda de ingressos e acompanhar os dados do público em tempo real. |
+
+<font size="2"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/VHbernardes">Victor Hugo</a>, 2024</p></font>
+
+<font size="4"><p style="text-align: center"><b>Figura 7 - Anti-Persona:</b> Maria - A Cética Tecnológica</p></font>
 <figure style="text-align: center;">
     <img src="../assets/maria.jpeg" alt="Maria - Anti-Persona" style="height: 300px; width: 300px;">
     <figcaption><font size="3"><p style="text-align: center"><b>Fonte:</b> Imagens geradas por <a href="https://this-person-does-not-exist.com/en" target="_blank">This Person Does Not Exist</a>.<a id="TEC1" href="#QT1"><sup>1</sup></a></p></font></figcaption>
 </figure>
-<font size="3"><p style="text-align: center"><b>Tabela 6</b> - Anti-Persona</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 7</b> - Anti-Persona</p></font>
 
 | **Atributo**                   | **Descrição**                                                      |
 |---------------------------------|--------------------------------------------------------------------|
@@ -151,6 +169,7 @@ As tabelas e figuras de 1 a 6 apresentam nosso elenco de personas.
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação do documento |  [Victor Hugo](https://github.com/VHbernardes) | 12/11/2024   | [Milena Rocha](https://github.com/MilenaFRocha) |
 |  1.1   | Adição das personas |  [Victor Hugo](https://github.com/VHbernardes) | 12/11/2024   | [Milena Rocha](https://github.com/MilenaFRocha) |
+|  1.2   | Adição da persona produtora (pós apresentação)  |  [Victor Hugo](https://github.com/VHbernardes) | 06/12/2024   | [Milena Rocha](https://github.com/MilenaFRocha) |
 
 
 </center>
