@@ -108,7 +108,7 @@ O quarto Léxico, presente na Tabela 6, se relaciona com o seguinte requisito: o
 
 ### <a id="L05" href="#anchor_L05" style="color:blue;"> L05: Usuário</a>
 
-O quinto Léxico, presente na Tabela 7, se relaciona com diversos (<a href="../../elicitacao/requisitos/requisitos_elicitados/#anchor_GERAL">requisitos elicitados</a>) que estão voltados para as necessidades do usuário.
+O quinto Léxico, presente na Tabela 7, se relaciona com diversos <a href="../../elicitacao/requisitos/requisitos_elicitados/#anchor_GERAL">requisitos elicitados</a> que estão voltados para as necessidades do usuário.
 
 <font size="3"><p style="text-align: center"><b>Tabela 7</b> - Léxico 05: Usuário (L05)</p></font>
 
