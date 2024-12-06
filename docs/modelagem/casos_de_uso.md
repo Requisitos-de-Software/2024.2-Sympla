@@ -43,7 +43,7 @@ A figura 1 demonstra o diagrama de casos de uso.
 
 ## Especialização dos casos de uso
 
-As tabelas de 2 a 5 mostram a especialização dos casos de uso.
+As tabelas de 2 a 6 mostram a especialização dos casos de uso.
 
 <font size="3"><p style="text-align: center">Tabela 2: Buscar evento</p></font>
 
@@ -58,7 +58,7 @@ As tabelas de 2 a 5 mostram a especialização dos casos de uso.
 | Fluxo de exceção | <ul><li> O usuário acessa o aplicativo </br><ul><li> A localização do usuário está desligada </br><ul><li> O usuário busca evento disponibilizado na página inicial </br> |
 | Pós-condições | O usuário tem acesso a eventos que correspondem ao(s) filtro(s) de busca escolhido(s) |
 | Data de Criação | 15/05/2023 |
-| Rastreabilidade | [RF01](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/), [RF02](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/), [RF10](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/) |
+| Rastreabilidade | [RF01](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/), [RF02](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/), [RF10](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/) |
 
 <font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/gxaite">Gabriel Scheidt</a></b></p></font>
 
@@ -75,7 +75,7 @@ As tabelas de 2 a 5 mostram a especialização dos casos de uso.
 | Fluxo de exceção | <ul><li>O usuário abre o app </br> <ul><li> O usuário tem uma tela com as notificações não lidas  |
 | Pós-condições | O usuário agora está com as notificações ligadas e será notificado sobre novos eventos |
 | Data de Criação | 15/05/2023 |
-| Rastreabilidade | [RF13](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/) |
+| Rastreabilidade | [RF13](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/) |
 
 <font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/rafgpereira">Rafael Pereira</a></b></p></font>
 
@@ -92,7 +92,7 @@ As tabelas de 2 a 5 mostram a especialização dos casos de uso.
 | Fluxo de exceção | <ul><li>A lista de carteiras digitais suportadas está vazia ou não é exibida corretamente.</li><li>O aplicativo exibe uma mensagem de erro informando que não foi possível carregar a lista de carteiras digitais suportadas e sugere:<ul><li>Tentar novamente mais tarde.</li><li>Entrar em contato com o suporte ao cliente para obter assistência.</li></ul></li></ul> |
 | Pós-condições | O usuário pode pagar pelos ingressos utilizando um carteira digital |
 | Data de Criação | 15/05/2023 |
-| Rastreabilidade | [RF23](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/)  |
+| Rastreabilidade | [RF23](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/)  |
 
 <font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/VHbernardes">Victor Hugo</a></b></p></font>
 
@@ -109,7 +109,7 @@ As tabelas de 2 a 5 mostram a especialização dos casos de uso.
 | Fluxo de exceção | <ul><li>O usuário efetua cadastro no app<ul><li> Aparece uma caixa de mensagem sobre a pesquisa de perfil e se deseja responder <ul><li>Usuário rejeita responder a pesquisa |
 | Pós-condições | O usuário terá em sua tela principal somente eventos que sejam de seu interesse |
 | Data de Criação | 15/05/2023 |
-| Rastreabilidade | [RF18](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/) |
+| Rastreabilidade | [RF18](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/) |
 
 
 
@@ -128,7 +128,7 @@ As tabelas de 2 a 5 mostram a especialização dos casos de uso.
 | Fluxo de exceção | <ul><li>O usuário efetua cadastro no app<ul><li> Aparece uma caixa de mensagem sobre a pesquisa de perfil e se deseja responder <ul><li>Usuário rejeita responder a pesquisa |
 | Pós-condições | O usuário terá em sua tela principal somente eventos que sejam de seu interesse |
 | Data de Criação | 15/05/2023 |
-| Rastreabilidade | [RF18](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/) |
+| Rastreabilidade | [RF18](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/) |
 
 
 
