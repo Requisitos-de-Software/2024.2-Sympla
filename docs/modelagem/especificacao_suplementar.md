@@ -97,9 +97,21 @@ Para essa categoria os requisitos identificados estão representados na tabela 4
 
 <font><p style="text-align: center">**Tabela 4** - Requisitos de Suportabilidade.</p></font>
 
+| ID    | Descrição                                                                                                                |
+| ----- | ------------------------------------------------------------------------------------------------------------------------ |
+| SUP01 | O aplicativo deve suportar diferentes sistemas operacionais (iOS e Android) e dispositivos (smartphones e tablets), garantindo uma experiência consistente. |
+| SUP02 | O aplicativo deve ter um chatbot para ajudar usuários com dúvidas sobre ingressos e reembolsos.                          |
+| SUP03 | O aplicativo deve oferecer disponibilização de opções em português, inglês e espanhol.                                   |
+| SUP04 | O sistema deve permitir personalização de notificações para os usuários, como ativar/desativar lembretes de eventos e atualizações sobre ingressos. |
+| SUP05 | O sistema deve permitir compartilhamento de ingressos entre usuários diretamente pelo aplicativo, com rastreamento de transferências realizadas. |
+| SUP06 | O sistema deve oferecer integração com ferramentas de acessibilidade, como leitores de tela e suporte a navegação por teclado, para atender a usuários com deficiências. |
+| SUP07 | O sistema deve implementar um mecanismo de feedback dentro do aplicativo, permitindo que usuários enviem sugestões ou relatem problemas diretamente à equipe de desenvolvimento. |
+| SUP08 | O sistema deve possuir alta testabilidade, permitindo realização de testes automatizados e manuais durante o desenvolvimento e manutenção para garantir estabilidade. |
+| SUP09 | O sistema deve apresentar tolerância a falhas, com mecanismos de recuperação, detecção de erros, manutenção da integridade dos dados, backups regulares e processos de restauração rápidos em caso de falhas. |
+| SUP10 | O sistema deve adotar uma arquitetura com código bem estruturado e organizado, permitindo fácil manutenção e implementação de melhorias. |
 
 
-<font size="3"><p style="text-align: center">Fonte: [Rafael Ferreira](https://github.com/RafaelCLG0).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Renan Araújo](https://github.com/renantfm4).</p></font>
 
 ## Requisitos de Licenciamento  
 
