@@ -44,6 +44,8 @@ nav:
     - Ata 2º reunião: Atas/ata2.md
     - Ata 3º reunião: Atas/ata3.md
     - Ata 4º reunião: Atas/ata4.md
+    - Ata 5º reunião: Atas/ata5.md
+    - Ata 6º reunião: Atas/ata6.md
   - Planejamento:
     - Cronograma de Atividades: planejamento/cronograma.md
     - Ferramentas: planejamento/ferramentas.md
@@ -72,6 +74,7 @@ nav:
       - Especificação Suplementar: modelagem/especificacao_suplementar.md
       - Léxicos: modelagem/lexico.md
       - Cenários: modelagem/cenarios.md
+      - Casos de uso: modelagem/casos_de_uso.md
   - Apresentações:
     - Apresentação 1: apresentacoes/apresentacao1.md
     - Apresentação 2: apresentacoes/apresentacao2.md
