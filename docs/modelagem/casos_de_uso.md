@@ -53,12 +53,12 @@ As tabelas de 2 a 6 mostram a especialização dos casos de uso.
 | Ator | Usuário |
 | Pré-condições | Acesso à internet, acesso ao app |
 | Ação | O usuário  encontra eventos |
-| Fluxo principal | <ul><li> O usuário acessa o aplicativo </br> <ul><li> O usuário acessa "Buscar evento..." </br> <ul><li> O usuário filtra a busca por município, data, horário ou categoria do evento </br> |
+| Fluxo principal | <ul><li> O usuário acessa o aplicativo </br> <ul><li> O usuário acessa "Buscar evento..." </br> <ul><li> O usuário filtra a busca por município, data, horário ou gênero do evento (categoria do evento) </br> |
 | Fluxo alternativo | <ul><li> O usuário acessa o aplicativo </br> <ul><li> O app solicita a localização do usuário </br> <ul><li> O usuário seleciona "Sim"</br> |
 | Fluxo de exceção | <ul><li> O usuário acessa o aplicativo </br><ul><li> A localização do usuário está desligada </br><ul><li> O usuário busca evento disponibilizado na página inicial </br> |
 | Pós-condições | O usuário tem acesso a eventos que correspondem ao(s) filtro(s) de busca escolhido(s) |
 | Data de Criação | 15/05/2023 |
-| Rastreabilidade | [RF01](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/), [RF02](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/), [RF10](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/) |
+| Rastreabilidade | [RF01](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/), [RF02](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/), [RF26](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/) |
 
 <font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/gxaite">Gabriel Scheidt</a></b></p></font>
 
@@ -75,7 +75,7 @@ As tabelas de 2 a 6 mostram a especialização dos casos de uso.
 | Fluxo de exceção | <ul><li>O usuário abre o app </br> <ul><li> O usuário tem uma tela com as notificações não lidas  |
 | Pós-condições | O usuário agora está com as notificações ligadas e será notificado sobre novos eventos |
 | Data de Criação | 15/05/2023 |
-| Rastreabilidade | [RF13](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/) |
+| Rastreabilidade | [RF03](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/) |
 
 <font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/rafgpereira">Rafael Pereira</a></b></p></font>
 
@@ -83,16 +83,16 @@ As tabelas de 2 a 6 mostram a especialização dos casos de uso.
 
 | UC03 | Informações |
 | ----- | ---------- |
-| Descrição | Usuário conecta carteira digital como forma de pagamento no app |
+| Descrição | Usuário conecta carteira digital, adiciona outro método de pagamento no app ou paga direto por meio de um boleto. |
 | Ator | Usuário |
-| Pré-condições |<ul><li>Acesso à internet</li><li>Conta no app</li><li>Conta válida em uma carteira digital válida</li>|
-| Ação | O usuário cadastra uma nova forma de pagamento | 
-| Fluxo principal | <ul><li>O usuário acessa o aplicativo BilheteriaDigital e faz login em sua conta.</br><ul><li>O usuário navega até as configurações de pagamento ou opções de pagamento.</br><li>O usuário seleciona a opção para adicionar uma carteira digital e escolhe a opção correspondente à sua carteira digital.</br><ul><li>O usuário insere as informações solicitadas, o aplicativo valida e verifica a autenticidade da carteira digital, e confirma a vinculação da carteira digital à conta do usuário.</br></ul> |
-| Fluxo alternativo | <ul><li>O usuário acessa o aplicativo</br><ul><li>O usuário seleciona a opção de criar uma nova conta.</br><ul><li>Durante o processo de criação da conta, o usuário é solicitado a fornecer informações adicionais, incluindo os dados de sua carteira digital.</br><ul><li>O usuário insere as informações da carteira digital e conclui o processo de criação da conta.</br></ul> |
-| Fluxo de exceção | <ul><li>A lista de carteiras digitais suportadas está vazia ou não é exibida corretamente.</li><li>O aplicativo exibe uma mensagem de erro informando que não foi possível carregar a lista de carteiras digitais suportadas e sugere:<ul><li>Tentar novamente mais tarde.</li><li>Entrar em contato com o suporte ao cliente para obter assistência.</li></ul></li></ul> |
-| Pós-condições | O usuário pode pagar pelos ingressos utilizando um carteira digital |
+| Pré-condições |<ul><li>Acesso à internet</li><li>Conta no app</li><li>Conta válida em uma carteira digital ou um cartão de crédito/débito</li>|
+| Ação | O usuário cadastra uma nova forma de pagamento ou opta pelo pagamento via boleto bancário | 
+| Fluxo principal | <ul><li>O usuário acessa o aplicativo Sympla e faz login em sua conta.</br><ul><li>O usuário navega até as configurações de pagamento ou opções de pagamento.</br><li>O usuário seleciona a opção para adicionar uma carteira digital e escolhe a opção correspondente à sua carteira digital ou escolhe poder adicionar algum cartão de crédito/débito válido.</br><ul><li>O usuário insere as informações solicitadas, o aplicativo valida e verifica a autenticidade do método de pagamento, confirmando a vinculação ao app.</br></ul> |
+| Fluxo alternativo | <ul><li>O usuário acessa o aplicativo</br><ul><li>Durante o processo de criação da conta, o usuário é solicitado a fornecer informações adicionais, incluindo os dados de sua carteira digital ou opções de cartão.</br><ul><li>O usuário insere as informações da carteira digital ou do cartão e conclui o processo de criação da conta.</br></ul> |
+| Fluxo de exceção | <ul><li>A lista de métodos de pagamento suportados está vazia ou não é exibida corretamente.</li><li>O aplicativo exibe uma mensagem de erro informando que não foi possível carregar os métodos de pagamento suportados e sugere:<ul><li>Tentar novamente mais tarde.</li><li>Entrar em contato com o suporte ao cliente para obter assistência.</li></ul></li></ul> |
+| Pós-condições | O usuário pode pagar pelos ingressos utilizando um método de pagamento configurado (cartão, carteira digital ou boleto).|
 | Data de Criação | 15/05/2023 |
-| Rastreabilidade | [RF23](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/)  |
+| Rastreabilidade | [RF23](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/), [RF31](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/)  |
 
 <font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/VHbernardes">Victor Hugo</a></b></p></font>
 
@@ -100,24 +100,23 @@ As tabelas de 2 a 6 mostram a especialização dos casos de uso.
 
 | UC04 | Informações |
 | ----- | ---------- |
-| Descrição | O usuário deve poder responder a uma pesquisa de perfil sobre seus gostos para eventos. |
+| Descrição | O usuário deve poder acessar o suporte ao cliente por meio de um chat no aplicativo, enviar um e-mail ou SMS para obter ajuda. |
 | Ator | Usuário |
-| Pré-condições | Possuir uma conta cadastrada e acesso à internet. |
-| Ação | O usuário ira responder à pesquisa de perfil e gostos de acordo as opções de eventos ofertadas pelo app. |
-| Fluxo principal | <ul><li>O usuário efetua cadastro no app<ul><li> Aparece uma mensagem sobre a pesquisa de perfil e se deseja responder <ul><li>Usuário seleciona a opção "sim" <ul><li> Usuário responde à pesquisa |
-| Fluxo alternativo | <ul><li>O usuário efetua cadastro no app <ul><li>Aparece uma caixa de mensagem sobre a pesquisa de perfil <ul><li>Usuário sem querer pula a pesquisa de perfil selecionando a opção de "Responder mais tarde" <ul><li>O usuário abre o "Meu Painel" e responde a pesquisa que estará localizada ali. |
-| Fluxo de exceção | <ul><li>O usuário efetua cadastro no app<ul><li> Aparece uma caixa de mensagem sobre a pesquisa de perfil e se deseja responder <ul><li>Usuário rejeita responder a pesquisa |
-| Pós-condições | O usuário terá em sua tela principal somente eventos que sejam de seu interesse |
+| Pré-condições | Possuir uma conta cadastrada, acesso à internet e acesso ao Sympla. |
+| Ação | O usuário escolhe o método desejado para contatar o suporte ao cliente e solicita assistência. |
+| Fluxo principal | <ul><li>O usuário acessa o Sympla e faz login.<ul><li> O usuário navega até a seção de "Conversar no chat" no menu do app ou na versão web, navega até a seção "Central de ajuda". <ul><li> O sistema abre uma janela de chat e conecta o usuário com um bot/atendente ou abre um guia com várias dúvidas frequentes, onde vocẽ pode buscar quaisquer dúvidas ou se conectar a um chat.<ul><li>O usuário conversa com o atendente ou encontra a sua dúvida e resolve sua questão. |
+| Fluxo alternativo | <ul><li>O usuário acessa o app Sympla e faz login. <ul><li>O usuário navega até encontrar uma outra forma de contato. <ul><li>O Usuário encontra o email e decide enviar a mensagem, podendo detalhar mais as suas dúvidas.<ul><li>O usuário recebe um email de volta dos atendentes do Sympla e resolve sua questão. |
+| Fluxo de exceção | <ul><li>O usuário tenta acessar o "Chat com Suporte", mas a opção está fora do ar.<ul><li>O sistema exibe uma mensagem informando o problema e sugere o envio de um e-mail ou SMS como alternativas. |
+| Pós-condições | O usuário obtém assistência por meio do suporte escolhido e resolve sua questão. |
 | Data de Criação | 15/05/2023 |
-| Rastreabilidade | [RF18](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/) |
-
+| Rastreabilidade | [RF20](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/) |
 
 
 <font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/MilenaFRocha">Milena Rocha</a></b></p></font>
 
-<font size="3"><p style="text-align: center">Tabela 5: Suporte ao usuário </p></font>
+<font size="3"><p style="text-align: center">Tabela 6: Pesquisa de perfil e interesses </p></font>
 
-| UC04 | Informações |
+| UC05 | Informações |
 | ----- | ---------- |
 | Descrição | O usuário deve poder responder a uma pesquisa de perfil sobre seus gostos para eventos. |
 | Ator | Usuário |
@@ -128,8 +127,7 @@ As tabelas de 2 a 6 mostram a especialização dos casos de uso.
 | Fluxo de exceção | <ul><li>O usuário efetua cadastro no app<ul><li> Aparece uma caixa de mensagem sobre a pesquisa de perfil e se deseja responder <ul><li>Usuário rejeita responder a pesquisa |
 | Pós-condições | O usuário terá em sua tela principal somente eventos que sejam de seu interesse |
 | Data de Criação | 15/05/2023 |
-| Rastreabilidade | [RF18](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/) |
-
+| Rastreabilidade | [RF35](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/) |
 
 
 <font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/renantfm4">Renan Araújo</a></b></p></font>
