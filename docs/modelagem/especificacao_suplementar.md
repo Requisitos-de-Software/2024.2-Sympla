@@ -113,6 +113,68 @@ Para essa categoria os requisitos identificados estão representados na tabela 4
 
 <font size="3"><p style="text-align: center">Fonte: [Renan Araújo](https://github.com/renantfm4).</p></font>
 
+## Restrições de Design
+
+Restrições de design são condições e limitações específicas que precisam ser consideradas no processo de criação e desenvolvimento de um produto, como um aplicativo, site, ou qualquer outro projeto digital. No caso do Sympla, essas restrições podem abranger aspectos técnicos, visuais, funcionais, orçamentários, prazos de entrega, entre outros. Elas servem como diretrizes que influenciam e orientam as decisões de design, garantindo que o produto final atenda aos requisitos estabelecidos e proporcione uma experiência alinhada às expectativas dos usuários.
+
+Na Tabela 5, estão listados os Requisitos Não Funcionais relacionados às Restrições de Design identificados para o aplicativo Sympla.
+
+Para essa categoria os requisitos identificados estão representados na tabela 5 a seguir.
+
+<font><p style="text-align: center">**Tabela 5** - Requisitos não funcionais sobre Restrições de Design.</p></font>
+
+| ID    | Descrição                                                                                     |
+|-------|-----------------------------------------------------------------------------------------------|
+| RD01  | O design deve ser modular e reutilizável, permitindo fácil manutenção e expansão do sistema.  |
+| RD02  | O layout deve ser responsivo e adaptável a diferentes dispositivos (desktop, tablet, celular).|
+| RD03  | A interface de usuário (UI) deve ser intuitiva, com navegação clara e fácil de entender para o usuário. |
+| RD04  | As cores e tipografia devem seguir as diretrizes da marca, garantindo consistência visual no sistema. |
+| RD05  | O design deve incluir elementos de feedback visual, como mensagens de erro ou sucesso, para proporcionar uma boa experiência ao usuário. |
+
+
+<font size="3"><p style="text-align: center">Fonte: [Renan Araújo](https://github.com/renantfm4).</p></font>
+
+## Requisitos de Implementação
+
+Os requisitos de implementação são diretrizes e boas práticas que orientam o desenvolvimento do código, garantindo que o sistema seja eficiente, escalável e alinhado com os padrões da indústria. No caso do Sympla, esses requisitos abrangem aspectos como modularidade, escalabilidade, compatibilidade e documentação, assegurando que o código seja sustentável e facilite futuras atualizações.
+
+Na Tabela 6, estão listados os Requisitos Não Funcionais relacionados à implementação identificados para o aplicativo Sympla.
+
+Para essa categoria, os requisitos identificados estão representados na tabela 6 a seguir.
+
+<font><p style="text-align: center">**Tabela 6** - Requisitos não funcionais sobre Implementação.</p></font>
+
+| ID    | Descrição                                                                                     |
+|-------|-----------------------------------------------------------------------------------------------|
+| IM01  | O código deve ser modularizado, com funções e classes bem definidas, para facilitar a manutenção e reutilização. |
+| IM02  | A implementação deve ser escalável, permitindo que novas funcionalidades sejam facilmente integradas sem afetar a performance do sistema. |
+| IM03  | O sistema deve ser compatível com as bibliotecas e frameworks mais recentes, garantindo que o código esteja alinhado com as melhores práticas da indústria. |
+| IM04  | O código deve ser bem documentado, com comentários claros explicando a lógica de funções e métodos críticos. |
+| IM05  | O código deve ser eficiente em termos de uso de recursos, evitando operações desnecessárias e garantindo um bom desempenho. |
+
+<font size="3"><p style="text-align: center">Fonte: [Renan Araújo](https://github.com/renantfm4).</p></font>
+
+## Requisitos de Interface
+
+Os requisitos de interface definem os elementos e funcionalidades que garantem uma experiência do usuário eficiente e intuitiva. Para o Sympla, esses requisitos incluem a organização clara das informações, navegabilidade intuitiva e um design responsivo, proporcionando uma interface que atenda às necessidades dos usuários e ofereça interações fluidas e agradáveis.
+
+Na Tabela 7, estão listados os Requisitos Não Funcionais relacionados à interface identificados para o aplicativo Sympla.
+
+Para essa categoria, os requisitos identificados estão representados na tabela 7 a seguir.
+
+<font><p style="text-align: center">**Tabela 7** - Requisitos não funcionais sobre Interface.</p></font>
+
+| ID    | Descrição                                                                                     |
+|-------|-----------------------------------------------------------------------------------------------|
+| IN01  | A interface deve ser intuitiva e fácil de usar, com navegação simples entre as seções de criação, gerenciamento e visualização de eventos. |
+| IN02  | A página inicial deve exibir eventos em destaque de forma clara, com filtros para categorias e datas, proporcionando uma experiência personalizada ao usuário. |
+| IN03  | O design deve ser responsivo, garantindo uma experiência de uso fluida tanto em dispositivos móveis quanto em desktops, com ajuste automático de layouts. |
+| IN04  | Cada evento deve ter uma página dedicada, contendo informações detalhadas como descrição, data, local, preço e opções para inscrição ou compra de ingressos, com botões de ação visíveis e acessíveis. |
+| IN05  | A interface de usuário deve incluir feedback visual claro, como animações ou mensagens de confirmação, quando o usuário realiza ações como comprar ingressos ou se inscrever em um evento. |
+
+<font size="3"><p style="text-align: center">Fonte: [Renan Araújo](https://github.com/renantfm4).</p></font>
+
+
 ## Requisitos de Licenciamento  
 
 O sistema deve limitar seu uso por meio de termos de uso específicos, estabelecendo diretrizes claras para os usuários.  
