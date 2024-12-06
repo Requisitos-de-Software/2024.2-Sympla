@@ -68,10 +68,10 @@ nav:
       - Three Level Scale: elicitacao/priorizacao/three_level_scale.md
       - In or Out: elicitacao/priorizacao/in_or_out.md
   - Modelagem:
-      - Diagrama de Caso de Uso: modelagem/diagrama_caso_de_uso.md
-      - Especificação Suplementar: modelagem/especificacao_suplementar.md
-      - Léxicos: modelagem/lexico.md
-      - Cenários: modelagem/cenarios.md
+    - Diagrama de Caso de Uso: modelagem/diagrama_caso_de_uso.md
+    - Especificação Suplementar: modelagem/especificacao_suplementar.md
+    - Léxicos: modelagem/lexico.md
+    - Cenários: modelagem/cenarios.md
   - Apresentações:
     - Apresentação 1: apresentacoes/apresentacao1.md
     - Apresentação 2: apresentacoes/apresentacao2.md
