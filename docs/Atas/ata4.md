@@ -1,6 +1,6 @@
 # Ata da Reunião
 
-**Data**: 18/10/2024  
+**Data**: 18/11/2024  
 **Horário**: 19:21 - 20:05  
 **Local**: Microsoft Teams  
 **Participantes**: Gabriel, Rafael, Victor, Milena, Renan  
