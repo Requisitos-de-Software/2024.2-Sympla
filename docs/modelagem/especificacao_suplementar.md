@@ -122,6 +122,7 @@ Para essa categoria os requisitos identificados estão representados na tabela 4
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação do documento |  [MilenaFRocha](https://github.com/MilenaFRocha) | 02/12/2024   | [Gabriel Scheidt](https://github.com/Gxaite) |
+|  1.1   | Adição de tabelas |  [MilenaFRocha](https://github.com/MilenaFRocha) | 02/12/2024   | [Gabriel Scheidt](https://github.com/Gxaite) |
 
 
 
