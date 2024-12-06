@@ -78,19 +78,20 @@ Para essa categoria os requisitos identificados estão representados na tabela 3
 
 <font><p style="text-align: center">**Tabela 3** - Requisitos de Desempenho.</p></font>
 
-| ID    | Descrição                                                                                          |
-| ----- | -------------------------------------------------------------------------------------------------- |
-| DES01 | O aplicativo deve exibir, como padrão, no máximo 20 eventos por página, como em buscas realizadas com [filtragem de eventos](https://requisitos-de-software.github.io/2024.2-Sympla/modelagem/lexico/#l01-filtrar-eventos). |
-| DES02 | O aplicativo não deve exceder um tempo de resposta superior a 200ms.                               |
-| DES03 | O aplicativo deve suportar mais de 1 milhão de requisições por segundo.                            |
-| DES04 | O aplicativo deve garantir uma navegação fluida, sem travamentos, com caminhos seguindo uma sequência lógica. |
-| DES05 | O aplicativo deve possuir uma interface otimizada, com no máximo 30 elementos exibidos na tela de uma vez. |
+| ID   | Descrição                                                                                                                |
+| ---- | ------------------------------------------------------------------------------------------------------------------------ |
+| PE01 | O aplicativo deve carregar rapidamente, com tempo ideal de menos de 3 segundos para páginas principais, como a busca de eventos. |
+| PE02 | O sistema não deve ter um tempo de resposta superior a 300ms para operações críticas, como busca e compra de ingressos.   |
+| PE03 | O sistema deve exibir no máximo 25 eventos por página como padrão ao realizar buscas ou filtragens de eventos.            |
+| PE04 | O sistema deve autenticar o usuário e carregar o painel principal em até 2 segundos após o envio das credenciais válidas. |
+| PE05 | O sistema deve suportar mais de 2 milhões de requisições por segundo em momentos de pico de tráfego.                      |
 
-<font size="3"><p style="text-align: center">Fonte: [Milena Rocha](https://github.com/MilenaFRocha).</p></font>
+
+<font size="3"><p style="text-align: center">Fonte: [Renan Araújo](https://github.com/renantfm4).</p></font>
 
 ## Suportabilidade
 
-dizem respeito à capacidade do sistema de se adaptar e ser mantido ao longo do tempo. Eles incluem compatibilidade com diferentes ambientes de hardware e software, facilidade de teste e depuração, capacidade de adaptação às mudanças, simplicidade na manutenção e configuração, processos claros de instalação e escalabilidade para suportar o crescimento em volume de usuários ou dados, além de ferramentas para localização e solução de problemas.
+Dizem respeito à capacidade do sistema de se adaptar e ser mantido ao longo do tempo. Eles incluem compatibilidade com diferentes ambientes de hardware e software, facilidade de teste e depuração, capacidade de adaptação às mudanças, simplicidade na manutenção e configuração, processos claros de instalação e escalabilidade para suportar o crescimento em volume de usuários ou dados, além de ferramentas para localização e solução de problemas.
 
 Para essa categoria os requisitos identificados estão representados na tabela 4 a seguir.
 
