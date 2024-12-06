@@ -215,6 +215,8 @@ O sistema deve ser acessível em computadores de mesa, laptops, tablets e smartp
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação do documento |  [MilenaFRocha](https://github.com/MilenaFRocha) | 02/12/2024   | [Gabriel Scheidt](https://github.com/Gxaite) |
 |  1.1   | Adição de tabelas |  [MilenaFRocha](https://github.com/MilenaFRocha) | 02/12/2024   | [Gabriel Scheidt](https://github.com/Gxaite) |
+|  1.2   | Adição das tabelas de Desempenho, Suportabilidade e Requisitos Não Funcionais |  [Renan Araújo](https://github.com/renantfm4) | 06/12/2024   | [MilenaFRocha](https://github.com/MilenaFRocha) |
+
 
 
 
