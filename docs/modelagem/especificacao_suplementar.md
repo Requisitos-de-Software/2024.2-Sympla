@@ -19,6 +19,7 @@ No entanto, nesta versão adaptada, os requisitos de interface e a seção de co
 
 Os requisitos funcionais foram elicitados na seção de elicitação e a [tabela 1](../elicitacao/requisitos/requisitos_elicitados.md) da página de [requisitos elicitados](../elicitacao/requisitos/requisitos_elicitados.md) demonstra todos os requisitos priorizados.
 
+
 ## Usabilidade
 
 Referem-se à facilidade do [usuário](https://requisitos-de-software.github.io/2024.2-Sympla/modelagem/lexico/#l05-usuario) no uso e interação do sistema, considerando fatores humanos e questões de interface. Eles incluem acessibilidade para diferentes públicos, design estético que seja intuitivo e agradável, consistência visual e funcional dentro da interface e entre funcionalidades, e o suporte para reduzir a curva de aprendizado dos usuários.
@@ -31,16 +32,17 @@ Para essa categoria os requisitos identificados estão representados na tabela 1
 
 | ID    | Descrição                                                                                                                                |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| USA01 | O sistema deve apresentar cores compatíveis com a opção de alto contraste, e os botões das ações principais ou críticas devem ser de cor vermelha.                          |
-| USA02 | O sistema deve possuir recursos de acessibilidade como teclado virtual, [mudar idioma](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/#l06-mudar-idioma), opção de alto contraste, aumento de fonte e audiodescrição.      |
-| USA03 | O sistema deve dar feedback ao [usuário](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/#l05-usuario), com pop ups e mensagens, por exemplo, ao [notificar eventos](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/#l04-notificar-eventos) e ao [sugerir eventos](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/#l02-sugestoes-de-eventos).                                                                         |
-| USA04 | O sistema deve possuir caminhos curtos, com tarefas complexas sendo finalizadas em no máximo 7 cliques.                                   |
-| USA05 | O sistema deve fornecer no mínimo as quatro principais formas de pagamentos: Boleto Bancário, Pix, Cartão de crédito e Cartão de débito. |
-| USA06 | O sistema deve evitar que o [usuário](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/#l05-usuario) realize passos repetitivos.                                                                          |
+| USA01 | O aplicativo deve oferecer suporte a temas com alto contraste, garantindo que as ações principais ou críticas sejam destacadas em vermelho. |
+| USA02 | O aplicativo deve incluir recursos de acessibilidade, como teclado virtual, [troca de idioma](https://requisitos-de-software.github.io/2024.2-Sympla/modelagem/lexico/#l06-mudar-idioma), modo de alto contraste, ajuste de tamanho da fonte e suporte a audiodescrição. |
+| USA03 | O aplicativo deve fornecer retorno imediato ao [usuário](https://requisitos-de-software.github.io/2024.2-Sympla/modelagem/lexico/#l05-usuario) por meio de pop-ups e mensagens, como ao [notificar eventos](https://requisitos-de-software.github.io/2024.2-Sympla/modelagem/lexico/#l04-notificar-eventos) ou [sugerir eventos](https://requisitos-de-software.github.io/2024.2-Sympla/modelagem/lexico/#l02-sugestoes-de-eventos). |
+| USA04 | O aplicativo deve garantir jornadas simplificadas, permitindo a conclusão de tarefas complexas com no máximo sete toques na tela.         |
+| USA05 | O aplicativo deve oferecer pelo menos quatro opções principais de pagamento: boleto bancário, Pix, cartão de crédito e cartão de débito.  |
+| USA06 | O aplicativo deve minimizar a repetição de passos pelo [usuário](https://requisitos-de-software.github.io/2024.2-Sympla/modelagem/lexico/#l05-usuario), otimizando os fluxos e reduzindo redundâncias nas interações. |                                                                      |
+
 
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Matheus Henrique](https://github.com/mathonaut).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Milena Rocha](https://github.com/MilenaFRocha).</p></font>
 
 ## Confiabilidade
 
@@ -54,19 +56,19 @@ Para essa categoria os requisitos identificados estão representados na tabela 2
 
 | ID    | Descrição                                                                                                                         |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------- |
-| CON01 | O sistema deve ser acessível 24 horas por dia, 7 dias por semana.                                                                 |
-| CON02 | O sistema deve possuir as informações atualizadas e condizentes com a realidade.                                                  |
-| CON03 | O sistema deve manter íntegra as informações sobre o [usuário](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/#l05-usuario) e seus meios de pagamentos.                                          |
-| CON04 | O sistema deve seguir a Lei Geral de Proteção de Dados (LGPD).                                                                    |
-| CON05 | O sistema deve permitir que o [usuário](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/#l05-usuario) se recupere de problemas e erros com no máximo 3 cliques.                                   |
-| CON06 | O sistema deve deixar claro e de fácil acesso toda e qualquer informação sobre taxas aplicada aos [usuários](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/#l05-usuario).                       |
-| CON07 | O sistema deve possuir backups dos dados dos [usuários](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/#l05-usuario) e eventos.                                                                  |
-| CON08 | O sistema deve impedir que o [usuário](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/#l05-usuario) realize atividades que possa colocar a integridade do sistema e de outros usuários em risco. |
-| CON09 | O sistema deve ser distribuído em diversos servidores.                                                                            |
+| CON01 | O aplicativo deve estar disponível para acesso 24 horas por dia, 7 dias por semana.                                               |
+| CON02 | O aplicativo deve garantir que as informações exibidas estejam sempre atualizadas e em conformidade com a realidade.              |
+| CON03 | O aplicativo deve assegurar a integridade das informações do [usuário](https://requisitos-de-software.github.io/2024.2-Sympla/modelagem/lexico/#l05-usuario) e dos meios de pagamento associados.                            |
+| CON04 | O aplicativo deve atender aos requisitos da Lei Geral de Proteção de Dados (LGPD).                                                |
+| CON05 | O aplicativo deve permitir que o [usuário](https://requisitos-de-software.github.io/2024.2-Sympla/modelagem/lexico/#l05-usuario) resolva problemas ou recupere de erros em no máximo três toques na interface.                |
+| CON06 | O aplicativo deve apresentar de forma clara e facilmente acessível todas as informações sobre taxas aplicadas aos [usuários](https://requisitos-de-software.github.io/2024.2-Sympla/modelagem/lexico/#l05-usuario).           |
+| CON07 | O aplicativo deve realizar backups regulares dos dados dos [usuários](https://requisitos-de-software.github.io/2024.2-Sympla/modelagem/lexico/#l05-usuario) e eventos cadastrados.                                             |
+| CON08 | O aplicativo deve evitar que o [usuário](https://requisitos-de-software.github.io/2024.2-Sympla/modelagem/lexico/#l05-usuario) realize ações que comprometam a integridade do sistema ou de outros usuários.                  |
+| CON09 | O aplicativo deve ser implementado em uma infraestrutura distribuída utilizando vários servidores para garantir maior robustez.    |                                                                      |
 
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Matheus Henrique](https://github.com/mathonaut).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Milena Rocha](https://github.com/MilenaFRocha).</p></font>
 
 ## Desempenho
 
@@ -78,13 +80,13 @@ Para essa categoria os requisitos identificados estão representados na tabela 3
 
 | ID    | Descrição                                                                                          |
 | ----- | -------------------------------------------------------------------------------------------------- |
-| DES01 | O sistema deve, mostrar como padrão no máximo 20 eventos por página, por exemplo, ao fazer uma busca com [filtragem de eventos](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/#l01-filtrar-eventos).                               |
-| DES02 | O sistema não deve ter um tempo de resposta superior a 200ms.                                      |
-| DES03 | O sistema deve permitir mais de 1 milhão requisições por segundo.                                  |
-| DES04 | O sistema deve possuir uma navegação fluida, sem engasgo e caminhos seguindo uma sequência lógica. |
-| DES05 | O sistema deve possuir uma interface leve, com no máximo 30 elementos na tela de uma vez.          |
+| DES01 | O aplicativo deve exibir, como padrão, no máximo 20 eventos por página, como em buscas realizadas com [filtragem de eventos](https://requisitos-de-software.github.io/2024.2-Sympla/modelagem/lexico/#l01-filtrar-eventos). |
+| DES02 | O aplicativo não deve exceder um tempo de resposta superior a 200ms.                               |
+| DES03 | O aplicativo deve suportar mais de 1 milhão de requisições por segundo.                            |
+| DES04 | O aplicativo deve garantir uma navegação fluida, sem travamentos, com caminhos seguindo uma sequência lógica. |
+| DES05 | O aplicativo deve possuir uma interface otimizada, com no máximo 30 elementos exibidos na tela de uma vez. |
 
-<font size="3"><p style="text-align: center">Fonte: [Matheus Henrique](https://github.com/mathonaut).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Milena Rocha](https://github.com/MilenaFRocha).</p></font>
 
 ## Suportabilidade
 
@@ -94,18 +96,33 @@ Para essa categoria os requisitos identificados estão representados na tabela 4
 
 <font><p style="text-align: center">**Tabela 4** - Requisitos de Suportabilidade.</p></font>
 
-| ID    | Descrição                                                                                                                                                                                                                                                                  |
-| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| SUP01 | O sistema deve possuir uma documentação separada em tópicos (ao menos 10 tópicos principais) e que apresente grande parte das dúvidas mais frequentes.                                                                                                                                                                        |
-| SUP02 | O sistema deve possuir uma facilidade de manutenção através de uma estrutura modular e código bem organizado.                                                                                                                                                              |
-| SUP03 | O sistema deve possuir uma capacidade de extensão para adicionar novas funcionalidades e acompanhar as mudanças.                                                                                                                                                           |
-| SUP04 | O sistema deve possuir uma facilidade de atualização com processos eficientes (de até 200ms) e sem interrupções significativas, que ultrapassem o tempo limite de resposta.                                                                                                                                                           |
-| SUP05 | O sistema deve possuir um suporte ao [usuário](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/#l05-usuario) com canais adequados de suporte e equipe disponível.                                                                                                                                                                          |
-| SUP06 | O sistema deve possuir uma testabilidade, com facilidade de realização de testes durante o desenvolvimento e a manutenção.                                                                                                                                                 |
-| SUP07 | O sistema deve possuir uma rastreabilidade com mecanismos para registrar e rastrear mudanças e correções ao longo do tempo, incluindo controle de versão e registros de alterações.                                                                                        |
-| SUP08 | O sistema deve possuir uma tolerância a falhas para garantir que o sistema possa lidar com falhas adequadamente, por meio de mecanismos de recuperação, detecção de falhas, manutenção da integridade dos dados, backups regulares e restauração rápida em caso de falhas. |
+
 
 <font size="3"><p style="text-align: center">Fonte: [Rafael Ferreira](https://github.com/RafaelCLG0).</p></font>
+
+## Requisitos de Licenciamento  
+
+O sistema deve limitar seu uso por meio de termos de uso específicos, estabelecendo diretrizes claras para os usuários.  
+
+## Considerações Legais, de Copyright e Proteção de Dados  
+
+O sistema deve respeitar a legislação de direitos autorais vigente, exigindo autorização prévia para o uso de marcas de terceiros. Além disso, deve estar em conformidade com a Lei Geral de Proteção de Dados (LGPD) e regulamentos relacionados a serviços financeiros.  
+
+## Padrões e Normas Aplicáveis  
+
+O sistema deve aderir aos seguintes padrões e normas:  
+- WCAG (Diretrizes de Acessibilidade para Conteúdo Web);  
+- ISO 9241-11 (Ergonomia da interação humano-computador);  
+- ISO/TC-211 (Geoinformação/Geomática);  
+- ISO 9000 e ISO 9001-3 (Gestão da qualidade);  
+- ISO 12207 e ISO 12202 (Engenharia de software).  
+
+Além disso, deve seguir os guias de estilo e boas práticas para plataformas Android e iOS.  
+
+## Requisitos de Compatibilidade com Dispositivos  
+
+O sistema deve ser acessível em computadores de mesa, laptops, tablets e smartphones, funcionando adequadamente em navegadores de internet compatíveis.
+
 ## Referências Bibliográficas
 
 > <a id="REF2" href="#anchor_2">2.</a>Concept: Requisitos Suplementare. **Centro de Informática - UFPE**. Disponível em: <<https://www.cin.ufpe.br/~rls2/processo_tg/Metodologia%20S&B/guidances/concepts/supporting_requirements_C0220FE1.html>>. Acesso em: 02 de dezembro de 2024.
