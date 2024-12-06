@@ -55,7 +55,7 @@ As siglas representam:
 | RF28  | O Sympla possibilita a exclusão do cadastro de usuários.    | <a href="../../tecnicas/introspeccao/#anchor_ISF">IS06</a> | Sim          |
 | RF29  | O Sympla oferece a opção imprimir ingressos.                | <a href="../../tecnicas/introspeccao/#anchor_ISNF">IS19</a> | Sim          |
 | RF30  | O aplicativo dá sugestões de eventos com base no histórico de buscas do usuário.                  |  <a href="../../tecnicas/introspeccao/#anchor_ISF">IS11</a>  | Não          |O Sympla oferece a opção imprimir ingressos.
-| RF31  | O usuário é capaz de conectar uma carteira digital.                                               | <a href="../../tecnicas/introspeccao/#anchor_ISF"> IS12</a>  | Não          |
+| RF31  | O usuário é capaz de conectar uma carteira digital.                                               | <a href="../../tecnicas/introspeccao/#anchor_ISF"> IS12</a>  | Sim          |
 | RF32  | O usuário é capaz de mudar o idioma do app.                                                       |  <a href="../../tecnicas/introspeccao/#anchor_ISF">IS13 </a> | Não          |
 | RF33  | O usuário é capaz de entrar na aba de configurações.                                              |  <a href="../../tecnicas/introspeccao/#anchor_ISF">IS14 </a> | Não          |
 | RF34  | O sistema apresenta uma aba de acessibilidades.                                                   | <a href="../../tecnicas/introspeccao/#anchor_ISF"> IS15 </a> | Não          |
