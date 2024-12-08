@@ -57,7 +57,7 @@ As tabelas de 2 a 6 mostram a especialização dos casos de uso.
 | Fluxo alternativo | <ul><li> O usuário acessa o aplicativo </br> <ul><li> O app solicita a localização do usuário </br> <ul><li> O usuário seleciona "Sim"</br> |
 | Fluxo de exceção | <ul><li> O usuário acessa o aplicativo </br><ul><li> A localização do usuário está desligada </br><ul><li> O usuário busca evento disponibilizado na página inicial </br> |
 | Pós-condições | O usuário tem acesso a eventos que correspondem ao(s) filtro(s) de busca escolhido(s) |
-| Data de Criação | 15/05/2023 |
+| Data de Criação | 06/12/2024 |
 | Rastreabilidade | [RF01](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/), [RF02](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/), [RF26](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/) |
 
 <font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/gxaite">Gabriel Scheidt</a></b></p></font>
@@ -74,7 +74,7 @@ As tabelas de 2 a 6 mostram a especialização dos casos de uso.
 | Fluxo alternativo | <ul><li> O usuário abre o app em seu primeiro acesso </br> <ul><li> O app pergunta se o usuário deseja ativar as notificações </br> <ul><li>Usuário seleciona a opção "sim" e as notificações são ativadas |
 | Fluxo de exceção | <ul><li>O usuário abre o app </br> <ul><li> O usuário tem uma tela com as notificações não lidas  |
 | Pós-condições | O usuário agora está com as notificações ligadas e será notificado sobre novos eventos |
-| Data de Criação | 15/05/2023 |
+| Data de Criação | 06/12/2024 |
 | Rastreabilidade | [RF03](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/) |
 
 <font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/rafgpereira">Rafael Pereira</a></b></p></font>
@@ -91,7 +91,7 @@ As tabelas de 2 a 6 mostram a especialização dos casos de uso.
 | Fluxo alternativo | <ul><li>O usuário acessa o aplicativo</br><ul><li>Durante o processo de criação da conta, o usuário é solicitado a fornecer informações adicionais, incluindo os dados de sua carteira digital ou opções de cartão.</br><ul><li>O usuário insere as informações da carteira digital ou do cartão e conclui o processo de criação da conta.</br></ul> |
 | Fluxo de exceção | <ul><li>A lista de métodos de pagamento suportados está vazia ou não é exibida corretamente.</li><li>O aplicativo exibe uma mensagem de erro informando que não foi possível carregar os métodos de pagamento suportados e sugere:<ul><li>Tentar novamente mais tarde.</li><li>Entrar em contato com o suporte ao cliente para obter assistência.</li></ul></li></ul> |
 | Pós-condições | O usuário pode pagar pelos ingressos utilizando um método de pagamento configurado (cartão, carteira digital ou boleto).|
-| Data de Criação | 15/05/2023 |
+| Data de Criação | 06/12/2024 |
 | Rastreabilidade | [RF23](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/), [RF31](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/)  |
 
 <font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/VHbernardes">Victor Hugo</a></b></p></font>
@@ -108,7 +108,7 @@ As tabelas de 2 a 6 mostram a especialização dos casos de uso.
 | Fluxo alternativo | <ul><li>O usuário acessa o app Sympla e faz login. <ul><li>O usuário navega até encontrar uma outra forma de contato. <ul><li>O Usuário encontra o email e decide enviar a mensagem, podendo detalhar mais as suas dúvidas.<ul><li>O usuário recebe um email de volta dos atendentes do Sympla e resolve sua questão. |
 | Fluxo de exceção | <ul><li>O usuário tenta acessar o "Chat com Suporte", mas a opção está fora do ar.<ul><li>O sistema exibe uma mensagem informando o problema e sugere o envio de um e-mail ou SMS como alternativas. |
 | Pós-condições | O usuário obtém assistência por meio do suporte escolhido e resolve sua questão. |
-| Data de Criação | 15/05/2023 |
+| Data de Criação | 06/12/2024 |
 | Rastreabilidade | [RF20](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/) |
 
 
@@ -126,7 +126,7 @@ As tabelas de 2 a 6 mostram a especialização dos casos de uso.
 | Fluxo alternativo | <ul><li>O usuário efetua cadastro no app <ul><li>Aparece uma caixa de mensagem sobre a pesquisa de perfil <ul><li>Usuário sem querer pula a pesquisa de perfil selecionando a opção de "Responder mais tarde" <ul><li>O usuário abre o "Meu Painel" e responde a pesquisa que estará localizada ali. |
 | Fluxo de exceção | <ul><li>O usuário efetua cadastro no app<ul><li> Aparece uma caixa de mensagem sobre a pesquisa de perfil e se deseja responder <ul><li>Usuário rejeita responder a pesquisa |
 | Pós-condições | O usuário terá em sua tela principal somente eventos que sejam de seu interesse |
-| Data de Criação | 15/05/2023 |
+| Data de Criação |06/12/2024 |
 | Rastreabilidade | [RF35](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/) |
 
 
