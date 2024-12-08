@@ -1,4 +1,3 @@
-## Introdução
 
 ## Introdução  
 
