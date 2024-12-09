@@ -10,7 +10,7 @@ O objetivo dessa página é armazenar o Vídeo 3, que contém a apresentação d
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pVIqd2pnuQ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Os Autores. Grupo 08 - Sympla - Entrega 2 - Requisitos de Software, 2024/2, UnB. 2024. Disponível em: <a href="https://youtu.be/pVIqd2pnuQ4">https://youtu.be/pVIqd2pnuQ4</a>. Acesso em: 24 nov. 2024.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Os Autores. Grupo 08 - Sympla - Entrega 3 - Requisitos de Software, 2024/2, UnB. 2024. Disponível em: <a href="https://youtu.be/pVIqd2pnuQ4">https://youtu.be/pVIqd2pnuQ4</a>. Acesso em: 24 nov. 2024.</p></font>
 </div>
 
 ## Histórico de Versões
