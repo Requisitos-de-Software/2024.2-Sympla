@@ -1,6 +1,6 @@
 # Ata da Reunião
 
-**Data**: 25/11/2024  
+**Data**: 08/12/2024  
 **Horário**: 20:00 - 21:00  
 **Local**: Microsoft Teams  
 **Participantes**: Gabriel, Rafael, Victor, Milena, Renan  
@@ -19,7 +19,7 @@
 
 ### 3. Próximo Encontro
 
-**Data**: Sexta-feira, 25/11/2024  
+**Data**: Segunda-Feira, 09/12/2024  
 
 ---
 
@@ -39,6 +39,6 @@
 
 | Versão |          Descrição                |        Autor       |      Data      |      Revisor      |
 |:------:|:---------------------------------:|:------------------:|:--------------:|:-----------------:|
-|  1.0   | Criação da ata da reunião         | Gabriel           | 25/11/2024     | [Renan](https://github.com/renantfm4) |
+|  1.0   | Criação da ata da reunião         | Gabriel           | 08/12/2024     | [Renan](https://github.com/renantfm4) |
 
 ---
