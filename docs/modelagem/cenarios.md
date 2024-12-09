@@ -9,7 +9,7 @@ A metodologia utilizada para a criação dos cenários foi baseada nos requisito
 
 ### Cenário 1
 
-Nosso primeiro cenário aborda a história onde o usuário irá criar uma conta no Sympla para começar a utilizar a plataforma.
+Na tabela 1 abaixo, nosso primeiro cenário aborda a história onde o usuário irá criar uma conta no Sympla para começar a utilizar a plataforma.
 
 <font size="3"><p style="text-align: center">Tabela 1: Criação da conta no Sympla.</p></font>
 
@@ -32,9 +32,11 @@ Nosso primeiro cenário aborda a história onde o usuário irá criar uma conta 
 | **Exceção**   |
 | <p>Se o e-mail já estiver cadastrado, o sistema deve exibir uma mensagem informando que o e-mail não pode ser utilizado.</p><p>Se a senha não atender aos requisitos de segurança, o sistema deve informar ao usuário para criar uma senha mais forte.</p><p>Se o usuário não receber o e-mail de confirmação, o sistema deve 
 
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/VHbernardes">Victor Hugo</a>, 2024</p></font>
+
 ### Cenário 2
 
-Nosso segundo cenário aborda uma história onde o usuário irá editar seu perfil no Sympla.
+Na tabela 2 abaixo, nosso segundo cenário aborda uma história onde o usuário irá editar seu perfil no Sympla.
 
 <font size="3"><p style="text-align: center">Tabela 2: Edição de perfil do usuário</p></font>
 
@@ -61,7 +63,7 @@ Nosso segundo cenário aborda uma história onde o usuário irá editar seu perf
 
 ### Cenário 3
 
-Nosso quinto cenário aborda uma história onde o usuário irá entrar em contato com o suporte do Sympla.
+Na tabela 3 abaixo, nosso terceiro cenário aborda uma história onde o usuário irá entrar em contato com o suporte do Sympla.
 
 <font size="3"><p style="text-align: center">Tabela 3: Contato com o suporte</p></font>
 
@@ -89,7 +91,7 @@ Nosso quinto cenário aborda uma história onde o usuário irá entrar em contat
 
 ### Cenário 4
 
-Nosso quarto cenário aborda uma história onde o usuário irá realizar uma pesquisa de evento filtrando por município ou estado.
+Na tabela 4 abaixo, nosso quarto cenário aborda uma história onde o usuário irá realizar uma pesquisa de evento filtrando por município ou estado.
 
 <font size="3"><p style="text-align: center">Tabela 4: Pesquisa de evento filtrando por município ou estado.</p></font>
 
@@ -117,7 +119,7 @@ Nosso quarto cenário aborda uma história onde o usuário irá realizar uma pes
 
 ### Cenário 5
 
-Nosso quinto cenário aborda uma história onde o usuário irá realizar uma pesquisa de evento filtrando por data.
+Na tabela 5 abaixo, nosso quinto cenário aborda uma história onde o usuário irá realizar uma pesquisa de evento filtrando por data.
 
 <font size="3"><p style="text-align: center">Tabela 5: Pesquisa de evento filtrando por data.</p></font>
 
@@ -145,7 +147,7 @@ Nosso quinto cenário aborda uma história onde o usuário irá realizar uma pes
 
 ### Cenário 6
 
-Nosso sexto cenário aborda uma história onde o usuário irá favoritar um evento.
+Na tabela 6 abaixo, nosso sexto cenário aborda uma história onde o usuário irá favoritar um evento.
 
 <font size="3"><p style="text-align: center">Tabela 6: Favoritar um evento.</p></font>
 
@@ -172,7 +174,7 @@ Nosso sexto cenário aborda uma história onde o usuário irá favoritar um even
 
 ### Cenário 7
 
-Nosso sétimo cenário aborda uma história onde o usuário irá adicionar um método de pagamento à sua conta.
+Na tabela 7 abaixo, nosso sétimo cenário aborda uma história onde o usuário irá adicionar um método de pagamento à sua conta.
 
 <font size="3"><p style="text-align: center">Tabela 7: Adicionar um método de pagamento à sua conta.</p></font>
 
@@ -201,7 +203,7 @@ Nosso sétimo cenário aborda uma história onde o usuário irá adicionar um m�
 
 ### Cenário 8
 
-Nosso oitavo cenário aborda uma história onde o usuário irá efetuar uma compra do ingresso.
+Na tabela 8 abaixo, nosso oitavo cenário aborda uma história onde o usuário irá efetuar uma compra do ingresso.
 
 <font size="3"><p style="text-align: center">Tabela 8: Efetuar uma compra do ingresso.</p></font>
 
@@ -229,7 +231,7 @@ Nosso oitavo cenário aborda uma história onde o usuário irá efetuar uma comp
 
 ### Cenário 9
 
-Nosso nono cenário aborda uma história onde o usuário irá efetuar o cancelamento ou a transferência de um ingresso no Sympla.
+Na tabela 9 abaixo, nosso nono cenário aborda uma história onde o usuário irá efetuar o cancelamento ou a transferência de um ingresso no Sympla.
 
 <font size="3"><p style="text-align: center">Tabela 9: Cancelamento ou transferência de ingresso</p></font>
 
