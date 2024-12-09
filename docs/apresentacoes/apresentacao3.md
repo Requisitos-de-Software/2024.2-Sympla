@@ -1,6 +1,6 @@
 ## Introdução
 
-O objetivo dessa página é armazenar o Vídeo 3, que contém a apresentação da Segunda Entrega. Se não for possível acessar o vídeo pela própria página, clique no link correspondente.
+O objetivo dessa página é armazenar o Vídeo 3, que contém a apresentação da Terceira Entrega. Se não for possível acessar o vídeo pela própria página, clique no link correspondente.
 
 ## Apresentação 3
 <div style="text-align: center">
