@@ -17,4 +17,4 @@ O objetivo dessa página é armazenar o Vídeo 3, que contém a apresentação d
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     | 
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
-2.0 |  Documentação da apresentação | [Renan Araújo](https://github.com/renantfm4)  | 08/12/2023 |[Gabriel Scheidt](https://github.com/Gxaite)
+2.0 |  Documentação da apresentação | [Renan Araújo](https://github.com/renantfm4)  | 08/12/2024 |[Gabriel Scheidt](https://github.com/Gxaite)
