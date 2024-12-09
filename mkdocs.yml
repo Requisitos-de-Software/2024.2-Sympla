@@ -71,7 +71,6 @@ nav:
       - Three Level Scale: elicitacao/priorizacao/three_level_scale.md
       - In or Out: elicitacao/priorizacao/in_or_out.md
   - Modelagem:
-      - Diagrama de Caso de Uso: modelagem/diagrama_caso_de_uso.md
       - Especificação Suplementar: modelagem/especificacao_suplementar.md
       - Léxicos: modelagem/lexico.md
       - Cenários: modelagem/cenarios.md
@@ -79,6 +78,7 @@ nav:
   - Apresentações:
     - Apresentação 1: apresentacoes/apresentacao1.md
     - Apresentação 2: apresentacoes/apresentacao2.md
+    - Apresentação 3: apresentacoes/apresentacao3.md
   - Verificação:
     - Geral: verificaçao/verificacao_geral.md
     - Grupo 8:
@@ -101,6 +101,10 @@ nav:
       - Entrega 2:
         - Planejamento da Verificação 2 - Bluesky: verificaçao/grupo+1/entrega2_grupo1.md
         - Lista de Verificação executada - Bluesky: verificaçao/grupo+1/lista_verificacao2_grupo1.md
+      
+      - Entrega 3:
+        - Planejamento da Verificação 3 - Bluesky: verificaçao/grupo+1/entrega3_grupo1.md
+        - Lista de Verificação executada - Bluesky: verificaçao/grupo+1/lista_verificacao3_grupo1.md
 extra:
   social:
     - icon: fontawesome/brands/github
