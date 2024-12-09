@@ -55,6 +55,19 @@ Cada um dos itens da Tabela 1 será avaliado com Sim, Não ou Incompleto de acor
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/VHbernardes">Victor Hugo</a>, 2024</p></font>
 
+## Vídeo
+
+Abaixo, no Vídeo 1, apresentamos o processo de auto verificação do grupo, justificando a Tabela 1.
+
+<div style="text-align: center">
+
+<font size="3"><p style="text-align: center">Vídeo 1: Auto Verificação Entrega 3 - Grupo 08 - Sympla</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Za0F-XwNbqw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Os Autores. Auto Verificação Entrega 3 - Grupo 08 - Sympla. Disponível em: <a href="https://www.youtube.com/watch?v=Za0F-XwNbqw">https://www.youtube.com/watch?v=Za0F-XwNbqw</a>. Acesso em: 08 de Dez. 2024.</p></font>
+</div>
+
 ## **Bibliografia**
 
 > SALES, André Barros de. <a href="https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf">Plano de Ensino - Requisitos de Software</a>. Acesso em: 07 de Dez. 2024.
