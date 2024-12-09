@@ -9,29 +9,33 @@
 
 ### 1. Objetivo da Reunião
 
+Definir as responsabilidades e organizar a equipe para a modelagem do projeto.
+
+
+### 2. Próximo Encontro
+
+**Data**: Segunda-feira, 02/11/2024  
 
 ---
 
-### 2. Atividades Realizadas
+## 4. **Link para a Gravação da Reunião**
 
+A gravação da reunião está disponível no link abaixo:  
+
+[![Link para a Gravação](https://img.youtube.com/vi/6EfAg05-Lp0/0.jpg)](https://youtu.be/6EfAg05-Lp0)  
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Os Autores. Grupo 08 - Sympla - Entrega 3 - Requisitos de Software, 2024/2, UnB. Disponível em: <a href="https://youtu.be/6EfAg05-Lp0">https://youtu.be/6EfAg05-Lp0</a>. Acesso em: 24 nov. 2024.</p></font>
 
 ---
 
-### 3. Próximo Encontro
+## 5. **Encaminhamentos**
 
-**Data**: Sexta-feira, 25/11/2024  
+- **Gabriel** iniciará os casos de uso e compartilhará a primeira versão até 28/11/2024.  
+- **Victor Hugo** será comunicado para começar os contextos e entregá-los até o próximo encontro.  
+- **Milena e Renan** trabalharão juntos na especificação suplementar e apresentarão o progresso na próxima reunião.  
+- **Rafael** enviará os léxicos para validação até 27/11/2024.  
 
 ---
-
-### 4. Link para a Gravação da Reunião
-
-
-
-### 5. Decisões Tomadas
-
-
-
-### Encaminhamentos
 
 
 
