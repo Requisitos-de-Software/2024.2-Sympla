@@ -24,7 +24,7 @@ A gravação da reunião está disponível no link abaixo:
 
 [![Link para a Gravação](https://img.youtube.com/vi/6EfAg05-Lp0/0.jpg)](https://youtu.be/6EfAg05-Lp0)  
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Os Autores. Grupo 08 - Sympla - Entrega 3 - Requisitos de Software, 2024/2, UnB. Disponível em: <a href="https://youtu.be/6EfAg05-Lp0">https://youtu.be/6EfAg05-Lp0</a>. Acesso em: 24 nov. 2024.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Os Autores. Grupo 08 - Sympla - Divisão das modelagens - Requisitos de Software, 2024/2, UnB. Disponível em: <a href="https://youtu.be/6EfAg05-Lp0">https://youtu.be/6EfAg05-Lp0</a>. Acesso em: 25 nov. 2024.</p></font>
 
 ---
 
