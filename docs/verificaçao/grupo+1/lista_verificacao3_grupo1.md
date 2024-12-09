@@ -1,5 +1,5 @@
 ## Introdução
-Após o [planejamento](https://requisitos-de-software.github.io/2024.2-Sympla/verifica%C3%A7ao/grupo%2B1/entrega2_grupo1/), iremos apresentar nesse artefato a verificação dos itens propostos para a entrega 3 do grupo 1 - [BlueSky](https://github.com/Requisitos-de-Software/2024.2-Grupo01).
+Após o [planejamento](https://requisitos-de-software.github.io/2024.2-Sympla/verifica%C3%A7ao/grupo%2B1/entrega3_grupo1/), iremos apresentar nesse artefato a verificação dos itens propostos para a entrega 3 do grupo 1 - [BlueSky](https://github.com/Requisitos-de-Software/2024.2-Grupo01).
 
 
 ## Objetivos
