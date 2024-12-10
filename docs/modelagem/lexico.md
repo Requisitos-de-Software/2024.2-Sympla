@@ -50,8 +50,8 @@ O primeiro Léxico, na Tabela 3, faz o uso dos seguintes requisitos: filtrar por
 | L01 | Descrição |
 |-----------------|-------|
 | Classificação | Verbo |
-| Noção | Tarefa realizada pelo <a id="#anchor_L05" href="#L05">usuário</a>. Acontece quando o usuário quer visualizar eventos específicos. <br> O usuário seleciona os filtros desejados. <br> O usuário visualiza eventos filtrados.  |
-| Impacto | Apenas eventos correspondentes aos filtros são listados. <br> O usuário pode filtrar os eventos novamente para visualizar diferentes resultados.|
+| Noção | Tarefa realizada pelo <a id="#anchor_L05" href="#L05">usuário</a>. Acontece quando o <a id="#anchor_L05" href="#L05">usuário</a> quer visualizar eventos específicos. <br> O <a id="#anchor_L05" href="#L05">usuário</a> seleciona os filtros desejados. <br> O <a id="#anchor_L05" href="#L05">usuário</a> visualiza eventos filtrados.  |
+| Impacto | Apenas eventos correspondentes aos filtros são listados. <br> O <a id="#anchor_L05" href="#L05">usuário</a> pode filtrar os eventos novamente para visualizar diferentes resultados.|
 | Sinônimos | Aprimorar busca, Especificar resultados, Restringir busca |
 
 </center>
@@ -66,8 +66,8 @@ O segundo Léxico, presente na Tabela 4, se relaciona com os seguintes requisito
 | L02 | Descrição |
 |-----------------|-------|
 | Classificação | Estado |
-| Noção | Em uma seção do aplicativo são exibidos eventos recomendados para o usuário. <br> Indica os eventos que o usuário tem mais chance de participar. <br> Quando o usuário compra ou busca ingressos de um evento, eventos semelhantes são sugeridos.  |
-| Impacto | O usuário visualiza os eventos sugeridos. <br> O usuário compra um evento sugerido.|
+| Noção | Em uma seção do aplicativo são exibidos eventos recomendados para o <a id="#anchor_L05" href="#L05">usuário</a>. <br> Indica os eventos que o <a id="#anchor_L05" href="#L05">usuário</a> tem mais chance de participar. <br> Quando o <a id="#anchor_L05" href="#L05">usuário</a> compra ou busca ingressos de um evento, eventos semelhantes são sugeridos.  |
+| Impacto | O <a id="#anchor_L05" href="#L05">usuário</a> visualiza os eventos sugeridos. <br> O <a id="#anchor_L05" href="#L05">usuário</a> compra um evento sugerido.|
 | Sinônimos | Eventos recomendados, Recomendação de eventos, Eventos para você |
 
 <font size="3"><p style="text-align: center">Fonte: [Milena Rocha](https://github.com/MilenaFRocha), 2024.</p></font>
@@ -82,8 +82,8 @@ O terceiro Léxico, presente na Tabela 5, faz o uso de dois requisitos não impl
 | L03 | Descrição |
 |-----------------|-------|
 | Classificação | Objeto |
-| Noção | O carrinho de compras é uma seção do aplicativo que permite que o usuário selecione, armazene e gerencie ingressos antes de finalizar a compra. <br> Ele organiza os itens escolhidos e calcula o valor total. |
-| Impacto | Facilita a orgaização e visualização dos itens selecionados pelo usuário. <br> Permite ajustes, como alteração e remoção de itens. <br> Simplifica e otimiza o processo de compra. |
+| Noção | O carrinho de compras é uma seção do aplicativo que permite que o <a id="#anchor_L05" href="#L05">usuário</a> selecione, armazene e gerencie ingressos antes de finalizar a compra. <br> Ele organiza os itens escolhidos e calcula o valor total. |
+| Impacto | Facilita a orgaização e visualização dos itens selecionados pelo <a id="#anchor_L05" href="#L05">usuário</a>. <br> Permite ajustes, como alteração e remoção de itens. <br> Simplifica e otimiza o processo de compra. |
 | Sinônimos | Carrinho, Cesta de compras, Carrinho virtual, Sacola de compras |
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Scheidt](https://github.com/gxaite), 2024.</p></font>
@@ -99,8 +99,8 @@ O quarto Léxico, presente na Tabela 6, se relaciona com o seguinte requisito: o
 | L04 | Descrição |
 |-----------------|-------|
 | Classificação | Verbo |
-| Noção | O sistema envia notificações ao usuário que permitiu o envio de notificações <br> Quando existe um evento recomendado para o usuário, uma notificação é enviada. <br> Quando o usuário compra um ingresso, ele é notificado sobre data, hora, local, ou atualizações relevantes. |
-| Impacto | O usuário recebe lembretes sobre os eventos adquiridos e recomendados. <br> Reduz o risco de esquecimento por parte do usuário. <br> Aumenta o engajamento ao garantir que o usuário esteja sempre atualizado. |
+| Noção | O sistema envia notificações ao <a id="#anchor_L05" href="#L05">usuário</a> que permitiu o envio de notificações <br> Quando existe um evento recomendado para o <a id="#anchor_L05" href="#L05">usuário</a>, uma notificação é enviada. <br> Quando o <a id="#anchor_L05" href="#L05">usuário</a> compra um ingresso, ele é notificado sobre data, hora, local, ou atualizações relevantes. |
+| Impacto | O <a id="#anchor_L05" href="#L05">usuário</a> recebe lembretes sobre os eventos adquiridos e recomendados. <br> Reduz o risco de esquecimento por parte do usuário. <br> Aumenta o engajamento ao garantir que o <a id="#anchor_L05" href="#L05">usuário</a> esteja sempre atualizado. |
 | Sinônimos | Enviar lembrete, Avisar sobre eventos, Lembrar sobre eventos |
 
 <font size="3"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/VHbernardes), 2024.</p></font>
@@ -116,7 +116,7 @@ O quinto Léxico, presente na Tabela 7, se relaciona com diversos <a href="../..
 |-----------------|-------|
 | Classificação | Objeto |
 | Noção | O usuário pode se enquadrar no [perfil de usuário](../elicitacao/perfil_usuario.md). </br> O usuário é a pessoa que quer visualizar/pesquisar eventos. </br> O usuário é a pessoa que quer comprar ingressos de eventos. </br> O sistema pode enviar notificações ao usuário, caso permitido. </br> O sistema coleta dados das atividades do usuário dentro do app e cria sugestões personalizadas. </br> |
-| Impacto | O sistema atende às necessidades e expectativas do usuário. <br> O usuário permite o envio de notificações e a personalização dos conteúdos. <br> O sistema melhora a experiência do usuário ao adaptar-se para atender o seu perfil e comportamento. |
+| Impacto | O sistema atende às necessidades e expectativas do usuário. <br> O usuário permite o envio de notificações (<a id="#anchor_L05" href="#L04">L04</a>) e a personalização dos conteúdos. <br> O sistema melhora a experiência do usuário ao adaptar-se para atender o seu perfil e comportamento (<a id="#anchor_L05" href="#L02">L02</a>). |
 | Sinônimos | Cliente, Comprador, Consumidor, Freguês, Visitante, Participante. |
 
 <font size="3"><p style="text-align: center">Fonte: [Renan Araújo](https://github.com/renantfm4), 2024.</p></font>
@@ -183,3 +183,4 @@ O sétimo Léxico, presente na Tabela 10, faz o uso do seguinte requisito: o sis
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação desse documento | [Rafael Pereira](https://github.com/rafgpereira) | 05/12/2024 | [Milena Rocha](https://github.com/MilenaFRocha)  |
 |  1.1   | Adição dos léxicos criados | [Rafael Pereira](https://github.com/rafgpereira) | 06/12/2024 | [Renan Araújo](https://github.com/renantfm4)  |
+|  1.2   | Adiciona hyperlinks | [Rafael Pereira](https://github.com/rafgpereira) | 08/12/2024 | [Gabriel Scheidt](https://github.com/Gxaite)  |
