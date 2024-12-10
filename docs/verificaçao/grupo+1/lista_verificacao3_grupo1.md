@@ -62,11 +62,11 @@ Abaixo, no Vídeo 1, apresentamos o processo de verificação do grupo 01, justi
 
 <div style="text-align: center">
 
-<font size="3"><p style="text-align: center">Vídeo 1: Verificação Entrega 2 - Grupo 01 - BlueSky</p></font>
+<font size="3"><p style="text-align: center">Vídeo 1: Verificação Entrega 3 - Grupo 01 - BlueSky</p></font>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nC0_LTngabw?si=0DUBTTpKRHarV6Jm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9cPA60w0DN4?si=ya7wF1p4mnnWg_UP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Os Autores. Verificação Entrega 2 - Grupo 01 - BlueSky. Disponível em: <a href="https://www.youtube.com/embed/nC0_LTngabw?si=0DUBTTpKRHarV6Jm">https://youtu.be/QRVJSeqUjA4</a>. Acesso em: 25 nov. 2024.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Os Autores. Verificação Entrega 3 - Grupo 01 - BlueSky. Disponível em: <a href="https://youtu.be/9cPA60w0DN4">https://youtu.be/9cPA60w0DN4</a>. Acesso em: 09 dez. 2024.</p></font>
 </div>
 
 ## **Bibliografia**
