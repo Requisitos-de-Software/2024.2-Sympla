@@ -17,41 +17,41 @@ Cada um dos itens da Tabela 1 será avaliado com Sim, Não ou Incompleto de acor
 | O github pages possui: |   Sim/Não/Incompleto   |  Versão da avaliação | Data da última avaliação |
 |------|:-------------------------------:|:--------------:|:--------------:|
 | **Itens do Desenvolvimento do projeto** |
-| 1 - O histórico de versão padronizado? |  |  |  |
-| 2 - O(s) autor(es) e o(s) revisor(es) para cada artefato? |  |  |  |
-| 3 - Referências bibliográficas e/ou bibliografia em todos os artefatos? |  |  |  |
-| 4 - As tabelas e imagens possuem título, fonte e elas chamadas dentro dos texto? |  |  |  |
-| 5 - Um texto fazendo uma introdução dos artefatos? |  |  |  |
-| 6 - O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade. |  |  |  |
-| 7 - Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc). |  |  |  |
-| 8 - A gravação da reunião do grupo |  |  |   |
-| 9 - Vídeo de apresentação na categoria “não listado” no youtube? |  |  |  |
+| 1 - O histórico de versão padronizado? | Sim | 1.0 | 09/12/2024 |
+| 2 - O(s) autor(es) e o(s) revisor(es) para cada artefato? |  Sim | 1.0 | 09/12/2024  |
+| 3 - Referências bibliográficas e/ou bibliografia em todos os artefatos? | Sim | 1.0 | 09/12/2024 |
+| 4 - As tabelas e imagens possuem título, fonte e elas chamadas dentro dos texto? | Sim | 1.0 | 09/12/2024 |
+| 5 - Um texto fazendo uma introdução dos artefatos? | Sim | 1.0 | 09/12/2024  |
+| 6 - O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade. | Sim | 1.0 | 09/12/2024 |
+| 7 - Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc). | Não | 1.0 | 09/12/2024 |
+| 8 - A gravação da reunião do grupo |  Não | 1.0 | 09/12/2024  |
+| 9 - Vídeo de apresentação na categoria “não listado” no youtube? |Sim | 1.0 | 09/12/2024 |
 | **Itens do conteúdo da disciplina.** |
-| 1 - As especificações dos cenários para o projeto. <a id="anchor_1" href="#REF1"><sup>1</sup></a> |  |  |  |
-| 2 - Os cenários possuem os elementos básicos de um cenário (Título, Metas/Objetivo, Contexto, Atores, Recursos, Exceção e Episódios)? <a id="anchor_2" href="#REF2"><sup>2</sup></a> |  |  |  |
-| 3 - As especificações dos Léxicos? <a id="anchor_3" href="#REF3"><sup>3</sup></a>|  |  |  |
-| 4 - A definição do usuário nos Léxicos? |  |  |  |
-| 5 - Os léxicos possuem ligações entre si (hiper links)? |  |  |  |
-| 6 - Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)? <a id="anchor_4" href="#REF4"><sup>4</sup></a>|  |  |  |
-| 7 - A especificação do caso de uso? |  |  |  |
-| 8 - Os atores principais e atores secundários no diagrama de caso de uso? <a id="anchor_5" href="#REF5"><sup>5</sup></a>|  |  |  |
-| 9 - O ator principal está do lado esquerdo do sistema no diagrama de caso de uso? <a id="anchor_6" href="#REF6"><sup>6</sup></a>|  |  |  |
-| 10 - Os atores estão fora da caixa de limite do sistema no diagrama de caso de uso? <a id="anchor_7" href="#REF7"><sup>7</sup></a>|  |  |  |
-| 11 - A especificação do diagrama de caso de uso (com Nome, Descrição, Atores, Pré-Condição,Pós-Condição, Fluxo Principal, Fluxo Alternativo e Fluxo de Exceção etc.)? <a id="anchor_8" href="#REF8"><sup>8</sup></a> |  |  |  |
-| 12 - No diagrama de Caso de Uso há ao menos um caso de uso com pontos de extensão? <a id="anchor_9" href="#REF9"><sup>9</sup></a>|  |  |  |
-| 13 - A participação do cliente e/ou persona na validação do Diagrama de Casa de Uso? |  |  |  |
-| 14 - A especificação suplementar? <a id="anchor_10" href="#REF10"><sup>10</sup></a>|  |  |  |
-| 15- O artefato segue o modelo FURPS+? |  |  |  |
-| 16 - O documento especifica o tempo de resposta, no Desempenho? |  |  |  |
-| 17 - O documento especifica qual plataforma o aplicativo pode ser executado? |  |  |  |
-| 18 - Todos os requisitos podem ser testados (RF e RNF)? |  |  |  |
+| 1 - As especificações dos cenários para o projeto. <a id="anchor_1" href="#REF1"><sup>1</sup></a> | Sim | 1.0 | 09/12/2024 |
+| 2 - Os cenários possuem os elementos básicos de um cenário (Título, Metas/Objetivo, Contexto, Atores, Recursos, Exceção e Episódios)? <a id="anchor_2" href="#REF2"><sup>2</sup></a> | Sim | 1.0 | 09/12/2024  |
+| 3 - As especificações dos Léxicos? <a id="anchor_3" href="#REF3"><sup>3</sup></a>| Sim | 1.0 | 09/12/2024 |
+| 4 - A definição do usuário nos Léxicos? | Sim | 1.0 | 09/12/2024 |
+| 5 - Os léxicos possuem ligações entre si (hiper links)? | Não | 1.0 | 09/12/2024 |
+| 6 - Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)? <a id="anchor_4" href="#REF4"><sup>4</sup></a>| Incompleto (faltou estado) | 1.0| 09/12/2024 |
+| 7 - A especificação do caso de uso? | Sim | 1.0 | 09/12/2024 |
+| 8 - Os atores principais e atores secundários no diagrama de caso de uso? <a id="anchor_5" href="#REF5"><sup>5</sup></a>| Sim | 1.0 | 09/12/2024 |
+| 9 - O ator principal está do lado esquerdo do sistema no diagrama de caso de uso? <a id="anchor_6" href="#REF6"><sup>6</sup></a>| Sim | 1.0 | 09/12/2024  |
+| 10 - Os atores estão fora da caixa de limite do sistema no diagrama de caso de uso? <a id="anchor_7" href="#REF7"><sup>7</sup></a>|  Sim | 1.0 | 09/12/2024  |
+| 11 - A especificação do diagrama de caso de uso (com Nome, Descrição, Atores, Pré-Condição,Pós-Condição, Fluxo Principal, Fluxo Alternativo e Fluxo de Exceção etc.)? <a id="anchor_8" href="#REF8"><sup>8</sup></a> | Sim | 1.0 | 09/12/2024  |
+| 12 - No diagrama de Caso de Uso há ao menos um caso de uso com pontos de extensão? <a id="anchor_9" href="#REF9"><sup>9</sup></a>| Sim | 1.0 | 09/12/2024 |
+| 13 - A participação do cliente e/ou persona na validação do Diagrama de Casa de Uso? | Incompleto (faltou especificar) | 1.0 | 09/12/2024 |
+| 14 - A especificação suplementar? <a id="anchor_10" href="#REF10"><sup>10</sup></a>| Sim | 1.0 | 09/12/2024  |
+| 15- O artefato segue o modelo FURPS+? | Sim | 1.0 | 09/12/2024  |
+| 16 - O documento especifica o tempo de resposta, no Desempenho? |Sim | 1.0 | 09/12/2024 |
+| 17 - O documento especifica qual plataforma o aplicativo pode ser executado? |  Sim | 1.0 | 09/12/2024  |
+| 18 - Todos os requisitos podem ser testados (RF e RNF)? | Sim | 1.0 | 09/12/2024 |
 | **Itens do Conteúdo da disciplina feitas pelos integrantes** |
-| 1 - Todos os elementos necessários para a criação do diagrama de caso de uso estão sendo mostrados? (atores, relacionamentos, sistemas e casos de uso)  <a id="anchor_11" href="#REF11"><sup>11</sup></a> **Autor: Victor** |  |  | |
-| 2 - O nome da aplicação está no topo do sistema? <a id="anchor_12" href="#REF12"><sup>12</sup></a> **Autor: Rafael**  |  |  | |
-| 3 - O ator recebe um nome devidamente ligado a quem ele é? (Pessoa, Cliente, Organização, Outro sistema, Dispositivo externo) <a id="anchor_13" href="#REF13"><sup>13</sup></a> **Autor: Milena** |  |  | |
-| 4 - Está sendo usado verbos no infinitivo para mostras os casos de uso? <a id="anchor_14" href="#REF14"><sup>14</sup></a> **Autor: Renan** |  |  | |
-| 5 - O ator está interagindo com pelo menos um dos casos de uso dentro do sistema? <a id="anchor_15" href="#REF15"><sup>15</sup></a> **Autor: Gabriel** |  |  |  |
-| 6 - Cada integrante da equipe deve elaborar ao menos um 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência. **Autor: Prof. André** |  |  | |
+| 1 - Todos os elementos necessários para a criação do diagrama de caso de uso estão sendo mostrados? (atores, relacionamentos, sistemas e casos de uso)  <a id="anchor_11" href="#REF11"><sup>11</sup></a> **Autor: Victor** |  Sim | 1.0 | 09/12/2024 |
+| 2 - O nome da aplicação está no topo do sistema? <a id="anchor_12" href="#REF12"><sup>12</sup></a> **Autor: Rafael**  | Sim | 1.0 | 09/12/2024 |
+| 3 - O ator recebe um nome devidamente ligado a quem ele é? (Pessoa, Cliente, Organização, Outro sistema, Dispositivo externo) <a id="anchor_13" href="#REF13"><sup>13</sup></a> **Autor: Milena** | Sim | 1.0 | 09/12/2024 |
+| 4 - Está sendo usado verbos no infinitivo para mostras os casos de uso? <a id="anchor_14" href="#REF14"><sup>14</sup></a> **Autor: Renan** | Sim | 1.0 | 09/12/2024 |
+| 5 - O ator está interagindo com pelo menos um dos casos de uso dentro do sistema? <a id="anchor_15" href="#REF15"><sup>15</sup></a> **Autor: Gabriel** | Sim | 1.0 | 09/12/2024 |
+| 6 - Cada integrante da equipe deve elaborar ao menos um 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência. **Autor: Prof. André** | Sim | 1.0 | 09/12/2024 |
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/VHbernardes">Victor Hugo</a>, 2024</p></font>
 
@@ -116,3 +116,4 @@ Abaixo, no Vídeo 1, apresentamos o processo de verificação do grupo 01, justi
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     | 
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação desse documento | [Victor Hugo](https://github.com/VHbernardes) | 09/12/2024 | [Rafael Pereira](https://github.com/rafgpereira) |
+|  1.1   | Verificação grupo +1 v1.0 | [Rafael Pereira](https://github.com/rafgpereira) | 09/12/2024 | [Victor Hugo](https://github.com/VHbernardes) |
