@@ -191,12 +191,12 @@ Na Tabela 7, tem-se o cronograma executado para todas as atividades da terceira 
 
 | Atividade                                                     	| Período de desenvolvimento 	| Responsáveis                           	| Revisão                 	| Revisores                                  	|
 |---------------------------------------------------------------	|----------------------------	|-----------------------------------------	|-------------------------	|--------------------------------------------	|
-|   Modelagem de Requisitos: Cenários                          	| Início: 27/11<br>Fim: 29/11    	| [Victor Hugo](https://github.com/VHbernardes) e  [Gabriel](https://github.com/Gxaite)           	| 	|                               	|
-|   Modelagem de Requisitos: Léxico                            	| Início: 27/11<br>Fim: 29/11    	| [Milena](https://github.com/MilenaFRocha) e [Rafael](https://github.com/rafgpereira)       	|  	|            	|
-|   Modelagem de Requisitos: Use Case                          	| Início: 30/11<br>Fim: 04/12    	| [Victor Hugo](https://github.com/VHbernardes) e [Rafael](https://github.com/rafgpereira)            	|  	|                            	|
-|   Modelagem de Requisitos: Especificação Suplementar        	| Início: 30/11<br>Fim: 04/12    	| [Rafael](https://github.com/rafgpereira) e  [Gabriel](https://github.com/Gxaite)        	|  	|                           	|
-|   Gravação da Apresentação e Entrega                        	| Início: 05/12<br>Fim: 07/12    	|  Todos 	|  	|  	|
-|   Correção pós apresentação                                   	| Início: 08/12<br>Fim: 09/12    	| Todos 	|  	|  	|
+|   Modelagem de Requisitos: Cenários                          	| Início: 27/11<br>Fim: 05/12    	| [Victor Hugo](https://github.com/VHbernardes) e  [Gabriel](https://github.com/Gxaite)           	| Início: 05/12<br>Fim: 06/12	|              [Rafael](https://github.com/rafgpereira)                 	|
+|   Modelagem de Requisitos: Léxico                            	| Início: 27/11<br>Fim: 06/12    	| [Milena](https://github.com/MilenaFRocha) e [Rafael](https://github.com/rafgpereira)       	| Início: 06/12<br>Fim: 07/12 	|     [Victor Hugo](https://github.com/VHbernardes)       	|
+|   Modelagem de Requisitos: Use Case                          	| Início: 30/11<br>Fim: 06/12    	| Todos            	| Início: 06/12<br>Fim: 07/12  	|           [Gabriel](https://github.com/Gxaite)                 	|
+|   Modelagem de Requisitos: Especificação Suplementar        	| Início: 30/11<br>Fim: 06/12    	| [Rafael](https://github.com/rafgpereira) e  [Renan](https://github.com/renantfm4)        	| Início: 06/12<br>Fim: 07/12 	|            [Milena](https://github.com/MilenaFRocha)               	|
+|   Gravação da Apresentação e Entrega                        	| Início: 07/12<br>Fim: 08/12    	|  Todos 	|  Início: 07/12<br>Fim: 09/12 	|  [Victor Hugo](https://github.com/VHbernardes)	|
+|   Correção pós apresentação                                   	| Início: 08/12<br>Fim: 13/12    	| Todos 	|  Início: 08/12<br>Fim: 14/12	| Todos 	|
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/VHbernardes">Victor Hugo</a>, 2024</p></font>
 
