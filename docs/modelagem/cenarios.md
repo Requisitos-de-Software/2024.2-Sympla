@@ -7,11 +7,11 @@ Os cenários, para a modelagem de requisitos, são descrições detalhadas, que 
 A metodologia utilizada para a criação dos cenários foi baseada nos requisitos previamente elicitados e priorizados. A partir desses requisitos, selecionamos 9 requisitos de alta prioridade, onde foram priorizados pelo método [Three Level Scale](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/priorizacao/three_level_scale/) e trabalhamos nossos cenários neles, estruturando-os para refletir os processos e fluxos de interação dos usuários com o sistema, assegurando que todas as situações relevantes fossem contempladas. Os nossos cenários criados em cima do aplicativo [Sympla](https://requisitos-de-software.github.io/2024.2-Sympla/planejamento/aplicativo_selecionado/) estão organizados abaixo, nas tabelas de 1 a 9.
 ## Cenários
 
-### Cenário 1
+### Cenário 1 - Criação da conta no Sympla
 
 Na tabela 1 abaixo, nosso primeiro cenário aborda a história onde o usuário irá criar uma conta no Sympla para começar a utilizar a plataforma.
 
-<font size="3"><p style="text-align: center">Tabela 1: Criação da conta no Sympla.</p></font>
+<font size="3"><p style="text-align: center">Tabela 1: Criação da conta no Sympla</p></font>
 
 | **Cenário 1** |
 |---------------|
@@ -34,7 +34,7 @@ Na tabela 1 abaixo, nosso primeiro cenário aborda a história onde o usuário i
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/VHbernardes">Victor Hugo</a>, 2024</p></font>
 
-### Cenário 2
+### Cenário 2 - Edição de perfil do usuário
 
 Na tabela 2 abaixo, nosso segundo cenário aborda uma história onde o usuário irá editar seu perfil no Sympla.
 
@@ -61,7 +61,7 @@ Na tabela 2 abaixo, nosso segundo cenário aborda uma história onde o usuário 
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/VHbernardes">Victor Hugo</a>, 2024</p></font>
 
-### Cenário 3
+### Cenário 3 - Contato com o suporte
 
 Na tabela 3 abaixo, nosso terceiro cenário aborda uma história onde o usuário irá entrar em contato com o suporte do Sympla.
 
@@ -89,11 +89,11 @@ Na tabela 3 abaixo, nosso terceiro cenário aborda uma história onde o usuário
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/VHbernardes">Victor Hugo</a>, 2024</p></font>
 
 
-### Cenário 4
+### Cenário 4 - Pesquisa de evento filtrando por município ou estado
 
 Na tabela 4 abaixo, nosso quarto cenário aborda uma história onde o usuário irá realizar uma pesquisa de evento filtrando por município ou estado.
 
-<font size="3"><p style="text-align: center">Tabela 4: Pesquisa de evento filtrando por município ou estado.</p></font>
+<font size="3"><p style="text-align: center">Tabela 4: Pesquisa de evento filtrando por município ou estado</p></font>
 
 | **Cenário 4** |
 |---------------|
@@ -117,11 +117,11 @@ Na tabela 4 abaixo, nosso quarto cenário aborda uma história onde o usuário i
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/VHbernardes">Victor Hugo</a>, 2024</p></font>
 
 
-### Cenário 5
+### Cenário 5 - Pesquisa de evento filtrando por data
 
 Na tabela 5 abaixo, nosso quinto cenário aborda uma história onde o usuário irá realizar uma pesquisa de evento filtrando por data.
 
-<font size="3"><p style="text-align: center">Tabela 5: Pesquisa de evento filtrando por data.</p></font>
+<font size="3"><p style="text-align: center">Tabela 5: Pesquisa de evento filtrando por data</p></font>
 
 | **Cenário 5** |
 |---------------|
@@ -145,11 +145,11 @@ Na tabela 5 abaixo, nosso quinto cenário aborda uma história onde o usuário i
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/VHbernardes">Victor Hugo</a>, 2024</p></font>
 
 
-### Cenário 6
+### Cenário 6 - Favoritar um evento
 
 Na tabela 6 abaixo, nosso sexto cenário aborda uma história onde o usuário irá favoritar um evento.
 
-<font size="3"><p style="text-align: center">Tabela 6: Favoritar um evento.</p></font>
+<font size="3"><p style="text-align: center">Tabela 6: Favoritar um evento</p></font>
 
 | **Cenário 6** |
 |---------------|
@@ -172,11 +172,11 @@ Na tabela 6 abaixo, nosso sexto cenário aborda uma história onde o usuário ir
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/VHbernardes">Victor Hugo</a>, 2024</p></font>
 
-### Cenário 7
+### Cenário 7 - Adicionar um método de pagamento à sua conta
 
 Na tabela 7 abaixo, nosso sétimo cenário aborda uma história onde o usuário irá adicionar um método de pagamento à sua conta.
 
-<font size="3"><p style="text-align: center">Tabela 7: Adicionar um método de pagamento à sua conta.</p></font>
+<font size="3"><p style="text-align: center">Tabela 7: Adicionar um método de pagamento à sua conta</p></font>
 
 | **Cenário 7** |
 |---------------|
@@ -201,11 +201,11 @@ Na tabela 7 abaixo, nosso sétimo cenário aborda uma história onde o usuário 
 
 
 
-### Cenário 8
+### Cenário 8 - Efetuar uma compra do ingresso
 
 Na tabela 8 abaixo, nosso oitavo cenário aborda uma história onde o usuário irá efetuar uma compra do ingresso.
 
-<font size="3"><p style="text-align: center">Tabela 8: Efetuar uma compra do ingresso.</p></font>
+<font size="3"><p style="text-align: center">Tabela 8: Efetuar uma compra do ingresso</p></font>
 
 | **Cenário 8** |
 |---------------|
@@ -229,7 +229,7 @@ Na tabela 8 abaixo, nosso oitavo cenário aborda uma história onde o usuário i
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/VHbernardes">Victor Hugo</a>, 2024</p></font>
 
-### Cenário 9
+### Cenário 9 - Cancelamento ou transferência de ingresso
 
 Na tabela 9 abaixo, nosso nono cenário aborda uma história onde o usuário irá efetuar o cancelamento ou a transferência de um ingresso no Sympla.
 
@@ -270,6 +270,7 @@ Na tabela 9 abaixo, nosso nono cenário aborda uma história onde o usuário ir�
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     | 
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação desse documento |  [Victor Hugo](https://github.com/VHbernardes) | 05/12/2024 | [Milena Rocha](https://github.com/MilenaFRocha)  |
+|  1.1   | Correção pós apresentação (melhoria nos índices) |  [Victor Hugo](https://github.com/VHbernardes) | 11/12/2024 | [Milena Rocha](https://github.com/MilenaFRocha)  |
 
 
 
