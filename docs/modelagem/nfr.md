@@ -23,6 +23,10 @@ Os softgoals podem ser de diferentes tipos. Quando são *operacionalizados, assu
 
 <font size="3"><p style="text-align: center"> Fonte: (SILVA, 2019)</p></font>
 
+## Referências Bibliográficas
+
+> <a id="REF1" href="#anchor_1">1.</a> SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019. Disponível em: <https://repositorio.ufpe.br/handle/123456789/34150>. Acesso em: 22/05/2023.
+
 
 ## Histórico de Versões
 
