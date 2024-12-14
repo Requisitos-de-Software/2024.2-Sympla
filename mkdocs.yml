@@ -3,6 +3,9 @@ site_url: "https://requisitos-de-software.github.io/2024.2-Sympla/"
 
 repo_url: "https://github.com/Requisitos-de-Software/2024.2-Sympla/"
 
+markdown_extensions:
+  - admonition
+  - pymdownx.details
 theme:
   name: 'material'
   font:
