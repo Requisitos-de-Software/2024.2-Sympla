@@ -140,7 +140,7 @@ Como resultado da técnica de Entrevista, foram levantados os seguintes requisit
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Requisitos elicitados por meio da segunda entrevista</p></font>
 
 
-| Tipo  | Descrição                                                                 | <a id="anchor_2EN" style="color:black;">ID</a>       | Implementado |
+| Tipo  | Descrição                                                                 | <a id="anchor_2ENT" style="color:black;">ID</a>       | Implementado |
 |-------|---------------------------------------------------------------------------|--------|--------------|
 | RF01  | Deve ser possível filtrar ingressos por tipo.                            | 2ENT01 | Sim          |
 | RF02  | O sistema deve exibir detalhes importantes do evento, como horário de entrada, local, estacionamento e trânsito. | 2ENT02 | Sim          |
@@ -150,6 +150,7 @@ Como resultado da técnica de Entrevista, foram levantados os seguintes requisit
 | RF06  | Deve ser possível visualizar a planta do local para a escolha de assentos (quando aplicável). | 2ENT08 | Sim          |
 | RF07  | O sistema deve disponibilizar um histórico completo das compras realizadas pelo usuário. | 2ENT09 | Sim          |
 | RF08  | O sistema deve simplificar filas de compra.                              | 2ENT10 | Não          |
+| RF09  | Deve ser possível cadastrar diferentes métodos de pagamento.                              | 2ENT11 | Não          |
 | RNF01 | O envio do ingresso deve ser rápido.                                     | 2ENT05 | Não          |
 | RNF02 | O sistema deve ser seguro para uso comercial.                            | 2ENT06 | Sim          |  
 
@@ -170,6 +171,7 @@ Como resultado da técnica de Entrevista, foram levantados os seguintes requisit
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação do documento |  [Rafael Pereira](https://github.com/rafgpereira) | 21/11/2024   | [Victor Hugo](https://github.com/VHbernardes) |
+|  1.1   | Corrige ancoragem |  [Rafael Pereira](https://github.com/rafgpereira) | 14/12/2024   | [Renan Araújo](https://github.com/renantfm4) |
 
 
 </center>

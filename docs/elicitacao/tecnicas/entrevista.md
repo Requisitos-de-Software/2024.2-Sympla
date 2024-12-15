@@ -138,7 +138,7 @@ Como resultado da técnica de Entrevista, foram levantados os seguintes requisit
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Requisitos elicitados por meio da entrevista</p></font>
 
 
-| Tipo  | Descrição                                                                                                           | <a id="anchor_1EN" style="color:black;">ID</a>       | Implementado |
+| Tipo  | Descrição                                                                                                           | <a id="anchor_1ENT" style="color:black;">ID</a>       | Implementado |
 |-------|-------------------------------------------------------------------------------------------------------------------|--------|--------------|
 | RF01  | Deve ser possível adicionar vários ingressos ao carrinho antes de finalizar a compra.                            | 1ENT01 | Não          |
 | RF02  | Deve ser possível retirar vários ingressos do carrinho adicionados.                                               | 1ENT02 | Não          |
@@ -164,6 +164,7 @@ Como resultado da técnica de Entrevista, foram levantados os seguintes requisit
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação do documento |  [Victor Hugo](https://github.com/VHbernardes) | 21/11/2024   | [Rafael Pereira](https://github.com/rafgpereira) |
+|  1.1   | Corrige ancoragem | [Rafael Pereira](https://github.com/rafgpereira)  | 14/12/2024   | [Victor Hugo](https://github.com/VHbernardes) |
 
 
 </center>
