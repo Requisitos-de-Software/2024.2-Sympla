@@ -280,4 +280,4 @@ Este épico prioriza atributos que asseguram um sistema eficiente e intuitivo. A
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
-|  1.0   | Introdução e adição do app escolhido e termos de uso | [Gabriel Scheidt](https://github.com/Gxaite)    | [Victor Hugo](https://github.com/VHbernardes) | 15/12/2024  |
+|  1.0   | Criação do documento de backlog| [Gabriel Scheidt](https://github.com/Gxaite)    | [Victor Hugo](https://github.com/VHbernardes) | 15/12/2024  |
