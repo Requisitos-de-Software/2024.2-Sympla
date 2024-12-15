@@ -980,3 +980,4 @@ A Tabela 36 apresenta com detalhes a US36, clique abaixo para expandir.
 |  1.1   | Adição histórias de usuário (1-6, 33) |  [Victor Hugo](https://github.com/VHbernardes) | 14/12/2024 | [Renan Araújo](https://github.com/renantfm4)  |
 |  1.2   | Adição histórias de usuário (7-13, 36) |  [Rafael Pereira](https://github.com/rafgpereira) | 14/12/2024 | [Milena Rocha](https://github.com/MilenaFRocha)  |
 |  1.3   | Adição histórias de usuário (14-19, 35) |  [Gabriel Scheidt](https://github.com/gxaite) | 15/12/2024 | [Rafael Pereira](https://github.com/rafgpereira)  |
+|  1.4   | Adição histórias de usuário (20-25, 32) |  [Milena Rocha](https://github.com/MilenaFRocha) | 15/12/2024 | [Gabriel Scheidt](https://github.com/gxaite)  |
