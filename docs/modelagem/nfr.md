@@ -72,6 +72,10 @@ As diferentes formas de impacto são:
 
 Compreender essas interdependências e seus impactos é crucial para tomar decisões informadas e gerenciar os efeitos colaterais de mudanças nos requisitos.
 
+## Metodologia
+
+Neste documento, serão apresentados 3 NFRs, com requisitos vindo da [Especificação suplementar](https://requisitos-de-software.github.io/2024.2-Sympla/modelagem/especificacao_suplementar/) e dos [elicitados](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/). Para cada categoria, foi feito um SIG (Softgoal Interdependency Graph), um diagrama da propagação de impactos e um cartão de especificação, que possui informações sobre o NFR, como a descrição, a categoria, os conflitos, a origem, os critérios e outras informações.
+
 ## NFR 01 - Usabilidade
 <font size="3"><p style="text-align: center"><b>Figura 3</b> - SIG Usabilidade</p></font>
 
