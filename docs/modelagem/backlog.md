@@ -18,9 +18,31 @@ Fonte: [Gabriel Scheidt](https://github.com/Gxaite).
 
 </center>
 
+## Gravações
+
+O vídeo de criação do Backlog junto ao PO foi gravado pelo teams e está disponível no vídeo 1. O termo de cossentimento de uso de imagem e voz foi assinado pela Thamiris e está disponível aqui [termo de uso](../assets/Termo_thamiris.png).
+<div style="text-align: center">
+
+<font size="3"><p style="text-align: center">Backlog: Grupo 08 - Sympla - Requisitos de Software, 2024/2, UnB. 2024</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ce2XGN5k2DM?si=HIbk1Oy8O4YZZ9Kw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Os Autores. Grupo 08 - Sympla - Backlog- Requisitos de Software, 2024/2, UnB. 2024. Disponível em: <a href="https://youtu.be/Ce2XGN5k2DM">https://youtu.be/Ce2XGN5k2DM</a>. Acesso em: 17 dez. 2024.</p></font>
+</div>
+
+O vídeo de validação do backlog foi realizado junto ao PO e está disponível no vídeo 2.
+<div style="text-align: center">
+
+<font size="3"><p style="text-align: center">Validação backlog: Grupo 08 - Sympla - Requisitos de Software, 2024/2, UnB. 2024</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B-GdiR7GWjw?si=CT4CBp-q4sQT-oOj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Os Autores. Grupo 08 - Sympla - Validação Backlog- Requisitos de Software, 2024/2, UnB. 2024. Disponível em: <a href="https://youtu.be/B-GdiR7GWjw">https://youtu.be/B-GdiR7GWjw</a>. Acesso em: 17 dez. 2024.</p></font>
+</div>
+
 ## Metodologia
 
-Durante a entrevista com o PO, os desenvolvedores, que atuaram como entrevistadores, anotaram as funcionalidades mencionadas e fizeram perguntas para esclarecer suas ideias. Após a coleta das histórias de usuário, foram estabelecidos os critérios de aceitação, e o PO realizou a priorização delas em três níveis: Alta, Média ou Baixa prioridade, utilizando o método Three Level Scale para organização dos requisitos. Em seguida, as histórias de usuário foram organizadas em temas, épicos e features para facilitar a categorização. A Tabela 2 apresenta um exemplo do product backlog, enquanto o detalhamento de cada história de usuário pode ser encontrado em seu respectivo a[artefato](../historias_usuario). Além disso, as seções seguintes deste documento aprofundam o processo de definição dos temas, épicos e features, explicando também o significado de cada termo.
+Durante a entrevista com o PO, os desenvolvedores, que atuaram como entrevistadores, anotaram as funcionalidades mencionadas e fizeram perguntas para esclarecer suas ideias. Após a coleta das histórias de usuário, foram estabelecidos os critérios de aceitação, e o PO realizou a priorização delas em três níveis: Alta, Média ou Baixa prioridade, utilizando o método Three Level Scale para organização dos requisitos. Em seguida, as histórias de usuário foram organizadas em temas, épicos e features para facilitar a categorização. A Tabela 2 apresenta um exemplo do product backlog, enquanto o detalhamento de cada história de usuário pode ser encontrado em seu respectivo [artefato](../historias_usuario). Além disso, as seções seguintes deste documento aprofundam o processo de definição dos temas, épicos e features, explicando também o significado de cada termo.
 
 <center>
 
@@ -56,7 +78,7 @@ Durante a entrevista com o PO, os desenvolvedores, que atuaram como entrevistado
   </tr>
   <tr>
     <td><a href="../historias_usuario#us09">US09</a> - Visualizar a planta do local do evento para escolha de assentos</td>
-    <td>Média</td>
+    <td>Alta</td>
   </tr>
   <tr>
     <td rowspan="2">Feature 2 - Preferências e Recomendações</td>
@@ -77,7 +99,7 @@ Durante a entrevista com o PO, os desenvolvedores, que atuaram como entrevistado
   </tr>
   <tr>
     <td><a href="../historias_usuario#us16">US16</a> - Selecionar poltronas especiais</td>
-    <td>Média</td>
+    <td>Alta</td>
   </tr>
   <tr>
     <td rowspan="2">Feature 2 - Configurações e Perfil</td>
@@ -166,7 +188,7 @@ Durante a entrevista com o PO, os desenvolvedores, que atuaram como entrevistado
   </tr>
   <tr>
     <td><a href="../historias_usuario#us36">US36</a> - Cadastrar e gerenciar diferentes métodos de pagamento</td>
-    <td>Média</td>
+    <td>Alta</td>
   </tr>
 
   <!-- ÉPICO 5 - USABILIDADE E PADRONIZAÇÃO -->
@@ -182,7 +204,7 @@ Durante a entrevista com o PO, os desenvolvedores, que atuaram como entrevistado
   </tr>
   <tr>
     <td><a href="../historias_usuario#us10">US10</a> - Disponibilizar histórico completo das compras realizadas</td>
-    <td>Alta</td>
+    <td>Média</td>
   </tr>
   <tr>
     <td><a href="../historias_usuario#us29">US29</a> - Possibilitar a impressão de ingressos</td>
@@ -199,11 +221,11 @@ Durante a entrevista com o PO, os desenvolvedores, que atuaram como entrevistado
   </tr>
   <tr>
     <td><a href="../historias_usuario#us17">US17</a> - Adicionar cupom de desconto</td>
-    <td>Média</td>
+    <td>Alta</td>
   </tr>
   <tr>
     <td><a href="../historias_usuario#us18">US18</a> - Permitir doar para fundações</td>
-    <td>Baixa</td>
+    <td>Média</td>
   </tr>
 </tbody>
 </table>
@@ -280,4 +302,5 @@ Este épico prioriza atributos que asseguram um sistema eficiente e intuitivo. A
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
+|  2.0   | Adição dos termos e da gavração| [Gabriel Scheidt](https://github.com/Gxaite)    | [Victor Hugo](https://github.com/VHbernardes) | 15/12/2024  |
 |  1.0   | Criação do documento de backlog| [Gabriel Scheidt](https://github.com/Gxaite)    | [Victor Hugo](https://github.com/VHbernardes) | 15/12/2024  |
