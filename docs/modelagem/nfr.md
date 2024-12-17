@@ -77,6 +77,17 @@ Compreender essas interdependências e seus impactos é crucial para tomar decis
 Neste documento, serão apresentados 3 NFRs, com requisitos vindo da [Especificação suplementar](https://requisitos-de-software.github.io/2024.2-Sympla/modelagem/especificacao_suplementar/) e dos [elicitados](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/). Para cada categoria, foi feito um SIG (Softgoal Interdependency Graph), um diagrama da propagação de impactos e um cartão de especificação, que possui informações sobre o NFR, como a descrição, a categoria, os conflitos, a origem, os critérios e outras informações. 
 
 O usuário Daniel Ferreira concordou em disponibilizar sua imagem e voz para uso durante o aprendizado de requisitos, conforme descrito no [termo de voz e imagem](../assets/termo_daniel.pdf), preenchendo as linhas relativas às "prioridades".
+### Cronograma
+
+Na Tabela 1 são listadas as informações técnicas da validação.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 1</b>: Cronograma de entrevista</p></font>
+</div>
+
+| **Data**  | **Hora** | **Mediador** | **Usuário** | **Duração** | **Local**                  |
+|------------|-------|--------------------|------------------|-------------|---------------------------|
+| 16/12/2024 | 12:00 | [Milena Rocha](https://github.com/MilenaFRocha)        | Daniel Ferreira   | 05:00      | Presencial (UnB - Campus Gama) |
 
 ## NFR 01 - Usabilidade
 <font size="3"><p style="text-align: center"><b>Figura 3</b> - SIG Usabilidade</p></font>
@@ -93,7 +104,7 @@ O usuário Daniel Ferreira concordou em disponibilizar sua imagem e voz para uso
 
 <center>
 
-<b>Tabela 1</b> - Cartão de Especificação 1
+<b>Tabela 2</b> - Cartão de Especificação 1
 
 </center>
 
@@ -111,11 +122,11 @@ O usuário Daniel Ferreira concordou em disponibilizar sua imagem e voz para uso
 
 #### Propagação dos Impactos - Usabilidade
 
-A seguir, na Tabela 2, temos a avaliação da propagação dos impactos relativa à Figura 3.
+A seguir, na Tabela 3, temos a avaliação da propagação dos impactos relativa à Figura 3.
 
 <center>
 
-<b>Tabela 2</b> - Impactos Usabilidade
+<b>Tabela 3</b> - Impactos Usabilidade
 
 
 | NFR | Impacto | Avaliador |
@@ -153,7 +164,7 @@ Fonte: [Victor Hugo](https://github.com/VHbernardes)
 
 <center>
 
-<b>Tabela 3</b> - Cartão de Especificação - Desempenho
+<b>Tabela 4</b> - Cartão de Especificação - Desempenho
 
 </center>
 
@@ -171,11 +182,11 @@ Fonte: [Victor Hugo](https://github.com/VHbernardes)
 
 #### Propagação dos Impactos - Desempenho
 
-A seguir, na Tabela 4, temos a avaliação da propagação dos impactos relativa à Figura 4.
+A seguir, na Tabela 5, temos a avaliação da propagação dos impactos relativa à Figura 4.
 
 <center>
 
-<b>Tabela 4</b> - Impactos Desempenho
+<b>Tabela 5</b> - Impactos Desempenho
 
 | NFR | Impacto | Avaliador |
 |-----|---------|-------|
@@ -209,7 +220,7 @@ Fonte: [Milena Rocha](https://github.com/MilenaFRocha)
 
 <center>
 
-<b>Tabela 5</b> - Cartão de Especificação - Suportabilidade
+<b>Tabela 6</b> - Cartão de Especificação - Suportabilidade
 
 </center>
 
@@ -227,11 +238,11 @@ Fonte: [Milena Rocha](https://github.com/MilenaFRocha)
 
 #### Propagação dos Impactos - Suportabilidade
 
-A seguir, na Tabela 6, temos a avaliação da propagação dos impactos relativa à Figura 5.
+A seguir, na Tabela 7, temos a avaliação da propagação dos impactos relativa à Figura 5.
 
 <center>
 
-<b>Tabela 6</b> - Impactos Suportabilidade
+<b>Tabela 7</b> - Impactos Suportabilidade
 
 | NFR | Impacto | Avaliador |
 |-----|---------|-------|
