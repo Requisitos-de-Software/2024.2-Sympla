@@ -89,6 +89,11 @@ Na Tabela 1 são listadas as informações técnicas da validação.
 |------------|-------|--------------------|------------------|-------------|---------------------------|
 | 16/12/2024 | 12:00 | [Milena Rocha](https://github.com/MilenaFRocha)        | Daniel Ferreira   | 05:00      | Presencial (UnB - Campus Gama) |
 
+### Validação
+<div style="text-align: center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Sya6XIja7y8?si=tLEiCk5PXCrSrtBj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Milena Rocha.Validação do NFR com o usuário Daniel, 2024/2, UnB. 2024. Disponível em: <a href="https://www.youtube.com/watch?v=Sya6XIja7y8">https://youtu.be/Sya6XIja7y8</a>. Acesso em: 16 dez. 2024.</p></font>
 ## NFR 01 - Usabilidade
 <font size="3"><p style="text-align: center"><b>Figura 3</b> - SIG Usabilidade</p></font>
 
@@ -112,10 +117,10 @@ Na Tabela 1 são listadas as informações técnicas da validação.
 | ID do NFR (NFR01)| Classificação: Usabilidade |
 |---------------| ------------|
 | **Descrição:** refere-se à capacidade do sistema de entregar uma boa usabilidade para os usuários do aplicativo do Sympla.
-| **Justificativa:** Uma boa Usabilidade é fundamental para garantir que os usuários possam utilizar o aplicativo com eficiência e garantir uma satisfação do usuário, aumentando a acessibilidade e por consequência tendo uma redução de erros.
+| **Justificativa:**Uma boa Usabilidade é fundamental para garantir que os usuários possam utilizar o aplicativo com eficiência e garantir uma satisfação do usuário, aumentando a acessibilidade e por consequência tendo uma redução de erros.
 | **Origem dos Requisitos:** [Especificação suplementar](https://requisitos-de-software.github.io/2024.2-Sympla/modelagem/especificacao_suplementar/) e os requisitos [RNF06](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/), [RNF016](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/) e [RNF017](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/).
 | **Dependências:** Não foi encontrado.
-| **Prioridade:** 
+| **Prioridade:**  Alta
 | **Conflitos:** Nenhum
 
 <font size="3"><p style="text-align: center"> Fonte: [Victor Hugo](https://github.com/VHbernardes)</p></font>
@@ -172,10 +177,10 @@ Fonte: [Victor Hugo](https://github.com/VHbernardes)
 | ID do NFR (NFR02) | Classificação: Desempenho |
 |-------------------|--------------------------|
 | **Descrição:** Refere-se à capacidade do sistema de manter alta performance, proporcionando tempos rápidos de resposta e sem afetar negativamente a experiência do usuário, mesmo com grandes volumes de dados ou acesso simultâneo. |
-| **Justificativa:** O desempenho é um fator crucial para garantir a satisfação do usuário, evitando lentidão e falhas no sistema, principalmente em processos como compra de ingressos e navegação entre páginas. |
+| **Justificativa:**  O desempenho é um fator crucial para garantir a satisfação do usuário, evitando lentidão e falhas no sistema, principalmente em processos como compra de ingressos e navegação entre páginas. |
 | **Origem dos Requisitos:** [Especificação suplementar](https://requisitos-de-software.github.io/2024.2-Sympla/modelagem/especificacao_suplementar/), e os requisitos [RNF01](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/), [RNF03](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/). |
 | **Dependências:** Depende de uma infraestrutura robusta e de boas práticas de codificação. |
-| **Prioridade:**  |
+| **Prioridade:** Muito alta | 
 | **Conflitos:** Nenhum identificado. |
 
 <font size="3"><p style="text-align: center"> Fonte: [Milena Rocha](https://github.com/MilenaFRocha)</p></font>
@@ -231,7 +236,7 @@ Fonte: [Milena Rocha](https://github.com/MilenaFRocha)
 | **Justificativa:** A suportabilidade é essencial para garantir que o aplicativo funcione corretamente em diferentes dispositivos e sistemas operacionais, ampliando a base de usuários e oferecendo uma experiência de uso sem falhas. |
 | **Origem dos Requisitos:** [Especificação suplementar](https://requisitos-de-software.github.io/2024.2-Sympla/modelagem/especificacao_suplementar/) |
 | **Dependências:** Nenhuma identificada diretamente. |
-| **Prioridade:**  |
+| **Prioridade:**  Média|
 | **Conflitos:** Nenhum identificado. |
 
 <font size="3"><p style="text-align: center"> Fonte: [Victor Hugo](https://github.com/VHbernardes)</p></font>
@@ -286,3 +291,4 @@ Fonte: [Victor Hugo](https://github.com/VHbernardes)
 |  1.0   | Criação desse documento | [Milena Rocha](https://github.com/MilenaFRocha) | 12/12/2024 | [Rafael Pereira](https://github.com/rafgpereira)  |
 |  1.1   | Adição dos diagramas, cartão e propagação do NFR | [Victor Hugo](https://github.com/VHbernardes) | 16/12/2024 | [Milena Rocha](https://github.com/MilenaFRocha)  |
 |  1.2   | Adição da metodologia | [Milena Rocha](https://github.com/MilenaFRocha)| 16/12/2024 | [Victor Hugo](https://github.com/VHbernardes)   |
+|  1.3   | Upload da validação  | [Milena Rocha](https://github.com/MilenaFRocha)| 16/12/2024 | [Victor Hugo](https://github.com/VHbernardes)   |
