@@ -74,7 +74,9 @@ Compreender essas interdependências e seus impactos é crucial para tomar decis
 
 ## Metodologia
 
-Neste documento, serão apresentados 3 NFRs, com requisitos vindo da [Especificação suplementar](https://requisitos-de-software.github.io/2024.2-Sympla/modelagem/especificacao_suplementar/) e dos [elicitados](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/). Para cada categoria, foi feito um SIG (Softgoal Interdependency Graph), um diagrama da propagação de impactos e um cartão de especificação, que possui informações sobre o NFR, como a descrição, a categoria, os conflitos, a origem, os critérios e outras informações.
+Neste documento, serão apresentados 3 NFRs, com requisitos vindo da [Especificação suplementar](https://requisitos-de-software.github.io/2024.2-Sympla/modelagem/especificacao_suplementar/) e dos [elicitados](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/). Para cada categoria, foi feito um SIG (Softgoal Interdependency Graph), um diagrama da propagação de impactos e um cartão de especificação, que possui informações sobre o NFR, como a descrição, a categoria, os conflitos, a origem, os critérios e outras informações. 
+
+O usuário Daniel Ferreira concordou em disponibilizar sua imagem e voz para uso durante o aprendizado de requisitos, conforme descrito no [termo de voz e imagem](../assets/termo_daniel.pdf), preenchendo as linhas relativas às "prioridades".
 
 ## NFR 01 - Usabilidade
 <font size="3"><p style="text-align: center"><b>Figura 3</b> - SIG Usabilidade</p></font>
@@ -162,7 +164,7 @@ Fonte: [Victor Hugo](https://github.com/VHbernardes)
 | **Justificativa:** O desempenho é um fator crucial para garantir a satisfação do usuário, evitando lentidão e falhas no sistema, principalmente em processos como compra de ingressos e navegação entre páginas. |
 | **Origem dos Requisitos:** [Especificação suplementar](https://requisitos-de-software.github.io/2024.2-Sympla/modelagem/especificacao_suplementar/), e os requisitos [RNF01](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/), [RNF03](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/). |
 | **Dependências:** Depende de uma infraestrutura robusta e de boas práticas de codificação. |
-| **Prioridade:** Muito Alta. |
+| **Prioridade:**  |
 | **Conflitos:** Nenhum identificado. |
 
 <font size="3"><p style="text-align: center"> Fonte: [Milena Rocha](https://github.com/MilenaFRocha)</p></font>
@@ -218,7 +220,7 @@ Fonte: [Milena Rocha](https://github.com/MilenaFRocha)
 | **Justificativa:** A suportabilidade é essencial para garantir que o aplicativo funcione corretamente em diferentes dispositivos e sistemas operacionais, ampliando a base de usuários e oferecendo uma experiência de uso sem falhas. |
 | **Origem dos Requisitos:** [Especificação suplementar](https://requisitos-de-software.github.io/2024.2-Sympla/modelagem/especificacao_suplementar/) |
 | **Dependências:** Nenhuma identificada diretamente. |
-| **Prioridade:** Alta. |
+| **Prioridade:**  |
 | **Conflitos:** Nenhum identificado. |
 
 <font size="3"><p style="text-align: center"> Fonte: [Victor Hugo](https://github.com/VHbernardes)</p></font>
@@ -272,3 +274,4 @@ Fonte: [Victor Hugo](https://github.com/VHbernardes)
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação desse documento | [Milena Rocha](https://github.com/MilenaFRocha) | 12/12/2024 | [Rafael Pereira](https://github.com/rafgpereira)  |
 |  1.1   | Adição dos diagramas, cartão e propagação do NFR | [Victor Hugo](https://github.com/VHbernardes) | 16/12/2024 | [Milena Rocha](https://github.com/MilenaFRocha)  |
+|  1.2   | Adição da metodologia | [Milena Rocha](https://github.com/MilenaFRocha)| 16/12/2024 | [Victor Hugo](https://github.com/VHbernardes)   |
