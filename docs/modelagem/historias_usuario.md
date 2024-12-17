@@ -985,19 +985,25 @@ O vídeo de criação do História de Usuários junto ao Usuário foi gravado pe
 
 
 
-## **Bibliografia**
+## Bibliografia
 
-> SERRANO, Milene. Requisitos – Aula 15. 2017. Apresentação de slides. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972504/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf](https://aprender3.unb.br/pluginfile.php/2972504/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf). Acesso em: 14 de Dez. 2024.
+> SERRANO, Milene. Requisitos – Aula 15. 2017. Apresentação de slides.  
+> Disponível em: [https://aprender3.unb.br/pluginfile.php/2972504/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf](https://aprender3.unb.br/pluginfile.php/2972504/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf).  
+> Acesso em: 14 de Dez. 2024.
 
-> Histórias de Usuário. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: [https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/historia-de-usuario/](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/historia-de-usuario/). Acesso em: 14 de Dez. 2024.
+> Histórias de Usuário. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023.  
+> Disponível em: [https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/historia-de-usuario/](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/historia-de-usuario/).  
+> Acesso em: 14 de Dez. 2024.
 
 ## Histórico de Versões
 
-| Versão |          Descrição              |     Autor      |      Data      |   Revisor     | 
-|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
-|  1.0   | Criação desse documento |  [Renan Araújo](https://github.com/renantfm4) | 14/12/2024 | [Victor Hugo](https://github.com/VHbernardes)  |
-|  1.1   | Adição histórias de usuário (1-6, 33) |  [Victor Hugo](https://github.com/VHbernardes) | 14/12/2024 | [Renan Araújo](https://github.com/renantfm4)  |
-|  1.2   | Adição histórias de usuário (7-13, 36) |  [Rafael Pereira](https://github.com/rafgpereira) | 14/12/2024 | [Milena Rocha](https://github.com/MilenaFRocha)  |
-|  1.3   | Adição histórias de usuário (14-19, 35) |  [Gabriel Scheidt](https://github.com/gxaite) | 15/12/2024 | [Rafael Pereira](https://github.com/rafgpereira)  |
-|  1.4   | Adição histórias de usuário (20-25, 32) |  [Milena Rocha](https://github.com/MilenaFRocha) | 15/12/2024 | [Gabriel Scheidt](https://github.com/gxaite)  |
-|  1.5   | Adição histórias de usuário (26-31, 34) | [Renan Araújo](https://github.com/renantfm4) | 15/12/2024 | [Victor Hugo](https://github.com/VHbernardes)  |
+| Versão |              Descrição                |              Autor             |      Data      |          Revisor         |
+|:------:|:-------------------------------------:|:------------------------------:|:--------------:|:------------------------:|
+|  1.0   | Criação desse documento               | [Renan Araújo](https://github.com/renantfm4) | 14/12/2024    | [Victor Hugo](https://github.com/VHbernardes) |
+|  1.1   | Adição histórias de usuário (1-6, 33) | [Victor Hugo](https://github.com/VHbernardes) | 14/12/2024    | [Renan Araújo](https://github.com/renantfm4) |
+|  1.2   | Adição histórias de usuário (7-13, 36)| [Rafael Pereira](https://github.com/rafgpereira) | 14/12/2024    | [Milena Rocha](https://github.com/MilenaFRocha) |
+|  1.3   | Adição histórias de usuário (14-19, 35)| [Gabriel Scheidt](https://github.com/gxaite) | 15/12/2024    | [Rafael Pereira](https://github.com/rafgpereira) |
+|  1.4   | Adição histórias de usuário (20-25, 32)| [Milena Rocha](https://github.com/MilenaFRocha) | 15/12/2024    | [Gabriel Scheidt](https://github.com/gxaite) |
+|  1.5   | Adição histórias de usuário (26-31, 34)| [Renan Araújo](https://github.com/renantfm4) | 15/12/2024    | [Victor Hugo](https://github.com/VHbernardes) |
+|  1.5   | Adição do vídeo de verificação e termo de consentimento | [Renan Araújo](https://github.com/renantfm4) | 17/12/2024    | [Victor Hugo](https://github.com/VHbernardes) |
+
