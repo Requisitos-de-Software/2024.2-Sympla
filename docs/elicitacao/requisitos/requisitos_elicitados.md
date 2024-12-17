@@ -61,6 +61,10 @@ As siglas representam:
 | RF34  | O sistema apresenta uma aba de acessibilidades.                                                   | <a href="../../tecnicas/introspeccao/#anchor_ISF"> IS15 </a> | Não          |
 | RF35  | O usuário é capaz de criar preferências de eventos.                                               |  <a href="../../tecnicas/introspeccao/#anchor_ISF">IS16 </a> | Não          |
 | RF36  | Deve ser possível cadastrar diferentes métodos de pagamento.                                               |  <a href="../../tecnicas/entrevista2/#anchor_2ENT">2ENT11</a>  | Não          |
+| RF37  | O Sympla permite criar, gerenciar e divulgar eventos de forma intuitiva.                 | <a href="../../tecnicas/introspeccao/#anchor_ISF"> IS19</a> | Não          |
+| RF38  | O Sympla fornece relatórios detalhados de vendas e participação em eventos.              | <a href="../../tecnicas/introspeccao/#anchor_ISF">IS20</a> | Não          |
+| RF39  | O Sympla possibilita a customização dos ingressos, incluindo preços e lotes.             | <a href="../../tecnicas/introspeccao/#anchor_ISF">IS21</a> | Não          |
+| RF40  | O Sympla tem uma área para produtores de eventos.    | <a href="../../tecnicas/introspeccao/#anchor_ISF">IS22</a> | Não          |
 | RNF01 | O envio do ingresso deve ser rápido.                                                                          | <a href="../../tecnicas/entrevista2/#anchor_2ENT">2ENT05   </a>                             | Não          |
 | RNF02 | O sistema deve ser seguro para uso comercial.                                                                 | <a href="../../tecnicas/entrevista2/#anchor_2ENT">2ENT06  </a>                              | Sim          |
 | RNF03 | O login deve ser estável, evitando falhas frequentes que exijam que o usuário se autentique novamente.        |<a href="../../tecnicas/entrevista/#anchor_1ENT"> 1ENT06  </a>                                | Não          |
@@ -96,4 +100,5 @@ As siglas representam:
 |  1.2   | Atualização da tabela| [Gabriel Scheidt](https://github.com/gxaite) | 24/11/2024 | [Milena Rocha](https://github.com/MilenaFRocha)  |
 |  1.3   | Ajustes de escrita|  [Milena Rocha](https://github.com/MilenaFRocha) | 24/11/2024 | [Gabriel Scheidt](https://github.com/gxaite) |
 |  1.4   | Corrige ancoragem de entrevistas |  [Rafael Pereira](https://github.com/rafgpereira) | 14/12/2024 | [Renan Araújo](https://github.com/renantfm4) |
+|  1.5   | Atualização dos resquisitos|  [Milena Rocha](https://github.com/MilenaFRocha) | 16/12/2024 |  |
 

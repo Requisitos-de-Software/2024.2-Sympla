@@ -21,23 +21,36 @@ O processo de introspecção foi conduzido individualmente pelos alunos [Milena 
 
 </center>
 
+
 <font size="3"><p style="text-align: center">Fonte: [Milena Rocha](https://github.com/MilenaFRocha) e  [Gabriel Scheidt](https://github.com/Gxaite).</p></font>
 
 ### [Gabriel Scheidt](https://github.com/Gxaite)
 
 Para a aplicação deste método, imaginei-me em uma situação cotidiana de João (persona escolhida) na qual eu desejasse participar de um evento utilizando o Sympla. Assim, como usuário e sem visualizar o aplicativo, refleti sobre as funcionalidades que seriam indispensáveis para realizar essa tarefa. Além disso, considerei as possíveis dificuldades que poderiam surgir e o que o aplicativo deveria oferecer como solução para essas situações.
-
+<div style="text-align: center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EXQK9Ttb9YQ?si=2h67PuAjvNV9gueW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+</div>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Gabriel Scheidt.Técnica de Introspecção, 2024/2, UnB. 2024. Disponível em: <a href="https://youtu.be/EXQK9Ttb9YQ">https://youtu.be/EXQK9Ttb9YQ</a>. Acesso em: 24 nov. 2024.</p></font>
 
 ### [Milena Rocha](https://github.com/MilenaFRocha)
 
 Para a aplicação deste método, imaginei-me em uma situação cotidiana de Beatriz (persona escolhida). Sou Beatriz, analista de marketing e mãe. Minha rotina é corrida, e, quando tenho tempo livre, gosto de encontrar eventos culturais ou de entretenimento para aproveitar com minha família. Uso o Sympla porque preciso de uma forma rápida e prática de achar eventos interessantes. Quero filtros simples por categoria e localização, sugestões que combinem com meus gostos e uma integração fácil com meu calendário para organizar tudo. Também preciso que a compra de ingressos seja descomplicada, com pagamento rápido e seguro. Não posso perder tempo, então, se algo der errado, espero suporte imediato e soluções rápidas, para que eu possa curtir meu tempo livre sem preocupações. [Vídeo da execução da técnica](https://youtu.be/mq34x8JQDG8)
-
+<div style="text-align: center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mq34x8JQDG8?si=ygLm9ctYI98R9imB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+</div>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Milena Rocha.Técnica de Introspecção, 2024/2, UnB. 2024. Disponível em: <a href="https://youtu.be/mq34x8JQDG8">https://youtu.be/mq34x8JQDG8</a>. Acesso em: 24 nov. 2024.</p></font>
+
+
+
+### [Milena Rocha](https://github.com/MilenaFRocha)
+
+
+Sou Jéssica, produtora de eventos culturais e corporativos. Uso o Sympla diariamente e preciso de ferramentas simples para criar, gerenciar e divulgar eventos com eficiência. Valorizo relatórios de vendas, integração com marketing, suporte técnico rápido e uma interface prática para customizar ingressos. A compra precisa ser rápida e segura para os clientes, com notificações automáticas e fácil acesso aos ingressos. [Vídeo da execução da técnica](https://youtu.be/YJN80ZFScIA)
+<div style="text-align: center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YJN80ZFScIA?si=wvES4pJG6kmX0RTO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Milena Rocha.Introspecção - Jéssica, 2024/2, UnB. 2024. Disponível em: <a href="https://youtu.be/YJN80ZFScIA">https://youtu.be/YJN80ZFScIA</a>. Acesso em: 24 nov. 2024.</p></font>
+
 
 
 
@@ -75,12 +88,16 @@ Legenda das Tabelas 2 e 3:
 | RF16  | O usuário é capaz de criar preferências de eventos.              | IS16 | Sim          |
 | RF17  | O app faz sugestões e envia notificações com base na preferência escolhida do usuário.                   | IS17 | Sim          |
 | RF18  | O Sympla oferece a opção imprimir ingressos.                | IS18 | Sim          |
+| RF19  | O Sympla permite criar, gerenciar e divulgar eventos de forma intuitiva.                 | IS19 | Não          |
+| RF20  | O Sympla fornece relatórios detalhados de vendas e participação em eventos.              | IS20 | Não          |
+| RF21  | O Sympla possibilita a customização dos ingressos, incluindo preços e lotes.             | IS21 | Não          |
+| RF22  | O Sympla tem uma área para produtores de eventos.    | IS22 | Não          |
 
 </center>
 
 <font size="3"><p style="text-align: center">Fonte: [Milena Rocha](https://github.com/MilenaFRocha) e  [Gabriel Scheidt](https://github.com/Gxaite).</p></font>
 
-Vale ressaltar que os requisitos RF11 só é possível por meio do email e não direto no aplicativo. O RF08 não há no app, mas pode ser que isso dependa do produtor.
+Vale ressaltar que os requisitos RF11 só é possível por meio do email e não direto no aplicativo. O RF08 não há no app, mas pode ser que isso dependa do produtor.Os requisitos RF19 ao RF22 não estão implementados no app do Sympla, porém em outro app [Sympla Produtor](https://www.sympla.com.br/produtor/symplaparaprodutores) estão.
 
 ### Não funcionais
 
@@ -114,4 +131,5 @@ Vale ressaltar que os requisitos RF11 só é possível por meio do email e não 
 |  1.1   | Vídeo postado | [Milena Rocha](https://github.com/MilenaFRocha) | 23/11/2024 | [Rafael Pereira](https://github.com/rafgpereira)  |
 |  1.2   | Vídeo postado | [Gabriel Scheidt](https://github.com/MilenaFRocha) | 24/11/2024 | [Victor Hugo](https://github.com/VHbernardes)  |
 |  1.3   |  Ajuste de index | [Milena Rocha](https://github.com/MilenaFRocha) | 24/11/2024 |   |
+|  1.4   | Criação da introspecção de produtor | [Milena Rocha](https://github.com/MilenaFRocha) | 16/12/2024 |   |
 
