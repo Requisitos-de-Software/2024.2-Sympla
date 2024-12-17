@@ -1,6 +1,6 @@
 ## Introdução
 
-Após realizado o [planejamento](https://requisitos-de-software.github.io/2024.2-Sympla/verifica%C3%A7ao/grupo8/entrega3/entrega3/), iremos apresentar nesse artefato a verificação dos itens propostos para a entrega 4 do grupo. 
+Após realizado o [planejamento](https://requisitos-de-software.github.io/2024.2-Sympla/verifica%C3%A7ao/grupo8/entrega4/entrega4/), iremos apresentar nesse artefato a verificação dos itens propostos para a entrega 4 do grupo. 
 
 ## Objetivos
 
