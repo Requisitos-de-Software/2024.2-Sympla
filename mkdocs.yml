@@ -78,8 +78,8 @@ nav:
       - Léxicos: modelagem/lexico.md
       - Casos de uso: modelagem/casos_de_uso.md
       - Especificação Suplementar: modelagem/especificacao_suplementar.md
-      - NFR Framework: modelagem/nfr.md
       - Modelagem Ágil:
+        - NFR Framework: modelagem/nfr.md
         - Backlog: modelagem/backlog.md
         - Histórias de Usuário: modelagem/historias_usuario.md
   - Apresentações:
