@@ -966,7 +966,19 @@ A Tabela 36 apresenta com detalhes a US36, clique abaixo para expandir.
 ---
 
 ### Apresentação
+
+<font size="3"><p style="text-align: center">História de Usuários: Grupo 08 - Sympla - Requisitos de Software, 2024/2, UnB. 2024</p></font>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mg5fjECsujs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3">
+  <p style="text-align: center">
+    <b>Fonte:</b> Os Autores. Grupo 08 - Sympla - Backlog- Requisitos de Software, 2024/2, UnB. 2024. Disponível em: 
+    <a href="https://www.youtube.com/watch?v=Mg5fjECsujs">https://www.youtube.com/watch?v=Mg5fjECsujs</a>. 
+    Acesso em: 17 dez. 2024.
+  </p>
+</font>
+
 
 
 
