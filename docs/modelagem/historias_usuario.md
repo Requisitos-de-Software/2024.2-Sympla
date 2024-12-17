@@ -967,6 +967,9 @@ A Tabela 36 apresenta com detalhes a US36, clique abaixo para expandir.
 
 ### Apresentação
 
+O vídeo de criação do História de Usuários junto ao Usuário foi gravado pelo teams e está disponível no vídeo 1. O termo de cossentimento de uso de imagem e voz foi assinado pela Fernanda e está disponível aqui [termo de uso](../assets/termo_fernanda.pdf).
+<div style="text-align: center">
+
 <font size="3"><p style="text-align: center">História de Usuários: Grupo 08 - Sympla - Requisitos de Software, 2024/2, UnB. 2024</p></font>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mg5fjECsujs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
