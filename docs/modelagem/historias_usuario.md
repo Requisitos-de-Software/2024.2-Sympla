@@ -982,7 +982,7 @@ O vídeo de criação do História de Usuários junto ao Usuário foi gravado pe
   </p>
 </font>
 
-
+</div>
 
 
 ## **Bibliografia**
