@@ -17,38 +17,38 @@ Cada um dos itens da Tabela 1 será avaliado com Sim, Não ou Incompleto de acor
 | O github pages possui: |   Sim/Não/Incompleto   |  Versão da avaliação | Data da última avaliação |
 |------|:-------------------------------:|:--------------:|:--------------:|
 | **Itens do Desenvolvimento do projeto** |
-| 1 - O histórico de versão padronizado? |  |  |  |
-| 2 - O(s) autor(es) e o(s) revisor(es) para cada artefato? |  |  |  |
-| 3 - Referências bibliográficas e/ou bibliografia em todos os artefatos? |  |  |  |
-| 4 - As tabelas e imagens possuem título, fonte e elas chamadas dentro dos texto? |  |  |  |
-| 5 - Um texto fazendo uma introdução dos artefatos? |  |  |  |
-| 6 - O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade. |  |  |  |
-| 7 - Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc). |  |  |  |
-| 8 - A gravação da reunião do grupo |  |  |   |
-| 9 - Vídeo de apresentação na categoria “não listado” no youtube? |  |  |  |
+| 1 - O histórico de versão padronizado? | Sim | 1.0 | 17/12/2024 |
+| 2 - O(s) autor(es) e o(s) revisor(es) para cada artefato? | Sim | 1.0 | 17/12/2024 |
+| 3 - Referências bibliográficas e/ou bibliografia em todos os artefatos? | Sim | 1.0 | 17/12/2024 |
+| 4 - As tabelas e imagens possuem título, fonte e elas chamadas dentro dos texto? |Sim | 1.0 | 17/12/2024 |
+| 5 - Um texto fazendo uma introdução dos artefatos? | Sim | 1.0 | 17/12/2024  |
+| 6 - O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade. | Sim | 1.0 | 17/12/2024  |
+| 7 - Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc). | Sim | 1.0 | 17/12/2024  |
+| 8 - A gravação da reunião do grupo | Sim | 1.0 | 17/12/2024  |
+| 9 - Vídeo de apresentação na categoria “não listado” no youtube? | Sim | 1.0 | 17/12/2024  |
 | **Itens do conteúdo da disciplina.** |
-| 1 - As Histórias de Usuário? <a id="anchor_1" href="#REF1"><sup>1</sup></a> |  |  |  |
-| 2 - Os títulos das histórias de usuário são auto-explicativo? |  |  |  |
-| 3 - O “quem”, “o que” e o “por que” estão definidos na história de usuário? |  |  |  |
-| 4 - A participação do cliente e/ou persona na validação das histórias de usuário? |  |  |  |
-| 5 - A história possui critérios de aceitação? <a id="anchor_2" href="#REF2"><sup>2</sup></a> |  |  |  |
-| 6 - Todas as histórias de usuários podem ser testadas? |  |  |  |
-| 7 - O backlog. <a id="anchor_3" href="#REF3"><sup>3</sup></a>|  |  |  |
-| 8 - O backlog possui épicos e temas bem definidos e descritos? <a id="anchor_4" href="#REF4"><sup>4</sup></a>|  |  |  |
-| 9 - As Histórias de Usuário seguem algum modelo ou padrão? |  |  |  |
-| 10 - NFR Framework <a id="anchor_5" href="#REF5"><sup>5</sup></a> |  |  |  |
-| 11 - A definição do RNF e as fontes de evidência na literatura? |  |  |  |
-| 12 - O cartão de especificação do RNF? <a id="anchor_6" href="#REF6"><sup>6</sup></a>|  |  |  |
-| 13 - Os softgoals condizem com o contexto? <a id="anchor_7" href="#REF7"><sup>7</sup></a>|  |  |  |
-| 14 - Softgoals representam metas bem definidas? |  |  |  |
-| 15 - Os impactos foram corretamente propagados? |  |  |  |
+| 1 - As Histórias de Usuário? <a id="anchor_1" href="#REF1"><sup>1</sup></a> |  Sim | 1.0 | 17/12/2024 |
+| 2 - Os títulos das histórias de usuário são auto-explicativo? | Sim | 1.0 | 17/12/2024 |
+| 3 - O “quem”, “o que” e o “por que” estão definidos na história de usuário? | Sim | 1.0 | 17/12/2024 |
+| 4 - A participação do cliente e/ou persona na validação das histórias de usuário? | Sim | 1.0 | 17/12/2024  |
+| 5 - A história possui critérios de aceitação? <a id="anchor_2" href="#REF2"><sup>2</sup></a> |Sim | 1.0 | 17/12/2024 |
+| 6 - Todas as histórias de usuários podem ser testadas? | Sim | 1.0 | 17/12/2024 |
+| 7 - O backlog. <a id="anchor_3" href="#REF3"><sup>3</sup></a>| Sim | 1.0 | 17/12/2024 |
+| 8 - O backlog possui épicos e temas bem definidos e descritos? <a id="anchor_4" href="#REF4"><sup>4</sup></a>|Sim | 1.0 | 17/12/2024 |
+| 9 - As Histórias de Usuário seguem algum modelo ou padrão? | Sim | 1.0 | 17/12/2024 |
+| 10 - NFR Framework <a id="anchor_5" href="#REF5"><sup>5</sup></a> |Sim | 1.0 | 17/12/2024 |
+| 11 - A definição do RNF e as fontes de evidência na literatura? |  Sim | 1.0 | 17/12/2024  |
+| 12 - O cartão de especificação do RNF? <a id="anchor_6" href="#REF6"><sup>6</sup></a>| Sim | 1.0 | 17/12/2024  |
+| 13 - Os softgoals condizem com o contexto? <a id="anchor_7" href="#REF7"><sup>7</sup></a>| Sim | 1.0 | 17/12/2024 |
+| 14 - Softgoals representam metas bem definidas? | Sim | 1.0 | 17/12/2024 |
+| 15 - Os impactos foram corretamente propagados? |  Sim | 1.0 | 17/12/2024 |
 | **Itens do Conteúdo da disciplina feitas pelos integrantes** |
-| 1 - Os itens do Backlog estão priorizados? <a id="anchor_8" href="#REF8"><sup>8</sup></a> **Autor: Victor** |  |  |  |
-| 2 - O conteúdo do Product Backlog foi definido pelo Product Owner? <a id="anchor_9" href="#REF9"><sup>9</sup></a> **Autor: Rafael**  |  |  |  |
-| 3 - É mostrado no NFR Framework os tipos de abstrações do SIG? (NFR Softgoal, Softgoal de operacionalização, Softgoal de afirmação) <a id="anchor_10" href="#REF10"><sup>10</sup></a> **Autor: Milena** |  |  |  |
-| 4 - É mostrado no NFR Framework as decomposições do SIG? (Decomposição NFR, Decomposição de Operacionalização, Decomposição de Afirmação Decomposição de Priorização) <a id="anchor_11" href="#REF11"><sup>11</sup></a> **Autor: Renan** |  |  |  |
-| 5 - A propagação de impactos foi feita de acordo com o padrão estabelecido? <a id="anchor_12" href="#REF12"><sup>12</sup></a> **Autor: Gabriel** |  |  |  |
-| 6 - Cada integrante da equipe deve elaborar ao menos um 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência. **Autor: Prof. André** |  |  |  |
+| 1 - Os itens do Backlog estão priorizados? <a id="anchor_8" href="#REF8"><sup>8</sup></a> **Autor: Victor** | Sim | 1.0 | 17/12/2024 |
+| 2 - O conteúdo do Product Backlog foi definido pelo Product Owner? <a id="anchor_9" href="#REF9"><sup>9</sup></a> **Autor: Rafael**  | Sim | 1.0 | 17/12/2024 |
+| 3 - É mostrado no NFR Framework os tipos de abstrações do SIG? (NFR Softgoal, Softgoal de operacionalização, Softgoal de afirmação) <a id="anchor_10" href="#REF10"><sup>10</sup></a> **Autor: Milena** | Sim | 1.0 | 17/12/2024 |
+| 4 - É mostrado no NFR Framework as decomposições do SIG? (Decomposição NFR, Decomposição de Operacionalização, Decomposição de Afirmação Decomposição de Priorização) <a id="anchor_11" href="#REF11"><sup>11</sup></a> **Autor: Renan** | Sim | 1.0 | 17/12/2024  |
+| 5 - A propagação de impactos foi feita de acordo com o padrão estabelecido? <a id="anchor_12" href="#REF12"><sup>12</sup></a> **Autor: Gabriel** | Sim | 1.0 | 17/12/2024 |
+| 6 - Cada integrante da equipe deve elaborar ao menos um 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência. **Autor: Prof. André** | Sim | 1.0 | 17/12/2024  |
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/VHbernardes">Victor Hugo</a>, 2024</p></font>
 
@@ -95,3 +95,4 @@ Cada um dos itens da Tabela 1 será avaliado com Sim, Não ou Incompleto de acor
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     | 
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação desse documento | [Victor Hugo](https://github.com/VHbernardes) | 17/12/2024 | [Rafael Pereira](https://github.com/rafgpereira) |
+|  1.1   | Validação v1.0 | [Rafael Pereira](https://github.com/rafgpereira) | 17/12/2024 | [Milena Rocha](https://github.com/MilenaFRocha) |

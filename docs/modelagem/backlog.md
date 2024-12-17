@@ -302,5 +302,5 @@ Este épico prioriza atributos que asseguram um sistema eficiente e intuitivo. A
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
-|  2.0   | Adição dos termos e da gavração| [Gabriel Scheidt](https://github.com/Gxaite)    | [Victor Hugo](https://github.com/VHbernardes) | 15/12/2024  |
-|  1.0   | Criação do documento de backlog| [Gabriel Scheidt](https://github.com/Gxaite)    | [Victor Hugo](https://github.com/VHbernardes) | 17/12/2024  |
+|  1.0   | Criação do documento de backlog| [Gabriel Scheidt](https://github.com/Gxaite)    | 15/12/2024 | [Victor Hugo](https://github.com/VHbernardes)  |
+|  2.0   | Adição dos termos e da gavração| [Gabriel Scheidt](https://github.com/Gxaite)    |  17/12/2024 | [Victor Hugo](https://github.com/VHbernardes)   |
