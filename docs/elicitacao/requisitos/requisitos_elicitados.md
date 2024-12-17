@@ -100,4 +100,5 @@ As siglas representam:
 |  1.2   | Atualização da tabela| [Gabriel Scheidt](https://github.com/gxaite) | 24/11/2024 | [Milena Rocha](https://github.com/MilenaFRocha)  |
 |  1.3   | Ajustes de escrita|  [Milena Rocha](https://github.com/MilenaFRocha) | 24/11/2024 | [Gabriel Scheidt](https://github.com/gxaite) |
 |  1.4   | Corrige ancoragem de entrevistas |  [Rafael Pereira](https://github.com/rafgpereira) | 14/12/2024 | [Renan Araújo](https://github.com/renantfm4) |
+|  1.5   | Atualização dos resquisitos|  [Milena Rocha](https://github.com/MilenaFRocha) | 16/12/2024 |  |
 
