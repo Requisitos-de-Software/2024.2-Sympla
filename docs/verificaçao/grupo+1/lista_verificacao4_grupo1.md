@@ -107,3 +107,5 @@ Abaixo, no Vídeo 1, apresentamos o processo de verificação do grupo 01, justi
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     | 
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação desse documento | [Victor Hugo](https://github.com/VHbernardes) | 18/12/2024 | [Rafael Pereira](https://github.com/rafgpereira) |
+|  1.1   | Verificação grupo 1  | [Victor Hugo](https://github.com/VHbernardes) | 18/12/2024 | [Rafael Pereira](https://github.com/rafgpereira) |
+|  1.2   | Adição do video  | [Victor Hugo](https://github.com/VHbernardes) | 18/12/2024 | [Rafael Pereira](https://github.com/rafgpereira) |
