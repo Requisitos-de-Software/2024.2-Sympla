@@ -74,7 +74,7 @@ Compreender essas interdependências e seus impactos é crucial para tomar decis
 
 ## Metodologia
 
-Neste documento, serão apresentados 3 NFRs, com requisitos vindo da [Especificação suplementar](https://requisitos-de-software.github.io/2024.2-Sympla/modelagem/especificacao_suplementar/) e dos [elicitados](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/). Para cada categoria, foi feito um SIG (Softgoal Interdependency Graph), um diagrama da propagação de impactos e um cartão de especificação, que possui informações sobre o NFR, como a descrição, a categoria, os conflitos, a origem, os critérios e outras informações. 
+Neste documento, serão apresentados 3 NFRs, com requisitos vindo dos [requisitos elicitados não funcionais](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/). Para cada categoria, foi feito um SIG (Softgoal Interdependency Graph), um diagrama da propagação de impactos e um cartão de especificação, que possui informações sobre o NFR, como a descrição, a categoria, os conflitos, a origem, os critérios e outras informações. 
 
 O usuário Daniel Ferreira concordou em disponibilizar sua imagem e voz para uso durante o aprendizado de requisitos, conforme descrito no [termo de voz e imagem](../assets/termo_daniel.pdf), preenchendo as linhas relativas às "prioridades".
 ### Cronograma
@@ -94,10 +94,65 @@ Na Tabela 1 são listadas as informações técnicas da validação.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sya6XIja7y8?si=tLEiCk5PXCrSrtBj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Milena Rocha.Validação do NFR com o usuário Daniel, 2024/2, UnB. 2024. Disponível em: <a href="https://www.youtube.com/watch?v=Sya6XIja7y8">https://youtu.be/Sya6XIja7y8</a>. Acesso em: 16 dez. 2024.</p></font>
-## NFR 01 - Usabilidade
-<font size="3"><p style="text-align: center"><b>Figura 3</b> - SIG Usabilidade</p></font>
+
+## NFR 01 - Desempenho
+<font size="3"><p style="text-align: center"><b>Figura 3</b> - SIG Desempenho</p></font>
 
 <center>
+
+![SIG Desempenho](../assets/nfr/NFR_Desempenho.jpg)
+
+</center>
+
+<font size="3"><p style="text-align: center"> Fonte: [Victor Hugo](https://github.com/VHbernardes) e [Milena Rocha](https://github.com/MilenaFRocha)</p></font>
+
+#### Cartão de Especificação - Desempenho
+
+<center>
+
+<b>Tabela 2</b> - Cartão de Especificação - Desempenho
+
+</center>
+
+| **ID do NFR (NFR01)** | **Classificação:** Desempenho |
+|------------------------|------------------------------|
+| **Descrição:**         | Refere-se à capacidade do sistema de processar compras de ingressos rapidamente, sem atrasos perceptíveis. |
+| **Justificativa:**     | Um sistema de alto desempenho garante uma melhor experiência para o usuário, reduzindo frustrações com lentidão ou atrasos. |
+| **Origem dos Requisitos:** | Os requisitos [RNF01](../elicitacao/requisitos/requisitos_elicitados.md), [RNF04](#) e [RNF05](#). |
+| **Dependências:**      | RNF04 depende de RNF01 para envio rápido de ingressos. |
+| **Prioridade:**        | Alta |
+| **Conflitos:**         | Nenhum |
+
+#### Propagação dos Impactos - Desempenho
+
+A seguir, temos a avaliação da propagação dos impactos relativa à Figura 4.
+
+<center>
+
+<b>Tabela 3</b> - Impactos Desempenho
+
+| NFR | Impacto | Avaliador |
+|-----|---------|-------|
+|Desempenho|  𝒲-| [Milena Rocha](https://github.com/MilenaFRocha)|
+|Rapidez |  𝒲+|  [Milena Rocha](https://github.com/MilenaFRocha)|
+|Compra| 𝒲-|[Milena Rocha](https://github.com/MilenaFRocha)|
+|Envio rápido dos ingressos| 𝒲-|[Milena Rocha](https://github.com/MilenaFRocha)|
+|Concluir tarefas com no máx. 7 cliques| 𝒲+|[Milena Rocha](https://github.com/MilenaFRocha)|
+|Busca| 𝒲+|[Milena Rocha](https://github.com/MilenaFRocha)|
+|Processar em até 300 ms| 𝒲+|[Milena Rocha](https://github.com/MilenaFRocha)|
+|Sistema de login| 𝒲+|[Milena Rocha](https://github.com/MilenaFRocha)|
+|Estabilidade do login| 𝒲-|[Milena Rocha](https://github.com/MilenaFRocha)|
+|Autenticar em até 2s| ✓|[Milena Rocha](https://github.com/MilenaFRocha)|
+
+Fonte: [Milena Rocha](https://github.com/MilenaFRocha) 
+
+</center>
+
+## NFR 02 - Usabilidade
+<font size="3"><p style="text-align: center"><b>Figura 4</b> - SIG Usabilidade</p></font>
+
+<center>
+
 
 ![SIG Usabilidade](../assets/nfr/NFR_Usabilidade.jpg)
 
@@ -109,29 +164,27 @@ Na Tabela 1 são listadas as informações técnicas da validação.
 
 <center>
 
-<b>Tabela 2</b> - Cartão de Especificação 1
+<b>Tabela 4</b> - Cartão de Especificação 2
 
 </center>
 
 
-| ID do NFR (NFR01)| Classificação: Usabilidade |
-|---------------| ------------|
-| **Descrição:** refere-se à capacidade do sistema de entregar uma boa usabilidade para os usuários do aplicativo do Sympla.
-| **Justificativa:**Uma boa Usabilidade é fundamental para garantir que os usuários possam utilizar o aplicativo com eficiência e garantir uma satisfação do usuário, aumentando a acessibilidade e por consequência tendo uma redução de erros.
-| **Origem dos Requisitos:** [Especificação suplementar](https://requisitos-de-software.github.io/2024.2-Sympla/modelagem/especificacao_suplementar/) e os requisitos [RNF06](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/), [RNF016](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/) e [RNF017](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/).
-| **Dependências:** Não foi encontrado.
-| **Prioridade:**  Alta
-| **Conflitos:** Nenhum
-
-<font size="3"><p style="text-align: center"> Fonte: [Victor Hugo](https://github.com/VHbernardes)</p></font>
+| **ID do NFR (NFR02)** | **Classificação:** Usabilidade |
+|------------------------|------------------------------|
+| **Descrição:**         | Refere-se à facilidade de uso e navegação intuitiva no sistema, permitindo acesso eficiente a funcionalidades como busca de eventos, filtros e informações sobre ingressos. |
+| **Justificativa:**     | A usabilidade aprimora a interação do usuário com o sistema, aumentando sua satisfação e reduzindo erros. |
+| **Origem dos Requisitos:** | Os requisitos [RNF03](#), [RNF07](#), [RNF08](#), [RNF09](#), [RNF10](#), [RNF12](#), [RNF13](#), [RNF14](#), [RNF15](#) e [RNF17](#). |
+| **Dependências:**      | RNF07 depende de RNF12; RNF08 interage com RNF13; RNF15 complementa RNF14. |
+| **Prioridade:**        | Alta |
+| **Conflitos:**         | Nenhum |
 
 #### Propagação dos Impactos - Usabilidade
 
-A seguir, na Tabela 3, temos a avaliação da propagação dos impactos relativa à Figura 3.
+A seguir, temos a avaliação da propagação dos impactos relativa à Figura 3.
 
 <center>
 
-<b>Tabela 3</b> - Impactos Usabilidade
+<b>Tabela 5</b> - Impactos Usabilidade
 
 
 | NFR | Impacto | Avaliador |
@@ -154,100 +207,96 @@ Fonte: [Victor Hugo](https://github.com/VHbernardes)
 
 </center>
 
-## NFR 02 - Desempenho
-<font size="3"><p style="text-align: center"><b>Figura 4</b> - SIG Desempenho</p></font>
+## NFR 03 - Segurança
+<font size="3"><p style="text-align: center"><b>Figura 5</b> - SIG Segurança</p></font>
 
 <center>
 
-![SIG Desempenho](../assets/nfr/NFR_Desempenho.jpg)
 
-</center>
-
-<font size="3"><p style="text-align: center"> Fonte: [Victor Hugo](https://github.com/VHbernardes) e [Milena Rocha](https://github.com/MilenaFRocha)</p></font>
-
-#### Cartão de Especificação - Desempenho
-
-<center>
-
-<b>Tabela 4</b> - Cartão de Especificação - Desempenho
-
-</center>
-
-
-| ID do NFR (NFR02) | Classificação: Desempenho |
-|-------------------|--------------------------|
-| **Descrição:** Refere-se à capacidade do sistema de manter alta performance, proporcionando tempos rápidos de resposta e sem afetar negativamente a experiência do usuário, mesmo com grandes volumes de dados ou acesso simultâneo. |
-| **Justificativa:**  O desempenho é um fator crucial para garantir a satisfação do usuário, evitando lentidão e falhas no sistema, principalmente em processos como compra de ingressos e navegação entre páginas. |
-| **Origem dos Requisitos:** [Especificação suplementar](https://requisitos-de-software.github.io/2024.2-Sympla/modelagem/especificacao_suplementar/), e os requisitos [RNF01](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/), [RNF03](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/). |
-| **Dependências:** Depende de uma infraestrutura robusta e de boas práticas de codificação. |
-| **Prioridade:** Muito alta | 
-| **Conflitos:** Nenhum identificado. |
-
-<font size="3"><p style="text-align: center"> Fonte: [Milena Rocha](https://github.com/MilenaFRocha)</p></font>
-
-#### Propagação dos Impactos - Desempenho
-
-A seguir, na Tabela 5, temos a avaliação da propagação dos impactos relativa à Figura 4.
-
-<center>
-
-<b>Tabela 5</b> - Impactos Desempenho
-
-| NFR | Impacto | Avaliador |
-|-----|---------|-------|
-|Desempenho|  𝒲-| [Milena Rocha](https://github.com/MilenaFRocha)|
-|Rapidez |  𝒲+|  [Milena Rocha](https://github.com/MilenaFRocha)|
-|Compra| 𝒲-|[Milena Rocha](https://github.com/MilenaFRocha)|
-|Envio rápido dos ingressos| 𝒲-|[Milena Rocha](https://github.com/MilenaFRocha)|
-|Concluir tarefas com no máx. 7 cliques| 𝒲+|[Milena Rocha](https://github.com/MilenaFRocha)|
-|Busca| 𝒲+|[Milena Rocha](https://github.com/MilenaFRocha)|
-|Processar em até 300 ms| 𝒲+|[Milena Rocha](https://github.com/MilenaFRocha)|
-|Sistema de login| 𝒲+|[Milena Rocha](https://github.com/MilenaFRocha)|
-|Estabilidade do login| 𝒲-|[Milena Rocha](https://github.com/MilenaFRocha)|
-|Autenticar em até 2s| ✓|[Milena Rocha](https://github.com/MilenaFRocha)|
-
-Fonte: [Milena Rocha](https://github.com/MilenaFRocha) 
-
-</center>
-
-## NFR 03 - Suportabilidade
-<font size="3"><p style="text-align: center"><b>Figura 5</b> - SIG Desempenho</p></font>
-
-<center>
-
-![SIG Suportabilidade](../assets/nfr/NFR_Suportabilidade.jpg)
+![SIG Usabilidade](../assets/nfr/NRF_Seguranca.png)
 
 </center>
 
 <font size="3"><p style="text-align: center"> Fonte: [Victor Hugo](https://github.com/VHbernardes)</p></font>
 
-#### Cartão de Especificação - Suportabilidade
+#### Cartão de especificaçao
 
 <center>
 
-<b>Tabela 6</b> - Cartão de Especificação - Suportabilidade
+<b>Tabela 6</b> - Cartão de Especificação 3
 
 </center>
 
+| **ID do NFR (NFR03)** | **Classificação:** Segurança |
+|------------------------|------------------------------|
+| **Descrição:**         | Garante a proteção dos dados do usuário, incluindo informações sensíveis, através de autenticação segura e mecanismos de segurança robustos. |
+| **Justificativa:**     | Segurança é essencial para proteger os usuários contra acessos não autorizados e garantir a integridade das transações. |
+| **Origem dos Requisitos:** | Os requisitos [RNF02](#), [RNF11](#) e [RNF18](#). |
+| **Dependências:**      | RNF02 depende de RNF18; RNF11 complementa RNF18. |
+| **Prioridade:**        | Alta |
+| **Conflitos:**         | Nenhum |
 
-| ID do NFR (NFR03) | Classificação: Suportabilidade |
-|-------------------|-------------------------------|
-| **Descrição:** Refere-se à capacidade do sistema de oferecer suporte a diferentes plataformas e dispositivos, garantindo uma experiência consistente e acessível aos usuários. |
-| **Justificativa:** A suportabilidade é essencial para garantir que o aplicativo funcione corretamente em diferentes dispositivos e sistemas operacionais, ampliando a base de usuários e oferecendo uma experiência de uso sem falhas. |
-| **Origem dos Requisitos:** [Especificação suplementar](https://requisitos-de-software.github.io/2024.2-Sympla/modelagem/especificacao_suplementar/) |
-| **Dependências:** Nenhuma identificada diretamente. |
-| **Prioridade:**  Média|
-| **Conflitos:** Nenhum identificado. |
+
+#### Propagação dos Impactos - Segurança
+
+A seguir, temos a avaliação da propagação dos impactos relativa à **Segurança**.  
+
+<center>  
+
+**Tabela 7** - Impactos Segurança  
+
+| **NFR**               | **Impacto** | **Avaliador**                           |  
+|------------------------|-------------|-----------------------------------------|  
+| Segurança             | 𝒲-          | [Victor Hugo](https://github.com/VHbernardes) |  
+| Autenticação segura    | ✓           | [Victor Hugo](https://github.com/VHbernardes) |  
+| Proteção contra ataques de força bruta | ✓ | [Victor Hugo](https://github.com/VHbernardes) |  
+| Criptografia de dados  | ✓           | [Victor Hugo](https://github.com/VHbernardes) |  
+| Backup e recuperação   | ✓           | [Victor Hugo](https://github.com/VHbernardes) |  
+| Controle de acessos    | ✓           | [Victor Hugo](https://github.com/VHbernardes) |  
+| Logs de segurança      | ✓           | [Victor Hugo](https://github.com/VHbernardes) |  
+| Monitoramento contínuo | ✓           | [Victor Hugo](https://github.com/VHbernardes) |  
+| Atualizações de segurança | ✓       | [Victor Hugo](https://github.com/VHbernardes) |  
+| Compatibilidade com GDPR ou LGPD | ✓  | [Victor Hugo](https://github.com/VHbernardes) |  
+| Autenticação multifator (MFA) | ✓     | [Victor Hugo](https://github.com/VHbernardes) |  
+
+</center>  
+
+## NFR 04 - Suportabilidade
+<font size="3"><p style="text-align: center"><b>Figura 6</b> - SIG Usabilidade</p></font>
+
+<center>
+
+
+![SIG Usabilidade](../assets/nfr/NFR_Suporabilidade.jpg)
+
+</center>
 
 <font size="3"><p style="text-align: center"> Fonte: [Victor Hugo](https://github.com/VHbernardes)</p></font>
+
+#### Cartão de especificaçao
+
+<center>
+
+<b>Tabela 8</b> - Cartão de Especificação 4
+
+</center>
+
+| **ID do NFR (NFR04)** | **Classificação:** Suportabilidade |
+|------------------------|------------------------------|
+| **Descrição:**         | Refere-se à capacidade do sistema de fornecer suporte eficiente, incluindo relatórios de erros e atendimento para públicos específicos. |
+| **Justificativa:**     | Um bom suporte melhora a confiabilidade do sistema e atende a uma variedade de usuários, incluindo idosos e pessoas com deficiência. |
+| **Origem dos Requisitos:** | Os requisitos [RNF06](#), [RNF16](#) e [RNF19](#). |
+| **Dependências:**      | RNF19 apoia RNF16 na oferta de suporte especializado. |
+| **Prioridade:**        | Média |
+| **Conflitos:**         | Nenhum |
 
 #### Propagação dos Impactos - Suportabilidade
 
-A seguir, na Tabela 7, temos a avaliação da propagação dos impactos relativa à Figura 5.
+A seguir, temos a avaliação da propagação dos impactos relativa à Figura 5.
 
 <center>
 
-<b>Tabela 7</b> - Impactos Suportabilidade
+<b>Tabela 9</b> - Impactos Suportabilidade
 
 | NFR | Impacto | Avaliador |
 |-----|---------|-------|
