@@ -213,7 +213,7 @@ Fonte: [Victor Hugo](https://github.com/VHbernardes)
 <center>
 
 
-![SIG Usabilidade](../assets/nfr/NRF_Seguranca.png)
+![SIG Usabilidade](../assets/nfr/seguranca.jpg)
 
 </center>
 
