@@ -262,12 +262,12 @@ A seguir, temos a avaliação da propagação dos impactos relativa à **Seguran
 </center>  
 
 ## NFR 04 - Suportabilidade
-<font size="3"><p style="text-align: center"><b>Figura 6</b> - SIG Usabilidade</p></font>
+<font size="3"><p style="text-align: center"><b>Figura 6</b> - SIG Suportabilidade</p></font>
 
 <center>
 
 
-![SIG Usabilidade](../assets/nfr/NFR_Suporabilidade.jpg)
+![SIG Suportabilidade](../assets/nfr/NFR_Suportabilidade.jpg )
 
 </center>
 
@@ -319,6 +319,19 @@ Fonte: [Victor Hugo](https://github.com/VHbernardes)
 
 </center>
 
+## Compilado
+<font size="3"><p style="text-align: center"><b>Figura 7</b> - SIG Compilado</p></font>
+
+<center>
+
+
+![SIG Compilado](../assets/nfr/compilado.jpg)
+
+</center>
+
+<font size="3"><p style="text-align: center"> Fonte: [Victor Hugo](https://github.com/VHbernardes)</p></font>
+
+
 ## Referências Bibliográficas
 
 > <a id="REF1" href="#anchor_1">1.</a> SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019. Disponível em: <https://repositorio.ufpe.br/handle/123456789/34150>. Acesso em: 22/05/2023.
@@ -341,3 +354,4 @@ Fonte: [Victor Hugo](https://github.com/VHbernardes)
 |  1.1   | Adição dos diagramas, cartão e propagação do NFR | [Victor Hugo](https://github.com/VHbernardes) | 16/12/2024 | [Milena Rocha](https://github.com/MilenaFRocha)  |
 |  1.2   | Adição da metodologia | [Milena Rocha](https://github.com/MilenaFRocha)| 16/12/2024 | [Victor Hugo](https://github.com/VHbernardes)   |
 |  1.3   | Upload da validação  | [Milena Rocha](https://github.com/MilenaFRocha)| 16/12/2024 | [Victor Hugo](https://github.com/VHbernardes)   |
+|  1.4   | Ajustes apontados pelo professor  | [Milena Rocha](https://github.com/MilenaFRocha)| 06/01/2025 | [Victor Hugo](https://github.com/VHbernardes)   |
