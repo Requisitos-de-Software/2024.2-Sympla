@@ -45,6 +45,8 @@ A figura 1 demonstra o diagrama de casos de uso.
 
 As tabelas de 2 a 6 mostram a especialização dos casos de uso.
 
+### Caso 1
+
 <font size="3"><p style="text-align: center">Tabela 2: Buscar evento</p></font>
 
 | UC01 | Informações |
@@ -61,6 +63,8 @@ As tabelas de 2 a 6 mostram a especialização dos casos de uso.
 | Rastreabilidade | [RF01](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/), [RF02](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/), [RF26](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/) |
 
 <font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/gxaite">Gabriel Scheidt</a></b></p></font>
+
+### Caso 2
 
 <font size="3"><p style="text-align: center">Tabela 3: Ativar notificações sobre eventos </p></font>
 
@@ -79,6 +83,8 @@ As tabelas de 2 a 6 mostram a especialização dos casos de uso.
 
 <font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/rafgpereira">Rafael Pereira</a></b></p></font>
 
+### Caso 3
+
 <font size="3"><p style="text-align: center">Tabela 4: Adicionar método de pagamento</p></font>
 
 | UC03 | Informações |
@@ -95,6 +101,8 @@ As tabelas de 2 a 6 mostram a especialização dos casos de uso.
 | Rastreabilidade | [RF23](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/), [RF31](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/)  |
 
 <font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/VHbernardes">Victor Hugo</a></b></p></font>
+
+### Caso 4
 
 <font size="3"><p style="text-align: center">Tabela 5: Suporte ao usuário </p></font>
 
@@ -113,6 +121,8 @@ As tabelas de 2 a 6 mostram a especialização dos casos de uso.
 
 
 <font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/MilenaFRocha">Milena Rocha</a></b></p></font>
+
+### Caso 5
 
 <font size="3"><p style="text-align: center">Tabela 6: Pesquisa de perfil e interesses </p></font>
 
