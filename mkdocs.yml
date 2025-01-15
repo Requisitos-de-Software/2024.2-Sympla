@@ -87,6 +87,10 @@ nav:
     - Apresentação 2: apresentacoes/apresentacao2.md
     - Apresentação 3: apresentacoes/apresentacao3.md
     - Apresentação 4: apresentacoes/apresentacao4.md
+  - Pós-rastreabilidade:
+    - Backward From: pos-rastreabilidade/backward_from.md
+    - Forward From: pos-rastreabilidade/forward_from.md
+    - Matriz de Rastreabilidade: pos-rastreabilidade/matriz.md
   - Verificação:
     - Geral: verificaçao/verificacao_geral.md
     - Grupo 8:
