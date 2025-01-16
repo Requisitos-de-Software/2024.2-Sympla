@@ -246,4 +246,5 @@ A metodologia proposta permite uma rastreabilidade eficiente dos requisitos do S
 | Versão |              Descrição                |              Autor             |      Data      |          Revisor         |
 |:------:|:-------------------------------------:|:------------------------------:|:--------------:|:------------------------:|
 |  1.0   | Inserção do requisitos funcionais e não funcionais  | [Gabriel Scheidt](https://github.com/gxaite) | 16/01/2025    | [Milena Rocha](https://github.com/MilenaFRocha) |
-|  1.0   | Criação da introdução e referências   | [Gabriel Scheidt](https://github.com/gxaite) | 16/01/2025    | [Milena Rocha](https://github.com/MilenaFRocha) |
+|  1.1   | Criação da introdução e referências   | [Gabriel Scheidt](https://github.com/gxaite) | 16/01/2025    | [Milena Rocha](https://github.com/MilenaFRocha) |
+|  1.2   | Criação da metodologia e elos  | [Milena Rocha](https://github.com/MilenaFRocha) | 16/01/2025    |[Gabriel Scheidt](https://github.com/gxaite)  |
