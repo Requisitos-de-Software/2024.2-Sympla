@@ -48,9 +48,10 @@ Esta seção é dedicada à construção da tabela de rastreamento dos requisito
 
 - **RF**: Requisito Funcional  
 - **RNF**: Requisito Não Funcional  
-- **BS**: Brainstorm  
+- **ENT**: Entrevista  
 - **O**: Observação  
 - **IS**: Introspecção
+- **X**: Variável representando o número da entrevista
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Requisitos funcionais elicitados</p></font>
@@ -106,27 +107,70 @@ Este seguimento é destinado para a elaboração da tabela de rastreamento de re
 
 <p style="text-align: center"><b><a id="tab_1" style="visibility: hidden;"></a>Tabela 2</b> - Requisitos não funcionais</p>
 
-| Tipo  | Descrição                                                                                                      | <a id="anchor_GERAL" style="color:black;">Rastreabilidade</a> | Implementado |
+| Tipo e versão  | Descrição                                                                                                      | <a id="anchor_GERAL" style="color:black;">Rastreabilidade</a> | Implementado |
 |-------|--------------------------------------------------------------------------------------------------------------|---------------------------------------|--------------|
-| RNF01 | O envio do ingresso deve ser rápido.                                                                          | <a href="../../elicitacao/tecnicas/entrevista2/#anchor_2ENT">2ENT05   </a>                             | Não          |
-| RNF02 | O sistema deve ser seguro para uso comercial.                                                                 | <a href="../../elicitacao/tecnicas/entrevista2/#anchor_2ENT">2ENT06  </a>                              | Sim          |
-| RNF03 | O login deve ser estável, evitando falhas frequentes que exijam que o usuário se autentique novamente.        |<a href="../../elicitacao/tecnicas/entrevista/#anchor_1ENT"> 1ENT06  </a>                                | Não          |
-| RNF04 | O sistema processa compras de ingressos rapidamente, sem atrasos perceptíveis.                                | <a href="../..elicitacao//tecnicas/entrevista/#anchor_1ENT">1ENT07   </a>                             | Sim          |
-| RNF05 | O aplicativo garante um bom desempenho, evitando travamentos ou lentidão durante o uso.                       |  <a href="../../elicitacao/tecnicas/questionario/#anchor_QS">QS07   </a>                              | Sim          |
-| RNF06 | O sistema exibe preços competitivos de forma clara e transparente.                                            |  <a href="../../elicitacao/tecnicas/questionario/#anchor_QS">QS08 </a>                              | Não          |
-| RNF07 | O sistema aloca os eventos de acordo com a região selecionada para facilitar a busca e a filtragem.           | <a href="../../elicitacao/tecnicas/observacao/#anchor_OBS">OBS15  </a>                               | Sim          |
-| RNF08 | Deve adaptar a tela de seleção de poltronas de acordo com as poltronas já escolhidas.                         |<a href="../../elicitacao/tecnicas/observacao/#anchor_OBS"> OBS17   </a>                              | Sim          |
-| RNF09 | Deve apresentar ao usuário o feedback da confirmação de suas ações.                                           |<a href="../../elicitacao/tecnicas/observacao/#anchor_OBS"> OBS18 </a>                                | Sim          |
-| RNF10 | Deve apresentar uma página acessível de suporte e de perguntas frequentes com, no máximo, 1 clique.           | <a href="../../elicitacao/tecnicas/observacao/#anchor_OBS">OBS19</a>                                 | Sim          |
-| RNF11 | Deve apresentar uma tela com os dados da conta com ao menos uma etapa de segurança.                           | <a href="../../elicitacao/tecnicas/observacao/#anchor_OBS">OBS20</a>, IS16                           | Sim          |
-| RNF12 | Deve permitir a filtragem dos eventos com apenas 1 clique.                                                    |<a href="../../elicitacao/tecnicas/observacao/#anchor_OBS"> OBS22</a> ,<a href="../../tecnicas/entrevista2/#anchor_2ENT">2ENT01   </a>                            | Sim          |
-| RNF13 | O sistema apresenta eventos de forma personalizada, com base na atividade do usuário.                        |  <a href="../../elicitacao/tecnicas/introspeccao/#anchor_ISF"> IS19   </a>                              | Sim          |
-| RNF14 | O usuário deve conseguir acessar informações como data, local e preço do ingresso em, no máximo, 2 cliques durante a busca no Sympla. | <a href="../../elicitacao/tecnicas/introspeccao/#anchor_ISF"> IS20 </a>  | Sim          |
-| RNF15 | O Sympla deve permitir que o usuário acesse seus ingressos em, no máximo, 3 cliques.                                                 | <a href="../../elicitacao/tecnicas/introspeccao/#anchor_ISF"> IS21 </a>  | Sim          |
-| RNF16 | O Sympla deve oferecer atendimento especial para idosos e pessoas com deficiência durante o processo de compra de ingressos.      | <a href="../../elicitacao/tecnicas/introspeccao/#anchor_ISF"> IS22 </a>  | Não          |
-| RNF17 | O aplicativo mostra os eventos de preferência escolhida pelo usuário ao abrir.                    |<a href="../../elicitacao/tecnicas/observacao/#anchor_OBS"> OBS23</a> | Não          |
-| RNF18 | O Sympla deve incluir um mecanismo de autenticação seguro, permitindo que os usuários façam login com suas credenciais.           |  <a href="../../elicitacao/tecnicas/introspeccao/#anchor_ISF">IS23 </a>  | Sim          |
-| RNF19 | O Sympla deve contar com uma área para que os usuários reportem erros de funcionamento da plataforma.                             | <a href="../../elicitacao/tecnicas/introspeccao/#anchor_ISF"> IS24</a>   | Sim          |
+| RNF01 </a> / `1.4`| O envio do ingresso deve ser rápido.                                                                          | <a href="../../elicitacao/tecnicas/entrevista2/#anchor_2ENT">2ENT05   </a>                             | Não          |
+| RNF02 </a> / `1.4`| O sistema deve ser seguro para uso comercial.                                                                 | <a href="../../elicitacao/tecnicas/entrevista2/#anchor_2ENT">2ENT06  </a>                              | Sim          |
+| RNF03 </a> / `1.4`| O login deve ser estável, evitando falhas frequentes que exijam que o usuário se autentique novamente.        |<a href="../../elicitacao/tecnicas/entrevista/#anchor_1ENT"> 1ENT06  </a>                                | Não          |
+| RNF04 </a> / `1.4`| O sistema processa compras de ingressos rapidamente, sem atrasos perceptíveis.                                | <a href="../..elicitacao//tecnicas/entrevista/#anchor_1ENT">1ENT07   </a>                             | Sim          |
+| RNF06 </a> / `1.4`| O sistema exibe preços competitivos de forma clara e transparente.                                            |  <a href="../../elicitacao/tecnicas/questionario/#anchor_QS">QS08 </a>                              | Não          |
+| RNF07 </a> / `1.4`| O sistema aloca os eventos de acordo com a região selecionada para facilitar a busca e a filtragem.           | <a href="../../elicitacao/tecnicas/observacao/#anchor_OBS">OBS15  </a>                               | Sim          |
+| RNF09 </a> / `1.4`| Deve apresentar ao usuário o feedback da confirmação de suas ações.                                           |<a href="../../elicitacao/tecnicas/observacao/#anchor_OBS"> OBS18 </a>                                | Sim          |
+| RNF10 </a> / `1.4`| Deve apresentar uma página acessível de suporte e de perguntas frequentes com, no máximo, 1 clique.           | <a href="../../elicitacao/tecnicas/observacao/#anchor_OBS">OBS19</a>                                 | Sim          |
+| RNF11 </a> / `1.4`| Deve apresentar uma tela com os dados da conta com ao menos uma etapa de segurança.                           | <a href="../../elicitacao/tecnicas/observacao/#anchor_OBS">OBS20</a>, IS16                           | Sim          |
+| RNF12 </a> / `1.4`| Deve permitir a filtragem dos eventos com apenas 1 clique.                                                    |<a href="../../elicitacao/tecnicas/observacao/#anchor_OBS"> OBS22</a> ,<a href="../../tecnicas/entrevista2/#anchor_2ENT">2ENT01   </a>                            | Sim          |
+| RNF13 </a> / `1.4`| O sistema apresenta eventos de forma personalizada, com base na atividade do usuário.                        |  <a href="../../elicitacao/tecnicas/introspeccao/#anchor_ISF"> IS19   </a>                              | Sim          |
+| RNF14 </a> / `1.4`| O usuário deve conseguir acessar informações como data, local e preço do ingresso em, no máximo, 2 cliques durante a busca no Sympla. | <a href="../../elicitacao/tecnicas/introspeccao/#anchor_ISF"> IS20 </a>  | Sim          |
+| RNF15 </a> / `1.4`| O Sympla deve permitir que o usuário acesse seus ingressos em, no máximo, 3 cliques.                                                 | <a href="../../elicitacao/tecnicas/introspeccao/#anchor_ISF"> IS21 </a>  | Sim          |
+| RNF16 </a> / `1.4`| O Sympla deve oferecer atendimento especial para idosos e pessoas com deficiência durante o processo de compra de ingressos.      | <a href="../../elicitacao/tecnicas/introspeccao/#anchor_ISF"> IS22 </a>  | Não          |
+| RNF17 </a> / `1.4`| O aplicativo mostra os eventos de preferência escolhida pelo usuário ao abrir.                    |<a href="../../elicitacao/tecnicas/observacao/#anchor_OBS"> OBS23</a> | Não          |
+| RNF05 </a> / `1.4`| O aplicativo garante um bom desempenho, evitando travamentos ou lentidão durante o uso.                       |  <a href="../../elicitacao/tecnicas/questionario/#anchor_QS">QS07   </a>                              | Sim          |
+| RNF18 </a> / `1.4`| O Sympla deve incluir um mecanismo de autenticação seguro, permitindo que os usuários façam login com suas credenciais.           |  <a href="../../elicitacao/tecnicas/introspeccao/#anchor_ISF">IS23 </a>  | Sim          |
+| RNF08 </a> / `1.4`| Deve adaptar a tela de seleção de poltronas de acordo com as poltronas já escolhidas.                         |<a href="../../elicitacao/tecnicas/observacao/#anchor_OBS"> OBS17   </a>                              | Sim          |
+| RNF19 </a> / `1.4`| O Sympla deve contar com uma área para que os usuários reportem erros de funcionamento da plataforma.                             | <a href="../../elicitacao/tecnicas/introspeccao/#anchor_ISF"> IS24</a>   | Sim          |
+<div align="center">
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Gxaite">Gabriel Scheidt</a> e <a href="https://github.com/MilenaFRocha">Milena Rocha</a>, 2025</p></font>
+</div>
+### Elos: Análise e Classificação
+
+Neste trecho, exploramos os vínculos associados aos requisitos listados nas tabelas 1 e 2. De acordo com a metodologia adotada, cada requisito será classificado com base em seu tipo de vínculo, considerando os elos de rastreabilidade. É importante observar que todos os requisitos identificados pertencem à categoria de **Desenvolvimento**, ou seja, surgem como artefatos gerados durante a criação do projeto. Esses requisitos não têm uma conexão direta com os aspectos **organizacionais** ou **gerenciais** do projeto. 
+
+A análise e classificação dos requisitos resultaram na elaboração da **Tabela 3 e 4**, que detalha os elos relacionados a cada requisito. Os elos são classificados conforme os tipos: **Responsabilidade**, **Satisfação**, **Recurso**, **Representação**, **Alocado** e **Agregação**, de acordo com a contribuição e o papel que desempenham no sistema e na interação com o usuário.
+
+
+
+
+**Legendas:**
+
+> - ID BCx: ID do Backward-From Relacionado Número x
+
+<center>
+### Tabela 4: Eixos de Rastreabilidade
+
+| ID      | Requisito         | Tipo de Elo             | Descrição do Elo                                                                                                      |
+|---------|-------------------|-------------------|-----------------------------------------------------------------------------------------------------------------|
+| ELOB01  | RNF01             | Representação     | Este requisito especifica que o envio do ingresso deve ser rápido, representando o objetivo de um sistema ágil. |
+| ELOB02  | RNF02             | Satisfação        | Este requisito assegura que o sistema seja seguro, atendendo à necessidade do usuário de proteção de seus dados. |
+| ELOB03  | RNF03             | Responsabilidade  | Este requisito atribui ao sistema a responsabilidade de manter estabilidade no login para evitar falhas recorrentes. |
+| ELOB04  | RNF04             | Satisfação        | Este requisito garante que o processamento de compras seja rápido, satisfazendo a necessidade de eficiência do usuário. |
+| ELOB05  | RNF05             | Representação     | Este requisito representa a necessidade de um sistema com bom desempenho, evitando travamentos e lentidão.        |
+| ELOB06  | RNF06             | Agregação         | Este requisito agrega clareza e transparência aos preços apresentados, melhorando a experiência do usuário.       |
+| ELOB07  | RNF07             | Alocado           | Este requisito aloca a funcionalidade de organização regional de eventos, facilitando a busca pelo usuário.       |
+| ELOB08  | RNF08             | Representação     | Este requisito representa a necessidade de adaptar a seleção de poltronas às escolhas já realizadas.              |
+| ELOB09  | RNF09             | Satisfação        | Este requisito busca satisfazer o usuário ao fornecer feedback imediato após confirmações de ações.               |
+| ELOB10  | RNF10             | Responsabilidade  | Este requisito define a responsabilidade do sistema em oferecer suporte e perguntas frequentes acessíveis.        |
+| ELOB11  | RNF11             | Agregação         | Este requisito agrega segurança adicional aos dados da conta com etapas extras de autenticação.                   |
+| ELOB12  | RNF12             | Recurso           | Este requisito especifica que os eventos devem ser filtrados rapidamente, contribuindo para a usabilidade.        |
+| ELOB13  | RNF13             | Recurso           | Este requisito conecta a personalização dos eventos ao histórico do usuário, destacando a utilidade dessa função. |
+| ELOB14  | RNF14             | Satisfação        | Este requisito satisfaz a necessidade de acesso rápido a informações como data, local e preço de ingressos.       |
+| ELOB15  | RNF15             | Satisfação        | Este requisito assegura que o usuário possa acessar seus ingressos com facilidade em até 3 cliques.               |
+| ELOB16  | RNF16             | Responsabilidade  | Este requisito define a responsabilidade de atender necessidades especiais de idosos e pessoas com deficiência.    |
+| ELOB17  | RNF17             | Representação     | Este requisito representa o objetivo de mostrar eventos de preferência ao abrir o aplicativo.                     |
+| ELOB18  | RNF18             | Recurso           | Este requisito conecta a funcionalidade de autenticação segura à proteção dos dados do usuário.                   |
+| ELOB19  | RNF19             | Responsabilidade  | Este requisito atribui ao sistema a responsabilidade de permitir que os usuários reportem problemas da plataforma. |
+
+
+
 
 
 ## Conclusão
