@@ -127,7 +127,62 @@ Este seguimento é destinado para a elaboração da tabela de rastreamento de re
 | RNF17 | O aplicativo mostra os eventos de preferência escolhida pelo usuário ao abrir.                    |<a href="../../elicitacao/tecnicas/observacao/#anchor_OBS"> OBS23</a> | Não          |
 | RNF18 | O Sympla deve incluir um mecanismo de autenticação seguro, permitindo que os usuários façam login com suas credenciais.           |  <a href="../../elicitacao/tecnicas/introspeccao/#anchor_ISF">IS23 </a>  | Sim          |
 | RNF19 | O Sympla deve contar com uma área para que os usuários reportem erros de funcionamento da plataforma.                             | <a href="../../elicitacao/tecnicas/introspeccao/#anchor_ISF"> IS24</a>   | Sim          |
+<div align="center">
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Gxaite">Gabriel Scheidt</a> e <a href="https://github.com/MilenaFRocha">Milena Rocha</a>, 2025</p></font>
+</div>
 
+
+## Elos de rastrabilidade
+Nesta seção, analisaremos os vínculos associados aos requisitos apresentados nas tabelas 1 e 2. Conforme a metodologia adotada, todos os requisitos foram classificados de acordo com o tipo de vínculo correspondente. Vale destacar que todos esses requisitos pertencem exclusivamente à categoria de Desenvolvimento, uma vez que derivam de artefatos produzidos ao longo do processo de elaboração do trabalho, sem conexão direta com aspectos organizacionais ou de gestão do projeto. Com base nesses requisitos, foi elaborada a tabela 3, que consolida e descreve todos os vínculos (elos) identificados.
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Elos de rastreabilidade</p></font>
+</div>
+
+| ID      | Requisitos | Tipo de elo       | Descrição do elo                                                                                                                                          |
+|---------|------------|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ELOB01  | RF01       | Representação     | O requisito RF01, que especifica que o sistema permite filtrar eventos por Estado e Município, tem como fonte a introspecção (IS01) e observação (OBS01). O tipo de elo é de representação, pois reflete os métodos utilizados para modelar os requisitos. |
+| ELOB02  | RF02       | Satisfação        | O requisito RF02, que exige que o sistema exiba detalhes importantes do evento, tem como fontes entrevistas (2ENT02 e 1ENT03), observação (OBS16) e introspecção (IS02). O tipo de elo é de satisfação, pois conecta o requisito às funcionalidades desenvolvidas para atendê-lo. |
+| ELOB03  | RF03       | Recurso           | O requisito RF03, que indica que o sistema envia notificações ou lembretes sobre os eventos comprados, está associado às entrevistas (2ENT03 e 1ENT04), questionário (QS03) e introspecção (IS18). O tipo de elo é de recurso, pois representa a dependência dos requisitos em relação aos recursos necessários para sua implementação. |
+| ELOB04  | RF04       | Satisfação        | O requisito RF04, que estabelece que o sistema fornece uma ampla variedade de eventos, tem como fontes entrevistas (2ENT04) e questionário (QS04). O tipo de elo é de satisfação, conectando os requisitos às funcionalidades que os atendem. |
+| ELOB05  | RF05       | Representação     | O requisito RF05, que determina que o aplicativo permite compartilhar eventos por meio das redes sociais, tem como fonte a observação (OBS03). O elo de representação reflete como o requisito é modelado e apresentado. |
+| ELOB06  | RF06       | Recurso           | O requisito RF06, que define que o aplicativo deve permitir adicionar vários ingressos ao carrinho, tem como fonte a entrevista (1ENT01). O tipo de elo é de recurso, pois conecta o requisito aos elementos necessários para sua implementação. |
+| ELOB07  | RF07       | Recurso           | O requisito RF07, que determina que o usuário pode remover ingressos do carrinho, tem como fonte a entrevista (1ENT02). O tipo de elo é de recurso, representando a dependência para sua implementação. |
+| ELOB08  | RF08       | Representação     | O requisito RF08, que define que o sistema deve permitir cancelamento e transferências de ingressos, está associado à entrevista (2ENT07), observação (OBS12) e introspecção (IS08 e IS10). O tipo de elo é de representação, pois descreve como os requisitos são capturados e expressos. |
+| ELOB09  | RF09       | Satisfação        | O requisito RF09, que especifica que o usuário pode visualizar a planta do local para escolha de assentos, está associado à entrevista (2ENT08) e observação (OBS08). O tipo de elo é de satisfação, pois conecta a funcionalidade ao requisito. |
+| ELOB10  | RF10       | Satisfação        | O requisito RF10, que permite ao sistema disponibilizar um histórico de compras, está associado à entrevista (2ENT09) e observação (OBS21). O elo de satisfação garante que a funcionalidade atende ao requisito. |
+| ELOB11  | RF11       | Recurso           | O requisito RF11, que simplifica filas de compra, está associado à entrevista (2ENT10). O tipo de elo é de recurso, indicando a dependência para sua implementação. |
+| ELOB12  | RF12       | Representação     | O requisito RF12, que define que o usuário permanece logado por um período determinado, tem como fonte a entrevista (1ENT05). O tipo de elo é de representação. |
+| ELOB13  | RF13       | Satisfação        | O requisito RF13, que fornece uma busca eficiente para localizar produtos, tem como fontes o questionário (QS01), observação (OBS02) e introspecção (IS09). O tipo de elo é de satisfação. |
+| ELOB14  | RF14       | Representação     | O requisito RF14, que permite ao usuário escolher a quantidade de ingressos, está associado à observação (OBS04). O elo de representação reflete como o requisito é expresso. |
+| ELOB15  | RF15       | Representação     | O requisito RF15, que permite selecionar poltronas especiais para necessidades específicas, está associado à observação (OBS05). O tipo de elo é de representação. |
+| ELOB16  | RF16       | Representação     | O requisito RF16, que possibilita selecionar poltronas especiais, está associado à observação (OBS06). O elo de representação reflete como o requisito foi modelado. |
+| ELOB17  | RF17       | Recurso           | O requisito RF17, que permite adicionar cupons de desconto ao selecionar ingressos, tem como fonte a observação (OBS07). O tipo de elo é de recurso. |
+| ELOB18  | RF18       | Representação     | O requisito RF18, que permite doações para fundações, tem como fonte a observação (OBS09). O elo de representação reflete como o requisito foi capturado. |
+| ELOB19  | RF19       | Satisfação        | O requisito RF19, que permite realizar compras de ingressos, tem como fontes a observação (OBS10) e introspecção (IS04). O tipo de elo é de satisfação. |
+| ELOB20  | RF20       | Recurso           | O requisito RF20, que permite entrar em contato com o suporte, está associado à observação (OBS11) e introspecção (IS17). O tipo de elo é de recurso. |
+| ELOB21  | RF21       | Representação     | O requisito RF21, que permite ao usuário alterar seus dados, tem como fonte a observação (OBS13). O tipo de elo é de representação. |
+| ELOB22  | RF22       | Representação     | O requisito RF22, que auxilia na recuperação da conta do usuário, está associado à observação (OBS14). O elo de representação reflete como o requisito é modelado. |
+| ELOB23  | RF23       | Satisfação        | O requisito RF23, que oferece diversas opções de pagamento, está associado ao questionário (QS02) e introspecção (IS07). O elo de satisfação conecta a funcionalidade ao requisito. |
+| ELOB24  | RF24       | Recurso           | O requisito RF24, que assegura opções de pagamento seguras, tem como fonte o questionário (QS05). O tipo de elo é de recurso. |
+| ELOB25  | RF25       | Representação     | O requisito RF25, que assegura uma interface responsiva para diferentes dispositivos, está associado ao questionário (QS06). O elo de representação reflete como o requisito foi expressado. |
+| ELOB26  | RF26       | Satisfação        | O requisito RF26, que permite filtrar eventos por categorias, tem como fonte a introspecção (IS03). O elo de satisfação conecta o requisito à funcionalidade desenvolvida. |
+| ELOB27  | RF27       | Satisfação        | O requisito RF27, que oferece cadastro e login de usuários, tem como fonte a introspecção (IS05). O tipo de elo é de satisfação. |
+| ELOB28  | RF28       | Recurso           | O requisito RF28, que permite exclusão de cadastro de usuários, está associado à introspecção (IS06). O tipo de elo é de recurso. |
+| ELOB29  | RF29       | Representação     | O requisito RF29, que oferece a opção de imprimir ingressos, está associado à introspecção (IS19). O tipo de elo é de representação. |
+| ELOB30  | RF30       | Recurso           | O requisito RF30, que sugere eventos com base no histórico de buscas, tem como fonte a introspecção (IS11). O tipo de elo é de recurso. |
+| ELOB31  | RF31       | Representação     | O requisito RF31, que permite conectar uma carteira digital, está associado à introspecção (IS12). O elo de representação reflete como o requisito foi expresso. |
+| ELOB32  | RF32       | Representação     | O requisito RF32, que permite alterar o idioma do aplicativo, tem como fonte a introspecção (IS13). O tipo de elo é de representação. |
+| ELOB33  | RF33       | Representação     | O requisito RF33, que permite acessar a aba de configurações, está associado à introspecção (IS14). O elo de representação reflete como o requisito foi modelado. |
+| ELOB34  | RF34       | Representação     | O requisito RF34, que apresenta uma aba de acessibilidades, tem como fonte a introspecção (IS15). O elo de representação reflete como o requisito foi capturado. |
+| ELOB35  | RF35       | Representação     | O requisito RF35, que permite criar preferências de eventos, está associado à introspecção (IS16). O tipo de elo é de representação. |
+| ELOB36  | RF36       | Recurso           | O requisito RF36, que permite cadastrar métodos de pagamento, tem como fonte a entrevista (2ENT11). O tipo de elo é de recurso. |
+| ELOB37  | RF37       | Satisfação        | O requisito RF37, que permite criar e divulgar eventos de forma intuitiva, tem como fonte a introspecção (IS19). O elo de satisfação conecta o requisito à funcionalidade. |
+| ELOB38  | RF38       | Representação     | O requisito RF38, que fornece relatórios detalhados de vendas, está associado à introspecção (IS20). O tipo de elo é de representação. |
+| ELOB39  | RF39       | Representação     | O requisito RF39, que possibilita customização de ingressos, tem como fonte a introspecção (IS21). O tipo de elo é de representação. |
+| ELOB40  | RF40       | Representação     | O requisito RF40, que define uma área para produtores de eventos, tem como fonte a introspecção (IS22). O tipo de elo é de representação. |
+<div align="center">
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Gxaite">Gabriel Scheidt</a> e <a href="https://github.com/MilenaFRocha">Milena Rocha</a>, 2025</p></font>
+</div>
 
 ## Conclusão
 A metodologia proposta permite uma rastreabilidade eficiente dos requisitos do Sympla, assegurando que cada funcionalidade seja devidamente associada a seus objetivos iniciais e promovendo uma visão clara e organizada do progresso do projeto. A adaptação do meta-modelo de Toranzo e o foco na categoria de desenvolvimento garantem que as necessidades específicas deste projeto sejam atendidas de forma eficaz.
