@@ -197,6 +197,9 @@ A tabela 3 abaixo mostra os elos entre os requisitos elicitados e os artefatos d
     | ELOF53  | [RNF18<br>/ V.1.5](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/#requisitos) | - | - | - | [NFR03]( https://requisitos-de-software.github.io/2024.2-Sympla/modelagem/nfr/#nfr-03-seguranca ) | [RNF02](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/#requisitos) |
     | ELOF54  | [RNF19<br>/ V.1.5](https://requisitos-de-software.github.io/2024.2-Sympla/elicitacao/requisitos/requisitos_elicitados/#requisitos) | - | - | - | [NFR04](https://requisitos-de-software.github.io/2024.2-Sympla/modelagem/nfr/#nfr-04-suportabilidade) | - |
 
+     <font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/renantfm4">Renan Araújoa>, 2025</p></font> 
+
+
 
     </center>
 
