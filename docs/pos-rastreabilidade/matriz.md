@@ -3,3 +3,14 @@
 A matriz de rastreabilidade de requisitos de software é um artefato essencial no processo de desenvolvimento de software, que permite o acompanhamento e a verificação da implementação dos requisitos ao longo do ciclo de vida do projeto. Este documento facilita a identificação de dependências e relações entre os requisitos, garantindo que todos os requisitos definidos sejam atendidos e que qualquer mudança seja devidamente gerenciada. A rastreabilidade assegura que o produto final esteja alinhado com as necessidades e expectativas dos stakeholders, contribuindo para a qualidade e sucesso do projeto.
 
 
+## Metodologia
+
+A Matriz de Rastreabilidade consiste na apresentação dos [requisitos elicitados](../elicitacao/requisitos/requisitos_elicitados.md) e todas as suas respectivas conexões em todos os documentos produzidos. A matriz é estruturada da seguinte forma:
+
+- **Código**: Identifica o requisito analisado e o rastreia.
+- **Tipo**: Classifica o requisito como funcional (RF) ou não funcional (RNF).
+- **Descrição**: Define o requisito.
+- **Pré-Rastreabilidade**: Identifica a origem da elicitação e a rastreia.
+- **Implementado?**: Identifica se o requisito já está implementado (Sim ou Não).
+- **Artefatos**: Identifica os artefatos que fazem referência ao requisito e os rastreiam.
+- **Elos**: Conecta requisitos e artefatos nos documentos Backward-From e Forward-From.
