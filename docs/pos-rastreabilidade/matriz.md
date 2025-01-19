@@ -40,5 +40,6 @@ Na Tabela 1, visualiza-se a Matriz de Rastreabilidade, conforme foi definida ant
 | <a href="../../elicitacao/requisitos/requisitos_elicitados/#anchor_GERAL">RF09<a/> | RF | Deve ser possível visualizar a planta do local para a escolha de assentos (quando aplicável). | REF | Sim | ART | ELO |
 | <a href="../../elicitacao/requisitos/requisitos_elicitados/#anchor_GERAL">RF10<a/> | RF | O sistema disponibiliza um histórico completo das compras realizadas pelo usuário. | REF | Sim | ART | ELO |
 | <a href="../../elicitacao/requisitos/requisitos_elicitados/#anchor_GERAL">RF11<a/> | RF | O sistema simplifica filas de compra. | REF | Não | ART | ELO |
+| <a href="../../elicitacao/requisitos/requisitos_elicitados/#anchor_GERAL">RF12<a/> | RF | O usuário deve permanecer logado por um tempo determinado para não precisar relogar frequentemente. | REF | Não | ART | ELO |
 
 
