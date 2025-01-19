@@ -226,6 +226,9 @@ A análise e classificação dos requisitos resultaram na elaboração da **Tabe
 | ELOB19  | RNF19             | Responsabilidade  | Este requisito atribui ao sistema a responsabilidade de permitir que os usuários reportem problemas da plataforma. |
 
 </center>
+<div align="center">
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Gxaite">Gabriel Scheidt</a> e <a href="https://github.com/MilenaFRocha">Milena Rocha</a>, 2025</p></font>
+</div>
 
 
 
