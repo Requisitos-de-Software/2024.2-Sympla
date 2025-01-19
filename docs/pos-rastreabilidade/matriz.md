@@ -101,3 +101,10 @@ Na Tabela 1, visualiza-se a Matriz de Rastreabilidade, conforme foi definida ant
 > SERRANO, Milene; SERRANO, Maurício. Slides da Aula 26 - Requisitos de Software. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf](https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf). Acesso em: 18 jan. 2025.
 
 
+## Histórico de Versões
+
+| Versão |              Descrição                |              Autor             |      Data      |          Revisor         |
+|:------:|:-------------------------------------:|:------------------------------:|:--------------:|:------------------------:|
+|  1.0   | Criação desse documento               | [Rafael Pereira](https://github.com/rafgpereira) | 18/01/2025    | [Renan Araújo](https://github.com/renantfm4) |
+|  1.1   | Adição da base da matriz    | [Rafael Pereira](https://github.com/rafgpereira) | 18/01/2025    | [Victor Hugo](https://github.com/VHbernardes) |
+|  1.2   | Adição do conteúdo e links    | [Rafael Pereira](https://github.com/rafgpereira) | 18/01/2025    | [Milena Rocha](https://github.com/MilenaFRocha) |
