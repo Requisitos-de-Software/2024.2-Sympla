@@ -40,5 +40,6 @@ Na Tabela 1, visualiza-se a Matriz de Rastreabilidade, conforme foi definida ant
 | <a href="../../elicitacao/requisitos/requisitos_elicitados/#anchor_GERAL">RF12<a/> | RF | O usuário deve permanecer logado por um tempo determinado para não precisar relogar frequentemente. | REF | Não | ART | ELO |
 | <a href="../../elicitacao/requisitos/requisitos_elicitados/#anchor_GERAL">RF13<a/> | RF | O aplicativo fornece uma funcionalidade de busca eficiente para facilitar a localização dos produtos. | REF | Sim | ART | ELO |
 | <a href="../../elicitacao/requisitos/requisitos_elicitados/#anchor_GERAL">RF14<a/> | RF | O aplicativo permite a escolha da quantidade de ingressos que o usuário deseja comprar. | REF | Sim | ART | ELO |
+| <a href="../../elicitacao/requisitos/requisitos_elicitados/#anchor_GERAL">RF15<a/> | RF | O aplicativo permite selecionar poltronas para pessoas idosas, crianças, obesas ou com deficiência, caso existam. | REF | Sim | ART | ELO |
 
 
