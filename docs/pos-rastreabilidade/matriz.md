@@ -92,4 +92,12 @@ Na Tabela 1, visualiza-se a Matriz de Rastreabilidade, conforme foi definida ant
 </div>
 
 
+## **Bibliografia**
+
+> POHL, K.; RUPP, C. Requirements Engineering Fundamentals: A Study Guide for the Certified Professional for Requirements Engineering Exam - Foundation Level - IREB Compliant. 2. ed. Rocky Nook, 2015. Disponível em: <a href="https://rockynook.com/shop/software/requirements-engineering-fundamentals-2nd-edition/">https://rockynook.com/shop/software/requirements-engineering-fundamentals-2nd-edition/</a>. Acesso em: 18 jan. 2025.
+
+> SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: [https://www-di.inf.puc-rio.br/~julio/rastre.pdf](https://www-di.inf.puc-rio.br/~julio/rastre.pdf). Acesso em: 18 jan. 2025.
+
+> SERRANO, Milene; SERRANO, Maurício. Slides da Aula 26 - Requisitos de Software. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf](https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf). Acesso em: 18 jan. 2025.
+
 
