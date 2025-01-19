@@ -87,5 +87,9 @@ Na Tabela 1, visualiza-se a Matriz de Rastreabilidade, conforme foi definida ant
 | <a href="../../elicitacao/requisitos/requisitos_elicitados/#anchor_GERAL">RNF18 | RNF | O Sympla deve incluir um mecanismo de autenticação seguro, permitindo que os usuários façam login com suas credenciais.           |  <a href="../../elicitacao/tecnicas/introspeccao/#anchor_ISF">IS23 </a>  | Sim          |[Especificação Suplementar](../modelagem/especificacao_suplementar.md), [NFR Framework](../modelagem/nfr.md)|<a href="../backward_from/#anchor_ELONF">ELOB18</a>, <a href="../forward_from/#anchor_ELOF">ELOF53</a>|
 | <a href="../../elicitacao/requisitos/requisitos_elicitados/#anchor_GERAL">RNF19 | RNF | O Sympla deve contar com uma área para que os usuários reportem erros de funcionamento da plataforma.                             | <a href="../../elicitacao/tecnicas/introspeccao/#anchor_ISF"> IS24</a>   | Sim          |[Especificação Suplementar](../modelagem/especificacao_suplementar.md), [NFR Framework](../modelagem/nfr.md)|<a href="../backward_from/#anchor_ELONF">ELOB19</a>, <a href="../forward_from/#anchor_ELOF">ELOF54</a>|
 
+<div align="center">
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/rafgpereira">Rafael Pereira</a>, 2025</p></font>
+</div>
+
 
 
