@@ -46,5 +46,6 @@ Na Tabela 1, visualiza-se a Matriz de Rastreabilidade, conforme foi definida ant
 | <a href="../../elicitacao/requisitos/requisitos_elicitados/#anchor_GERAL">RF18<a/> | RF | O aplicativo permite a doação por parte do usuário para fundações. | REF | Sim | ART | ELO |
 | <a href="../../elicitacao/requisitos/requisitos_elicitados/#anchor_GERAL">RF19<a/> | RF | O aplicativo permite a realização da compra dos ingressos.	 | REF | Sim | ART | ELO |
 | <a href="../../elicitacao/requisitos/requisitos_elicitados/#anchor_GERAL">RF20<a/> | RF | O aplicativo possui uma função para entrar em contato com o suporte. | REF | Sim | ART | ELO |
+| <a href="../../elicitacao/requisitos/requisitos_elicitados/#anchor_GERAL">RF21<a/> | RF | O aplicativo permite ao usuário alterar seus dados. | REF | Sim | ART | ELO |
 
 
