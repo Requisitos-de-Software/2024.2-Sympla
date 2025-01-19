@@ -132,7 +132,9 @@ A tabela 2 abaixo mostra nossa matriz de rastreabilidade dos requisitos não fun
 
 
 ## Elos 
-A tabela 3 abaixo mostra os elos entre os requisitos elicitados e os artefatos definidos nos forward-from.
+
+<a id="anchor_ELOF" style="color:black;"></a>
+A <a id="anchor_ELOF" style="color:black;">Tabela 3</a> abaixo mostra os elos entre os requisitos elicitados e os artefatos definidos nos forward-from.
 
 ??? abstract "Tabela 3: Elos de Rastreabilidade Forward-From"
 
