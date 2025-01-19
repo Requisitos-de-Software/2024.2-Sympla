@@ -35,5 +35,6 @@ Na Tabela 1, visualiza-se a Matriz de Rastreabilidade, conforme foi definida ant
 | <a href="../../elicitacao/requisitos/requisitos_elicitados/#anchor_GERAL">RF04<a/> | RF | O sistema fornece uma ampla variedade de eventos. | REF | Sim | ART | ELO |
 | <a href="../../elicitacao/requisitos/requisitos_elicitados/#anchor_GERAL">RF05<a/> | RF | O aplicativo permite compartilhar o evento por meio das redes sociais. | REF | Sim | ART | ELO |
 | <a href="../../elicitacao/requisitos/requisitos_elicitados/#anchor_GERAL">RF06<a/> | RF | Deve ser possível adicionar vários ingressos ao carrinho antes de finalizar a compra. | REF | Não | ART | ELO |
+| <a href="../../elicitacao/requisitos/requisitos_elicitados/#anchor_GERAL">RF07<a/> | RF | Deve ser possível retirar vários ingressos do carrinho adicionados.	 | REF | Não | ART | ELO |
 
 
