@@ -17,15 +17,15 @@ Cada um dos itens da Tabela 1 será avaliado com Sim, Não ou Incompleto de acor
 | O github pages possui: |   Sim/Não/Incompleto   |  Versão da avaliação | Data da última avaliação |
 |------|:-------------------------------:|:--------------:|:--------------:|
 | **Itens do Desenvolvimento do projeto** |
-| 1 - O histórico de versão padronizado? |  |  |  |
-| 2 - O(s) autor(es) e o(s) revisor(es) para cada artefato? |  |  |  |
-| 3 - Referências bibliográficas e/ou bibliografia em todos os artefatos? |  |  |  |
-| 4 - As tabelas e imagens possuem título, fonte e elas chamadas dentro dos texto? |  |  |  |
-| 5 - Um texto fazendo uma introdução dos artefatos? |  |  |  |
-| 6 - O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade. |  |  |  |
-| 7 - Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc). |  |  |  |
-| 8 - A gravação da reunião do grupo |  |  |   |
-| 9 - Vídeo de apresentação na categoria “não listado” no youtube? |  |  |  |
+| 1 - O histórico de versão padronizado? | Sim | 1.0 | 19/01/25 |
+| 2 - O(s) autor(es) e o(s) revisor(es) para cada artefato? | Sim | 1.0 | 19/01/25 |
+| 3 - Referências bibliográficas e/ou bibliografia em todos os artefatos? | Sim | 1.0 | 19/01/25  |
+| 4 - As tabelas e imagens possuem título, fonte e elas chamadas dentro dos texto? | Sim | 1.0 | 19/01/25  |
+| 5 - Um texto fazendo uma introdução dos artefatos? |  Sim | 1.0 | 19/01/25 |
+| 6 - O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade. |  Sim | 1.0 | 19/01/25 |
+| 7 - Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc). | Sim | 1.0 | 19/01/25  |
+| 8 - A gravação da reunião do grupo |  Sim | 1.0 | 19/01/25   |
+| 9 - Vídeo de apresentação na categoria “não listado” no youtube? | Sim | 1.0 | 19/01/25 |
 | **Itens do conteúdo da disciplina.** |
 | 1 - É apresentado a matriz de rastreabilidade? **Autor: Renan** <a id="anchor_1" href="#REF1"><sup>1</sup></a> |  |  |  |
 | 2 - É apresentado a Backward-from no artefato de Pós Rastreabiidade? **Autor: Victor** <a id="anchor_2" href="#REF2"><sup>2</sup></a>|  |  |  |
