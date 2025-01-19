@@ -28,5 +28,6 @@ Na Tabela 1, visualiza-se a Matriz de Rastreabilidade, conforme foi definida ant
 |--------|------|-----------|---------------------|--------------|-----------|------|
 | <a href="../../elicitacao/requisitos/requisitos_elicitados/#anchor_GERAL">RF01<a/> | RF | O sistema permite filtrar eventos por Estado e Município. | <a href="../../elicitacao/tecnicas/introspeccao/#anchor_ISF">IS01</a>, <a href="../../elicitacao/tecnicas/observacao/#anchor_OBS">OBS01</a> | Sim | sd | sd |
 | <a href="../../elicitacao/requisitos/requisitos_elicitados/#anchor_GERAL">RF02<a/> | RF | O sistema exibe detalhes importantes do evento, como horário de entrada e local. | <a href="../../elicitacao/tecnicas/entrevista2/#anchor_2ENT">2ENT02</a>, <a href="../../elicitacao/tecnicas/entrevista/#anchor_1ENT">1ENT03</a>, <a href="../../elicitacao/tecnicas/observacao/#anchor_OBS">OBS16</a>, <a href="../../elicitacao/tecnicas/introspeccao/#anchor_ISF">IS02</a> | Sim | sd | sd |
+| <a href="../../elicitacao/requisitos/requisitos_elicitados/#anchor_GERAL">RF03<a/> | RF | O sistema envia notificações ou lembretes sobre os eventos comprados. | REF | Sim | ART | ELO |
 
 
