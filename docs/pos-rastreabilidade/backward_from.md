@@ -139,7 +139,7 @@ Nesta seção, analisaremos os vínculos associados aos requisitos apresentados 
 <font size="3"><p style="text-align: center"><b>Tabela 3:</b> Elos de rastreabilidade</p></font>
 </div>
 
-| ID      | Requisitos | Tipo de elo       | Descrição do elo                                                                                                                                          |
+| <a id="anchor_ELOF" style="color:black;">ID</a>      | Requisitos | Tipo de elo       | Descrição do elo                                                                                                                                          |
 |---------|------------|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ELOB01  | RF01       | Representação     | O requisito RF01, que especifica que o sistema permite filtrar eventos por Estado e Município, tem como fonte a introspecção (IS01) e observação (OBS01). O tipo de elo é de representação, pois reflete os métodos utilizados para modelar os requisitos. |
 | ELOB02  | RF02       | Satisfação        | O requisito RF02, que exige que o sistema exiba detalhes importantes do evento, tem como fontes entrevistas (2ENT02 e 1ENT03), observação (OBS16) e introspecção (IS02). O tipo de elo é de satisfação, pois conecta o requisito às funcionalidades desenvolvidas para atendê-lo. |
@@ -203,7 +203,7 @@ A análise e classificação dos requisitos resultaram na elaboração da **Tabe
 <center>
 ### Tabela 4: Eixos de Rastreabilidade
 
-| ID      | Requisito         | Tipo de Elo             | Descrição do Elo                                                                                                      |
+| <a id="anchor_ELONF" style="color:black;">ID</a>      | Requisito         | Tipo de Elo             | Descrição do Elo                                                                                                      |
 |---------|-------------------|-------------------|-----------------------------------------------------------------------------------------------------------------|
 | ELOB01  | RNF01             | Representação     | Este requisito especifica que o envio do ingresso deve ser rápido, representando o objetivo de um sistema ágil. |
 | ELOB02  | RNF02             | Satisfação        | Este requisito assegura que o sistema seja seguro, atendendo à necessidade do usuário de proteção de seus dados. |
