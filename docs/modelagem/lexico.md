@@ -155,7 +155,7 @@ O sétimo Léxico, presente na Tabela 9, faz o uso do seguinte requisito: o sist
 
 ### <a id="L08" href="#anchor_L08" style="color:blue;"> L08: Produtor de Eventos </a>
 
-O sétimo Léxico, presente na Tabela 10, faz o uso do seguinte requisito: o sistema permite o cancelamento de ingressos diretamente na plataforma (<a href="../../elicitacao/requisitos/requisitos_elicitados/#anchor_GERAL">RF08</a>).
+O oitavo Léxico, presente na Tabela 10, faz o uso do seguinte requisito: o sistema permite o cancelamento de ingressos diretamente na plataforma (<a href="../../elicitacao/requisitos/requisitos_elicitados/#anchor_GERAL">RF08</a>).
 
 <font size="3"><p style="text-align: center"><b>Tabela 10</b> - Léxico 08: Produtor de Eventos (L08)</p></font>
 
