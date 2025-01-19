@@ -28,9 +28,6 @@ Na Tabela 1, visualiza-se a Matriz de Rastreabilidade, conforme foi definida ant
 |--------|------|-----------|---------------------|--------------|-----------|------|
 | <a href="../../elicitacao/requisitos/requisitos_elicitados/#anchor_GERAL">RF01<a/> | RF | O sistema permite filtrar eventos por Estado e Município. | <a href="../../elicitacao/tecnicas/introspeccao/#anchor_ISF">IS01</a>, <a href="../../elicitacao/tecnicas/observacao/#anchor_OBS">OBS01</a> | Sim | sd | sd |
 | <a href="../../elicitacao/requisitos/requisitos_elicitados/#anchor_GERAL">RF02<a/> | RF | O sistema exibe detalhes importantes do evento, como horário de entrada e local. | <a href="../../elicitacao/tecnicas/entrevista2/#anchor_2ENT">2ENT02</a>, <a href="../../elicitacao/tecnicas/entrevista/#anchor_1ENT">1ENT03</a>, <a href="../../elicitacao/tecnicas/observacao/#anchor_OBS">OBS16</a>, <a href="../../elicitacao/tecnicas/introspeccao/#anchor_ISF">IS02</a> | Sim | sd | sd |
-
-
-
 | <a href="../../elicitacao/requisitos/requisitos_elicitados/#anchor_GERAL">RF03<a/> | RF | O sistema envia notificações ou lembretes sobre os eventos comprados. | REF | Sim | ART | ELO |
 | <a href="../../elicitacao/requisitos/requisitos_elicitados/#anchor_GERAL">RF04<a/> | RF | O sistema fornece uma ampla variedade de eventos. | REF | Sim | ART | ELO |
 | <a href="../../elicitacao/requisitos/requisitos_elicitados/#anchor_GERAL">RF05<a/> | RF | O aplicativo permite compartilhar o evento por meio das redes sociais. | REF | Sim | ART | ELO |
@@ -42,5 +39,6 @@ Na Tabela 1, visualiza-se a Matriz de Rastreabilidade, conforme foi definida ant
 | <a href="../../elicitacao/requisitos/requisitos_elicitados/#anchor_GERAL">RF11<a/> | RF | O sistema simplifica filas de compra. | REF | Não | ART | ELO |
 | <a href="../../elicitacao/requisitos/requisitos_elicitados/#anchor_GERAL">RF12<a/> | RF | O usuário deve permanecer logado por um tempo determinado para não precisar relogar frequentemente. | REF | Não | ART | ELO |
 | <a href="../../elicitacao/requisitos/requisitos_elicitados/#anchor_GERAL">RF13<a/> | RF | O aplicativo fornece uma funcionalidade de busca eficiente para facilitar a localização dos produtos. | REF | Sim | ART | ELO |
+| <a href="../../elicitacao/requisitos/requisitos_elicitados/#anchor_GERAL">RF14<a/> | RF | O aplicativo permite a escolha da quantidade de ingressos que o usuário deseja comprar. | REF | Sim | ART | ELO |
 
 
