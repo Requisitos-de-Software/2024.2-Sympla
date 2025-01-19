@@ -226,6 +226,8 @@ A <a id="anchor_ELOF" style="color:black;">Tabela 3</a> abaixo mostra os elos en
 |:------:|:-------------------------------------:|:------------------------------:|:--------------:|:------------------------:|
 |  1.0   | Criação desse documento               | [Victor Hugo](https://github.com/VHbernardes) | 15/01/2025    | [Renan Araújo](https://github.com/renantfm4) |
 |  1.1   | Adição das matrizes de rastreabilidade    | [Victor Hugo](https://github.com/VHbernardes) | 15/01/2025    | [Renan Araújo](https://github.com/renantfm4) |
+|  1.2   | Adição dos elos   | [Renan Araújo](https://github.com/renantfm4) | 17/01/2025    | [Victor Hugo](https://github.com/VHbernardes) |
+|  1.3   | Adição das imagens   | [Renan Araújo](https://github.com/renantfm4) | 18/01/2025    | [Victor Hugo](https://github.com/VHbernardes) |
 
 
 
