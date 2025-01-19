@@ -33,5 +33,6 @@ Na Tabela 1, visualiza-se a Matriz de Rastreabilidade, conforme foi definida ant
 
 | <a href="../../elicitacao/requisitos/requisitos_elicitados/#anchor_GERAL">RF03<a/> | RF | O sistema envia notificações ou lembretes sobre os eventos comprados. | REF | Sim | ART | ELO |
 | <a href="../../elicitacao/requisitos/requisitos_elicitados/#anchor_GERAL">RF04<a/> | RF | O sistema fornece uma ampla variedade de eventos. | REF | Sim | ART | ELO |
+| <a href="../../elicitacao/requisitos/requisitos_elicitados/#anchor_GERAL">RF05<a/> | RF | O aplicativo permite compartilhar o evento por meio das redes sociais. | REF | Sim | ART | ELO |
 
 
