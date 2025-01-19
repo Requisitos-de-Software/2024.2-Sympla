@@ -44,5 +44,6 @@ Na Tabela 1, visualiza-se a Matriz de Rastreabilidade, conforme foi definida ant
 | <a href="../../elicitacao/requisitos/requisitos_elicitados/#anchor_GERAL">RF16<a/> | RF | O aplicativo permite selecionar as poltronas especiais. | REF | Sim | ART | ELO |
 | <a href="../../elicitacao/requisitos/requisitos_elicitados/#anchor_GERAL">RF17<a/> | RF | Na seleção de ingresso, o aplicativo permite adicionar um cupom de desconto. | REF | Sim | ART | ELO |
 | <a href="../../elicitacao/requisitos/requisitos_elicitados/#anchor_GERAL">RF18<a/> | RF | O aplicativo permite a doação por parte do usuário para fundações. | REF | Sim | ART | ELO |
+| <a href="../../elicitacao/requisitos/requisitos_elicitados/#anchor_GERAL">RF19<a/> | RF | O aplicativo permite a realização da compra dos ingressos.	 | REF | Sim | ART | ELO |
 
 
