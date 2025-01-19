@@ -1,6 +1,6 @@
 # Ata da Reunião
 
-**Data**: 19/01/2024  
+**Data**: 19/01/2025  
 **Horário**: 14:00 - 14:30 
 **Local**: Microsoft Teams  
 **Participantes**: Rafael, Victor, Milena, Renan e Gabriel
@@ -15,7 +15,7 @@ Fazer a gravação da 4 entrega da matéria de requisitos de software feita e de
 
 ### 2. Próximo Encontro
 
-**Data**: Segunda-Feira, 26/12/2024  
+**Data**: Segunda-Feira, 26/01/2025  
 
 ---
 
@@ -36,6 +36,6 @@ Na reunião não tiveram encaminhamentos
 
 | Versão |          Descrição                |        Autor       |      Data      |      Revisor      |
 |:------:|:---------------------------------:|:------------------:|:--------------:|:-----------------:|
-|  1.0   | Criação da ata da reunião         | Milena Rocha (https://github.com/MilenaFRocha)          | 08/12/2024     | [Renan](https://github.com/renantfm4) |
+|  1.0   | Criação da ata da reunião         | [Milena Rocha](https://github.com/MilenaFRocha)          | 19/01/2025     | [Renan](https://github.com/renantfm4) |
 
 ---
