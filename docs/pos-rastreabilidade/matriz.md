@@ -26,6 +26,6 @@ Na Tabela 1, visualiza-se a Matriz de Rastreabilidade, conforme foi definida ant
 
 | Código | Tipo | Descrição | Pré-Rastreabilidade | Implementado | Artefatos | Elos |
 |--------|------|-----------|---------------------|--------------|-----------|------|
-
+| <a href="../../elicitacao/requisitos/requisitos_elicitados/#anchor_GERAL">RF01<a/> | RF | O sistema permite filtrar eventos por Estado e Município. | <a href="../../elicitacao/tecnicas/introspeccao/#anchor_ISF">IS01</a>, <a href="../../elicitacao/tecnicas/observacao/#anchor_OBS">OBS01</a> | Sim | sd | sd |
 
 
