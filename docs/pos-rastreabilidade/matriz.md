@@ -14,3 +14,18 @@ A Matriz de Rastreabilidade consiste na apresentação dos [requisitos elicitado
 - **Implementado?**: Identifica se o requisito já está implementado (Sim ou Não).
 - **Artefatos**: Identifica os artefatos que fazem referência ao requisito e os rastreiam.
 - **Elos**: Conecta requisitos e artefatos nos documentos Backward-From e Forward-From.
+
+
+# **Matriz de Rastreabilidade**
+
+Na Tabela 1, visualiza-se a Matriz de Rastreabilidade, conforme foi definida anteriormente, dos requisitos do Sympla.
+
+
+<p style="text-align: center"><b><a id="tab_1" style="visibility: hidden;"></a>Tabela 1</b> - Matriz de Rastreabilidade Sympla</p>
+
+
+| Código | Tipo | Descrição | Pré-Rastreabilidade | Implementado | Artefatos | Elos |
+|--------|------|-----------|---------------------|--------------|-----------|------|
+
+
+
