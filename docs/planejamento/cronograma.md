@@ -278,12 +278,28 @@ Na Tabela 12, tem-se o cronograma planejado para todas as atividades da sexta en
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/VHbernardes">Victor Hugo</a>, 2024</p></font>
 
+### Executado
+Na Tabela 13, tem-se o cronograma planejado para todas as atividades da sexta entrega.
+
+<font size="3"><p style="text-align: center"><b>Tabela 13</b> - Pós-Rastreabilidade.</p></font>
+
+| Atividade                                     | Período de Desenvolvimento | Responsáveis                                                                                                                                     | Revisão               | Revisores                                                                                                    |
+|-----------------------------------------------|-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|-------------------------------------------------------------------------------------------------------------|
+| Pós-rastreabilidade: Backward-form            | Início: 06/12<br>Fim: 15/01 | [Gabriel](https://github.com/Gxaite) e [Milena](https://github.com/MilenaFRocha)         | Início: 05/01<br>Fim: 07/01 | [Victor Hugo](https://github.com/VHbernardes), [Renan](https://github.com/renantfm4)                         |
+| Pós-rastreabilidade: Forward-form             | Início: 06/01<br>Fim: 15/01 | [Victor Hugo](https://github.com/VHbernardes), [Renan](https://github.com/renantfm4)                                                           | Início: 17/01<br>Fim: 19/01 | [Gabriel](https://github.com/Gxaite)                                                                         |
+| Pós-rastreabilidade: Matriz de rastreabilidade | Início: 15/01<br>Fim: 19/01 | [Rafael](https://github.com/rafgpereira)                                                                                                       | Início: 17/01<br>Fim: 19/01 | [Victor Hugo](https://github.com/VHbernardes), [Milena](https://github.com/MilenaFRocha)                     |
+| Gravação da Apresentação e Entrega            | Início: 18/01<br>Fim: 19/01 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | Início: 19/01<br>Fim: 21/01 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) |
+| Correção pós apresentação                     | Início: 21/01<br>Fim: 23/01 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | Início: 23/01<br>Fim: 25/01 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) |
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Gxaite">Gabriel Scheidt</a>, 2024</p></font>
+
+
 ## Entrega Final 
 
 ### Planejado
-Na Tabela 13, tem-se o cronograma planejado para todas as atividades da última entrega.
+Na Tabela 14, tem-se o cronograma planejado para todas as atividades da última entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 13</b> - Entrega Final</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 14</b> - Entrega Final</p></font>
 
 | Atividade                                                            	| Período de desenvolvimento 	| Responsáveis                      	| Revisão                 	| Revisores        	|
 |----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
@@ -294,9 +310,9 @@ Na Tabela 13, tem-se o cronograma planejado para todas as atividades da última 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/VHbernardes">Victor Hugo</a>, 2024</p></font>
 
 ### Executado
-Na Tabela 14, tem-se o cronograma executado para todas as atividades da última entrega.
+Na Tabela 15, tem-se o cronograma executado para todas as atividades da última entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 14</b> - Entrega Final</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 15</b> - Entrega Final</p></font>
 
 <!-- | Atividade                                                            	| Período de desenvolvimento 	| Responsáveis                      	| Revisão                 	| Revisores        	|
 |----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
