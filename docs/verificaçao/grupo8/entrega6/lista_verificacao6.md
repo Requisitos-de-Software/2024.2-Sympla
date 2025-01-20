@@ -27,16 +27,16 @@ Cada um dos itens da Tabela 1 será avaliado com Sim, Não ou Incompleto de acor
 | 8 - A gravação da reunião do grupo |  Sim | 1.0 | 19/01/25   |
 | 9 - Vídeo de apresentação na categoria “não listado” no youtube? | Sim | 1.0 | 19/01/25 |
 | **Itens do conteúdo da disciplina.** |
-| 1 - É apresentado a matriz de rastreabilidade? **Autor: Renan** <a id="anchor_1" href="#REF1"><sup>1</sup></a> |  |  |  |
-| 2 - É apresentado a Backward-from no artefato de Pós Rastreabiidade? **Autor: Victor** <a id="anchor_2" href="#REF2"><sup>2</sup></a>|  |  |  |
-| 3 - É apresentado a Forward-from no artefato de Pós Rastreabiidade? **Autor: Victor** <a id="anchor_3" href="#REF3"><sup>3</sup></a>|  |  |  |
-| 4 - É apresentado os tipos de Elos de Rastreabilidade? **Autor: Rafael** <a id="anchor_4" href="#REF4"><sup>4</sup></a>|  |  |  |
-| 5 - Está sendo utilizado o Meta-modelo de Toranzo para a Pós-Rastreabilidade? **Autor: Rafael** <a id="anchor_5" href="#REF5"><sup>5</sup></a> |  |  |  |
-| 6 - Está sendo apresentado as classificações dos quatro níveis do Meta-modelo de Toranzo? **Autor: Milena** <a id="anchor_6" href="#REF6"><sup>6</sup></a>|  |  |  |
-| 7 - Está sendo apresentado os elos de rastreabilidade do Meta-modelo de Toranzo? **Autor: Milena** <a id="anchor_7" href="#REF7"><sup>7</sup></a>|  |  |  |
-| 8 - Está sendo seguido o padrão imposto pelos tipos de elos de rastreabilidade de toranzo? Exemplo: a categoria, os elementos rastreáveis e os elos. **Autor: Renan** <a id="anchor_8" href="#REF8"><sup>8</sup></a>|  |  |  |
-| 9 - Na representação, dentro do modelo de Toranzo, está sendo mostrado uma captura(imagem) do requisito implementado? **Autor: Gabriel** <a id="anchor_9" href="#REF9"><sup>9</sup></a>|  |  |  |
-| 10 - Os elos de rastreabilidade estão sendo apresentados e bem documentados? **Autor: Gabriel** <a id="anchor_10" href="#REF10"><sup>10</sup></a>|  |  |  |
+| 1 - É apresentado a matriz de rastreabilidade? **Autor: Renan** <a id="anchor_1" href="#REF1"><sup>1</sup></a> | Sim | 1.0 | 19/01/25  |
+| 2 - É apresentado a Backward-from no artefato de Pós Rastreabiidade? **Autor: Victor** <a id="anchor_2" href="#REF2"><sup>2</sup></a>| Sim | 1.0 | 19/01/25 |
+| 3 - É apresentado a Forward-from no artefato de Pós Rastreabiidade? **Autor: Victor** <a id="anchor_3" href="#REF3"><sup>3</sup></a>| Sim | 1.0 | 19/01/25 |
+| 4 - É apresentado os tipos de Elos de Rastreabilidade? **Autor: Rafael** <a id="anchor_4" href="#REF4"><sup>4</sup></a>| Sim | 1.0 | 19/01/25 |
+| 5 - Está sendo utilizado o Meta-modelo de Toranzo para a Pós-Rastreabilidade? **Autor: Rafael** <a id="anchor_5" href="#REF5"><sup>5</sup></a> | Sim | 1.0 | 19/01/25 |
+| 6 - Está sendo apresentado as classificações dos quatro níveis do Meta-modelo de Toranzo? **Autor: Milena** <a id="anchor_6" href="#REF6"><sup>6</sup></a>| Sim | 1.0 | 19/01/25 |
+| 7 - Está sendo apresentado os elos de rastreabilidade do Meta-modelo de Toranzo? **Autor: Milena** <a id="anchor_7" href="#REF7"><sup>7</sup></a>| Sim | 1.0 | 19/01/25 |
+| 8 - Está sendo seguido o padrão imposto pelos tipos de elos de rastreabilidade de toranzo? Exemplo: a categoria, os elementos rastreáveis e os elos. **Autor: Renan** <a id="anchor_8" href="#REF8"><sup>8</sup></a>| Sim | 1.0 | 19/01/25 |
+| 9 - Na representação, dentro do modelo de Toranzo, está sendo mostrado uma captura(imagem) do requisito implementado? **Autor: Gabriel** <a id="anchor_9" href="#REF9"><sup>9</sup></a>| Sim | 1.0 | 19/01/25  |
+| 10 - Os elos de rastreabilidade estão sendo apresentados e bem documentados? **Autor: Gabriel** <a id="anchor_10" href="#REF10"><sup>10</sup></a>| Sim | 1.0 | 19/01/25  |
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/VHbernardes">Victor Hugo</a>, 2025</p></font>
 
