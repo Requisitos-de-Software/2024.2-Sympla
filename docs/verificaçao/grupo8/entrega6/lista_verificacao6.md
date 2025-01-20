@@ -76,5 +76,6 @@ Cada um dos itens da Tabela 1 será avaliado com Sim, Não ou Incompleto de acor
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     | 
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação desse documento | [Victor Hugo](https://github.com/VHbernardes) | 18/01/2025 | [Rafael Pereira](https://github.com/rafgpereira) |
+|  1.1   | Verificação v1.0 | [Rafael Pereira](https://github.com/rafgpereira) | 19/01/2025 | [Victor Hugo](https://github.com/VHbernardes) |
 
 
