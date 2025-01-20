@@ -17,26 +17,26 @@ Cada um dos itens da Tabela 1 será avaliado com Sim, Não ou Incompleto de acor
 | O github pages possui: |   Sim/Não/Incompleto   |  Versão da avaliação | Data da última avaliação |
 |------|:-------------------------------:|:--------------:|:--------------:|
 | **Itens do Desenvolvimento do projeto** |
-| 1 - O histórico de versão padronizado? |  |  |  |
-| 2 - O(s) autor(es) e o(s) revisor(es) para cada artefato? |  |  |  |
-| 3 - Referências bibliográficas e/ou bibliografia em todos os artefatos? |  |  |  |
-| 4 - As tabelas e imagens possuem título, fonte e elas chamadas dentro dos texto? |  |  |  |
-| 5 - Um texto fazendo uma introdução dos artefatos? |  |  |  |
-| 6 - O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade. |  |  |  |
-| 7 - Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc). |  |  |  |
-| 8 - A gravação da reunião do grupo |  |  |   |
-| 9 - Vídeo de apresentação na categoria “não listado” no youtube? |  |  |  |
+| 1 - O histórico de versão padronizado? | Sim | 1.0 | 19/01/25 |
+| 2 - O(s) autor(es) e o(s) revisor(es) para cada artefato? | Sim | 1.0 | 19/01/25 |
+| 3 - Referências bibliográficas e/ou bibliografia em todos os artefatos? | Sim | 1.0 | 19/01/25  |
+| 4 - As tabelas e imagens possuem título, fonte e elas chamadas dentro dos texto? | Sim | 1.0 | 19/01/25  |
+| 5 - Um texto fazendo uma introdução dos artefatos? |  Sim | 1.0 | 19/01/25 |
+| 6 - O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade. |  Sim | 1.0 | 19/01/25 |
+| 7 - Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc). | Sim | 1.0 | 19/01/25  |
+| 8 - A gravação da reunião do grupo |  Sim | 1.0 | 19/01/25   |
+| 9 - Vídeo de apresentação na categoria “não listado” no youtube? | Sim | 1.0 | 19/01/25 |
 | **Itens do conteúdo da disciplina.** |
-| 1 - É apresentado a matriz de rastreabilidade? **Autor: Renan** <a id="anchor_1" href="#REF1"><sup>1</sup></a> |  |  |  |
-| 2 - É apresentado a Backward-from no artefato de Pós Rastreabiidade? **Autor: Victor** <a id="anchor_2" href="#REF2"><sup>2</sup></a>|  |  |  |
-| 3 - É apresentado a Forward-from no artefato de Pós Rastreabiidade? **Autor: Victor** <a id="anchor_3" href="#REF3"><sup>3</sup></a>|  |  |  |
-| 4 - É apresentado os tipos de Elos de Rastreabilidade? **Autor: Rafael** <a id="anchor_4" href="#REF4"><sup>4</sup></a>|  |  |  |
-| 5 - Está sendo utilizado o Meta-modelo de Toranzo para a Pós-Rastreabilidade? **Autor: Rafael** <a id="anchor_5" href="#REF5"><sup>5</sup></a> |  |  |  |
-| 6 - Está sendo apresentado as classificações dos quatro níveis do Meta-modelo de Toranzo? **Autor: Milena** <a id="anchor_6" href="#REF6"><sup>6</sup></a>|  |  |  |
-| 7 - Está sendo apresentado os elos de rastreabilidade do Meta-modelo de Toranzo? **Autor: Milena** <a id="anchor_7" href="#REF7"><sup>7</sup></a>|  |  |  |
-| 8 - Está sendo seguido o padrão imposto pelos tipos de elos de rastreabilidade de toranzo? Exemplo: a categoria, os elementos rastreáveis e os elos. **Autor: Renan** <a id="anchor_8" href="#REF8"><sup>8</sup></a>|  |  |  |
-| 9 - Na representação, dentro do modelo de Toranzo, está sendo mostrado uma captura(imagem) do requisito implementado? **Autor: Gabriel** <a id="anchor_9" href="#REF9"><sup>9</sup></a>|  |  |  |
-| 10 - Os elos de rastreabilidade estão sendo apresentados e bem documentados? **Autor: Gabriel** <a id="anchor_10" href="#REF10"><sup>10</sup></a>|  |  |  |
+| 1 - É apresentado a matriz de rastreabilidade? **Autor: Renan** <a id="anchor_1" href="#REF1"><sup>1</sup></a> | Sim | 1.0 | 19/01/25  |
+| 2 - É apresentado a Backward-from no artefato de Pós Rastreabiidade? **Autor: Victor** <a id="anchor_2" href="#REF2"><sup>2</sup></a>| Sim | 1.0 | 19/01/25 |
+| 3 - É apresentado a Forward-from no artefato de Pós Rastreabiidade? **Autor: Victor** <a id="anchor_3" href="#REF3"><sup>3</sup></a>| Sim | 1.0 | 19/01/25 |
+| 4 - É apresentado os tipos de Elos de Rastreabilidade? **Autor: Rafael** <a id="anchor_4" href="#REF4"><sup>4</sup></a>| Sim | 1.0 | 19/01/25 |
+| 5 - Está sendo utilizado o Meta-modelo de Toranzo para a Pós-Rastreabilidade? **Autor: Rafael** <a id="anchor_5" href="#REF5"><sup>5</sup></a> | Sim | 1.0 | 19/01/25 |
+| 6 - Está sendo apresentado as classificações dos quatro níveis do Meta-modelo de Toranzo? **Autor: Milena** <a id="anchor_6" href="#REF6"><sup>6</sup></a>| Sim | 1.0 | 19/01/25 |
+| 7 - Está sendo apresentado os elos de rastreabilidade do Meta-modelo de Toranzo? **Autor: Milena** <a id="anchor_7" href="#REF7"><sup>7</sup></a>| Sim | 1.0 | 19/01/25 |
+| 8 - Está sendo seguido o padrão imposto pelos tipos de elos de rastreabilidade de toranzo? Exemplo: a categoria, os elementos rastreáveis e os elos. **Autor: Renan** <a id="anchor_8" href="#REF8"><sup>8</sup></a>| Sim | 1.0 | 19/01/25 |
+| 9 - Na representação, dentro do modelo de Toranzo, está sendo mostrado uma captura(imagem) do requisito implementado? **Autor: Gabriel** <a id="anchor_9" href="#REF9"><sup>9</sup></a>| Sim | 1.0 | 19/01/25  |
+| 10 - Os elos de rastreabilidade estão sendo apresentados e bem documentados? **Autor: Gabriel** <a id="anchor_10" href="#REF10"><sup>10</sup></a>| Sim | 1.0 | 19/01/25  |
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/VHbernardes">Victor Hugo</a>, 2025</p></font>
 
@@ -76,5 +76,6 @@ Cada um dos itens da Tabela 1 será avaliado com Sim, Não ou Incompleto de acor
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     | 
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação desse documento | [Victor Hugo](https://github.com/VHbernardes) | 18/01/2025 | [Rafael Pereira](https://github.com/rafgpereira) |
+|  1.1   | Verificação v1.0 | [Rafael Pereira](https://github.com/rafgpereira) | 19/01/2025 | [Victor Hugo](https://github.com/VHbernardes) |
 
 
