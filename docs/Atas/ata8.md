@@ -3,13 +3,13 @@
 **Data**: 19/01/2025  
 **Horário**: 14:00 - 14:30 
 **Local**: Microsoft Teams  
-**Participantes**: Rafael, Victor, Milena, Renan e Gabriel
-**Ausentes**:  
+**Participantes**: Rafael, Victor, Milena, Renan e Gabriel   
+**Ausentes**: Nenhum
 
 ---
 
 ### 1. Objetivo da Reunião
-Fazer a gravação da 4 entrega da matéria de requisitos de software feita e definir as tarefas para cada integrante. 
+Definir as tarefas para cada integrante para a entrega dessa semana. 
 
 ---
 
@@ -23,9 +23,9 @@ Fazer a gravação da 4 entrega da matéria de requisitos de software feita e de
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-WXrTPal_zw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-TrTmLZ0EG8?si=PVZbZbhVIa7VUCeb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Os Autores. Grupo 08 - Sympla - Entrega 4 - Requisitos de Software, 2024/2, UnB. 2024. Disponível em: <a href="https://youtu.be/-WXrTPal_zw">https://youtu.be/-WXrTPal_zw</a>. Acesso em: 24 nov. 2024.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Os Autores. Reunião 8 - Organização do grupo. Disponível em: <a href="https://youtu.be/-TrTmLZ0EG8">https://youtu.be/-TrTmLZ0EG8</a>. Acesso em: 19 jan. 2025.</p></font>
 
 
 ### Encaminhamentos
