@@ -1,43 +1,61 @@
 
 # Backward-From
-
 ## Introdução
 
-### Rastreabilidade Backward-From:
+### Compreendendo a Rastreabilidade Backward-From
 
-Este documento explora o uso do método de rastreabilidade backward-from, uma abordagem essencial no desenvolvimento de sistemas. A rastreabilidade de requisitos desempenha um papel central ao viabilizar a identificação e a conexão entre requisitos durante a etapa de desenvolvimento, além de permitir seu acompanhamento ao longo de todo o ciclo de vida do sistema. Essa prática proporciona uma compreensão mais detalhada das origens e implicações de cada requisito, contribuindo para a garantia da qualidade, uma gestão de mudanças mais eficaz e o alinhamento contínuo com as necessidades do cliente.
+A rastreabilidade backward-from é uma abordagem estratégica no gerenciamento de requisitos de sistemas. Seu objetivo principal é estabelecer relações diretas entre os requisitos e suas origens, proporcionando uma visão clara e organizada do ciclo de vida de desenvolvimento. Isso não só facilita o entendimento sobre como os requisitos foram definidos, mas também garante maior controle sobre mudanças, alinhamento com as necessidades do cliente e aumento da qualidade geral do produto final.
 
-### Estabelecendo Conexões com o Método Backward-From
+### Fundamentação do Método
 
-Ao implementar o método de rastreabilidade backward-from, busca-se criar vínculos claros entre os requisitos e suas respectivas origens. Essa abordagem permite rastrear um requisito até sua fonte, seja ela uma solicitação de cliente, um processo de negócio ou outra referência relevante. Materiais como os [slides da aula 26](https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf), ministrada pela professora Milene Serrano, e o livro [Requirements Engineering Fundamentals](https://aprender3.unb.br/pluginfile.php/2972415/mod_resource/content/2/Rastreabilidade.pdf), de Klaus Pohl e Chris Rupp, fornecem insights valiosos que enriquecem essa abordagem, garantindo uma visão mais organizada e completa da rastreabilidade de requisitos.
+O método backward-from facilita a identificação das fontes dos requisitos, que podem variar de demandas específicas de clientes a processos organizacionais ou normativas legais. A aplicação prática dessa abordagem é amplamente discutida em materiais como os [slides da aula 26](https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf) e o livro [Requirements Engineering Fundamentals](https://aprender3.unb.br/pluginfile.php/2972415/mod_resource/content/2/Rastreabilidade.pdf), de Klaus Pohl e Chris Rupp. Esses recursos destacam como conectar requisitos a suas origens ajuda no acompanhamento de mudanças e na validação dos sistemas.
 
-### Benefícios da Rastreabilidade para Validação e Verificação
+### Benefícios da Rastreabilidade Backward-From
 
-A rastreabilidade bem implementada não apenas facilita o entendimento dos requisitos, mas também simplifica os processos de validação e verificação de sistemas. Essa prática permite a identificação precoce de possíveis problemas, resultando em economias significativas de tempo e recursos. Além disso, contribui para a satisfação do cliente ao garantir que o sistema atenda de forma precisa e confiável às suas necessidades ao longo de todo o ciclo de vida.
+A adoção dessa prática é fundamental para os processos de validação e verificação. Ela permite identificar inconsistências ou lacunas nos requisitos desde as etapas iniciais, resultando em menor retrabalho e economia de recursos. Além disso, essa rastreabilidade fortalece a comunicação entre as partes interessadas e assegura que o sistema final esteja alinhado com as expectativas do cliente, promovendo maior confiança no produto.
+
+---
 
 ## Metodologia 
 
-A metodologia utilizada neste projeto baseia-se no meta-modelo de rastreabilidade proposto por Toranzo, adaptado para atender as necessidades específicas do Sympla. Este modelo organiza as informações rastreadas em diferentes categorias e elos de rastreabilidade, permitindo uma visão detalhada e integrada do ciclo de vida dos requisitos. A seguir, detalhamos as adaptações e abordagens adotadas.
+A metodologia adotada neste projeto fundamenta-se no meta-modelo de rastreabilidade de Toranzo, adaptado para as necessidades do Sympla. O foco está em garantir uma análise estruturada e adaptativa dos requisitos, permitindo uma visão abrangente de suas origens, interdependências e implementações. Essa abordagem visa alinhar os processos organizacionais e de desenvolvimento, promovendo rastreabilidade eficiente e integrada.
 
-#### Classificação das Informações Rastreáveis
-As informações rastreadas foram organizadas em quatro categorias principais, conforme o meta-modelo original, mas com adaptações para o escopo do projeto Sympla:
+### Estruturação das Informações Rastreáveis
 
-- **Ambiental:** Inclui leis, padrões e estratégias que influenciam o funcionamento do sistema. No caso do Sympla, isso abrange conformidade com LGPD e regulamentações fiscais para eventos.
-- **Organizacional:** Relaciona-se às regras de negócio, fluxos de processo e objetivos da organização. Neste projeto, isso inclui políticas de cancelamento e gerenciamento de eventos.
-- **Gerencial:** Contém objetivos, tarefas e restrições relacionadas à gestão do projeto, como prazos e restrições orçamentárias.
-- **Desenvolvimento:** Abrange requisitos, artefatos de design e código-fonte. Para o Sympla, esta é a categoria central, dado o foco em rastrear implementação e validação de funcionalidades.
+Os requisitos foram organizados em categorias distintas para garantir clareza e detalhamento, com base em adaptações específicas para o contexto do Sympla:
 
-#### Adaptação do Meta-Modelo
-Foi realizada uma adaptação do meta-modelo de Toranzo para incluir o processo de pós-rastreabilidade. Esta adaptação conecta os artefatos de design e implementação diretamente aos requisitos elicitados e vice-versa, promovendo maior clareza na gestão de dependências.
+- **Regulatória e Ambiental:** Contempla normas, regulamentações e padrões aplicáveis ao sistema, como a LGPD e as obrigações fiscais relacionadas a eventos.
+- **Organizacional:** Agrupa regras de negócio e fluxos operacionais que regem a plataforma, como políticas de cancelamento e gerenciamento de eventos.
+- **Gerencial:** Abrange aspectos relacionados ao planejamento do projeto, incluindo prazos, orçamentos e metas específicas.
+- **Técnica e de Desenvolvimento:** Centraliza os requisitos funcionais e não funcionais, assim como os artefatos técnicos e de implementação.
 
-No entanto, devido à limitação das informações presentes nos artefatos do Sympla, o elo de **responsabilidade** foi incluído com adaptações para rastrear as ações e atribuições associadas aos artefatos e requisitos. Os elos considerados no projeto são:
+### Adaptação do Meta-Modelo
 
-- **Satisfação:** Relação entre os requisitos elicitados e as funcionalidades que os atendem.
-- **Recurso:** Dependência entre os requisitos e os recursos necessários para sua implementação.
-- **Responsabilidade:** Conexão entre os artefatos ou requisitos e as pessoas ou equipes responsáveis por sua criação, validação ou implementação.
-- **Representação:** Formas alternativas de expressão ou modelagem dos requisitos.
-- **Alocado:** Ligação entre os requisitos e subsistemas ou módulos específicos.
-- **Agregação:** Composição de elementos interconectados que formam o sistema.
+O meta-modelo de Toranzo foi ajustado para incluir novas conexões que otimizam o rastreamento de requisitos no contexto do Sympla. Entre as principais adaptações, destacam-se:
+
+- **Inclusão do Processo de Pós-Rastreabilidade:** Essa etapa adicional permite rastrear não apenas os requisitos desde suas origens, mas também a maneira como foram implementados e validados ao longo do ciclo de vida do projeto.
+- **Adição do Elo de Responsabilidade:** Esse novo elo vincula diretamente os requisitos e artefatos às equipes ou indivíduos responsáveis por sua concepção, implementação ou validação, promovendo maior transparência.
+
+### Definição dos Elos de Rastreabilidade
+
+Foram definidos os seguintes elos para estruturar e organizar os requisitos no projeto:
+
+- **Satisfação:** Representa a relação entre os requisitos e as funcionalidades que os atendem.
+- **Recurso:** Define as dependências entre requisitos e os recursos necessários para sua implementação.
+- **Responsabilidade:** Relaciona os requisitos e artefatos às equipes ou pessoas responsáveis.
+- **Representação:** Identifica formas alternativas de descrever ou modelar os requisitos.
+- **Alocação:** Vincula os requisitos aos módulos ou componentes do sistema.
+- **Agregação:** Mostra a composição e inter-relações entre os elementos que formam o sistema.
+
+### Aplicação Prática do Meta-Modelo
+
+No contexto do Sympla, o meta-modelo foi aplicado para estabelecer uma trilha clara de rastreabilidade, desde a origem dos requisitos até sua validação final. Isso envolveu:
+
+1. Mapeamento dos requisitos iniciais com base em suas fontes principais.
+2. Conexão desses requisitos a artefatos técnicos, como diagramas, protótipos e implementações.
+3. Validação cruzada para assegurar que cada requisito tenha uma correspondência clara com suas funcionalidades implementadas e com os responsáveis associados.
+
+Essa abordagem garantiu uma rastreabilidade bidirecional eficiente, permitindo tanto rastrear os requisitos até suas origens quanto verificar sua implementação no sistema final.
 
 
 ## Tabelas de Requisitos Funcionais
