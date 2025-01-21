@@ -249,3 +249,4 @@ A metodologia proposta permite uma rastreabilidade eficiente dos requisitos do S
 |  1.1   | Criação da introdução e referências   | [Gabriel Scheidt](https://github.com/gxaite) | 16/01/2025    | [Milena Rocha](https://github.com/MilenaFRocha) |
 |  1.2   | Criação da metodologia e elos  | [Milena Rocha](https://github.com/MilenaFRocha) | 16/01/2025    |[Gabriel Scheidt](https://github.com/gxaite)  |
 |  1.3 | Correções | [Milena Rocha](https://github.com/MilenaFRocha) | 19/01/2025    |[Gabriel Scheidt](https://github.com/gxaite)  |
+|  1.4 | Correções | [Milena Rocha](https://github.com/MilenaFRocha) | 19/01/2025    |[Gabriel Scheidt](https://github.com/gxaite)  |
