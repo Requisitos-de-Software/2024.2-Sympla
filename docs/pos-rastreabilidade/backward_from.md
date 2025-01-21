@@ -138,6 +138,11 @@ Nesta seção, analisaremos os vínculos associados aos requisitos apresentados 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 3:</b> Elos de rastreabilidade</p></font>
 </div>
+**Legenda:**
+
+- **ELO**: Elo
+- **B**: Backward From 
+
 
 | <a id="anchor_ELOF" style="color:black;">ID</a>      | Requisitos | Tipo de elo       | Descrição do elo                                                                                                                                          |
 |---------|------------|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -202,7 +207,7 @@ A análise e classificação dos requisitos resultaram na elaboração da **Tabe
 
 | <a id="anchor_ELONF" style="color:black;">ID</a>      | Requisito         | Tipo de Elo             | Descrição do Elo                                                                                                      |
 |---------|-------------------|-------------------|-----------------------------------------------------------------------------------------------------------------|
-| ELOB01  | RNF01             | Representação     | Este requisito especifica que o envio do ingresso deve ser rápido, representando o objetivo de um sistema ágil. |
+| ELOB01  | [RNF01]()             | Representação     | Este requisito especifica que o envio do ingresso deve ser rápido, representando o objetivo de um sistema ágil. |
 | ELOB02  | RNF02             | Satisfação        | Este requisito assegura que o sistema seja seguro, atendendo à necessidade do usuário de proteção de seus dados. |
 | ELOB03  | RNF03             | Responsabilidade  | Este requisito atribui ao sistema a responsabilidade de manter estabilidade no login para evitar falhas recorrentes. |
 | ELOB04  | RNF04             | Satisfação        | Este requisito garante que o processamento de compras seja rápido, satisfazendo a necessidade de eficiência do usuário. |
