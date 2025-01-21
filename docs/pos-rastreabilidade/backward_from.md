@@ -34,7 +34,7 @@ Os requisitos foram organizados em categorias distintas para garantir clareza e 
 O meta-modelo de Toranzo foi ajustado para incluir novas conexões que otimizam o rastreamento de requisitos no contexto do Sympla. Entre as principais adaptações, destacam-se:
 
 - **Inclusão do Processo de Pós-Rastreabilidade:** Essa etapa adicional permite rastrear não apenas os requisitos desde suas origens, mas também a maneira como foram implementados e validados ao longo do ciclo de vida do projeto.
-- **Adição do Elo de Responsabilidade:** Esse novo elo vincula diretamente os requisitos e artefatos às equipes ou indivíduos responsáveis por sua concepção, implementação ou validação, promovendo maior transparência.
+- **Adaptação do Elo de Responsabilidade:** Esse novo elo vincula diretamente os requisitos e artefatos às equipes ou indivíduos responsáveis por sua concepção, implementação ou validação, promovendo maior transparência.
 
 ### Definição dos Elos de Rastreabilidade
 
