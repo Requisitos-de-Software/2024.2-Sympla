@@ -88,7 +88,7 @@ nav:
     - Apresentação 2: apresentacoes/apresentacao2.md
     - Apresentação 3: apresentacoes/apresentacao3.md
     - Apresentação 4: apresentacoes/apresentacao4.md
-    - Apresentação 5: apresentacoes/apresentacao5.md
+    - Apresentação 6: apresentacoes/apresentacao6.md
   - Pós-rastreabilidade:
     - Backward From: pos-rastreabilidade/backward_from.md
     - Forward From: pos-rastreabilidade/forward_from.md
@@ -129,6 +129,10 @@ nav:
       - Entrega 4:
         - Planejamento da Verificação 4 - Bluesky: verificaçao/grupo+1/entrega4_grupo1.md
         - Lista de Verificação executada - Bluesky: verificaçao/grupo+1/lista_verificacao4_grupo1.md
+
+      - Entrega 6:
+        - Planejamento da Verificação 6 - Bluesky: verificaçao/grupo+1/entrega6_grupo1.md
+        - Lista de Verificação executada - Bluesky: verificaçao/grupo+1/lista_verificacao6_grupo1.md
 extra:
   social:
     - icon: fontawesome/brands/github
