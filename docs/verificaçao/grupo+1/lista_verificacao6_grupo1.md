@@ -47,9 +47,9 @@ Abaixo, no Vídeo 1, apresentamos o processo de verificação do grupo 01, justi
 
 <font size="3"><p style="text-align: center">Vídeo 1: Verificação Entrega 6 - Grupo 01 - BlueSky</p></font>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/83L8sRW-e8g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdmxtpBagCw?si=poEYenx3rnwwjxMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Os Autores. Verificação Entrega 6 - Grupo 01 - BlueSky. Disponível em: <a href="https://youtu.be/83L8sRW-e8g">https://youtu.be/83L8sRW-e8g</a>. Acesso em: 20 Jan. de 2025.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Os Autores. Verificação Grupo +1 - Entrega 6 - Grupo 01 - BlueSky. Disponível em: <a href="https://youtu.be/OdmxtpBagCw?si=vlJU7JQsy_iZxLQb">https://youtu.be/OdmxtpBagCw?si=vlJU7JQsy_iZxLQb</a>. Acesso em: 20 Jan. de 2025.</p></font>
 </div>
 
 ## **Bibliografia**
@@ -89,3 +89,4 @@ Abaixo, no Vídeo 1, apresentamos o processo de verificação do grupo 01, justi
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação desse documento | [Victor Hugo](https://github.com/VHbernardes) | 20/01/2025 | [Rafael Pereira](https://github.com/rafgpereira) |
 |  1.1   | Verificação versão 1.0 | [Rafael Pereira](https://github.com/rafgpereira) | 20/01/2025 | [Victor Hugo](https://github.com/VHbernardes) |
+|  1.2   | Inclusão do vídeo da verificação | [Rafael Pereira](https://github.com/rafgpereira) | 20/01/2025 | [Victor Hugo](https://github.com/VHbernardes) |
