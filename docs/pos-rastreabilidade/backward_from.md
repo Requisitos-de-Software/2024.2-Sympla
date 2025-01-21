@@ -52,7 +52,7 @@ Foram definidos os seguintes elos para estruturar e organizar os requisitos no p
 No contexto do Sympla, o meta-modelo foi aplicado para estabelecer uma trilha clara de rastreabilidade, desde a origem dos requisitos até sua validação final. Isso envolveu:
 
 1. Mapeamento dos requisitos iniciais com base em suas fontes principais.
-2. Conexão desses requisitos a artefatos técnicos, como diagramas, protótipos e implementações.
+2. Conexão desses requisitos a artefatos técnicos
 3. Validação cruzada para assegurar que cada requisito tenha uma correspondência clara com suas funcionalidades implementadas e com os responsáveis associados.
 
 Essa abordagem garantiu uma rastreabilidade bidirecional eficiente, permitindo tanto rastrear os requisitos até suas origens quanto verificar sua implementação no sistema final.
