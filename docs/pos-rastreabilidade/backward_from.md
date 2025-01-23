@@ -74,6 +74,7 @@ Esta seção é dedicada à construção da tabela de rastreamento dos requisito
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Requisitos funcionais elicitados</p></font>
 </div>
+
  Tipo e versão  | Descrição                                                                                                      | <a id="anchor_GERAL" style="color:black;">Rastreabilidade</a> | Implementado |
 |-------|--------------------------------------------------------------------------------------------------------------|---------------------------------------|--------------|
 | RF01 </a> /`1.4`| O sistema permite filtrar eventos por Estado e Município.                                                     | <a href="../../elicitacao/tecnicas/introspeccao/#anchor_ISF">IS01</a>, <a href="../../elicitacao/tecnicas/observacao/#anchor_OBS">OBS01</a>                           | Sim          |
@@ -116,6 +117,7 @@ Esta seção é dedicada à construção da tabela de rastreamento dos requisito
 | RF38  </a> /`1.4`| O Sympla fornece relatórios detalhados de vendas e participação em eventos.              | <a href="../../elicitacao/tecnicas/introspeccao/#anchor_ISF">IS20</a> | Não          |
 | RF39 </a> /`1.4` | O Sympla possibilita a customização dos ingressos, incluindo preços e lotes.             | <a href="../../elicitacao/tecnicas/introspeccao/#anchor_ISF">IS21</a> | Não          |
 | RF40 </a> /`1.4`  | O Sympla tem uma área para produtores de eventos.    | <a href="../../elicitacao/elicitacao/tecnicas/introspeccao/#anchor_ISF">IS22</a> | Não          |
+
 <div align="center">
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Gxaite">Gabriel Scheidt</a> e <a href="https://github.com/MilenaFRocha">Milena Rocha</a>, 2025</p></font>
 </div>
