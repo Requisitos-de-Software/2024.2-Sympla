@@ -1,0 +1,1 @@
+![Figura 1: Richpicture versão 1](Screenshot%202025-01-29%20at%2009.28.06.jpeg)
