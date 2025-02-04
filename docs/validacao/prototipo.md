@@ -2,6 +2,17 @@
 
 ## Introdução
 
+Um protótipo de alta fidelidade é uma simulação visual e interativa de um produto ou sistema, que replica de maneira muito próxima o design, as funcionalidades e a interatividade do produto final. Utilizando ferramentas especializadas em design gráfico e prototipagem, ele pode apresentar elementos como cores, tipografia, imagens e interações detalhadas.
+
+O objetivo principal desse tipo de protótipo é oferecer uma representação realista de como o produto final se comportará e parecerá. Eles são especialmente úteis nas fases finais do processo de design, quando a maioria dos aspectos já foi definida e a equipe está focada em validar e ajustar a experiência do usuário.
+
+## Metodologia 
+
+Neste trabalho, elaboramos seis protótipos de altas fidelidade, cada uma baseada nos requisitos não implementados. A criação dos protótipos ocorreu por meio da plataforma Figma, permitindo desenvolver interfaces dinâmicas e testar interações de navegação. 
+
+
+Depois de desenvolver os protótipos, conduzimos seis entrevistas com usuários reais. Essas conversas proporcionaram insights valiosos sobre a usabilidade das novas funcionalidades, a clareza de seu funcionamento e a eficiência do design sugerido, auxiliando na validação dos requisitos estabelecidos.
+
 ### Protótipos
 
 #### Menu de Acessibilidades
