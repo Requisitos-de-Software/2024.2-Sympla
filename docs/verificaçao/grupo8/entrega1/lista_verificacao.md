@@ -68,17 +68,16 @@ Abaixo, no Vídeo 1, apresentamos o processo de auto verificação do grupo, jus
 
 ## **Referências bibliográficas**
 
-><a id="REF1">1.</a> REVADI, Chindy Elsanna. Introducing Rich Pictures - Rich Picture Drawing Guidelines. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972420/mod_resource/content/2/1_5145791542719414573.pdf](https://aprender3.unb.br/pluginfile.php/2972420/mod_resource/content/2/1_5145791542719414573.pdf). Acesso em: 03 de nov. de 2024.
+## **Referências Bibliográficas**
 
-><a id="REF2">2.</a><br>![Referência 2](../atores.png)
->****
-><a id="REF3">3.</a><br>![Referência 3](../operacoes.png)
->****
-><a id="REF4">4.</a><br>![Referência 4](../datas.png)
->****
-><a id="REF5">5.</a><br>![Referência 5](../setas.png)
->****
-><a id="REF6">6.</a><br>![Referência 6](../sistema.png)
+| Nº  | Fonte | Página | Imagem referente |
+|---- |-------|--------|------------------|
+| <a id="REF1">1.</a>   | REVADI, Chindy Elsanna. *Introducing Rich Pictures - Rich Picture Drawing Guidelines*. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/2972420/mod_resource/content/2/1_5145791542719414573.pdf). Acesso em: 03 de nov. de 2024. | 4 | [Imagem](../atores.png)  |
+| <a id="REF2">2.</a>   | REVADI, Chindy Elsanna. *Introducing Rich Pictures - Rich Picture Drawing Guidelines*. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/2972420/mod_resource/content/2/1_5145791542719414573.pdf). Acesso em: 03 de nov. de 2024. | 4| [Imagem](../operacoes.png)  |
+| <a id="REF3">3.</a> | REVADI, Chindy Elsanna. *Introducing Rich Pictures - Rich Picture Drawing Guidelines*. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/2972420/mod_resource/content/2/1_5145791542719414573.pdf). Acesso em: 03 de nov. de 2024. | 4 | [Imagem](../datas.png)  |
+| <a id="REF4">4.</a>   | REVADI, Chindy Elsanna. *Introducing Rich Pictures - Rich Picture Drawing Guidelines*. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/2972420/mod_resource/content/2/1_5145791542719414573.pdf). Acesso em: 03 de nov. de 2024. | 4 | [Imagem](../setas.png)  |
+| <a id="REF5">5.</a>   | REVADI, Chindy Elsanna. *Introducing Rich Pictures - Rich Picture Drawing Guidelines*. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/2972420/mod_resource/content/2/1_5145791542719414573.pdf). Acesso em: 03 de nov. de 2024. | 4 | [Imagem](../sistema.png)  |
+| <a id="REF6">6.</a>   | SALES, André Barros de. Plano de Ensino - Requisitos de Software. Acesso em: 29 de out. de 2024. | 8 | [Imagem](../ref_andre.png)  |
 
 ## Histórico de Versões
 
@@ -90,4 +89,4 @@ Abaixo, no Vídeo 1, apresentamos o processo de auto verificação do grupo, jus
 1.3 | Adição do vídeo da verificação | [Rafael Pereira](https://github.com/rafgpereira) | 05/11/2024 | [Milena Rocha](https://github.com/MilenaFRocha)
 1.4| Mudanças na introdução e fontes | [Victor Hugo](https://github.com/VHbernardes) | 07/11/2024 | [Rafael Pereira](https://github.com/rafgpereira)
 |  1.5   |  Mudanças no rich picture e fontes |  [Victor Hugo](https://github.com/VHbernardes) | 07/11/2024 |[Rafael Pereira](https://github.com/rafgpereira)  |
-
+|  1.6   |  Ajustes de referências |  [Milena Rocha](https://github.com/MilenaFRocha) | 02/02/2025 |[Rafael Pereira](https://github.com/rafgpereira)  |
