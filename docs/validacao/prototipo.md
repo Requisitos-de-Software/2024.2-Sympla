@@ -145,6 +145,44 @@ O Leonardo falou que o método de pagamento é muito útil, pois está disponív
 
 <font size="3"><p style="text-align: center">Fonte:[Rafael Pereira](https://github.com/rafgpereira)   , 2025.</p></font>
 
+### Menu de Configurações
+
+O objetivo desse protótipo é implementar o [requisito funcional 36](../elicitacao/requisitos/requisitos_elicitados.md#RF36),é permitir que o usuário registre suas informações de pagamento de forma segura e prática. Isso facilita o processo de compra, tornando-o mais ágil e personalizado. Além disso, ao armazenar os métodos de pagamento, o usuário pode realizar transações futuras de maneira mais rápida.
+
+
+##### Protótipo RF36
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/lVv07XUc2dV3X8nAOiO42y/Sympla-Metodo-Pagamento?node-id=33-558&starting-point-node-id=1%3A451&embed-host=share" allowfullscreen></iframe>
+<font size="3"><p style="text-align: center">Fonte: [Rafael Pereira](https://github.com/rafgpereira).</p></font>
+
+#### Entrevista 4
+
+Essa entrevista tem como objetivo validar o protótipo referente ao [Requisito Funcional 36](../elicitacao/requisitos/requisitos_elicitados.md#RF36) pelo usuário Leonardo que concordou em disponibilizar sua voz e imagem para fins acadêmicos .
+
+<div align="center">
+<font size="3"><p style="text-align: center">Tabela 3: Cronograma de entrevista RF35</p></font>
+</div>
+
+#### Cronograma
+
+| **Data**  | **Hora** | **Entrevistador** | **Entrevistado** | **Duração** | **Local**                  |
+|------------|-------|--------------------|------------------|-------------|---------------------------|
+| 02/02/2025 | 17:00 |  [Rafael Pereira](https://github.com/rafgpereira)        | Leonardo  | 5:00      | Presencial - Gama |
+
+<font size="3"><p style="text-align: center">Fonte: [Milena Rocha](https://github.com/MilenaFRocha), 2025.<p><font>
+
+<p style="text-align: center"><a href="https://www.youtube.com/embed/Np9O2gWoQ4U" target="blanket">Vídeo 4 - Validação do RF36</a></p>
+<div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5ryWDAWeTnA?si=Anoo2BNE0NcQJqG5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+
+#### FeedBack
+
+O Leonardo falou que o método de pagamento é muito útil, pois está disponível em quase todo app de vendas. Ele destacou que essa funcionalidade ajuda a tornar o processo mais rápido e prático, permitindo que o usuário realize transações de forma mais ágil, sem precisar inserir os dados toda vez.
+
+<font size="3"><p style="text-align: center">Fonte:[Rafael Pereira](https://github.com/rafgpereira)   , 2025.</p></font>
+
 
 ## Histórico de Versões
 
