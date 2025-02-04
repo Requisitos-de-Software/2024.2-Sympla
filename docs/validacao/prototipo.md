@@ -20,10 +20,10 @@ Os protótipos são essenciais para externalizar as ideias acerca de um produto 
 
 ## Metodologia 
 
-Neste trabalho, elaboramos seis protótipos de altas fidelidade, cada uma baseada nos requisitos não implementados. A criação dos protótipos ocorreu por meio da plataforma Figma, permitindo desenvolver interfaces dinâmicas e testar interações de navegação. 
+Neste trabalho, elaboramos cinco protótipos de altas fidelidade, cada uma baseada nos requisitos não implementados. A criação dos protótipos ocorreu por meio da plataforma Figma, permitindo desenvolver interfaces dinâmicas e testar interações de navegação. 
 
 
-Depois de desenvolver os protótipos, conduzimos seis entrevistas com usuários reais. Essas conversas proporcionaram insights valiosos sobre a usabilidade das novas funcionalidades, a clareza de seu funcionamento e a eficiência do design sugerido, auxiliando na validação dos requisitos estabelecidos.
+Depois de desenvolver os protótipos, conduzimos cinco entrevistas com usuários reais. Essas conversas proporcionaram insights valiosos sobre a usabilidade das novas funcionalidades, a clareza de seu funcionamento e a eficiência do design sugerido, auxiliando na validação dos requisitos estabelecidos.
 
 ### Protótipos
 
