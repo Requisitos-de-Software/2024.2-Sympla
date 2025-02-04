@@ -38,7 +38,7 @@ O objetivo desse protótipo é implementar o [requisito funcional 35](../elicita
 
 #### Entrevista 1
 
-Essa entrevista tem como objetivo validar o protótipo referente ao [Requisito Funcional 34](../elicitacao/requisitos/requisitos_elicitados.md#RF34) pelo usuário Gustavo que concordou em disponibilizar sua voz e imagem para fins acadêmicos
+Essa entrevista tem como objetivo validar o protótipo referente ao [Requisito Funcional 34](../elicitacao/requisitos/requisitos_elicitados.md#RF34) pelo usuário Gustavo que concordou em disponibilizar sua voz e imagem para fins acadêmicos por meio do [termo de consentimento](../assets/Termo_Gustavo.pdf) 
 
 <div align="center">
 <font size="3"><p style="text-align: center">Tabela 1: Cronograma de entrevista</p></font>
