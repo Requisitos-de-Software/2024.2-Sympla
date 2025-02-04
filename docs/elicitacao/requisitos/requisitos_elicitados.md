@@ -56,10 +56,10 @@ As siglas representam:
 | RF29  | O Sympla oferece a opção imprimir ingressos.                | <a href="../../tecnicas/introspeccao/#anchor_ISNF">IS19</a> | Sim          |
 | RF30  | O aplicativo dá sugestões de eventos com base no histórico de buscas do usuário.                  |  <a href="../../tecnicas/introspeccao/#anchor_ISF">IS11</a>  | Não          |O Sympla oferece a opção imprimir ingressos.
 | RF31  | O usuário é capaz de conectar uma carteira digital.                                               | <a href="../../tecnicas/introspeccao/#anchor_ISF"> IS12</a>  | Sim          |
-| RF32  | O usuário é capaz de mudar o idioma do app.                                                       |  <a href="../../tecnicas/introspeccao/#anchor_ISF">IS13 </a> | Não          |
+| <a id="RF32"></a>RF32  | O usuário é capaz de mudar o idioma do app.                                                       |  <a href="../../tecnicas/introspeccao/#anchor_ISF">IS13 </a> | Não          |
 | RF33  | O usuário é capaz de entrar na aba de configurações.                                              |  <a href="../../tecnicas/introspeccao/#anchor_ISF">IS14 </a> | Não          |
 | RF34  | O sistema apresenta uma aba de acessibilidades.                                                   | <a href="../../tecnicas/introspeccao/#anchor_ISF"> IS15 </a> | Não          |
-| RF35  | O usuário é capaz de criar preferências de eventos.                                               |  <a href="../../tecnicas/introspeccao/#anchor_ISF">IS16 </a> | Não          |
+| <a id="RF35"></a>RF35   | O usuário é capaz de criar preferências de eventos.                                               |  <a href="../../tecnicas/introspeccao/#anchor_ISF">IS16 </a> | Não          |
 | RF36  | Deve ser possível cadastrar diferentes métodos de pagamento.                                               |  <a href="../../tecnicas/entrevista2/#anchor_2ENT">2ENT11</a>  | Não          |
 | RF37  | O Sympla permite criar, gerenciar e divulgar eventos de forma intuitiva.                 | <a href="../../tecnicas/introspeccao/#anchor_ISF"> IS19</a> | Não          |
 | RF38  | O Sympla fornece relatórios detalhados de vendas e participação em eventos.              | <a href="../../tecnicas/introspeccao/#anchor_ISF">IS20</a> | Não          |
