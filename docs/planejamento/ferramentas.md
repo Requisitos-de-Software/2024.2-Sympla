@@ -21,6 +21,7 @@ Para facilitar o gerenciamento e o desenvolvimento da documentação do projeto 
 | <img src="https://github.com/Requisitos-de-Software/2024.2-Sympla/raw/main/docs/assets/ferramentas/panilha.png" width=75px> | [Planilhas](https://www.google.com/intl/pt-BR/sheets/about/) | Ferramenta usada para montar os horários |
 | <img src="https://github.com/Requisitos-de-Software/2024.2-Sympla/raw/main/docs/assets/ferramentas/docs.png" width=75px> | [Docs]( https://www.google.com/intl/pt-BR/docs/about/) | Ferramenta usada para criação de arquivos |
 | <img src="https://github.com/Requisitos-de-Software/2024.2-Sympla/raw/main/docs/assets/ferramentas/youtube.png" width=75px> | [Youtube]( https://about.youtube/) | Plataforma para hospedar os vídeos |
+| <img src="../../assets/ferramentas/figma.png" width=75px> | [Figma]( https://about.youtube/) |Ferramenta usada para prototipar os requisitos |
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Milena Rocha](https://github.com/MilenaFRocha), 2024.</p></font>
 

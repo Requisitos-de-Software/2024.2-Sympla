@@ -62,9 +62,6 @@ Essa entrevista tem como objetivo validar o protótipo referente ao [Requisito F
 <font size="3"><p style="text-align: center">Tabela 1: Cronograma de entrevista RF34</p></font>
 </div>
 
-| **Data**  | **Hora** | **Entrevistador** | **Entrevistado** | **Duração** | **Local**                  |
-|------------|-------|--------------------|------------------|-------------|---------------------------|
-| 02/02/2025 | 18:00 | [Renan Araújo](https://github.com/renantfm4)       | Gustavo   | 5:00      | Presencial - Recanto das Emas |
 
 #### FeedBack
 O Gustavo de maneira geral gostou do protótipo, citou que nunca tinha visto algumas das funcionalidades de acessibilidades em aplicativos que ele usou, citou que as telas estão bem intuitivas e fácil pro usuário, mas chamou a atenção na funcionalidade de dessaturação que poderia mudar as cores das letras para ficar mais visível em relação ao fundo da tela.
@@ -157,7 +154,7 @@ O objetivo desse protótipo é implementar o [requisito funcional 36](../elicita
 Essa entrevista tem como objetivo validar o protótipo referente ao [Requisito Funcional 36](../elicitacao/requisitos/requisitos_elicitados.md#RF36) pelo usuário Leonardo que concordou em disponibilizar sua voz e imagem para fins acadêmicos .
 
 <div align="center">
-<font size="3"><p style="text-align: center">Tabela 3: Cronograma de entrevista RF35</p></font>
+<font size="3"><p style="text-align: center">Tabela 4: Cronograma de entrevista RF35</p></font>
 </div>
 
 #### Cronograma
@@ -182,41 +179,40 @@ O Leonardo falou que o método de pagamento é muito útil, pois está disponív
 
 ### Menu de Configurações
 
-O objetivo desse protótipo é implementar o [requisito funcional 36](../elicitacao/requisitos/requisitos_elicitados.md#RF36),é permitir que o usuário registre suas informações de pagamento de forma segura e prática. Isso facilita o processo de compra, tornando-o mais ágil e personalizado. Além disso, ao armazenar os métodos de pagamento, o usuário pode realizar transações futuras de maneira mais rápida.
+O objetivo desse protótipo é implementar o [requisito funcional 33](../elicitacao/requisitos/requisitos_elicitados.md#RF36), dessa forma oferece ao usuário a possibilidade de personalizar e ajustar o aplicativo de acordo com suas preferências. 
 
 
-##### Protótipo RF36
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/lVv07XUc2dV3X8nAOiO42y/Sympla-Metodo-Pagamento?node-id=33-558&starting-point-node-id=1%3A451&embed-host=share" allowfullscreen></iframe>
-<font size="3"><p style="text-align: center">Fonte: [Rafael Pereira](https://github.com/rafgpereira).</p></font>
+##### Protótipo RF33
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/yh2g75MzVa5rtWEOmUN3ZP/Untitled?node-id=30-71&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&embed-host=share" allowfullscreen></iframe>
+<font size="3"><p style="text-align: center">Fonte: [Victor Hugo](https://github.com/VHbernardes).</p></font>
 
 #### Entrevista 5
 
-Essa entrevista tem como objetivo validar o protótipo referente ao [Requisito Funcional 36](../elicitacao/requisitos/requisitos_elicitados.md#RF36) pelo usuário Leonardo que concordou em disponibilizar sua voz e imagem para fins acadêmicos .
+Essa entrevista tem como objetivo validar o protótipo referente ao [Requisito Funcional 33](../elicitacao/requisitos/requisitos_elicitados.md#RF33) pelo usuário Vinicius que concordou em disponibilizar sua voz e imagem para fins acadêmicos por meio do [termo de consentimento](../assets/termo_vinicius.pdf) .
 
 <div align="center">
-<font size="3"><p style="text-align: center">Tabela 3: Cronograma de entrevista RF35</p></font>
+<font size="3"><p style="text-align: center">Tabela 5: Cronograma de entrevista RF35</p></font>
 </div>
 
 #### Cronograma
 
 | **Data**  | **Hora** | **Entrevistador** | **Entrevistado** | **Duração** | **Local**                  |
 |------------|-------|--------------------|------------------|-------------|---------------------------|
-| 02/02/2025 | 17:00 |  [Rafael Pereira](https://github.com/rafgpereira)        | Leonardo  | 5:00      | Presencial - Gama |
+| 02/02/2025 | 17:00 |  [Milena Rocha](https://github.com/MilenaFRocha)        | Vinicius  | 5:00      | Presencial - Gama |
 
 <font size="3"><p style="text-align: center">Fonte: [Milena Rocha](https://github.com/MilenaFRocha), 2025.<p><font>
 
-<p style="text-align: center"><a href="https://www.youtube.com/embed/Np9O2gWoQ4U" target="blanket">Vídeo 4 - Validação do RF36</a></p>
+<p style="text-align: center"><a href="https://www.youtube.com/embed/Np9O2gWoQ4U" target="blanket">Vídeo 5 - Validação do RF33</a></p>
 <div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5ryWDAWeTnA?si=Anoo2BNE0NcQJqG5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 </div>
 
 
 #### FeedBack
 
-O Leonardo falou que o método de pagamento é muito útil, pois está disponível em quase todo app de vendas. Ele destacou que essa funcionalidade ajuda a tornar o processo mais rápido e prático, permitindo que o usuário realize transações de forma mais ágil, sem precisar inserir os dados toda vez.
+O Vinicius achou interessante aplicar um menu de configurações porque permite alterar nome, e-mail, senha e foto de maneira mais rápida por meio do ícone, facilitando o acesso e a personalização do perfil.
 
-<font size="3"><p style="text-align: center">Fonte:[Rafael Pereira](https://github.com/rafgpereira)   , 2025.</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Milena Rocha](https://github.com/MilenaFRocha), 2025.</p></font>
 
 
 ## Histórico de Versões
@@ -228,3 +224,4 @@ O Leonardo falou que o método de pagamento é muito útil, pois está disponív
 |  1.2   | Protótipo e entrevista |[Milena Rocha](https://github.com/MilenaFRocha)   | 03/02/2025 | [Rafael Pereira](https://github.com/rafgpereira)|
 |  1.3   | Protótipo e entrevista 3 e 4 |[Milena Rocha](https://github.com/MilenaFRocha)   | 03/02/2025 | [Victor Hugo](https://github.com/VHbernardes)|
 |  1.4   | Adição introdução, metodologia, tabela de responsáveis e método de pagamento |[Rafael Pereira](https://github.com/rafgpereira)   | 03/02/2025 | [Milena Rocha](https://github.com/MilenaFRocha)|
+|  1.5   | Protótipo e entrevista 3 |[Milena Rocha](https://github.com/MilenaFRocha)   | 03/02/2025 | [Victor Hugo](https://github.com/VHbernardes)|
