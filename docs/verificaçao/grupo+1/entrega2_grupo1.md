@@ -49,20 +49,21 @@ Cada um dos itens da Tabela 1 será avaliado com Sim, Não ou Incompleto de acor
 
 > SOMMERVILLE, Ian. Engenharia de Software. 9. ed. Tradução de Ivan Bosnic e Kalinka G. de O. Gonçalves. Revisão técnica de Kechi Hirama. São Paulo: Pearson Prentice Hall, 2011.
 
-## **Referências bibliográficas**
+## **Referências Bibliográficas**
 
-><a id="REF2">1.</a><br>![Referência 1](../grupo8/personas1.png)
->****
-><a id="REF3">2.</a><br>![Referência 2](../grupo8/personas2.png)
->****
-><a id="REF4">3.</a><br>![Referência 3](../grupo8/usuarios.png)
->****
-><a id="REF5">4.</a><br>![Referência 4](../grupo8/termos.png)
->****
-><a id="REF6">5.</a><br>![Referência 5](../grupo8/requisitos.png) 
+| Nº  | Fonte | Página | Imagem referente |
+|---- |-------|--------|------------------|
+| <a id="REF1">1.</a> | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.| 181 | [Imagem](../grupo8/personas1.png) |
+| <a id="REF2">2.</a> | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.| 181 | [Imagem](../grupo8/personas2.png) |
+| <a id="REF3">3.</a> | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011. | 179 | [Imagem](../grupo8/usuarios.png) |
+| <a id="REF4">4.</a> | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011. | 147 | [Imagem](../grupo8/termos.png) |
+| <a id="REF5">5.</a> |SOMMERVILLE, Ian. Engenharia de Software. 9. ed. Tradução de Ivan Bosnic e Kalinka G. de O. Gonçalves. Revisão técnica de Kechi Hirama. São Paulo: Pearson Prentice Hall, 2011. | 84 | [Imagem](../grupo8/requisitos.png) |
+| <a id="REF6">6.</a> |SALES, André Barros de. <a href="https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf">Plano de Ensino - Requisitos de Software</a>. Acesso em: 24 de Nov. de 2024. | 8 | [Imagem](../grupo8/ref_andre2.png) |
+
 
 ## Histórico de Versões
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     | 
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação desse documento |  [Milena Rocha](https://github.com/MilenaFRocha) | 24/11/2024 | [Victor Hugo](https://github.com/VHbernardes)  |
+|  1.1   | Ajustes de refer |  [Milena Rocha](https://github.com/MilenaFRocha) | 02/02/2025 | [Victor Hugo](https://github.com/VHbernardes)  |
