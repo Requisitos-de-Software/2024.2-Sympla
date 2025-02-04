@@ -62,9 +62,6 @@ Essa entrevista tem como objetivo validar o protótipo referente ao [Requisito F
 <font size="3"><p style="text-align: center">Tabela 1: Cronograma de entrevista RF34</p></font>
 </div>
 
-| **Data**  | **Hora** | **Entrevistador** | **Entrevistado** | **Duração** | **Local**                  |
-|------------|-------|--------------------|------------------|-------------|---------------------------|
-| 02/02/2025 | 18:00 | [Renan Araújo](https://github.com/renantfm4)       | Gustavo   | 5:00      | Presencial - Recanto das Emas |
 
 #### FeedBack
 O Gustavo de maneira geral gostou do protótipo, citou que nunca tinha visto algumas das funcionalidades de acessibilidades em aplicativos que ele usou, citou que as telas estão bem intuitivas e fácil pro usuário, mas chamou a atenção na funcionalidade de dessaturação que poderia mudar as cores das letras para ficar mais visível em relação ao fundo da tela.
