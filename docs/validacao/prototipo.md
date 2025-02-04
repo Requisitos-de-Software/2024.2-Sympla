@@ -182,12 +182,11 @@ O Leonardo falou que o método de pagamento é muito útil, pois está disponív
 
 ### Menu de Configurações
 
-O objetivo desse protótipo é implementar o [requisito funcional 36](../elicitacao/requisitos/requisitos_elicitados.md#RF36),é permitir que o usuário registre suas informações de pagamento de forma segura e prática. Isso facilita o processo de compra, tornando-o mais ágil e personalizado. Além disso, ao armazenar os métodos de pagamento, o usuário pode realizar transações futuras de maneira mais rápida.
+O objetivo desse protótipo é implementar o [requisito funcional 33](../elicitacao/requisitos/requisitos_elicitados.md#RF36),é  oferecer ao usuário a possibilidade de personalizar e ajustar o aplicativo de acordo com suas preferências. 
 
 
-##### Protótipo RF36
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/lVv07XUc2dV3X8nAOiO42y/Sympla-Metodo-Pagamento?node-id=33-558&starting-point-node-id=1%3A451&embed-host=share" allowfullscreen></iframe>
+##### Protótipo RF33
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/yh2g75MzVa5rtWEOmUN3ZP/Untitled?node-id=30-71&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&embed-host=share" allowfullscreen></iframe>
 <font size="3"><p style="text-align: center">Fonte: [Rafael Pereira](https://github.com/rafgpereira).</p></font>
 
 #### Entrevista 4
