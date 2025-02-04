@@ -4,21 +4,21 @@
 
 Os protótipos são essenciais para externalizar as ideias acerca de um produto antes de sua concepção em si. Dessa forma, neste documento são apresentados os protótipos das funcionalidades que não foram implementadas no Sympla. Cada integrante escolheu um dos requisitos elicitados não implementados para desenvolver, a relação pode ser visualizada na Tabela 1, e em seguida validaram por meio de entrevistas cada um dos protótipos desenvolvidos.
 
-<p style="text-align: center"><b><a id="tab_1" style="visibility: hidden;"></a>Tabela 1</b> - Requisitos funcionais e não funcionais</p>
+<p style="text-align: center"><b><a id="tab_1" style="visibility: hidden;"></a>Tabela 1</b> - Requisitos funcionais não implementados por membro</p>
 
-| Tipo  | Descrição                                                                                                      | <a id="anchor_GERAL" style="color:black;">ID</a> | Implementado |
-|-------|--------------------------------------------------------------------------------------------------------------|---------------------------------------|--------------|
-| <a id="RF32"></a>RF32  | O usuário é capaz de mudar o idioma do app.                                                       |  <a href="../../elicitacao/tecnicas/introspeccao/#anchor_ISF">IS13 </a> | Não          |
-| RF33  | O usuário é capaz de entrar na aba de configurações.                                              |  <a href="../../elicitacao/tecnicas/introspeccao/#anchor_ISF">IS14 </a> | Não          |
-| RF34  | O sistema apresenta uma aba de acessibilidades.                                                   | <a href="../../elicitacao/tecnicas/introspeccao/#anchor_ISF"> IS15 </a> | Não          |
-| <a id="RF35"></a>RF35   | O usuário é capaz de criar preferências de eventos.                                               |  <a href="../../elicitacao/tecnicas/introspeccao/#anchor_ISF">IS16 </a> | Não          |
-| RF36  | Deve ser possível cadastrar diferentes métodos de pagamento.                                               |  <a href="../../elicitacao/tecnicas/entrevista2/#anchor_2ENT">2ENT11</a>  | Não          |
+| Código  | Descrição | Responsável | Origem | Implementado? |
+|---------|-----------|-------------|--------|---------------|
+| RF32    | O usuário é capaz de mudar o idioma do app. | Milena Rocha |  <a href="../../elicitacao/tecnicas/introspeccao/#anchor_ISF">IS13 </a> | Não          |
+| RF33  | O usuário é capaz de entrar na aba de configurações.                             | Victor Hugo                 |  <a href="../../elicitacao/tecnicas/introspeccao/#anchor_ISF">IS14 </a> | Não          |
+| RF34  | O sistema apresenta uma aba de acessibilidades.                        | Renan Araújo                           | <a href="../../elicitacao/tecnicas/introspeccao/#anchor_ISF"> IS15 </a> | Não          |
+| <a id="RF35"></a>RF35   | O usuário é capaz de criar preferências de eventos.                | Gabriel Scheidt                               |  <a href="../../elicitacao/tecnicas/introspeccao/#anchor_ISF">IS16 </a> | Não          |
+| RF36  | Deve ser possível cadastrar diferentes métodos de pagamento.                           | Rafael Pereira                    |  <a href="../../elicitacao/tecnicas/entrevista2/#anchor_2ENT">2ENT11</a>  | Não          |
 
 
 <font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/rafgpereira">Rafael Pereira, 2025</a></p></font>
 
 
-## Metodologia 
+## Metodologia
 
 Neste trabalho, elaboramos cinco protótipos de altas fidelidade, cada uma baseada nos requisitos não implementados. A criação dos protótipos ocorreu por meio da plataforma Figma, permitindo desenvolver interfaces dinâmicas e testar interações de navegação. 
 
@@ -225,5 +225,6 @@ O Leonardo falou que o método de pagamento é muito útil, pois está disponív
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação desse documento | [Milena Rocha](https://github.com/MilenaFRocha)  | 30/01/2025 | [Victor Hugo](https://github.com/VHbernardes) |
 |  1.1   | Entrevista | [Renan Araújo](https://github.com/renantfm4)  | 03/02/2025 | |
-|  1.2   | Protótipo e entrevista |[Milena Rocha](https://github.com/MilenaFRocha)   | 03/02/2025 | [Victor Hugo](https://github.com/VHbernardes)|
+|  1.2   | Protótipo e entrevista |[Milena Rocha](https://github.com/MilenaFRocha)   | 03/02/2025 | [Rafael Pereira](https://github.com/rafgpereira)|
 |  1.3   | Protótipo e entrevista 3 e 4 |[Milena Rocha](https://github.com/MilenaFRocha)   | 03/02/2025 | [Victor Hugo](https://github.com/VHbernardes)|
+|  1.4   | Adição introdução, metodologia, tabela de responsáveis e método de pagamento |[Rafael Pereira](https://github.com/rafgpereira)   | 03/02/2025 | [Milena Rocha](https://github.com/MilenaFRocha)|
