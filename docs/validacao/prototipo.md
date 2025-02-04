@@ -20,10 +20,10 @@ Os protótipos são essenciais para externalizar as ideias acerca de um produto 
 
 ## Metodologia 
 
-Neste trabalho, elaboramos seis protótipos de altas fidelidade, cada uma baseada nos requisitos não implementados. A criação dos protótipos ocorreu por meio da plataforma Figma, permitindo desenvolver interfaces dinâmicas e testar interações de navegação. 
+Neste trabalho, elaboramos cinco protótipos de altas fidelidade, cada uma baseada nos requisitos não implementados. A criação dos protótipos ocorreu por meio da plataforma Figma, permitindo desenvolver interfaces dinâmicas e testar interações de navegação. 
 
 
-Depois de desenvolver os protótipos, conduzimos seis entrevistas com usuários reais. Essas conversas proporcionaram insights valiosos sobre a usabilidade das novas funcionalidades, a clareza de seu funcionamento e a eficiência do design sugerido, auxiliando na validação dos requisitos estabelecidos.
+Depois de desenvolver os protótipos, conduzimos cinco entrevistas com usuários reais. Essas conversas proporcionaram insights valiosos sobre a usabilidade das novas funcionalidades, a clareza de seu funcionamento e a eficiência do design sugerido, auxiliando na validação dos requisitos estabelecidos.
 
 ### Protótipos
 
@@ -189,7 +189,7 @@ O objetivo desse protótipo é implementar o [requisito funcional 33](../elicita
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/yh2g75MzVa5rtWEOmUN3ZP/Untitled?node-id=30-71&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&embed-host=share" allowfullscreen></iframe>
 <font size="3"><p style="text-align: center">Fonte: [Rafael Pereira](https://github.com/rafgpereira).</p></font>
 
-#### Entrevista 4
+#### Entrevista 5
 
 Essa entrevista tem como objetivo validar o protótipo referente ao [Requisito Funcional 36](../elicitacao/requisitos/requisitos_elicitados.md#RF36) pelo usuário Leonardo que concordou em disponibilizar sua voz e imagem para fins acadêmicos .
 
