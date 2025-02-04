@@ -4,37 +4,17 @@
 
 ### Protótipos
 
-#### Menu de Acessibilidades
+### Menu de Acessibilidades
+
+O objetivo desse protótipo é implementar o [requisito funcional 34](../elicitacao/requisitos/requisitos_elicitados.md#RF34) e assim tornar o app Sympla mais inclusivo, oferecendo recursos que facilitam a navegação para usuários com diferentes necessidades. 
+#### Protótipo RF34
 
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/ts3p3lrlslUWDIlsDnGfmk/PrototipoSympla?node-id=45-84&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=45%3A84&embed-host=share" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center">Fonte: [Renan Araújo](https://github.com/renantfm4).</p></font>
 
-### Idiomas 
 
-O objetivo desse protótipo é implementar o [requisito funcional 32](../elicitacao/requisitos/requisitos_elicitados.md#RF32), dessa forma o usuário será capaz de alterar o idioma do app Sympla facilmente.
-
-
-#### Protótipo RF32
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/1UiLbBh3SgAvJt5ZaENqPb/Untitled?node-id=8-3&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=8%3A3&embed-host=share" allowfullscreen></iframe>
-<font size="3"><p style="text-align: center">Fonte: [Milena Rocha](https://github.com/MilenaFRocha).</p></font>
-
-### Preferências de eventos 
-
-O objetivo desse protótipo é implementar o [requisito funcional 35](../elicitacao/requisitos/requisitos_elicitados.md#RF35), dessa forma o usuário será capaz de ter um conteúdo personalizado, mostrando eventos de preferência sem que haja eventos não coesos poluindo a tela
-
-
-
-#### Protótipo RF35
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/7yZrYZDpvNC6dO9PNN6giT/Figma---Sympla?node-id=3-4&starting-point-node-id=3%3A4&embed-host=share" allowfullscreen></iframe>
-<font size="3"><p style="text-align: center">Fonte: [Gabriel Scheidt](https://github.com/Gxaite).</p></font>
-
-
-
-### Entrevistas
 
 #### Entrevista 1
 
@@ -42,40 +22,84 @@ O objetivo desse protótipo é implementar o [requisito funcional 35](../elicita
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Np9O2gWoQ4U"></iframe></p>
 
+#### Cronograma
+<div align="center">
+<font size="3"><p style="text-align: center">Tabela 1: Cronograma de entrevista RF34</p></font>
+</div>
+
+| **Data**  | **Hora** | **Entrevistador** | **Entrevistado** | **Duração** | **Local**                  |
+|------------|-------|--------------------|------------------|-------------|---------------------------|
+| 02/02/2025 | 18:00 | [Renan Araújo](https://github.com/renantfm4)       | Gustavo   | 5:00      | Presencial - Recanto das Emas |
+
+#### FeedBack
 O Gustavo de maneira geral gostou do protótipo, citou que nunca tinha visto algumas das funcionalidades de acessibilidades em aplicativos que ele usou, citou que as telas estão bem intuitivas e fácil pro usuário, mas chamou a atenção na funcionalidade de dessaturação que poderia mudar as cores das letras para ficar mais visível em relação ao fundo da tela.
 
 <font size="3"><p style="text-align: center">Fonte: [Renan Araújo](https://github.com/renantfm4).</p></font>
+
+### Idiomas 
+
+O objetivo desse protótipo é implementar o [requisito funcional 32](../elicitacao/requisitos/requisitos_elicitados.md#RF32), dessa forma o usuário será capaz de alterar o idioma do app Sympla facilmente.
+#### Protótipo RF32
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/1UiLbBh3SgAvJt5ZaENqPb/Untitled?node-id=8-3&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=8%3A3&embed-host=share" allowfullscreen></iframe>
+<font size="3"><p style="text-align: center">Fonte: [Milena Rocha](https://github.com/MilenaFRocha).</p></font>
 
 #### Entrevista 2
 
 Essa entrevista tem como objetivo validar o protótipo referente ao [Requisito Funcional 32](../elicitacao/requisitos/requisitos_elicitados.md#RF32) pelo usuário Vinicíus que concordou em disponibilizar sua voz e imagem para fins acadêmicos por meio do [termo de consentimento](../assets/termo_vinicius.pdf) 
 
 <div align="center">
-<font size="3"><p style="text-align: center">Tabela 1: Cronograma de entrevista</p></font>
+<font size="3"><p style="text-align: center">Tabela 2: Cronograma de entrevista RF32</p></font>
 </div>
+
+#### Cronograma
 
 | **Data**  | **Hora** | **Entrevistador** | **Entrevistado** | **Duração** | **Local**                  |
 |------------|-------|--------------------|------------------|-------------|---------------------------|
-| 02/02/2025 | 14:00 | [Milena Rocha](https://github.com/MilenaFRocha)        | Vinicius Fernandes   | 12:00       | Presencial - Vicente Pires |
+| 02/02/2025 | 14:00 | [Milena Rocha](https://github.com/MilenaFRocha)        | Vinicius Fernandes   | 5:00       | Presencial - Vicente Pires |
 
 <font size="3"><p style="text-align: center">Fonte: [Milena Rocha](https://github.com/MilenaFRocha), 2025.<p><font>
 
+<p style="text-align: center"><a href="https://www.youtube.com/embed/Np9O2gWoQ4U" target="blanket">Vídeo 2 - Validação do RF32</a></p>
 
+
+<div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9qKocizuDjk?si=8XEoosazA5ASpgkZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+#### FeedBack
+O Vinicius comentou que ficou muito satisfeito com a implementação do requisito de mudar o idioma. Ele destacou que, ao permitir essa funcionalidade, fica muito mais fácil para pessoas de outras regiões ou que falam diferentes idiomas utilizarem a plataforma sem dificuldades.
+
+### Preferências de eventos 
+
+O objetivo desse protótipo é implementar o [requisito funcional 35](../elicitacao/requisitos/requisitos_elicitados.md#RF35), dessa forma o usuário será capaz de ter um conteúdo personalizado, mostrando eventos de preferência sem que haja eventos não coesos poluindo a tela.
+
+
+##### Protótipo RF35
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/7yZrYZDpvNC6dO9PNN6giT/Figma---Sympla?node-id=3-4&starting-point-node-id=3%3A4&embed-host=share" allowfullscreen></iframe>
+<font size="3"><p style="text-align: center">Fonte: [Gabriel Scheidt](https://github.com/Gxaite).</p></font>
 #### Entrevista 3
 
 Essa entrevista tem como objetivo validar o protótipo referente ao [Requisito Funcional 35](../elicitacao/requisitos/requisitos_elicitados.md#RF35) pelo usuário Vinicíus que concordou em disponibilizar sua voz e imagem para fins acadêmicos por meio do [termo de consentimento](../assets/termo_vinicius.pdf) 
 
 <div align="center">
-<font size="3"><p style="text-align: center">Tabela 2: Cronograma de entrevista</p></font>
+<font size="3"><p style="text-align: center">Tabela 3: Cronograma de entrevista RF35</p></font>
 </div>
+
+#### Cronograma
 
 | **Data**  | **Hora** | **Entrevistador** | **Entrevistado** | **Duração** | **Local**                  |
 |------------|-------|--------------------|------------------|-------------|---------------------------|
-| 02/02/2025 | 14:00 | [Milena Rocha](https://github.com/MilenaFRocha)        | Vinicius Fernandes   | 12:10       | Presencial - Vicente Pires |
+| 02/02/2025 | 14:00 | [Milena Rocha](https://github.com/MilenaFRocha)        | Vinicius Fernandes   | 5:00      | Presencial - Vicente Pires |
 
 <font size="3"><p style="text-align: center">Fonte: [Milena Rocha](https://github.com/MilenaFRocha), 2025.<p><font>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RZmXiJdhQRM?si=tBF61PraN-MYpPdL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></
+<p style="text-align: center"><a href="https://www.youtube.com/embed/Np9O2gWoQ4U" target="blanket">Vídeo 3 - Validação do RF35</a></p>
+<div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RZmXiJdhQRM?si=tBF61PraN-MYpPdL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 
 #### FeedBack
 
@@ -83,10 +107,50 @@ O Vinicius falou que gostou bastante da implementação do requisito de preferê
 
 <font size="3"><p style="text-align: center">Fonte: [Milena Rocha](https://github.com/MilenaFRocha), 2025.</p></font>
 
+### Cadastrar método de pagamento
+
+O objetivo desse protótipo é implementar o [requisito funcional 36](../elicitacao/requisitos/requisitos_elicitados.md#RF36),é permitir que o usuário registre suas informações de pagamento de forma segura e prática. Isso facilita o processo de compra, tornando-o mais ágil e personalizado. Além disso, ao armazenar os métodos de pagamento, o usuário pode realizar transações futuras de maneira mais rápida.
+
+
+##### Protótipo RF36
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/lVv07XUc2dV3X8nAOiO42y/Sympla-Metodo-Pagamento?node-id=33-558&starting-point-node-id=1%3A451&embed-host=share" allowfullscreen></iframe>
+<font size="3"><p style="text-align: center">Fonte: [Rafael Pereira](https://github.com/rafgpereira).</p></font>
+
+#### Entrevista 4
+
+Essa entrevista tem como objetivo validar o protótipo referente ao [Requisito Funcional 36](../elicitacao/requisitos/requisitos_elicitados.md#RF36) pelo usuário Leonardo que concordou em disponibilizar sua voz e imagem para fins acadêmicos .
+
+<div align="center">
+<font size="3"><p style="text-align: center">Tabela 3: Cronograma de entrevista RF35</p></font>
+</div>
+
+#### Cronograma
+
+| **Data**  | **Hora** | **Entrevistador** | **Entrevistado** | **Duração** | **Local**                  |
+|------------|-------|--------------------|------------------|-------------|---------------------------|
+| 02/02/2025 | 17:00 |  [Rafael Pereira](https://github.com/rafgpereira)        | Leonardo  | 5:00      | Presencial - Gama |
+
+<font size="3"><p style="text-align: center">Fonte: [Milena Rocha](https://github.com/MilenaFRocha), 2025.<p><font>
+
+<p style="text-align: center"><a href="https://www.youtube.com/embed/Np9O2gWoQ4U" target="blanket">Vídeo 4 - Validação do RF36</a></p>
+<div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5ryWDAWeTnA?si=Anoo2BNE0NcQJqG5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+
+#### FeedBack
+
+O Leonardo falou que o método de pagamento é muito útil, pois está disponível em quase todo app de vendas. Ele destacou que essa funcionalidade ajuda a tornar o processo mais rápido e prático, permitindo que o usuário realize transações de forma mais ágil, sem precisar inserir os dados toda vez.
+
+<font size="3"><p style="text-align: center">Fonte:[Rafael Pereira](https://github.com/rafgpereira)   , 2025.</p></font>
+
+
 ## Histórico de Versões
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     | 
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação desse documento | [Milena Rocha](https://github.com/MilenaFRocha)  | 30/01/2025 | [Victor Hugo](https://github.com/VHbernardes) |
 |  1.1   | Entrevista | [Renan Araújo](https://github.com/renantfm4)  | 03/02/2025 | |
-|  1.2   | Protótipo e entrevista |[Milena Rocha](https://github.com/MilenaFRocha)   | 03/02/2025 | [Victor Hugo]|
+|  1.2   | Protótipo e entrevista |[Milena Rocha](https://github.com/MilenaFRocha)   | 03/02/2025 | [Victor Hugo](https://github.com/VHbernardes)|
+|  1.3   | Protótipo e entrevista 3 e 4 |[Milena Rocha](https://github.com/MilenaFRocha)   | 03/02/2025 | [Victor Hugo](https://github.com/VHbernardes)|
