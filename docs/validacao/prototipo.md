@@ -4,7 +4,18 @@
 
 Os protótipos são essenciais para externalizar as ideias acerca de um produto antes de sua concepção em si. Dessa forma, neste documento são apresentados os protótipos das funcionalidades que não foram implementadas no Sympla. Cada integrante escolheu um dos requisitos elicitados não implementados para desenvolver, a relação pode ser visualizada na Tabela 1, e em seguida validaram por meio de entrevistas cada um dos protótipos desenvolvidos.
 
+<p style="text-align: center"><b><a id="tab_1" style="visibility: hidden;"></a>Tabela 1</b> - Requisitos funcionais e não funcionais</p>
 
+| Tipo  | Descrição                                                                                                      | <a id="anchor_GERAL" style="color:black;">ID</a> | Implementado |
+|-------|--------------------------------------------------------------------------------------------------------------|---------------------------------------|--------------|
+| <a id="RF32"></a>RF32  | O usuário é capaz de mudar o idioma do app.                                                       |  <a href="../../elicitacao/tecnicas/introspeccao/#anchor_ISF">IS13 </a> | Não          |
+| RF33  | O usuário é capaz de entrar na aba de configurações.                                              |  <a href="../../elicitacao/tecnicas/introspeccao/#anchor_ISF">IS14 </a> | Não          |
+| RF34  | O sistema apresenta uma aba de acessibilidades.                                                   | <a href="../../elicitacao/tecnicas/introspeccao/#anchor_ISF"> IS15 </a> | Não          |
+| <a id="RF35"></a>RF35   | O usuário é capaz de criar preferências de eventos.                                               |  <a href="../../elicitacao/tecnicas/introspeccao/#anchor_ISF">IS16 </a> | Não          |
+| RF36  | Deve ser possível cadastrar diferentes métodos de pagamento.                                               |  <a href="../../elicitacao/tecnicas/entrevista2/#anchor_2ENT">2ENT11</a>  | Não          |
+
+
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/rafgpereira">Rafael Pereira, 2025</a></p></font>
 
 ### Protótipos
 
@@ -15,7 +26,7 @@ Os protótipos são essenciais para externalizar as ideias acerca de um produto 
 
 <font size="3"><p style="text-align: center">Fonte: [Renan Araújo](https://github.com/renantfm4).</p></font>
 
-### Idiomas 
+### Idiomas
 
 O objetivo desse protótipo é implementar o [requisito funcional 32](../elicitacao/requisitos/requisitos_elicitados.md#RF32), dessa forma o usuário será capaz de alterar o idioma do app Sympla facilmente.
 
