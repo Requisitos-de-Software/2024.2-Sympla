@@ -61,27 +61,20 @@ Abaixo, no Vídeo 1, apresentamos o processo de verificação do grupo 01, justi
 > SAYÃO, Miriam; DO PRADO LEITE, Julio Cesar Sampaio. Rastreabilidade de requisitos. RITA, v. 13, n. 1, p. 57-86, 2006. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972563/mod_resource/content/3/05_20_sayao.pdf](https://aprender3.unb.br/pluginfile.php/2972563/mod_resource/content/3/05_20_sayao.pdf). Acesso em: 18 jan. 2025.
 
 
-## **Referências bibliográficas**
+### **Referências Bibliográficas**  
 
-><a id="REF1">1.</a><br>![Referência 1](../grupo8/entrega6/assets/matriz.png)
->****
-><a id="REF2">2.</a><br>![Referência 2](../grupo8/entrega6/assets/backward.png)
->****
-><a id="REF3">3.</a><br>![Referência 3](../grupo8/entrega6/assets/foward.png)
->****
-><a id="REF4">4.</a><br>![Referência 4](../grupo8/entrega6/assets/elos.png)
->****
-><a id="REF5">5.</a><br>![Referência 5](../grupo8/entrega6/assets/toranzo.png)
->****
-><a id="REF6">6.</a><br>![Referência 6](../grupo8/entrega6/assets/elos.png)
->****
-><a id="REF7">7.</a><br>![Referência 7](../grupo8/entrega6/assets/elos_tipos.png)
->****
-><a id="REF8">8.</a><br>![Referência 8](../grupo8/entrega6/assets/elos_padrao.png)
->****
-><a id="REF9">9.</a><br>![Referência 9](../grupo8/entrega6/assets/representacao.png)
->****
-><a id="REF10">10.</a><br>![Referência 10](../grupo8/entrega6/assets/elos_rastro.png)
+| Nº  | Fonte  | Página/Minuto | Imagem referente |
+|---- |--------|--------------|------------------|
+| 1.  | SERRANO, Milene; SERRANO, Maurício. Requisitos - aula 26. Brasília: UnB Gama, s.d. 1 apresentação em slides. Disponível em: link. Acesso em: 18 jan. 2025. | 29 | [Imagem](../grupo8/entrega6/assets/matriz.png) |
+| 2.  | SERRANO, Milene; SERRANO, Maurício. Requisitos - aula 26. Brasília: UnB Gama, s.d. 1 apresentação em slides. Disponível em: link. Acesso em: 18 jan. 2025. | 6 | [Imagem](../grupo8/entrega6/assets/backward.png) |
+| 3.  | SERRANO, Milene; SERRANO, Maurício. Requisitos - aula 26. Brasília: UnB Gama, s.d. 1 apresentação em slides. Disponível em: link. Acesso em: 18 jan. 2025. | 6 | [Imagem](../grupo8/entrega6/assets/elos.png) |
+| 4.  | SERRANO, Milene; SERRANO, Maurício. Requisitos - aula 26. Brasília: UnB Gama, s.d. 1 apresentação em slides. Disponível em: link. Acesso em: 18 jan. 2025. | 19 | [Imagem](../grupo8/entrega6/assets/foward.png) |
+| 5.  | SAYÃO, Miriam; DO PRADO LEITE, Julio Cesar Sampaio. Rastreabilidade de requisitos. RITA, v. 13, n. 1, p. 57-86, 2006. Disponível em: link. Acesso em: 18 jan. 2025 | 13 | [Imagem](../grupo8/entrega6/assets/toranzo.png) |
+| 6.  | SERRANO, Milene; SERRANO, Maurício. Requisitos - aula 26. Brasília: UnB Gama, s.d. 1 apresentação em slides. Disponível em: link. Acesso em: 18 jan. 2025. | 19 | [Imagem](../grupo8/entrega6/assets/elos.png) |
+| 7.  | SERRANO, Milene; SERRANO, Maurício. Requisitos - aula 26. Brasília: UnB Gama, s.d. 1 apresentação em slides. Disponível em: link. Acesso em: 18 jan. 2025. | 21 | [Imagem](../grupo8/entrega6/assets/elos_tipos.png) |
+| 8.  | SERRANO, Milene; SERRANO, Maurício. Requisitos - aula 26. Brasília: UnB Gama, s.d. 1 apresentação em slides. Disponível em: link. Acesso em: 18 jan. 2025. | 22 | [Imagem](../grupo8/entrega6/assets/elos_padrao.png) |
+| 9.  | SAYÃO, Miriam; DO PRADO LEITE, Julio Cesar Sampaio. Rastreabilidade de requisitos. RITA, v. 13, n. 1, p. 57-86, 2006. Disponível em: link. Acesso em: 18 jan. 2025| 14 | [Imagem](../grupo8/entrega6/assets/representacao.png) |
+| 10. | SAYÃO, Miriam; DO PRADO LEITE, Julio Cesar Sampaio. Rastreabilidade de requisitos. RITA, v. 13, n. 1, p. 57-86, 2006. Disponível em: link. Acesso em: 18 jan. 2025 | 19 | [Imagem](../grupo8/entrega6/assets/elos_rastro.png) |
 
 ## Histórico de Versões
 
@@ -90,3 +83,4 @@ Abaixo, no Vídeo 1, apresentamos o processo de verificação do grupo 01, justi
 |  1.0   | Criação desse documento | [Victor Hugo](https://github.com/VHbernardes) | 20/01/2025 | [Rafael Pereira](https://github.com/rafgpereira) |
 |  1.1   | Verificação versão 1.0 | [Rafael Pereira](https://github.com/rafgpereira) | 20/01/2025 | [Victor Hugo](https://github.com/VHbernardes) |
 |  1.2   | Inclusão do vídeo da verificação | [Rafael Pereira](https://github.com/rafgpereira) | 20/01/2025 | [Victor Hugo](https://github.com/VHbernardes) |
+|  1.3   | Ajustes de referências |  [Milena Rocha](https://github.com/MilenaFRocha) | 02/02/2025 | [Victor Hugo](https://github.com/VHbernardes)  |

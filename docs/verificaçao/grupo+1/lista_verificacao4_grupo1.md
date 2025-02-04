@@ -47,7 +47,7 @@ Cada um dos itens da Tabela 1 será avaliado com Sim, Não ou Incompleto de acor
 | 3 - É mostrado no NFR Framework os tipos de abstrações do SIG? (NFR Softgoal, Softgoal de operacionalização, Softgoal de afirmação) <a id="anchor_10" href="#REF10"><sup>10</sup></a> **Autor: Milena** | Sim |  1.0 | 18/12/2024  |
 | 4 - É mostrado no NFR Framework as decomposições do SIG? (Decomposição NFR, Decomposição de Operacionalização, Decomposição de Afirmação Decomposição de Priorização) <a id="anchor_11" href="#REF11"><sup>11</sup></a> **Autor: Renan** | Sim | 1.0 | 18/12/2024 |
 | 5 - A propagação de impactos foi feita de acordo com o padrão estabelecido? <a id="anchor_12" href="#REF12"><sup>12</sup></a> **Autor: Gabriel** | Não |  1.0 | 18/12/2024 |
-| 6 - Cada integrante da equipe deve elaborar ao menos um 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência. **Autor: Prof. André** | Sim |  1.0 | 18/12/2024 |
+| 6 - Cada integrante da equipe deve elaborar ao menos um 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência. <a id="anchor_13" href="#REF13"><sup>13</sup></a> **Autor: Prof. André** | Sim |  1.0 | 18/12/2024 |
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/VHbernardes">Victor Hugo</a>, 2024</p></font>
 
