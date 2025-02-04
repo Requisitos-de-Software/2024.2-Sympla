@@ -16,9 +16,7 @@ Os protótipos são essenciais para externalizar as ideias acerca de um produto 
 
 
 <font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/rafgpereira">Rafael Pereira, 2025</a></p></font>
-Um protótipo de alta fidelidade é uma simulação visual e interativa de um produto ou sistema, que replica de maneira muito próxima o design, as funcionalidades e a interatividade do produto final. Utilizando ferramentas especializadas em design gráfico e prototipagem, ele pode apresentar elementos como cores, tipografia, imagens e interações detalhadas.
 
-O objetivo principal desse tipo de protótipo é oferecer uma representação realista de como o produto final se comportará e parecerá. Eles são especialmente úteis nas fases finais do processo de design, quando a maioria dos aspectos já foi definida e a equipe está focada em validar e ajustar a experiência do usuário.
 
 ## Metodologia 
 
