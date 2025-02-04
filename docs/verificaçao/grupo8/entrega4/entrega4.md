@@ -46,7 +46,7 @@ A Tabela 1 apresenta os itens elaborados para a avaliação.
 | 3 - É mostrado no NFR Framework os tipos de abstrações do SIG? (NFR Softgoal, Softgoal de operacionalização, Softgoal de afirmação) <a id="anchor_10" href="#REF10"><sup>10</sup></a> **Autor: Milena** |  |  |  |
 | 4 - É mostrado no NFR Framework as decomposições do SIG? (Decomposição NFR, Decomposição de Operacionalização, Decomposição de Afirmação Decomposição de Priorização) <a id="anchor_11" href="#REF11"><sup>11</sup></a> **Autor: Renan** |  |  |  |
 | 5 - A propagação de impactos foi feita de acordo com o padrão estabelecido? <a id="anchor_12" href="#REF12"><sup>12</sup></a> **Autor: Gabriel** |  |  |  |
-| 6 - Cada integrante da equipe deve elaborar ao menos um 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência. **Autor: Prof. André** |  |  |  |
+| 6 - Cada integrante da equipe deve elaborar ao menos um 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência. <a id="anchor_13" href="#REF13"><sup>13</sup></a>**Autor: Prof. André** |  |  |  |
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Elaborado por <a href="https://github.com/VHbernardes">Victor Hugo</a>, 2024</p></font>
 
@@ -62,36 +62,31 @@ A Tabela 1 apresenta os itens elaborados para a avaliação.
 
 > SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. Dissertação (Mestrado em Ciências da Computação) – Universidade Federal de Pernambuco, Recife, 2019. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972515/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf](https://aprender3.unb.br/pluginfile.php/2972515/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf). Acesso em: 17 dez. 2024.
 
-## **Referências bibliográficas**
+## **Referências Bibliográficas**
 
-><a id="REF1">1.</a><br>![Referência 1](../entrega4/assets/hist_user.png)
->****
-><a id="REF2">2.</a><br>![Referência 2](../entrega4/assets/hist_aceita.png)
->****
-><a id="REF3">3.</a><br>![Referência 3](../entrega4/assets/backlogs2.png)
->****
-><a id="REF4">4.</a><br>![Referência 4](../entrega4/assets/backlogs3.png)
->****
-><a id="REF5">5.</a><br>![Referência 5](../entrega4/assets/nfr.png)
->****
-><a id="REF6">6.</a><br>![Referência 6](../entrega4/assets/nfr_cartao.png)
->****
-><a id="REF7">7.</a><br>![Referência 7](../entrega4/assets/softgoals.png)
->****
-><a id="REF8">8.</a><br>![Referência 8](../entrega4/assets/backlogs.png)
->****
-><a id="REF9">9.</a><br>![Referência 9](../entrega4/assets/backlogs.png)
->****
-><a id="REF10">10.</a><br>![Referência 10](../entrega4/assets/nfr_tipos.png)
->****
-><a id="REF11">11.</a><br>![Referência 11](../entrega4/assets/nfr_decom.png)
->****
-><a id="REF12">12.</a><br>![Referência 12](../entrega4/assets/nfr_propa.png)
+| Nº  | Fonte | Página/Minuto | Imagem referente |
+|---- |-------|--------------|------------------|
+| <a id="REF1">1.</a>  | SERRANO, Milene; SERRANO, Maurício. Apresentação Modelagem de Requisitos - História de Usuário e Backlogs. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/2972475/mod_resource/content/1/Aula%2011.pdf). Acesso em: 07 de Fev. 2025. | 8 | [Imagem](../entrega4/assets/hist_user.png) |
+| <a id="REF2">2.</a>  |ARAÚJO, Kleitor Franklint Corrêa. Modelagem com histórias: bem além dos requisitos. 2018.  Disponível em: [Link](https://pt.slideshare.net/slideshow/modelagem-com-historias-bem-alm-dos-requisitos-84628101/84628101). Acesso em: 07 de Fev. 2025. | 28 | [Imagem](../entrega4/assets/hist_aceita.png) |
+| <a id="REF3">3.</a>  | SERRANO, Milene; SERRANO, Maurício. Apresentação Modelagem de Requisitos - História de Usuário e Backlogs. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/2972475/mod_resource/content/1/Aula%2011.pdf). Acesso em: 07 de Fev. 2025. | 8 | [Imagem](../entrega4/assets/backlogs2.png) |
+| <a id="REF4">4.</a>  | SERRANO, Milene; SERRANO, Maurício. Apresentação Modelagem de Requisitos - História de Usuário e Backlogs. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/2972475/mod_resource/content/1/Aula%2011.pdf). Acesso em: 07 de Fev. 2025. | 11 | [Imagem](../entrega4/assets/backlogs3.png) |
+| <a id="REF5">5.</a>  | SERRANO, Milene; SERRANO, Maurício. Apresentação NFR Framework. Aula .Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/2972516/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf). Acesso em: 07 de Fev. 2025. | 8 | [Imagem](../entrega4/assets/nfr.png) |
+| <a id="REF6">6.</a>  | CHUNG, Lawrence et al. Non-Functional Requirements in Software Engineering. Springer, 2000. | 46 | [Imagem](../entrega4/assets/nfr_cartao.png) |
+| <a id="REF7">7.</a>  | CHUNG, Lawrence et al. Non-Functional Requirements in Software Engineering. Springer, 2000. | 31| [Imagem](../entrega4/assets/softgoals.png) |
+| <a id="REF8">8.</a>  | SERRANO, Milene; SERRANO, Maurício. Apresentação Modelagem de Requisitos - História de Usuário e Backlogs. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/2972475/mod_resource/content/1/Aula%2011.pdf). Acesso em: 07 de Fev. 2025. | 8 | [Imagem](../entrega4/assets/backlogs.png) |
+| <a id="REF9">9.</a>  | SERRANO, Milene; SERRANO, Maurício. Apresentação Modelagem de Requisitos - História de Usuário e Backlogs. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/2972475/mod_resource/content/1/Aula%2011.pdf). Acesso em: 07 de Fev. 2025. | 8 | [Imagem](../entrega4/assets/backlogs.png) |
+| <a id="REF10">10.</a>  | SERRANO, Milene; SERRANO, Maurício. Apresentação NFR Framework. Aula .Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/2972516/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf). Acesso em: 07 de Fev. 2025. | 8 | [Imagem](../entrega4/assets/nfr.png) |
+| <a id="REF11">11.</a>  | SERRANO, Milene; SERRANO, Maurício. Apresentação NFR Framework. Aula .Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/2972516/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf). Acesso em: 07 de Fev. 2025. | 8 | [Imagem](../entrega4/assets/nfr.png) |
+| <a id="REF12">12.</a>  | SERRANO, Milene; SERRANO, Maurício. Apresentação NFR Framework. Aula .Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/2972516/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf). Acesso em: 07 de Fev. 2025. | 8 | [Imagem](../entrega4/assets/nfr.png) |
+| <a id="REF13">13</a>  |SALES, André Barros de. <a href="https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf">Plano de Ensino - Requisitos de Software</a>. Acesso em: 24 de Nov. de 2024. | 8 | [Imagem](../../grupo8/ref_andre2.png) |
+
+
 
 ## Histórico de Versões
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     | 
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação desse documento | [Victor Hugo](https://github.com/VHbernardes) | 17/12/2024 | [Rafael Pereira](https://github.com/rafgpereira) |
+|  1.1   | Ajustes de referências |  [Milena Rocha](https://github.com/MilenaFRocha) | 02/02/2025 | [Victor Hugo](https://github.com/VHbernardes)  |
 
 
