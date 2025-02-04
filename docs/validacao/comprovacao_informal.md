@@ -10,7 +10,7 @@ Para validar os artefatos desenvolvidos para o aplicativo Sympla, a equipe optou
 
 A mensagem foi encaminhada para o e-mail oficial associado ao Sympla. Esse formato foi escolhido por sua confiabilidade e praticidade na transmissão de dados importantes à equipe responsável pela revisão dos protótipos.
 
-O e-mail foi enviado em 03/02/2025 às 22:33, conforme ilustrado na figura 1, permitindo que a equipe tivesse acesso imediato aos materiais. Esse envio foi estrategicamente planejado para garantir que as informações chegassem no momento adequado, facilitando a revisão e possíveis ajustes no projeto.
+O e-mail foi enviado no dia 30/01, permitindo que a equipe tivesse acesso imediato aos materiais. Esse envio foi estrategicamente planejado para garantir que as informações chegassem no momento adequado, facilitando a revisão e possíveis ajustes no projeto.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 1:</b> E-mail enviado para o Sympla.</p></font>
