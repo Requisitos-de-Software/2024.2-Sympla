@@ -253,14 +253,14 @@ Na Tabela 11, tem-se o cronograma executado para todas as atividades da entrega 
 
 <font size="3"><p style="text-align: center"><b>Tabela 11</b> - Análise de Requisitos 1</p></font>
 
-<!-- | Atividade                                                            	| Período de desenvolvimento 	| Responsáveis                      	| Revisão                 	| Revisores        	|
-|----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
-|   Verificação por inspeção de todos os artefatos              	| Início: 21/01<br>Fim: 23/01    	| [Victor Hugo](https://github.com/VHbernardes), [Milena](https://github.com/MilenaFRocha), [Rafael](https://github.com/rafgpereira) e  [Gabriel](https://github.com/Gxaite) 	|  	|      	|
-|   Validação: Prototipação e Comprovação Informal            	| Início: 23/01<br>Fim: 25/01    	| [Milena](https://github.com/MilenaFRocha), [Rafael](https://github.com/rafgpereira) e [Renan](https://github.com/renantfm4)          	|  	|   	|
-|   Gravação da Apresentação e Entrega                        	| Início: 27/01<br>Fim: 29/01    	| [Milena](https://github.com/MilenaFRocha),  [Renan](https://github.com/renantfm4),  [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite) e [Victor Hugo](https://github.com/VHbernardes)   	|  	|  	|
-|   Correção pós apresentação	| Início: 31/01<br>Fim: 02/02 	| [Milena](https://github.com/MilenaFRocha),  [Renan](https://github.com/renantfm4),  [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite) e [Victor Hugo](https://github.com/VHbernardes)   	|  	|  	| -->
+| Atividade                                                             | Período de desenvolvimento    | Responsáveis                                                                                     | Revisão                      | Revisores                                         |
+|------------------------------------------------------------------------|-------------------------------|-------------------------------------------------------------------------------------------------|-------------------------------|--------------------------------------------------|
+| Verificação por inspeção de todos os artefatos                        | Início: 21/01<br>Fim: 23/01   | [Victor Hugo](https://github.com/VHbernardes), [Milena](https://github.com/MilenaFRocha), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite) | Início: 23/01<br>Fim: 25/01   | [Renan](https://github.com/renantfm4), [Milena](https://github.com/MilenaFRocha) |
+| Validação: Prototipação e Comprovação Informal                        | Início: 25/01<br>Fim: 30/01   | [Milena](https://github.com/MilenaFRocha), [Rafael](https://github.com/rafgpereira), [Renan](https://github.com/renantfm4)  | Início: 05/01<br>Fim: 07/01   | [Victor Hugo](https://github.com/VHbernardes), [Gabriel](https://github.com/Gxaite) |
+| Gravação da Apresentação e Entrega                                    | Início: 27/01<br>Fim: 29/01   | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | Início: 01/02<br>Fim: 03/02   | [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira) |
+| Correção pós apresentação                                             | Início: 31/01<br>Fim: 02/02   | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) |   | |
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/VHbernardes">Victor Hugo</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/VHbernardes">Gabriel Scheidt</a>, 2024</p></font>
 
 ## Entrega 6 - Pós-Rastreabilidade
 
