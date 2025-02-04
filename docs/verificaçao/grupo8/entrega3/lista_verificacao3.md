@@ -79,36 +79,24 @@ Abaixo, no Vídeo 1, apresentamos o processo de auto verificação do grupo, jus
 > LUCID SOFTWARE PORTUGUÊS. Tutorial de Caso de Uso UML. YouTube, 25 abr. 2019. Disponível em: [https://youtu.be/ab6eDdwS3rA](https://youtu.be/ab6eDdwS3rA). Acesso em: 07 de Dez. 2024.
 
 ## **Referências bibliográficas**
-
-><a id="REF1">1.</a><br>![Referência 1](../entrega3/assets/cenarios_ex.png)
->****
-><a id="REF2">2.</a><br>![Referência 2](../entrega3/assets/cenarios_espec.png)
->****
-><a id="REF3">3.</a><br>![Referência 3](../entrega3/assets/lex_espec.png)
->****
-><a id="REF4">4.</a><br>![Referência 4](../entrega3/assets/lex_tipos.png)
->****
-><a id="REF5">5.</a><br>![Referência 5](../entrega3/assets/usecase.png)
->****
-><a id="REF6">6.</a> Vídeo - minuto 3:58 <br>![Referência 6](../entrega3/assets/atores_use.png)
->****
-><a id="REF7">7.</a> Vídeo - minuto 2:55 <br>![Referência 7](../entrega3/assets/atores_fora.png)
->****
-><a id="REF8">8.</a><br>![Referência 8](../entrega3/assets/usecase_espec.png)
->****
-><a id="REF9">9.</a> Vídeo - minuto 8:37 <br>![Referência 9](../entrega3/assets/extensao.png)
->****
-><a id="REF10">10.</a><br>![Referência 10](../entrega3/assets/espec.png)
->****
-><a id="REF11">11.</a> Vídeo - minuto 1:37 <br>![Referência 11](../entrega3/assets/usecase_sistema.png)
->****
-><a id="REF12">12.</a> Vídeo - minuto 1:58 <br>![Referência 12](../entrega3/assets/topo_sistema.png)
->****
-><a id="REF13">13.</a> Vídeo - minuto 2:24 <br>![Referência 13](../entrega3/assets/nome_ator.png)
->****
-><a id="REF14">14.</a><br>![Referência 14](../entrega3/assets/verbo_usecase.png)
->****
-><a id="REF15">15.</a> Vídeo - minuto 5:23 <br>![Referência 15](../entrega3/assets/usecase_rel.png)
+| Nº  | Fonte | Página/Minuto | Imagem referente |
+|---- |-------|--------------|------------------|
+| <a id="REF1">1.</a>  | SERRANO, Milene; SERRANO, Maurício. Apresentação Modelagem de Requisitos - Cenários, Léxicos e Ferramenta C&L. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/2972470/mod_resource/content/1/Aula%2010.pdf). Acesso em: 07 de Dez. 2024. | 11 | [Imagem](../grupo8/entrega3/assets/cenarios_ex.png) |
+| <a id="REF2">2.</a>  | SERRANO, Milene; SERRANO, Maurício. Apresentação Modelagem de Requisitos - Cenários, Léxicos e Ferramenta C&L. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/2972470/mod_resource/content/1/Aula%2010.pdf). Acesso em: 07 de Dez. 2024. | 8 | [Imagem](../grupo8/entrega3/assets/cenarios_espec.png) |
+| <a id="REF3">3.</a>  | SERRANO, Milene; SERRANO, Maurício. Apresentação Modelagem de Requisitos - Cenários, Léxicos e Ferramenta C&L. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/2972470/mod_resource/content/1/Aula%2010.pdf). Acesso em: 07 de Dez. 2024. | 15 | [Imagem](../grupo8/entrega3/assets/lex_espec.png) |
+| <a id="REF4">4.</a>  | SERRANO, Milene; SERRANO, Maurício. Apresentação Modelagem de Requisitos - Cenários, Léxicos e Ferramenta C&L. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/2972470/mod_resource/content/1/Aula%2010.pdf). Acesso em: 07 de Dez. 2024. | 17 | [Imagem](../grupo8/entrega3/assets/lex_tipos.png) |
+| <a id="REF5">5.</a>  | SERRANO, Milene; SERRANO, Maurício. Apresentação Modelagem de Requisitos - Casos de Uso e Especificação Suplementar. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/2972480/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf). Acesso em: 07 de Dez. 2024. | 8 | [Imagem](../grupo8/entrega3/assets/usecase.png) |
+| <a id="REF6">6.</a>  | LUCID SOFTWARE PORTUGUÊS. Tutorial de Caso de Uso UML. YouTube. Disponível em: [Link](https://youtu.be/ab6eDdwS3rA). Acesso em: 07 de Dez. 2024. | Minuto 3:58 | [Imagem](../grupo8/entrega3/assets/atores_use.png) |
+| <a id="REF7">7.</a>  | LUCID SOFTWARE PORTUGUÊS. Tutorial de Caso de Uso UML. YouTube. Disponível em: [Link](https://youtu.be/ab6eDdwS3rA). Acesso em: 07 de Dez. 2024. | Minuto 2:55 | [Imagem](../grupo8/entrega3/assets/atores_fora.png) |
+| <a id="REF8">8.</a>  | SERRANO, Milene; SERRANO, Maurício. Apresentação Modelagem de Requisitos - Casos de Uso e Especificação Suplementar. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/2972480/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf). Acesso em: 07 de Dez. 2024. | 18 | [Imagem](../grupo8/entrega3/assets/usecase_espec.png) |
+| <a id="REF9">9.</a>  | LUCID SOFTWARE PORTUGUÊS. Tutorial de Caso de Uso UML. YouTube. Disponível em: [Link](https://youtu.be/ab6eDdwS3rA). Acesso em: 07 de Dez. 2024. | Minuto 8:37 | [Imagem](../grupo8/entrega3/assets/extensao.png) |
+| <a id="REF10">10.</a> | SERRANO, Milene; SERRANO, Maurício. Apresentação Modelagem de Requisitos - Casos de Uso e Especificação Suplementar. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/2972480/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf). Acesso em: 07 de Dez. 2024. | 28 | [Imagem](../grupo8/entrega3/assets/espec.png) |
+| <a id="REF11">11.</a> | LUCID SOFTWARE PORTUGUÊS. Tutorial de Caso de Uso UML. YouTube. Disponível em: [Link](https://youtu.be/ab6eDdwS3rA). Acesso em: 07 de Dez. 2024. | Minuto 1:37 | [Imagem](../grupo8/entrega3/assets/usecase_sistema.png) |
+| <a id="REF12">12.</a> | LUCID SOFTWARE PORTUGUÊS. Tutorial de Caso de Uso UML. YouTube. Disponível em: [Link](https://youtu.be/ab6eDdwS3rA). Acesso em: 07 de Dez. 2024. | Minuto 1:58 | [Imagem](../grupo8/entrega3/assets/topo_sistema.png) |
+| <a id="REF13">13.</a> | LUCID SOFTWARE PORTUGUÊS. Tutorial de Caso de Uso UML. YouTube. Disponível em: [Link](https://youtu.be/ab6eDdwS3rA). Acesso em: 07 de Dez. 2024. | Minuto 2:24 | [Imagem](../grupo8/entrega3/assets/nome_ator.png) |
+| <a id="REF14">14.</a> | SERRANO, Milene; SERRANO, Maurício. Apresentação Modelagem de Requisitos - Casos de Uso e Especificação Suplementar. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/2972480/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf). Acesso em: 07 de Dez. 2024. | 13 | [Imagem](../grupo8/entrega3/assets/verbo_usecase.png) |
+| <a id="REF15">15.</a> | LUCID SOFTWARE PORTUGUÊS. Tutorial de Caso de Uso UML. YouTube. Disponível em: [Link](https://youtu.be/ab6eDdwS3rA). Acesso em: 07 de Dez. 2024. | Minuto 5:23 | [Imagem](../grupo8/entrega3/assets/usecase_rel.png) |
+| <a id="REF16">16</a>  |SALES, André Barros de. <a href="https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf">Plano de Ensino - Requisitos de Software</a>. Acesso em: 24 de Nov. de 2024. | 8 | [Imagem](../grupo8/ref_andre2.png) |
 
 ## Histórico de Versões
 
@@ -116,3 +104,4 @@ Abaixo, no Vídeo 1, apresentamos o processo de auto verificação do grupo, jus
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação desse documento | [Victor Hugo](https://github.com/VHbernardes) | 07/12/2024 | [Rafael Pereira](https://github.com/rafgpereira) |
 |  1.1   | Verificação 1.0 | [Rafael Pereira](https://github.com/rafgpereira) | 08/12/2024 | [Milena Rocha](https://github.com/MilenaFRocha) |
+|  1.2   | Ajustes de referências |  [Milena Rocha](https://github.com/MilenaFRocha) | 02/02/2025 | [Victor Hugo](https://github.com/VHbernardes)  |

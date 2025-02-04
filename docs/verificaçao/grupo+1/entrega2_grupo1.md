@@ -66,4 +66,4 @@ Cada um dos itens da Tabela 1 será avaliado com Sim, Não ou Incompleto de acor
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     | 
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação desse documento |  [Milena Rocha](https://github.com/MilenaFRocha) | 24/11/2024 | [Victor Hugo](https://github.com/VHbernardes)  |
-|  1.1   | Ajustes de refer |  [Milena Rocha](https://github.com/MilenaFRocha) | 02/02/2025 | [Victor Hugo](https://github.com/VHbernardes)  |
+|  1.1   | Ajustes de referências |  [Milena Rocha](https://github.com/MilenaFRocha) | 02/02/2025 | [Victor Hugo](https://github.com/VHbernardes)  |
