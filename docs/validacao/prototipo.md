@@ -38,13 +38,27 @@ O objetivo desse protótipo é implementar o [requisito funcional 35](../elicita
 
 #### Entrevista 1
 
+Essa entrevista tem como objetivo validar o protótipo referente ao [Requisito Funcional 34](../elicitacao/requisitos/requisitos_elicitados.md#RF34) pelo usuário Gustavo que concordou em disponibilizar sua voz e imagem para fins acadêmicos
+
+<div align="center">
+<font size="3"><p style="text-align: center">Tabela 1: Cronograma de entrevista</p></font>
+</div>
+
+| **Data**  | **Hora** | **Entrevistador** | **Entrevistado** | **Duração** | **Local**                  |
+|------------|-------|--------------------|------------------|-------------|---------------------------|
+| 03/02/2025 | 11:00 | [Renan Araújo](https://github.com/renantfm4)        | Renan Araújo   | 07:38       | Presencial - FGA|
+
+<font size="3"><p style="text-align: center">Fonte: [Renan Araújo](https://github.com/renantfm4), 2025.<p><font>
+
 <p style="text-align: center"><a href="https://www.youtube.com/embed/Np9O2gWoQ4U" target="blanket">Vídeo 1 - Entrevista Gustavo</a></p>
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Np9O2gWoQ4U"></iframe></p>
 
+#### FeedBack
+
 O Gustavo de maneira geral gostou do protótipo, citou que nunca tinha visto algumas das funcionalidades de acessibilidades em aplicativos que ele usou, citou que as telas estão bem intuitivas e fácil pro usuário, mas chamou a atenção na funcionalidade de dessaturação que poderia mudar as cores das letras para ficar mais visível em relação ao fundo da tela.
 
-<font size="3"><p style="text-align: center">Fonte: [Renan Araújo](https://github.com/renantfm4).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Renan Araújo](https://github.com/renantfm4), 2025.</p></font>
 
 #### Entrevista 2
 
