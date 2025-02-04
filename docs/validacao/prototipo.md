@@ -2,6 +2,10 @@
 
 ## Introdução
 
+Os protótipos são essenciais para externalizar as ideias acerca de um produto antes de sua concepção em si. Dessa forma, neste documento são apresentados os protótipos das funcionalidades que não foram implementadas no Sympla. Cada integrante escolheu um dos requisitos elicitados não implementados para desenvolver, a relação pode ser visualizada na Tabela 1, e em seguida validaram por meio de entrevistas cada um dos protótipos desenvolvidos.
+
+
+
 ### Protótipos
 
 #### Menu de Acessibilidades
