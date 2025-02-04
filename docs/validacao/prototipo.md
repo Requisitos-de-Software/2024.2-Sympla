@@ -2,6 +2,29 @@
 
 ## Introdução
 
+Os protótipos são essenciais para externalizar as ideias acerca de um produto antes de sua concepção em si. Dessa forma, neste documento são apresentados os protótipos das funcionalidades que não foram implementadas no Sympla. Cada integrante escolheu um dos requisitos elicitados não implementados para desenvolver, a relação pode ser visualizada na Tabela 1, e em seguida validaram por meio de entrevistas cada um dos protótipos desenvolvidos.
+
+<p style="text-align: center"><b><a id="tab_1" style="visibility: hidden;"></a>Tabela 1</b> - Requisitos funcionais e não funcionais</p>
+
+| Tipo  | Descrição                                                                                                      | <a id="anchor_GERAL" style="color:black;">ID</a> | Implementado |
+|-------|--------------------------------------------------------------------------------------------------------------|---------------------------------------|--------------|
+| <a id="RF32"></a>RF32  | O usuário é capaz de mudar o idioma do app.                                                       |  <a href="../../elicitacao/tecnicas/introspeccao/#anchor_ISF">IS13 </a> | Não          |
+| RF33  | O usuário é capaz de entrar na aba de configurações.                                              |  <a href="../../elicitacao/tecnicas/introspeccao/#anchor_ISF">IS14 </a> | Não          |
+| RF34  | O sistema apresenta uma aba de acessibilidades.                                                   | <a href="../../elicitacao/tecnicas/introspeccao/#anchor_ISF"> IS15 </a> | Não          |
+| <a id="RF35"></a>RF35   | O usuário é capaz de criar preferências de eventos.                                               |  <a href="../../elicitacao/tecnicas/introspeccao/#anchor_ISF">IS16 </a> | Não          |
+| RF36  | Deve ser possível cadastrar diferentes métodos de pagamento.                                               |  <a href="../../elicitacao/tecnicas/entrevista2/#anchor_2ENT">2ENT11</a>  | Não          |
+
+
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/rafgpereira">Rafael Pereira, 2025</a></p></font>
+
+
+## Metodologia 
+
+Neste trabalho, elaboramos seis protótipos de altas fidelidade, cada uma baseada nos requisitos não implementados. A criação dos protótipos ocorreu por meio da plataforma Figma, permitindo desenvolver interfaces dinâmicas e testar interações de navegação. 
+
+
+Depois de desenvolver os protótipos, conduzimos seis entrevistas com usuários reais. Essas conversas proporcionaram insights valiosos sobre a usabilidade das novas funcionalidades, a clareza de seu funcionamento e a eficiência do design sugerido, auxiliando na validação dos requisitos estabelecidos.
+
 ### Protótipos
 
 ### Menu de Acessibilidades
@@ -17,6 +40,18 @@ O objetivo desse protótipo é implementar o [requisito funcional 34](../elicita
 
 
 #### Entrevista 1
+
+Essa entrevista tem como objetivo validar o protótipo referente ao [Requisito Funcional 34](../elicitacao/requisitos/requisitos_elicitados.md#RF34) pelo usuário Gustavo que concordou em disponibilizar sua voz e imagem para fins acadêmicos por meio do [termo de consentimento](../assets/Termo_Gustavo.pdf) 
+
+<div align="center">
+<font size="3"><p style="text-align: center">Tabela 1: Cronograma de entrevista</p></font>
+</div>
+
+| **Data**  | **Hora** | **Entrevistador** | **Entrevistado** | **Duração** | **Local**                  |
+|------------|-------|--------------------|------------------|-------------|---------------------------|
+| 03/02/2025 | 11:00 | [Renan Araújo](https://github.com/renantfm4)        | Renan Araújo   | 07:38       | Presencial - FGA|
+
+<font size="3"><p style="text-align: center">Fonte: [Renan Araújo](https://github.com/renantfm4), 2025.<p><font>
 
 <p style="text-align: center"><a href="https://www.youtube.com/embed/Np9O2gWoQ4U" target="blanket">Vídeo 1 - Entrevista Gustavo</a></p>
 

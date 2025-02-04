@@ -15,10 +15,13 @@ O e-mail foi enviado no dia 30/01, permitindo que a equipe tivesse acesso imedia
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 1:</b> E-mail enviado para o Sympla.</p></font>
 
-<img src="https://github.com/Requisitos-de-Software/2024.2-Sympla/raw/main/docs/assets/validacao/sympla-email.png" style="width: 85%;">
+<img src="../../assets/validacao/sympla-email.jpg" style="width: 85%;">
 
-<font size="3"><p style="text-align: center">Fonte: [Renan Araújo](https://github.com/renantfm4)<p><font>
 </div>
+
+<font size="3"><p style="text-align: center">Fonte: [Renan Araújo](https://github.com/renantfm4).</p></font>
+
+
 
 ## Resultado
 
