@@ -98,45 +98,53 @@ nav:
     - Protótipo de Alta Fidelidade: validacao/prototipo.md
     - Comprovação Informal: validacao/comprovacao_informal.md
   - Verificação:
-    - Geral: verificaçao/verificacao_geral.md
-    - Grupo 8:
-      - Entrega 1:
-        - Planejamento da Verificação: verificaçao/grupo8/entrega1/entrega1.md
-        - Lista de Verificação executada: verificaçao/grupo8/entrega1/lista_verificacao.md
-        - Avaliação da Entrega: verificaçao/grupo8/relatorio_melhorias.md 
-      - Entrega 2:
-        - Planejamento da Verificação 2: verificaçao/grupo8/entrega2/entrega2.md
-        - Lista de Verificação executada: verificaçao/grupo8/entrega2/lista_verificacao2.md
-        - Avaliação da Entrega 2: verificaçao/grupo8/relatorio_melhorias2.md
-      - Entrega 3:
-        - Planejamento da Verificação 3: verificaçao/grupo8/entrega3/entrega3.md
-        - Lista de Verificação executada: verificaçao/grupo8/entrega3/lista_verificacao3.md
-      - Entrega 4:
-        - Planejamento da Verificação 4: verificaçao/grupo8/entrega4/entrega4.md
-        - Lista de Verificação executada: verificaçao/grupo8/entrega4/lista_verificacao4.md
-      - Entrega 6:
-        - Planejamento da Verificação 6: verificaçao/grupo8/entrega6/entrega6.md
-        - Lista de Verificação executada: verificaçao/grupo8/entrega6/lista_verificacao6.md
-    - Grupo + 1 - Bluesky:
-      - Entrega 1:
-        - Planejamento da Verificação - Bluesky: verificaçao/grupo+1/entrega1_grupo1.md
-        - Lista de Verificação executada - Bluesky: verificaçao/grupo+1/lista_verificacao_grupo1.md
+    - Verificação por Entrega (antigo):
+      - Geral: verificaçao/verificacao_geral.md
+      - Grupo 8:
+        - Entrega 1:
+          - Planejamento da Verificação: verificaçao/grupo8/entrega1/entrega1.md
+          - Lista de Verificação executada: verificaçao/grupo8/entrega1/lista_verificacao.md
+          - Avaliação da Entrega: verificaçao/grupo8/relatorio_melhorias.md 
+        - Entrega 2:
+          - Planejamento da Verificação 2: verificaçao/grupo8/entrega2/entrega2.md
+          - Lista de Verificação executada: verificaçao/grupo8/entrega2/lista_verificacao2.md
+          - Avaliação da Entrega 2: verificaçao/grupo8/relatorio_melhorias2.md
+        - Entrega 3:
+          - Planejamento da Verificação 3: verificaçao/grupo8/entrega3/entrega3.md
+          - Lista de Verificação executada: verificaçao/grupo8/entrega3/lista_verificacao3.md
+        - Entrega 4:
+          - Planejamento da Verificação 4: verificaçao/grupo8/entrega4/entrega4.md
+          - Lista de Verificação executada: verificaçao/grupo8/entrega4/lista_verificacao4.md
+        - Entrega 6:
+          - Planejamento da Verificação 6: verificaçao/grupo8/entrega6/entrega6.md
+          - Lista de Verificação executada: verificaçao/grupo8/entrega6/lista_verificacao6.md
+      - Grupo + 1 - Bluesky:
+        - Entrega 1:
+          - Planejamento da Verificação - Bluesky: verificaçao/grupo+1/entrega1_grupo1.md
+          - Lista de Verificação executada - Bluesky: verificaçao/grupo+1/lista_verificacao_grupo1.md
         
-      - Entrega 2:
-        - Planejamento da Verificação 2 - Bluesky: verificaçao/grupo+1/entrega2_grupo1.md
-        - Lista de Verificação executada - Bluesky: verificaçao/grupo+1/lista_verificacao2_grupo1.md
+        - Entrega 2:
+          - Planejamento da Verificação 2 - Bluesky: verificaçao/grupo+1/entrega2_grupo1.md
+          - Lista de Verificação executada - Bluesky: verificaçao/grupo+1/lista_verificacao2_grupo1.md
       
-      - Entrega 3:
-        - Planejamento da Verificação 3 - Bluesky: verificaçao/grupo+1/entrega3_grupo1.md
-        - Lista de Verificação executada - Bluesky: verificaçao/grupo+1/lista_verificacao3_grupo1.md
+        - Entrega 3:
+          - Planejamento da Verificação 3 - Bluesky: verificaçao/grupo+1/entrega3_grupo1.md
+          - Lista de Verificação executada - Bluesky: verificaçao/grupo+1/lista_verificacao3_grupo1.md
 
-      - Entrega 4:
-        - Planejamento da Verificação 4 - Bluesky: verificaçao/grupo+1/entrega4_grupo1.md
-        - Lista de Verificação executada - Bluesky: verificaçao/grupo+1/lista_verificacao4_grupo1.md
+        - Entrega 4:
+          - Planejamento da Verificação 4 - Bluesky: verificaçao/grupo+1/entrega4_grupo1.md
+          - Lista de Verificação executada - Bluesky: verificaçao/grupo+1/lista_verificacao4_grupo1.md
 
-      - Entrega 6:
-        - Planejamento da Verificação 6 - Bluesky: verificaçao/grupo+1/entrega6_grupo1.md
-        - Lista de Verificação executada - Bluesky: verificaçao/grupo+1/lista_verificacao6_grupo1.md
+        - Entrega 6:
+          - Planejamento da Verificação 6 - Bluesky: verificaçao/grupo+1/entrega6_grupo1.md
+          - Lista de Verificação executada - Bluesky: verificaçao/grupo+1/lista_verificacao6_grupo1.md
+    - Verificação por Artefato (novo):
+      - Geral: verificaçao/artefatos/verificacao_geral.md
+      - Grupo 8:
+        - Elicitação:
+          - Planejamento: verificaçao/artefatos/grupo8/elicitacao/planejamento.md
+          - Inspeção: verificaçao/artefatos/grupo8/elicitacao/inspecao.md
+
 extra:
   social:
     - icon: fontawesome/brands/github

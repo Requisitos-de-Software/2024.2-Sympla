@@ -49,12 +49,12 @@ A Tabela 1 apresenta os itens elaborados para a avaliação.
 
 | Nº  | Fonte | Página | Imagem referente |
 |---- |-------|--------|------------------|
-| <a id="REF1">1.</a> | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.| 181 | [Imagem](../grupo8/personas1.png) |
-| <a id="REF2">2.</a> | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.| 181 | [Imagem](../grupo8/personas2.png) |
-| <a id="REF3">3.</a> | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011. | 179 | [Imagem](../grupo8/usuarios.png) |
-| <a id="REF4">4.</a> | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011. | 147 | [Imagem](../grupo8/termos.png) |
-| <a id="REF5">5.</a> |SOMMERVILLE, Ian. Engenharia de Software. 9. ed. Tradução de Ivan Bosnic e Kalinka G. de O. Gonçalves. Revisão técnica de Kechi Hirama. São Paulo: Pearson Prentice Hall, 2011. | 84 | [Imagem](../grupo8/requisitos.png) |
-| <a id="REF6">6.</a> |SALES, André Barros de. <a href="https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf">Plano de Ensino - Requisitos de Software</a>. Acesso em: 24 de Nov. de 2024. | 8 | [Imagem](../grupo8/ref_andre2.png) |
+| <a id="REF1">1.</a> | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.| 181 | [Imagem](../personas1.png) |
+| <a id="REF2">2.</a> | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.| 181 | [Imagem](../personas2.png) |
+| <a id="REF3">3.</a> | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011. | 179 | [Imagem](../usuarios.png) |
+| <a id="REF4">4.</a> | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011. | 147 | [Imagem](../termos.png) |
+| <a id="REF5">5.</a> |SOMMERVILLE, Ian. Engenharia de Software. 9. ed. Tradução de Ivan Bosnic e Kalinka G. de O. Gonçalves. Revisão técnica de Kechi Hirama. São Paulo: Pearson Prentice Hall, 2011. | 84 | [Imagem](../requisitos.png) |
+| <a id="REF6">6.</a> |SALES, André Barros de. <a href="https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf">Plano de Ensino - Requisitos de Software</a>. Acesso em: 24 de Nov. de 2024. | 8 | [Imagem](../ref_andre2.png) |
 
 ## Histórico de Versões
 
