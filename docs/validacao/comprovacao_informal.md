@@ -16,6 +16,7 @@ O e-mail foi enviado no dia 30/01, permitindo que a equipe tivesse acesso imedia
 <font size="3"><p style="text-align: center"><b>Figura 1:</b> E-mail enviado para o Sympla.</p></font>
 
 <img src="../../assets/validacao/sympla-email.jpg" style="width: 85%;">
+<img src="../../assets/validacao/sympla-contato.jpg" style="width: 85%;">
 
 </div>
 
