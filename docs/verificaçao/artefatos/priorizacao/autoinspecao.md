@@ -22,7 +22,7 @@ Para cada item que foi elaborado e devidamente referenciado no [planejamento](./
 
 Na Tabela 1 é apresentada a lista de verificação inspecionada, conforme descrito anteriormente.
 
-<font size="3"><p style="text-align: center">Tabela 1: Lista de Verificação Inspecionada - Técnicas de Priorização</p></font>
+<font size="3"><p style="text-align: center">Tabela 1: Lista de Verificação Inspecionada - Técnicas de Priorização- Three Level Scale</p></font>
 
 | ID | Descrição | Avaliação | Versão | Data |
 |----|-----------|-------|-------|--------|
@@ -39,9 +39,26 @@ Na Tabela 1 é apresentada a lista de verificação inspecionada, conforme descr
 | 10  | Foi apresentado um termo de consentimento para os participantes da técnica. | |||
 | 11  | Os critérios de importância e urgência estão explicitamente definidos e compreendidos por todos os membros da equipe. | |||
 | 12  |Existe uma metodologia documentada para garantir que os critérios de priorização sejam aplicados de forma consistente por todos os envolvidos. | |||
-| **In or Out** |
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> [Rafael Pereira](https://github.com/rafgpereira), 2025</p></font>
+
+
+## Inspeção - Técnicas de Priorização
+
+Na Tabela 2 é apresentada a lista de verificação inspecionada, conforme descrito anteriormente.
+
+<font size="3"><p style="text-align: center">Tabela 2: Lista de Verificação Inspecionada - Técnicas de Priorização- In or Out</p></font>
+
+| ID | Descrição | Avaliação | Versão | Data |
+|----|-----------|-------|-------|--------|
+| **In or Out** |
+| 1  | Todos os requisitos foram analisados e categorizados corretamente como "In" (dentro) ou "Out" (fora)?  | |||
+| 2  | As decisões de priorização foram feitas considerando os objetivos do projeto e a necessidades para a entrega do projeto? | |||
+| 3  | Os requisitos classificados como "Out" foram documentados para análise futura? ||||
+| 4  | A priorização foi feita com envolvimento de todas as partes interessadas, garantindo um processo colaborativo? ||||
+| 5  | Foi feito uma tabela para vizualiação dos requisitos que foram classificados como "In" e "Out" ||||
+
+<font size="3"><p style="text-align: center"><b>Autor:</b> [Gabriel Scheidt](https://github.com/Gxaite), 2025</p></font>
 
 ## Gravação da Inspeção
 
