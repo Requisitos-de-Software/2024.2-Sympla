@@ -6,7 +6,7 @@ Assim esse documento realiza a construção fundamentada da lista de verificaç�
 
 ## Objetivos
 
-O objetivo desse documento é construir a lista de verificação para os artefatos em questão, apresentando as fontes e os autores de cada item, mas sem avaliá-los. A avaliação em si de cada item será feita no documento de [inspeção](./inspecao.md), que acompanha esse.
+O objetivo desse documento é construir a lista de verificação para os artefatos em questão, apresentando as fontes e os autores de cada item, mas sem avaliá-los. A avaliação em si de cada item será feita no documento de [**AutoInspeção Grupo 8 - Sympla**](./autoinspecao.md) e [**Inspeção Grupo +1 - Bluesky**](./inspecaoBluesky.md), que estão nessa mesma pasta.
 
 ## Metodologia
 
@@ -41,6 +41,9 @@ Na Tabela 1 é apresentada a lista de verificação construída conforme a metod
 | 10 | A entrevista incluiu perguntas abertas que permitiram maior espontaneidade e riqueza de detalhes nas respostas dos entrevistados | Gabriel Scheidt | VÁZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. 1. ed. Rio de Janeiro: Brasport, 2016. 328 p. ISBN 978-85-7452-790-1. | [Imagem](./assets/10.png) |
 | 11 | A entrevista foi conduzida de acordo com o tipo de entrevista: estruturada, não estruturada ou semiestruturada. | Renan Araújo | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011. pg 145 | [Imagem](./assets/11.png) |
 | 12 | O entrevistador usou linguagem acessível, evitando termos técnicos que o entrevistado possa não compreender. | Renan Araújo | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011. pg 147 | [Imagem](./assets/12.png) |
+| **Questionário** |
+| **Observação**   |
+| **Introspecção** |
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> [Rafael Pereira](https://github.com/rafgpereira), 2025</p></font>
 

@@ -39,6 +39,9 @@ Na Tabela 1 é apresentada a lista de verificação inspecionada, conforme descr
 | 10 | A entrevista incluiu perguntas abertas que permitiram maior espontaneidade e riqueza de detalhes nas respostas dos entrevistados | |||
 | 11 | A entrevista foi conduzida de acordo com o tipo de entrevista: estruturada, não estruturada ou semiestruturada. | |||
 | 12 | O entrevistador usou linguagem acessível, evitando termos técnicos que o entrevistado possa não compreender. | |||
+| **Questionário** |
+| **Observação**   |
+| **Introspecção** |
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> [Rafael Pereira](https://github.com/rafgpereira), 2025</p></font>
 

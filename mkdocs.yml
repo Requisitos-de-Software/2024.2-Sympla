@@ -140,10 +140,38 @@ nav:
           - Lista de Verificação executada - Bluesky: verificaçao/grupo+1/lista_verificacao6_grupo1.md
     - Verificação por Artefato (novo):
       - Geral: verificaçao/artefatos/verificacao_geral.md
-      - Elicitação:
-        - Planejamento: verificaçao/artefatos/grupo8/elicitacao/planejamento.md
-        - Autoinspeção Grupo 8 - Sympla: verificaçao/artefatos/grupo8/elicitacao/autoinspecao.md
-        - Inspeção Grupo +1 - Bluesky: verificaçao/artefatos/grupo8/elicitacao/inspecaoBluesky.md
+      - Planejamento:
+        - Planejamento: verificaçao/artefatos/planejamento/planejamento.md
+        - Autoinspeção Grupo 8 - Sympla: verificaçao/artefatos/planejamento/autoinspecao.md
+        - Inspeção Grupo +1 - Bluesky: verificaçao/artefatos/planejamento/inspecaoBluesky.md
+      - Pré-Rastreabilidade:
+        - Planejamento: verificaçao/artefatos/pre-rastreabilidade/planejamento.md
+        - Autoinspeção Grupo 8 - Sympla: verificaçao/artefatos/pre-rastreabilidade/autoinspecao.md
+        - Inspeção Grupo +1 - Bluesky: verificaçao/artefatos/pre-rastreabilidade/inspecaoBluesky.md
+      - Perfil de usuário e Personas:
+        - Planejamento: verificaçao/artefatos/perfil-e-personas/planejamento.md
+        - Autoinspeção Grupo 8 - Sympla: verificaçao/artefatos/perfil-e-personas/autoinspecao.md
+        - Inspeção Grupo +1 - Bluesky: verificaçao/artefatos/perfil-e-personas/inspecaoBluesky.md
+      - Técnicas de Elicitação:
+        - Planejamento: verificaçao/artefatos/elicitacao/planejamento.md
+        - Autoinspeção Grupo 8 - Sympla: verificaçao/artefatos/elicitacao/autoinspecao.md
+        - Inspeção Grupo +1 - Bluesky: verificaçao/artefatos/elicitacao/inspecaoBluesky.md
+      - Técnicas de Priorização:
+        - Planejamento: verificaçao/artefatos/priorizacao/planejamento.md
+        - Autoinspeção Grupo 8 - Sympla: verificaçao/artefatos/priorizacao/autoinspecao.md
+        - Inspeção Grupo +1 - Bluesky: verificaçao/artefatos/priorizacao/inspecaoBluesky.md
+      - Modelagem:
+        - Planejamento: verificaçao/artefatos/modelagem/planejamento.md
+        - Autoinspeção Grupo 8 - Sympla: verificaçao/artefatos/modelagem/autoinspecao.md
+        - Inspeção Grupo +1 - Bluesky: verificaçao/artefatos/modelagem/inspecaoBluesky.md
+      - Ágil:
+        - Planejamento: verificaçao/artefatos/agil/planejamento.md
+        - Autoinspeção Grupo 8 - Sympla: verificaçao/artefatos/agil/autoinspecao.md
+        - Inspeção Grupo +1 - Bluesky: verificaçao/artefatos/agil/inspecaoBluesky.md
+      - Pós-Rastreabilidade:
+        - Planejamento: verificaçao/artefatos/pos-rastreabilidade/planejamento.md
+        - Autoinspeção Grupo 8 - Sympla: verificaçao/artefatos/pos-rastreabilidade/autoinspecao.md
+        - Inspeção Grupo +1 - Bluesky: verificaçao/artefatos/pos-rastreabilidade/inspecaoBluesky.md
 
 extra:
   social:
