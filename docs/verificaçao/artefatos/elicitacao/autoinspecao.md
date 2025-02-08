@@ -40,8 +40,24 @@ Na Tabela 1 é apresentada a lista de verificação inspecionada, conforme descr
 | 11 | A entrevista foi conduzida de acordo com o tipo de entrevista: estruturada, não estruturada ou semiestruturada. | |||
 | 12 | O entrevistador usou linguagem acessível, evitando termos técnicos que o entrevistado possa não compreender. | |||
 | **Questionário** |
+| 13  | Houve uma atenção durante a criação das questões para que fossem elaboradas de maneira clara e de forma a serem compreendidas por todos ? ||||
+| 14 |  O questionário foi testado antes de ser distribuído? | |||
+| 14 |Foi usado um meio de distribuição coerente com o público-alvo, garantindo que ele será atigindo por meio do mesmo. ||||
+| 15 | Foi estabelecida uma data limite para colet de respostas? ||||
+| 16 | Ao final da pesquisa foi feita uma análise ou um relatório com os resultados relevantes? | |||
 | **Observação**   |
+| 17 | Antes da observação foram determinados os objetivos e selecionado o grupo de pessoas? ||||
+| 18 | Durante a observação o analista apresenta-se às pessoas? ||||
+| 19 | O observador deixa claro que não irá criticar o trabalho da pessoa observada? | |||
+| 20 | O analista comunica que o objetivo não é comentar soluções , mas sim estudar os processos? | |||
+| 21 |  Ao final da obsercação foram obtidas as respostas para as questões pensadas anteriormente? | |||
 | **Introspecção** |
+| 22 | O engenheiro de requisitos se imaginou desempenhando uma tarefa e o que ele gostaria de ter para cumprir seu objetico? | |||
+| 23 |  Os requisitos consideram as condições reais de aprendizado da nova tecnologia? | |||
+| 24 | A terminologia utilizada para descrever os usuários reflete corretamente sua experiência? | |||
+| 25 | A introspecção foi validada a partir de outras técnicas mais empíricas? | |||
+| 26 | Foi considerada que a introspecção é altamente imprecisa? | |||
+
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> [Rafael Pereira](https://github.com/rafgpereira), 2025</p></font>
 
@@ -66,3 +82,4 @@ No Vídeo 1 apresenta-se a auto inspeção do **Grupo 8 - Sympla**.
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     | 
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação desse documento | [Rafael Pereira](https://github.com/rafgpereira) | 03/02/2025 | [Milena Rocha](https://github.com/MilenaFRocha)  |
+|  1.1   | Adição dos itens do Questionário, Observação e Introspecção | [Victor Hugo](https://github.com/VHbernardes) | 08/02/2025 | [Rafael Pereira](https://github.com/rafgpereira)  |
