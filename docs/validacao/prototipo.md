@@ -194,6 +194,7 @@ Essa entrevista tem como objetivo validar o protótipo referente ao [Requisito F
 <font size="3"><p style="text-align: center">Tabela 5: Cronograma de entrevista RF35</p></font>
 </div>
 
+
 #### Cronograma
 
 | **Data**  | **Hora** | **Entrevistador** | **Entrevistado** | **Duração** | **Local**                  |
@@ -204,13 +205,13 @@ Essa entrevista tem como objetivo validar o protótipo referente ao [Requisito F
 
 <p style="text-align: center"><a href="https://www.youtube.com/embed/Np9O2gWoQ4U" target="blanket">Vídeo 5 - Validação do RF33</a></p>
 <div align="center">
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iXm8inN_nWA?si=4nJfHPmez59gtO6V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 
 #### FeedBack
 
-O Vinicius achou interessante aplicar um menu de configurações porque permite alterar nome, e-mail, senha e foto de maneira mais rápida por meio do ícone, facilitando o acesso e a personalização do perfil.
+O Vinicius achou interessante aplicar um menu de configurações porque permite alterar nome, e-mail, senha e foto de maneira mais rápida por meio do ícone, facilitando o acesso e a personalização do perfil. Mas sugeriu algumas alterações como colocar método de verificação em duas etapas e redefinir senha.
 
 <font size="3"><p style="text-align: center">Fonte: [Milena Rocha](https://github.com/MilenaFRocha), 2025.</p></font>
 
@@ -225,3 +226,4 @@ O Vinicius achou interessante aplicar um menu de configurações porque permite 
 |  1.3   | Protótipo e entrevista 3 e 4 |[Milena Rocha](https://github.com/MilenaFRocha)   | 03/02/2025 | [Victor Hugo](https://github.com/VHbernardes)|
 |  1.4   | Adição introdução, metodologia, tabela de responsáveis e método de pagamento |[Rafael Pereira](https://github.com/rafgpereira)   | 03/02/2025 | [Milena Rocha](https://github.com/MilenaFRocha)|
 |  1.5   | Protótipo e entrevista 3 |[Milena Rocha](https://github.com/MilenaFRocha)   | 03/02/2025 | [Victor Hugo](https://github.com/VHbernardes)|
+|  1.6   | Adiciona vídeo da validação RF33 |[Milena Rocha](https://github.com/MilenaFRocha)   | 03/02/2025 | [Victor Hugo](https://github.com/VHbernardes)|

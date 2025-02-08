@@ -24,7 +24,7 @@ A Tabela 1 apresenta os itens reunidos e tem as seguintes colunas:
 
 Na Tabela 1 é apresentada a lista de verificação construída conforme a metodologia acima.
 
-<font size="3"><p style="text-align: center">Tabela 1: Lista de Verificação Planejada - Técnicas de Priorização</p></font>
+<font size="3"><p style="text-align: center">Tabela 1: Lista de Verificação Planejada - Técnicas de Priorização - Three Level Scale</p></font>
 
 | ID | Descrição | Autor | Fonte | Imagem |
 |----|-----------|-------|-------|--------|
@@ -41,9 +41,25 @@ Na Tabela 1 é apresentada a lista de verificação construída conforme a metod
 | 10  | Foi apresentado um termo de consentimento para os participantes da técnica. | Victor Hugo | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011. Acesso em: 14 Jan. de 2025 | [Imagem](./assets/10.png) |
 | 11  | Os critérios de importância e urgência estão explicitamente definidos e compreendidos por todos os membros da equipe. | Gabriel Scheidt | WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. p.319 | [Imagem](./assets/11.png) |
 | 12  |Existe uma metodologia documentada para garantir que os critérios de priorização sejam aplicados de forma consistente por todos os envolvidos. | Gabriel Scheidt | WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. p.319 | [Imagem](./assets/12.png) |
-| **In or Out** |
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> [Rafael Pereira](https://github.com/rafgpereira), 2025</p></font>
+
+
+Na Tabela 2 é apresentada a lista de verificação construída conforme a metodologia acima.
+
+<font size="3"><p style="text-align: center">Tabela 2: Lista de Verificação Planejada - Técnicas de Priorização - In or Out</p></font>
+
+| ID | Descrição | Autor | Fonte | Imagem |
+|----|-----------|-------|-------|--------|
+|**In or Out** |
+| 1  | Todos os requisitos foram analisados e categorizados corretamente como "In" (dentro) ou "Out" (fora)? | Rafael Pereira | WIEGERS, Karl; BEATTY, Joy. Software requirements. 3. ed. Redmond: Microsoft Press, 2013. 637 p. ISBN 978-0-7356-7966-5. | [Imagem](./assets/13.png) |
+| 2  | As decisões de priorização foram feitas considerando os objetivos do projeto e a necessidades para a entrega do projeto? | Gabriel Scheidt | WIEGERS, Karl; BEATTY, Joy. Software requirements. 3. ed. Redmond: Microsoft Press, 2013. 637 p. ISBN 978-0-7356-7966-5. | [Imagem](./assets/13.png) |
+| 3  | Os requisitos classificados como "Out" foram documentados para análise futura? | Milena Rocha | WIEGERS, Karl; BEATTY, Joy. Software requirements. 3. ed. Redmond: Microsoft Press, 2013. 637 p. ISBN 978-0-7356-7966-5. | [Imagem](./assets/13.png) |
+| 4  | A priorização foi feita com envolvimento de todas as partes interessadas, garantindo um processo colaborativo? | Victor Hugo | WIEGERS, Karl; BEATTY, Joy. Software requirements. 3. ed. Redmond: Microsoft Press, 2013. 637 p. ISBN 978-0-7356-7966-5. | [Imagem](./assets/13.png) |
+| 5  | Foi feito uma tabela para vzualiação dos requisitos que foram classificados como "In" e "Out"| Renan Araújo |WIEGERS, Karl; BEATTY, Joy. Software requirements. 3. ed. Redmond: Microsoft Press, 2013. 637 p. ISBN 978-0-7356-7966-5.  | [Imagem](./assets/13.png) |
+
+<font size="3"><p style="text-align: center"><b>Autor:</b> [Gabriel Scheidt](https://github.com/Gxaite), 2025</p></font>
+
 
 ## **Bibliografia**
 
@@ -58,4 +74,5 @@ Na Tabela 1 é apresentada a lista de verificação construída conforme a metod
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     | 
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
+|  1.1   |Adição da técnica In or Out| [Gabriel Scheidt](https://github.com/Gxaite) | 06/02/2025 | [Milena Rocha](https://github.com/MilenaFRocha)  |
 |  1.0   | Criação desse documento | [Rafael Pereira](https://github.com/rafgpereira) | 03/02/2025 | [Milena Rocha](https://github.com/MilenaFRocha)  |
