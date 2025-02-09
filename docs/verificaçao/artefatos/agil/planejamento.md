@@ -29,7 +29,7 @@ Na Tabela 1 é apresentada a lista de verificação construída conforme a metod
 | ID | Descrição | Autor | Fonte | Imagem |
 |----|-----------|-------|-------|--------|
 | **NFR Framework** |
-| 1  | É apresentado o cartão de especificação do RNF? | VictorS| ILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. Dissertação (Mestrado em Ciências da Computação) – Universidade Federal de Pernambuco, Recife, 2019 | [Imagem](./assets/1.png) |
+| 1  | É apresentado o cartão de especificação do NFR? | VictorS| ILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. Dissertação (Mestrado em Ciências da Computação) – Universidade Federal de Pernambuco, Recife, 2019 | [Imagem](./assets/1.png) |
 | 2  | Os softgoals são apresentados? Eles condizem com o contexto | Victor e Gabriel | ILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. Dissertação (Mestrado em Ciências da Computação) – Universidade Federal de Pernambuco, Recife, 2019  | [Imagem](./assets/2.png) |
 | 3  | É mostrado no NFR Framework as decomposições do SIG? | Victor e Milena | SERRANO, Milene; SERRANO, Maurício. Requisitos - aula 17. Brasília: UnB Gama, s.d. 1 apresentação em slides. SAcesso em: 17 de Dez. 2024 | [Imagem](./assets/3.png) |
 | 4  | Todos os requisitos não funcionais foram identificados como softgoals? | Renan Araújo | SERRANO, MAURÍCIO; SERRANO, Milene. Slides da aula Requisitos – Aula 17. Slide 10. | [Imagem](./assets/4.png) |

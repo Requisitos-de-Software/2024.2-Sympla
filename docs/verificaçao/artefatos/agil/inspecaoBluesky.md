@@ -25,32 +25,28 @@ Na Tabela 1 é apresentada a lista de verificação inspecionada, conforme descr
 <font size="3"><p style="text-align: center">Tabela 1: Lista de Verificação Inspecionada - </p></font>
 
 | ID | Descrição | Avaliação | Versão | Data |
-|----|-----------|-------|-------|--------|
+|----|-----------|-----------|--------|------|
 | **NFR Framework** |
-| 1  | São utilizadas duas dimensões para facilitar a priorização dos requisitos. | |||
-| 2  | Com base na análise bidimensional os requisitos são classificados em alta, média e baixa prioridade. | |||
-| 3  | Se existirem, os requisitos do quarto quadrante da análise bidimensional são reavaliados sobre sua existência ou classificados como baixa prioridade. ||||
-| 4  | Os requisitos foram agrupados em 3 diferentes categorias, sendo elas baixa, média e alta. ||||
-| 5  | Há um stakeholder para concordar com os níveis classificados. | |||
-| 6  | Resquisitos de alta prioridade foram definidos como importantes e urgentes. ||||
-| 7  | Requisitos de média prioridade foram definidos como importantes, mas não urgentes. | |||
-| 8  | Requisitos de baixa prioridade foram definidos como não importantes e não urgentes. |||
-| 9  | As dependências entre requisitos foram consideradas ao aplicar a priorização. ||||
-| 10  | Foi apresentado um termo de consentimento para os participantes da técnica. | |||
-| 11  | Os critérios de importância e urgência estão explicitamente definidos e compreendidos por todos os membros da equipe. | |||
-| 12  |Existe uma metodologia documentada para garantir que os critérios de priorização sejam aplicados de forma consistente por todos os envolvidos. | |||
+| 1  | É apresentado o cartão de especificação do NFR? |  | 1.2 | 09/02/2025 |
+| 2  | Os softgoals são apresentados? Eles condizem com o contexto? |  | 1.2 | 09/02/2025 |
+| 3  | É mostrado no NFR Framework as decomposições do SIG? |  | 1.2 | 09/02/2025 |
+| 4  | Todos os requisitos não funcionais foram identificados como softgoals? |  | 1.2 | 09/02/2025 |
+| 5  | As interdependências entre os softgoals foram mapeadas utilizando o Softgoal Interdependency Graph (SIG)? |  | 1.2 | 09/02/2025 |
+| 6  | Os NFR Framework foram classificados em categorias (ex: desempenho, segurança, usabilidade)? |  | 1.2 | 09/02/2025 |
+| 7  | O NFR Framework contém as decomposições do SIG (Decomposição NFR, Decomposição de Operacionalização, Decomposição de Afirmação, Decomposição de Priorização)? |  | 1.2 | 09/02/2025 |
+| 8  | A propagação de impactos foi feita de acordo com o padrão estabelecido? |  | 1.2 | 09/02/2025 |
+| 9  | O modelo considera a análise e decisão sobre implementação dos requisitos não funcionais? |  | 1.2 | 09/02/2025 |
 | **Backlog** |
-| 1  | Todos os requisitos foram analisados e categorizados corretamente como "In" (dentro) ou "Out" (fora)?  | |||
-| 2  | As decisões de priorização foram feitas considerando os objetivos do projeto e a necessidades para a entrega do projeto? | |||
-| 3  | Os requisitos classificados como "Out" foram documentados para análise futura? ||||
-| 4  | A priorização foi feita com envolvimento de todas as partes interessadas, garantindo um processo colaborativo? ||||
-| 5  | Foi feito uma tabela para vizualiação dos requisitos que foram classificados como "In" e "Out" ||||
+| 1  | O Product Backlog está organizado e priorizado de acordo com as necessidades do produto e seus usuários? |  | 1.2 | 09/02/2025 |
+| 2  | Os itens do Product Backlog estão especificados em formato de histórias de usuários, focando no “o que” e não no “como”? |  | 1.2 | 09/02/2025 |
+| 3  | O Product Owner está envolvido na revisão e atualização contínua do Product Backlog? |  | 1.2 | 09/02/2025 |
+| 4  | O backlog possui épicos e temas? Eles estão bem definidos e descritos? |  | 1.2 | 09/02/2025 |
+| 5  | O Backlog permite alterações durante o desenvolvimento do projeto? |  | 1.2 | 09/02/2025 |
 | **Histórias de usuário** |
-| 1  | Todos os requisitos foram analisados e categorizados corretamente como "In" (dentro) ou "Out" (fora)?  | |||
-| 2  | As decisões de priorização foram feitas considerando os objetivos do projeto e a necessidades para a entrega do projeto? | |||
-| 3  | Os requisitos classificados como "Out" foram documentados para análise futura? ||||
-| 4  | A priorização foi feita com envolvimento de todas as partes interessadas, garantindo um processo colaborativo? ||||
-| 5  | Foi feito uma tabela para vizualiação dos requisitos que foram classificados como "In" e "Out" ||||
+| 1  | Os critérios de aceitação foram definidos para cada história de usuário? |  | 1.2 | 09/02/2025 |
+| 2  | As Histórias de Usuário seguem algum modelo ou padrão? |  | 1.2 | 09/02/2025 |
+| 3  | As histórias de usuários são baseadas e desenvolvidas com uma descrição curta das funcionalidades do produto? |  | 1.2 | 09/02/2025 |
+| 4  | Cada história de usuário está vinculada a um épico? |  | 1.2 | 09/02/2025 |
 
 ## Gravação da Inspeção
 
