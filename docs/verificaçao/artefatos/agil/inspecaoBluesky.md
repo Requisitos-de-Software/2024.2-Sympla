@@ -40,17 +40,17 @@ Na Tabela 1 é apresentada a lista de verificação inspecionada, conforme descr
 | 11  | Os critérios de importância e urgência estão explicitamente definidos e compreendidos por todos os membros da equipe. | |||
 | 12  |Existe uma metodologia documentada para garantir que os critérios de priorização sejam aplicados de forma consistente por todos os envolvidos. | |||
 | **Backlog** |
-| 13  | Todos os requisitos foram analisados e categorizados corretamente como "In" (dentro) ou "Out" (fora)?  | |||
-| 14  | As decisões de priorização foram feitas considerando os objetivos do projeto e a necessidades para a entrega do projeto? | |||
-| 15  | Os requisitos classificados como "Out" foram documentados para análise futura? ||||
-| 16 | A priorização foi feita com envolvimento de todas as partes interessadas, garantindo um processo colaborativo? ||||
-| 17  | Foi feito uma tabela para vizualiação dos requisitos que foram classificados como "In" e "Out" ||||
+| 1  | Todos os requisitos foram analisados e categorizados corretamente como "In" (dentro) ou "Out" (fora)?  | |||
+| 2  | As decisões de priorização foram feitas considerando os objetivos do projeto e a necessidades para a entrega do projeto? | |||
+| 3  | Os requisitos classificados como "Out" foram documentados para análise futura? ||||
+| 4  | A priorização foi feita com envolvimento de todas as partes interessadas, garantindo um processo colaborativo? ||||
+| 5  | Foi feito uma tabela para vizualiação dos requisitos que foram classificados como "In" e "Out" ||||
 | **Histórias de usuário** |
-| 18  | Todos os requisitos foram analisados e categorizados corretamente como "In" (dentro) ou "Out" (fora)?  | |||
-| 19  | As decisões de priorização foram feitas considerando os objetivos do projeto e a necessidades para a entrega do projeto? | |||
-| 20  | Os requisitos classificados como "Out" foram documentados para análise futura? ||||
-| 21  | A priorização foi feita com envolvimento de todas as partes interessadas, garantindo um processo colaborativo? ||||
-| 22  | Foi feito uma tabela para vizualiação dos requisitos que foram classificados como "In" e "Out" ||||
+| 1  | Todos os requisitos foram analisados e categorizados corretamente como "In" (dentro) ou "Out" (fora)?  | |||
+| 2  | As decisões de priorização foram feitas considerando os objetivos do projeto e a necessidades para a entrega do projeto? | |||
+| 3  | Os requisitos classificados como "Out" foram documentados para análise futura? ||||
+| 4  | A priorização foi feita com envolvimento de todas as partes interessadas, garantindo um processo colaborativo? ||||
+| 5  | Foi feito uma tabela para vizualiação dos requisitos que foram classificados como "In" e "Out" ||||
 
 ## Gravação da Inspeção
 
