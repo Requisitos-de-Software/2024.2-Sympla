@@ -27,8 +27,7 @@ NFR Framework</p></font>
 
 | ID | Descrição | Avaliação | Versão | Data |
 |----|-----------|-------|-------|--------|
-| **
-NFR Framework** |
+| **NFR Framework**                       |
 | 1  | São utilizadas duas dimensões para facilitar a priorização dos requisitos. | |||
 | 2  | Com base na análise bidimensional os requisitos são classificados em alta, média e baixa prioridade. | |||
 | 3  | Se existirem, os requisitos do quarto quadrante da análise bidimensional são reavaliados sobre sua existência ou classificados como baixa prioridade. ||||
@@ -64,14 +63,13 @@ Na Tabela 2 é apresentada a lista de verificação inspecionada, conforme descr
 
 ## Inspeção - Modelagem ágil
 
-Na Tabela 2 é apresentada a lista de verificação inspecionada, conforme descrito anteriormente.
+Na Tabela 3 é apresentada a lista de verificação inspecionada, conforme descrito anteriormente.
 
-<font size="3"><p style="text-align: center">Tabela 2: Lista de Verificação Inspecionada - Modelagem ágil Histórias de usuário</p></font>
+<font size="3"><p style="text-align: center">Tabela 3: Lista de Verificação Inspecionada - Modelagem ágil Histórias de usuário</p></font>
 
 | ID | Descrição | Avaliação | Versão | Data |
 |----|-----------|-------|-------|--------|
-| **
-Histórias de usuário** |
+| **Histórias de usuário** |
 | 1  | Todos os requisitos foram analisados e categorizados corretamente como "In" (dentro) ou "Out" (fora)?  | |||
 | 2  | As decisões de priorização foram feitas considerando os objetivos do projeto e a necessidades para a entrega do projeto? | |||
 | 3  | Os requisitos classificados como "Out" foram documentados para análise futura? ||||
