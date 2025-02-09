@@ -22,12 +22,7 @@ Para cada item que foi elaborado e devidamente referenciado no [planejamento](./
 
 Na Tabela 1 é apresentada a lista de verificação inspecionada, conforme descrito anteriormente.
 
-<<<<<<< HEAD
 <font size="3"><p style="text-align: center">Tabela 1: Lista de Verificação Inspecionada - Técnicas de Priorização</p></font>
-=======
-<font size="3"><p style="text-align: center">Tabela 1: Lista de Verificação Inspecionada - Modelagem ágil
-NFR Framework</p></font>
->>>>>>> b966187f7cd5119ab7de5959861693e06d88e549
 
 | ID | Descrição | Avaliação | Versão | Data |
 |----|-----------|-------|-------|--------|
@@ -45,41 +40,7 @@ NFR Framework** |
 | 10  | Foi apresentado um termo de consentimento para os participantes da técnica. | |||
 | 11  | Os critérios de importância e urgência estão explicitamente definidos e compreendidos por todos os membros da equipe. | |||
 | 12  |Existe uma metodologia documentada para garantir que os critérios de priorização sejam aplicados de forma consistente por todos os envolvidos. | |||
-<<<<<<< HEAD
 | **In or Out** |
-=======
-
-<font size="3"><p style="text-align: center"><b>Autor:</b> [Gabriel Scheidt](https://github.com/Gxaite), 2025</p></font>
-
-
-## Inspeção - Modelagem ágil
-
-Na Tabela 2 é apresentada a lista de verificação inspecionada, conforme descrito anteriormente.
-
-<font size="3"><p style="text-align: center">Tabela 2: Lista de Verificação Inspecionada - Modelagem ágil Backlog</p></font>
-
-| ID | Descrição | Avaliação | Versão | Data |
-|----|-----------|-------|-------|--------|
-| **Backlog** |
-| 1  | Todos os requisitos foram analisados e categorizados corretamente como "In" (dentro) ou "Out" (fora)?  | |||
-| 2  | As decisões de priorização foram feitas considerando os objetivos do projeto e a necessidades para a entrega do projeto? | |||
-| 3  | Os requisitos classificados como "Out" foram documentados para análise futura? ||||
-| 4  | A priorização foi feita com envolvimento de todas as partes interessadas, garantindo um processo colaborativo? ||||
-| 5  | Foi feito uma tabela para vizualiação dos requisitos que foram classificados como "In" e "Out" ||||
-
-<font size="3"><p style="text-align: center"><b>Autor:</b> [Gabriel Scheidt](https://github.com/Gxaite), 2025</p></font>
-
-## Inspeção - Modelagem ágil
-
-Na Tabela 2 é apresentada a lista de verificação inspecionada, conforme descrito anteriormente.
-
-<font size="3"><p style="text-align: center">Tabela 2: Lista de Verificação Inspecionada - Modelagem ágil Histórias de usuário</p></font>
-
-| ID | Descrição | Avaliação | Versão | Data |
-|----|-----------|-------|-------|--------|
-| **
-Histórias de usuário** |
->>>>>>> b966187f7cd5119ab7de5959861693e06d88e549
 | 1  | Todos os requisitos foram analisados e categorizados corretamente como "In" (dentro) ou "Out" (fora)?  | |||
 | 2  | As decisões de priorização foram feitas considerando os objetivos do projeto e a necessidades para a entrega do projeto? | |||
 | 3  | Os requisitos classificados como "Out" foram documentados para análise futura? ||||
