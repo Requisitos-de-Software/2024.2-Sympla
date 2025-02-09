@@ -173,6 +173,17 @@ nav:
         - Autoinspeção Grupo 8 - Sympla: verificaçao/artefatos/pos-rastreabilidade/autoinspecao.md
         - Inspeção Grupo +1 - Bluesky: verificaçao/artefatos/pos-rastreabilidade/inspecaoBluesky.md
 
+  - Entrega Final:
+    - Aplicativo escolhido: entrega_final/aplicativo_escolhido.md
+    - Planejamento dos recursos e entregas: entrega_final/planejamento.md
+    - Execução do projeto: entrega_final/execucao.md
+    - Resultados alcançados: entrega_final/resultados.md
+    - Ferramentas utilizadas: entrega_final/ferramentas.md
+    - Técnicas utilizadas: entrega_final/tecnicas.md
+    - Verificação e validação: entrega_final/verificacao_validacao.md
+    - Apresentações: entrega_final/apresentacoes.md
+    - Facilidades e dificuldades: entrega_final/facilidades_dificuldades.md
+
 extra:
   social:
     - icon: fontawesome/brands/github
