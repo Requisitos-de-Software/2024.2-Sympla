@@ -18,10 +18,11 @@ Para cada item que foi elaborado e devidamente referenciado no [planejamento](./
  - **Versão**: versão da avaliação
  - **Data**: data da avaliação da última versão do item
 
-## Inspeção - Modelagem ágil
+## Inspeção - Técnicas de Priorização
 
 Na Tabela 1 é apresentada a lista de verificação inspecionada, conforme descrito anteriormente.
 
+<font size="3"><p style="text-align: center">Tabela 1: Lista de Verificação Inspecionada - Técnicas de Priorização</p></font>
 <font size="3"><p style="text-align: center">Tabela 1: Lista de Verificação Inspecionada - Técnicas de Priorização</p></font>
 
 | ID | Descrição | Avaliação | Versão | Data |

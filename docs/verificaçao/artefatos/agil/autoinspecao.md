@@ -40,18 +40,6 @@ NFR Framework</p></font>
 | 10  | Foi apresentado um termo de consentimento para os participantes da técnica. | |||
 | 11  | Os critérios de importância e urgência estão explicitamente definidos e compreendidos por todos os membros da equipe. | |||
 | 12  |Existe uma metodologia documentada para garantir que os critérios de priorização sejam aplicados de forma consistente por todos os envolvidos. | |||
-
-<font size="3"><p style="text-align: center"><b>Autor:</b> [Gabriel Scheidt](https://github.com/Gxaite), 2025</p></font>
-
-
-## Inspeção - Modelagem ágil
-
-Na Tabela 2 é apresentada a lista de verificação inspecionada, conforme descrito anteriormente.
-
-<font size="3"><p style="text-align: center">Tabela 2: Lista de Verificação Inspecionada - Modelagem ágil Backlog</p></font>
-
-| ID | Descrição | Avaliação | Versão | Data |
-|----|-----------|-------|-------|--------|
 | **Backlog** |
 | 1  | Todos os requisitos foram analisados e categorizados corretamente como "In" (dentro) ou "Out" (fora)?  | |||
 | 2  | As decisões de priorização foram feitas considerando os objetivos do projeto e a necessidades para a entrega do projeto? | |||

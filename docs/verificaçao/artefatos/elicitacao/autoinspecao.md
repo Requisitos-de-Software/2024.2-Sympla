@@ -63,10 +63,11 @@ Na Tabela 1 é apresentada a lista de verificação inspecionada, conforme descr
 
 ## Gravação da Inspeção
 
-No Vídeo 1 apresenta-se a auto inspeção do **Grupo 8 - Sympla**.
+No Vídeo 1 apresenta-se a autoinspeção do **Grupo 8 - Sympla**.
 
 
 
+<font size="3"><p style="text-align: center"> Vídeo 1: Autoinspeção Grupo 8 - Sympla: Técnicas de Elicitação <p><font>
 
 <div align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SumN2ZS2bEM?si=7W3W8zESWAcdQJL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

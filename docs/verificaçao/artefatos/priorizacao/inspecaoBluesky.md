@@ -57,6 +57,9 @@ Na Tabela 2 é apresentada a lista de verificação inspecionada, conforme descr
 | 5  | Foi feito uma tabela para vizualiação dos requisitos que foram classificados como "In" e "Out" |NA|||
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> [Gabriel Scheidt](https://github.com/Gxaite) e [Milena Rocha](https://github.com/MilenaFRocha) e , 2025</p></font>
+=======
+<font size="3"><p style="text-align: center"><b>Autores:</b> [Rafael Pereira](https://github.com/rafgpereira) e [Gabriel Scheidt](https://github.com/Gxaite), 2025</p></font>
+>>>>>>> b83e110c454be6dfe7bb71c8b680edfe125996cc
 
 ## Gravação da Inspeção
 
