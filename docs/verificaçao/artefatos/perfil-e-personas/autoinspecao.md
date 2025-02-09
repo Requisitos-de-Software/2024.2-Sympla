@@ -27,29 +27,29 @@ Na Tabela 1 é apresentada a lista de verificação inspecionada, conforme descr
 | ID | Descrição | Avaliação | Versão | Data |
 |----|-----------|-------|-------|--------|
 | **Perfil de usuário** |
-| 1 | O perfil de usuário inclui uma descrição clara de quem são os usuários. | | | |
-| 2 | Foram coletados dados sobre a faixa etária dos usuários. | |||
-| 3 | O perfil identifica com clareza os objetivos dos usuários. | |||
-| 4 | Existe uma relação entre os objetivos e as funcionalidades do produto (coerência). ||||
-| 5 | O perfil inclui experiência, nível de instrução e atividades. | |||
-| 6 | A coleta de dados foi feita através de métodos adequados (entrevistas, questionários...). | |||
-| 7 | Os perfis são consistentes em suas definições. ||||
+| 1 | O perfil de usuário inclui uma descrição clara de quem são os usuários. | Sim | 1.0 | 09/02/25 |
+| 2 | Foram coletados dados sobre a faixa etária dos usuários. | Sim | 1.0 | 09/02/25 |
+| 3 | O perfil identifica com clareza os objetivos dos usuários. |Sim | 1.0 | 09/02/25 |
+| 4 | Existe uma relação entre os objetivos e as funcionalidades do produto (coerência). |Sim | 1.0 | 09/02/25 |
+| 5 | O perfil inclui experiência, nível de instrução e atividades. |Sim | 1.0 | 09/02/25 |
+| 6 | A coleta de dados foi feita através de métodos adequados (entrevistas, questionários...). | Sim | 1.0 | 09/02/25 |
+| 7 | Os perfis são consistentes em suas definições. |Incompleto (abranger melhor o perfil (idade, gênero, ...)) | 1.0 | 09/02/25|
 | **Personas** |
-| 1 | Cada persona possui um nome inventado e uma imagem representativa. ||||
-| 2 | A descrição inclui dados pessoais básicos e demográficos. | |||
-| 3 | A persona tem um status definido (primária, secundária, antiusuário...). | |||
-| 4 | A persona tem objetivos claros e bem descritos. | |||
-| 5 | A persona possui habilidades descritas, incluindo aquelas que vão além do escopo do produto. | |||
-| 6 | As tarefas executadas pela persona estão presentes, bem como seus detalhes e características. | |||
-| 7 | Os relacionamentos da persona estão descritos. ||||
-| 8 | Os requisitos da persona estão presentes, incluindo citações para maior assimilação. ||||
-| 9 | As expectativas da persona acerca do funcionamento do produto estão presentes e são claras. | |||
+| 1 | Cada persona possui um nome inventado e uma imagem representativa. |Sim | 1.0 | 09/02/25|
+| 2 | A descrição inclui dados pessoais básicos e demográficos. |Sim | 1.0 | 09/02/25 |
+| 3 | A persona tem um status definido (primária, secundária, antiusuário...). | Sim | 1.0 | 09/02/25 |
+| 4 | A persona tem objetivos claros e bem descritos. |Sim | 1.0 | 09/02/25 |
+| 5 | A persona possui habilidades descritas, incluindo aquelas que vão além do escopo do produto. | Sim | 1.0 | 09/02/25 |
+| 6 | As tarefas executadas pela persona estão presentes, bem como seus detalhes e características. | Sim | 1.0 | 09/02/25|
+| 7 | Os relacionamentos da persona estão descritos. | Incompleto (deixar mais claro os relacionamentos) | 1.0 | 09/02/25 |
+| 8 | Os requisitos da persona estão presentes, incluindo citações para maior assimilação. |Sim | 1.0 | 09/02/25|
+| 9 | As expectativas da persona acerca do funcionamento do produto estão presentes e são claras. |Sim | 1.0 | 09/02/25 |
 | **Elenco de Personas** |
-| 1 | O elenco contém entre 3 e 12 personas no total. | |||
-| 2 | Existem 3 personas primárias claramente definidas. ||||
-| 3 | Cada persona primária representa diferentes perfis, com escopos e objetivos distintos. | |||
-| 4 | Todas as personas, independente de status, refletem diversidade e são relevantes para o projeto. ||||
-| 5 | As antipersonas foram identificadas e corretamente documentadas. | |||
+| 1 | O elenco contém entre 3 e 12 personas no total. | Sim | 1.0 | 09/02/25 |
+| 2 | Existem 3 personas primárias claramente definidas. |Sim | 1.0 | 09/02/25 |
+| 3 | Cada persona primária representa diferentes perfis, com escopos e objetivos distintos. |Sim | 1.0 | 09/02/25 |
+| 4 | Todas as personas, independente de status, refletem diversidade e são relevantes para o projeto. |Sim | 1.0 | 09/02/25|
+| 5 | As antipersonas foram identificadas e corretamente documentadas. | Sim | 1.0 | 09/02/25 |
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> [Rafael Pereira](https://github.com/rafgpereira), 2025</p></font>
 
