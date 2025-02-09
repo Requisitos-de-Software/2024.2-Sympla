@@ -22,11 +22,13 @@ Para cada item que foi elaborado e devidamente referenciado no [planejamento](./
 
 Na Tabela 1 é apresentada a lista de verificação inspecionada, conforme descrito anteriormente.
 
-<font size="3"><p style="text-align: center">Tabela 1: Lista de Verificação Inspecionada - Técnicas de Priorização- Three Level Scale</p></font>
+<font size="3"><p style="text-align: center">Tabela 1: Lista de Verificação Inspecionada - Modelagem ágil
+NFR Framework</p></font>
 
 | ID | Descrição | Avaliação | Versão | Data |
 |----|-----------|-------|-------|--------|
-| **Three Level Scale** |
+| **
+NFR Framework** |
 | 1  | São utilizadas duas dimensões para facilitar a priorização dos requisitos. | |||
 | 2  | Com base na análise bidimensional os requisitos são classificados em alta, média e baixa prioridade. | |||
 | 3  | Se existirem, os requisitos do quarto quadrante da análise bidimensional são reavaliados sobre sua existência ou classificados como baixa prioridade. ||||
@@ -40,18 +42,18 @@ Na Tabela 1 é apresentada a lista de verificação inspecionada, conforme descr
 | 11  | Os critérios de importância e urgência estão explicitamente definidos e compreendidos por todos os membros da equipe. | |||
 | 12  |Existe uma metodologia documentada para garantir que os critérios de priorização sejam aplicados de forma consistente por todos os envolvidos. | |||
 
-<font size="3"><p style="text-align: center"><b>Autor:</b> [Rafael Pereira](https://github.com/rafgpereira), 2025</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> [Gabriel Scheidt](https://github.com/Gxaite), 2025</p></font>
 
 
 ## Inspeção - Técnicas de Priorização
 
 Na Tabela 2 é apresentada a lista de verificação inspecionada, conforme descrito anteriormente.
 
-<font size="3"><p style="text-align: center">Tabela 2: Lista de Verificação Inspecionada - Técnicas de Priorização- In or Out</p></font>
+<font size="3"><p style="text-align: center">Tabela 2: Lista de Verificação Inspecionada - Modelagem ágil Backlog</p></font>
 
 | ID | Descrição | Avaliação | Versão | Data |
 |----|-----------|-------|-------|--------|
-| **In or Out** |
+| **Backlog** |
 | 1  | Todos os requisitos foram analisados e categorizados corretamente como "In" (dentro) ou "Out" (fora)?  | |||
 | 2  | As decisões de priorização foram feitas considerando os objetivos do projeto e a necessidades para a entrega do projeto? | |||
 | 3  | Os requisitos classificados como "Out" foram documentados para análise futura? ||||
@@ -80,5 +82,5 @@ No Vídeo 1 apresenta-se a auto inspeção do **Grupo 8 - Sympla**.
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor    |
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
-|  1.0   | Criação desse documento | [Rafael Pereira](https://github.com/rafgpereira) | 03/02/2025 | [Milena Rocha](https://github.com/MilenaFRocha)  |
-|  1.1   |Adição da técnica In or Out| [Gabriel Scheidt](https://github.com/Gxaite) | 06/02/2025 | [Milena Rocha](https://github.com/MilenaFRocha)  |
+|  1.0   | Criação desse documento | [Gabriel Scheidt](https://github.com/rafgpereira) | 09/02/2025 | [Milena Rocha](https://github.com/MilenaFRocha)  |
+
