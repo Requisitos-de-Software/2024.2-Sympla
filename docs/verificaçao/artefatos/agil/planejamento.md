@@ -30,30 +30,15 @@ Na Tabela 1 é apresentada a lista de verificação construída conforme a metod
 |----|-----------|-------|-------|--------|
 | **NFR Framework** |
 | 1  | É apresentado o cartão de especificação do RNF? | VictorS| ILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. Dissertação (Mestrado em Ciências da Computação) – Universidade Federal de Pernambuco, Recife, 2019 | [Imagem](./assets/1.png) |
-| 2  | Os softgoals são apresentados? Eles condizem com o contexto | Victor | ILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. Dissertação (Mestrado em Ciências da Computação) – Universidade Federal de Pernambuco, Recife, 2019  | [Imagem](./assets/2.png) |
-| 3  | É mostrado no NFR Framework as decomposições do SIG? | Victor | SERRANO, Milene; SERRANO, Maurício. Requisitos - aula 17. Brasília: UnB Gama, s.d. 1 apresentação em slides. SAcesso em: 17 de Dez. 2024 | [Imagem](./assets/3.png) |
-| 4  | Todos os requisitos não funcionais
-foram identificados como
-softgoals? | Renan Araújo | SERRANO, MAURÍCIO; SERRANO, Milene. Slides
-da aula Requisitos – Aula 17. Slide 10. | [Imagem](./assets/4.png) |
-| 5  | As interdependências entre os
-softgoals foram mapeadas
-utilizando o Softgoal
-Interdependency Graph (SIG)? |  Renan Araújo | SERRANO, MAURÍCIO; SERRANO, Milene. Slides
-da aula Requisitos – Aula 17. Slide 10.| [Imagem](./assets/4.png) |
-| 6  | Os NFR Framework foram
-classificados em categorias (ex:
-desempenho, segurança,
-usabilidade)? | Renan Araújo | SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de
-Requisitos Não-Funcionais para Sistemas
-Embarcados. Centro de Informática UFPE, Recife,
-2019. pg. 29.. | [Imagem](./assets/6.png) |
-| 7  | Requisitos de média prioridade foram definidos como importantes, mas não urgentes. | Renan Araújo | FIRST things first: Setting requirement priorities. In: WIEGERS, Karl E.; BEATTY, Joy. pg 319. Disponível em: [link](https://aprender3.unb.br/pluginfile.php/2972454/mod_resource/content/3/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf). | [Imagem](./assets/7.png) |
-| 8  | Requisitos de baixa prioridade foram definidos como não importantes e não urgentes. | Renan Araújo | FIRST things first: Setting requirement priorities. In: WIEGERS, Karl E.; BEATTY, Joy. pg 319. Disponível em: [link](https://aprender3.unb.br/pluginfile.php/2972454/mod_resource/content/3/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf). | [Imagem](./assets/8.png) |
-| 9  | As dependências entre requisitos foram consideradas ao aplicar a priorização. | Renan Araújo | FIRST things first: Setting requirement priorities. In: WIEGERS, Karl E.; BEATTY, Joy. pg 319. Disponível em: [link](https://aprender3.unb.br/pluginfile.php/2972454/mod_resource/content/3/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf). | [Imagem](./assets/9.png) |
-| 10  | Foi apresentado um termo de consentimento para os participantes da técnica. | Victor Hugo | BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011. Acesso em: 14 Jan. de 2025 | [Imagem](./assets/10.png) |
-| 11  | Os critérios de importância e urgência estão explicitamente definidos e compreendidos por todos os membros da equipe. | Gabriel Scheidt | WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. p.319 | [Imagem](./assets/11.png) |
-| 12  |Existe uma metodologia documentada para garantir que os critérios de priorização sejam aplicados de forma consistente por todos os envolvidos. | Gabriel Scheidt | WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. p.319 | [Imagem](./assets/12.png) |
+| 2  | Os softgoals são apresentados? Eles condizem com o contexto | Victor e Gabriel | ILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. Dissertação (Mestrado em Ciências da Computação) – Universidade Federal de Pernambuco, Recife, 2019  | [Imagem](./assets/2.png) |
+| 3  | É mostrado no NFR Framework as decomposições do SIG? | Victor e Milena | SERRANO, Milene; SERRANO, Maurício. Requisitos - aula 17. Brasília: UnB Gama, s.d. 1 apresentação em slides. SAcesso em: 17 de Dez. 2024 | [Imagem](./assets/3.png) |
+| 4  | Todos os requisitos não funcionais foram identificados como softgoals? | Renan Araújo | SERRANO, MAURÍCIO; SERRANO, Milene. Slides da aula Requisitos – Aula 17. Slide 10. | [Imagem](./assets/4.png) |
+| 5  | As interdependências entre os softgoals foram mapeadas utilizando o Softgoal Interdependency Graph (SIG)? |  Renan Araújo e Gabriel| SERRANO, MAURÍCIO; SERRANO, Milene. Slides da aula Requisitos – Aula 17. Slide 10.| [Imagem](./assets/4.png) |
+| 6  | Os NFR Framework foram classificados em categorias (ex: desempenho, segurança, usabilidade)? | Renan Araújo | SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019. pg. 29.. | [Imagem](./assets/6.png) |
+| 7  | O NFR Framework contém as decomposições do SIG (Decomposição NFR, Decomposição de Operacionalização, Decomposição de Afirmação, Decomposição de Priorização) | Rafael Pereira | SERRANO, Milene; SERRANO, Maurício. Requisitos - aula 17: NFR Framework. Brasília: UnB Gama, s.d. 1 apresentação em slides | [Imagem](./assets/7.png) |
+| 8  | A propagação de impactos foi feita de acordo com o padrão estabelecido. | Rafael Pereira e Milena | SERRANO, Milene; SERRANO, Maurício. Requisitos - aula 17: NFR Framework. Brasília: UnB Gama, s.d. 1 apresentação em slides | [Imagem](./assets/9.png) |
+| 9  | O modelo considera a análise e decisão sobre implementação dos requisitos não funcionais? | Rafael Pereira | SERRANO, Milene. Requisitos – Aula 17. 2017. Apresentação de slides. Disponível em: https://aprender3.unb.br/pluginfile.php/2972516/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf. Acesso em: 22 de Jan. 2025.
+ | [Imagem](./assets/9.png) |
 |**Backlog** |
 | 1  | Todos os requisitos foram analisados e categorizados corretamente como "In" (dentro) ou "Out" (fora)? | Rafael Pereira | WIEGERS, Karl; BEATTY, Joy. Software requirements. 3. ed. Redmond: Microsoft Press, 2013. 637 p. ISBN 978-0-7356-7966-5. | [Imagem](./assets/13.png) |
 | 2  | As decisões de priorização foram feitas considerando os objetivos do projeto e a necessidades para a entrega do projeto? | Gabriel Scheidt | WIEGERS, Karl; BEATTY, Joy. Software requirements. 3. ed. Redmond: Microsoft Press, 2013. 637 p. ISBN 978-0-7356-7966-5. | [Imagem](./assets/13.png) |
