@@ -62,15 +62,15 @@ No Vídeo 1 apresenta-se a auto inspeção do **Grupo 8 - Sympla**.
 
 ## **Bibliografia**
 
-> SOFTWARE REQUIREMENTS. 3rd Edition. Disponível em: [link](https://www.booksfree.org/wp-content/uploads/2022/03/Software_Requirements_3rd_Edition_compressed.pdf). Acesso em: 18 jan. 2025.
+> SERRANO, Milene; SERRANO,Maurício. Requisitos - aula 15. Brasília:UnB Gama, s.d. 1 apresentação emslides. Disponível em:https://aprender3.unb.br/pluginfile.php/2972504/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf. Acesso em:13 Jan. de 2025
 >
-> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011. Acesso em: 14 Jan. de 2025
+> ARAÚJO, Kleitor Franklint Corrêa. Modelagem com histórias: bem além dos requisitos. 2018. Disponível em: https://pt.slideshare.net/slideshow/modelagem-com-historias-bem-alm-dos-requisitos-84628101/84628101. Acesso em: 13 Jan. de 2025
 >
-> WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. p.319
-
+> 
 ## Histórico de Versões
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor    |
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
-|  1.1   |Criação do documento| [Gabriel Scheidt](https://github.com/Gxaite) | 09/02/2025 | [Victor Hugo](https://github.com/VHbernardes)  |
+|  1.0   |Criação do documento| [Gabriel Scheidt](https://github.com/Gxaite) | 09/02/2025 | [Victor Hugo](https://github.com/VHbernardes)  |
+|  1.1   | Atualização da bibliografia | [Gabriel Scheidt](https://github.com/rafgpereira) | 09/02/2025 | [Milena Rocha](https://github.com/MilenaFRocha)  |
 
