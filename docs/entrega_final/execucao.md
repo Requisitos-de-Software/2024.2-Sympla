@@ -30,4 +30,7 @@ A execução do projeto resume cada etapa importante, destacando os artefatos co
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     | 
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação desse documento | [Renan Araújo](https://github.com/renantfm4) | 09/02/2025 | [Rafael Pereira](https://github.com/rafgpereira)  |
+|  1.1   | Adicionando tabela | [Renan Araújo](https://github.com/renantfm4) | 09/02/2025 | [Rafael Pereira](https://github.com/rafgpereira)  |
+|  1.2   | Colocando link pros artefatos | [Renan Araújo](https://github.com/renantfm4) | 09/02/2025 | [Rafael Pereira](https://github.com/rafgpereira)  |
+|  1.3   | Descrevendo as etapas | [Renan Araújo](https://github.com/renantfm4) | 09/02/2025 | [Rafael Pereira](https://github.com/rafgpereira)  |
 
