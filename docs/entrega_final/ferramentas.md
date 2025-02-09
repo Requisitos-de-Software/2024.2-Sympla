@@ -25,6 +25,8 @@ Cada ferramenta desempenhou um papel fundamental em diferentes etapas do projeto
 | <img src="../../assets/ferramentas/figma.png" width=75px> | [Figma](https://www.figma.com/) | Ferramenta utilizada para a prototipação de requisitos, tanto implementados quanto não implementados, sendo fundamental nas fases de validação e refinamento das interfaces do sistema. |
 | <img src="https://this-person-does-not-exist.com/favicon.ico" width=75px> | [This Person Does Not Exist](https://this-person-does-not-exist.com/en) | Ferramenta baseada em inteligência artificial utilizada para gerar imagens realistas de rostos humanos inexistentes. No projeto, foi usada para criar imagens anônimas para representar Personas |
 | <img src="https://www.lucidchart.com/favicon.ico" width=75px> | [Lucidchart](https://www.lucidchart.com/pages/pt) | Plataforma usada para a criação de diagramas e modelagens visuais. Durante o projeto, foi essencial na elaboração de fluxogramas dos casos de uso. |
+|<img src= "./assets/google-forms.png" width=75px> | [Google Forms](https://docs.google.com/forms) | Ferramenta utilizada para a criação de formulários e coleta de dados. Utilizações a ferramenta durante a elicitação de requisitos e criação do perfil do usuário |
+
 
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Gabriel Scheidt](https://github.com/Gxaite), 2024.</p></font>
@@ -56,7 +58,7 @@ Cada ferramenta desempenhou um papel fundamental em diferentes etapas do projeto
 >  Lucidchart. Disponível em: https://www.lucidchart.com/pages/pt. Acesso em: 09 de Fevereiro de 2025.
 >
 >
->
+> Google Forms. Disponível em: https://docs.google.com/forms. Acesso em: 09 de Fevereiro de 2025.
 >
 
 
@@ -65,4 +67,5 @@ Cada ferramenta desempenhou um papel fundamental em diferentes etapas do projeto
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
+|  1.1   | Criação do documento| [Gabriel Scheidt](https://github.com/Gxaite) | 09/02/2025   | [Victor Hugo](https://github.com/VHbernardes)  |
 |  1.0   | Criação do documento| [Gabriel Scheidt](https://github.com/Gxaite) | 09/02/2025   | [Victor Hugo](https://github.com/VHbernardes)  |
