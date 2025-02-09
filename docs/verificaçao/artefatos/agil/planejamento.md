@@ -20,15 +20,15 @@ A Tabela 1 apresenta os itens reunidos e tem as seguintes colunas:
  - **Fonte**: referência para a origem do item
  - **Imagem**: imagem da fonte de onde o item foi retirado
 
-## Lista de Verificação - Técnicas Ágeis
+## Lista de Verificação - Modelagem ágil
 
 Na Tabela 1 é apresentada a lista de verificação construída conforme a metodologia acima.
 
-<font size="3"><p style="text-align: center">Tabela 1: Lista de Verificação Planejada - Técnicas de Priorização - Three Level Scale</p></font>
+<font size="3"><p style="text-align: center">Tabela 1: Lista de Verificação Planejada - Modelagem ágil - NFR Framework</p></font>
 
 | ID | Descrição | Autor | Fonte | Imagem |
 |----|-----------|-------|-------|--------|
-| **Three Level Scale** |
+| **NFR Framework** |
 | 1  | São utilizadas duas dimensões para facilitar a priorização dos requisitos. | Rafael Pereira, Milena Rocha | WIEGERS, Karl; BEATTY, Joy. Software requirements. 3. ed. Redmond: Microsoft Press, 2013. 637 p. ISBN 978-0-7356-7966-5. | [Imagem](./assets/1.png) |
 | 2  | Com base na análise bidimensional os requisitos são classificados em alta, média e baixa prioridade. | Rafael Pereira | WIEGERS, Karl; BEATTY, Joy. Software requirements. 3. ed. Redmond: Microsoft Press, 2013. 637 p. ISBN 978-0-7356-7966-5. | [Imagem](./assets/2.png) |
 | 3  | Se existirem, os requisitos do quarto quadrante da análise bidimensional são reavaliados sobre sua existência ou classificados como baixa prioridade. | Rafael Pereira | WIEGERS, Karl; BEATTY, Joy. Software requirements. 3. ed. Redmond: Microsoft Press, 2013. 637 p. ISBN 978-0-7356-7966-5. | [Imagem](./assets/3.png) |
@@ -47,11 +47,27 @@ Na Tabela 1 é apresentada a lista de verificação construída conforme a metod
 
 Na Tabela 2 é apresentada a lista de verificação construída conforme a metodologia acima.
 
-<font size="3"><p style="text-align: center">Tabela 2: Lista de Verificação Planejada - Técnicas de Priorização - In or Out</p></font>
+<font size="3"><p style="text-align: center">Tabela 2: Lista de Verificação Planejada - Modelagem ágil - Backlog</p></font>
 
 | ID | Descrição | Autor | Fonte | Imagem |
 |----|-----------|-------|-------|--------|
-|**In or Out** |
+|**Backlog** |
+| 1  | Todos os requisitos foram analisados e categorizados corretamente como "In" (dentro) ou "Out" (fora)? | Rafael Pereira | WIEGERS, Karl; BEATTY, Joy. Software requirements. 3. ed. Redmond: Microsoft Press, 2013. 637 p. ISBN 978-0-7356-7966-5. | [Imagem](./assets/13.png) |
+| 2  | As decisões de priorização foram feitas considerando os objetivos do projeto e a necessidades para a entrega do projeto? | Gabriel Scheidt | WIEGERS, Karl; BEATTY, Joy. Software requirements. 3. ed. Redmond: Microsoft Press, 2013. 637 p. ISBN 978-0-7356-7966-5. | [Imagem](./assets/13.png) |
+| 3  | Os requisitos classificados como "Out" foram documentados para análise futura? | Milena Rocha | WIEGERS, Karl; BEATTY, Joy. Software requirements. 3. ed. Redmond: Microsoft Press, 2013. 637 p. ISBN 978-0-7356-7966-5. | [Imagem](./assets/13.png) |
+| 4  | A priorização foi feita com envolvimento de todas as partes interessadas, garantindo um processo colaborativo? | Victor Hugo | WIEGERS, Karl; BEATTY, Joy. Software requirements. 3. ed. Redmond: Microsoft Press, 2013. 637 p. ISBN 978-0-7356-7966-5. | [Imagem](./assets/13.png) |
+| 5  | Foi feito uma tabela para vzualiação dos requisitos que foram classificados como "In" e "Out"| Renan Araújo |WIEGERS, Karl; BEATTY, Joy. Software requirements. 3. ed. Redmond: Microsoft Press, 2013. 637 p. ISBN 978-0-7356-7966-5.  | [Imagem](./assets/13.png) |
+
+<font size="3"><p style="text-align: center"><b>Autor:</b> [Gabriel Scheidt](https://github.com/Gxaite), 2025</p></font>
+
+
+Na Tabela 3 é apresentada a lista de verificação construída conforme a metodologia acima.
+
+<font size="3"><p style="text-align: center">Tabela 3: Lista de Verificação Planejada - Modelagem ágil - Histórias de usuário</p></font>
+
+| ID | Descrição | Autor | Fonte | Imagem |
+|----|-----------|-------|-------|--------|
+|**Histórias de usuário** |
 | 1  | Todos os requisitos foram analisados e categorizados corretamente como "In" (dentro) ou "Out" (fora)? | Rafael Pereira | WIEGERS, Karl; BEATTY, Joy. Software requirements. 3. ed. Redmond: Microsoft Press, 2013. 637 p. ISBN 978-0-7356-7966-5. | [Imagem](./assets/13.png) |
 | 2  | As decisões de priorização foram feitas considerando os objetivos do projeto e a necessidades para a entrega do projeto? | Gabriel Scheidt | WIEGERS, Karl; BEATTY, Joy. Software requirements. 3. ed. Redmond: Microsoft Press, 2013. 637 p. ISBN 978-0-7356-7966-5. | [Imagem](./assets/13.png) |
 | 3  | Os requisitos classificados como "Out" foram documentados para análise futura? | Milena Rocha | WIEGERS, Karl; BEATTY, Joy. Software requirements. 3. ed. Redmond: Microsoft Press, 2013. 637 p. ISBN 978-0-7356-7966-5. | [Imagem](./assets/13.png) |
