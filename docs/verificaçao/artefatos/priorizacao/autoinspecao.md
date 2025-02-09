@@ -65,6 +65,9 @@ Na Tabela 2 é apresentada a lista de verificação inspecionada, conforme descr
 No Vídeo 1 apresenta-se a auto inspeção do **Grupo 8 - Sympla**.
 <div align="center">
 
+<font size="3"><p style="text-align: center"> Vídeo 1: Auto Inspeção - Técnicas de Priorização - Grupo 8
+ <p><font>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jalVMjGEi8o?si=C2_ar2GXkL7k_I8t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 

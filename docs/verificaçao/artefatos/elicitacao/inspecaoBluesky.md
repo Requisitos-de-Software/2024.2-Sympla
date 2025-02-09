@@ -70,7 +70,8 @@ No Vídeo 1 apresenta-se a autoinspeção do **Grupo 8 - Sympla**.
 
 
 
-<font size="3"><p style="text-align: center"> Vídeo 1: Autoinspeção Grupo 8 - Sympla: Técnicas de Elicitação <p><font>
+<font size="3"><p style="text-align: center"> Vídeo 1: Inspeção de Técnicas de Elicitação - Grupo 1
+ <p><font>
 
 <div align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xI1-IGNwDtw?si=Updu58JRK9Y5ow_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

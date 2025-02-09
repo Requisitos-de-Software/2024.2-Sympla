@@ -57,6 +57,9 @@ No Vídeo 1 apresenta-se a inspeção do **Grupo 1 - BlueSky**.
 
 <div align="center">
 
+<font size="3"><p style="text-align: center"> Vídeo 1: Inspeção - Técnicas de Priorização - Grupo 1
+ <p><font>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/54GWsm4l-vw?si=8pHuucqHcS7qexg5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
