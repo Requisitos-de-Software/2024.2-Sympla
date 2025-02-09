@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 ## Introdução
 
 A verificação e validação (V&V) são etapas essenciais no ciclo de desenvolvimento e de vida de um software, que efetivamente dá suporte para a qualidade e a confiabilidade dos artefatos construídos. A verificação consiste em uma análise criteriosa dos artefatos, assegurando que estejam em conformidade com os requisitos estabelecidos e os padrões técnicos necessários.
@@ -93,4 +91,3 @@ Na Tabela 3 é apresentada a lista de verificação construída conforme a metod
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     | 
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação desse documento | [Gabriel Scheidt](https://github.com/rafgpereira) | 09/02/2025 | [Victor Hugo](https://github.com/VHbernardes)  |
->>>>>>> b966187f7cd5119ab7de5959861693e06d88e549
