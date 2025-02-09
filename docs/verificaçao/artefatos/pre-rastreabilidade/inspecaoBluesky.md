@@ -42,7 +42,7 @@ Na Tabela 1 é apresentada a lista de verificação inspecionada, conforme descr
 
 ## Gravação da Inspeção
 
-No Vídeo 1 apresenta-se a auto inspeção do **Grupo 8 - Sympla**.
+No Vídeo 1 apresenta-se a inspeção do **Grupo 1 - Bluesky**.
 
 // Vídeo aqui
 
