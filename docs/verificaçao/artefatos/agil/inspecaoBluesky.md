@@ -78,5 +78,5 @@ No Vídeo 1 apresenta-se a auto inspeção do **Grupo 8 - Sympla**.
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor    |
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
-|  1.0   | Criação desse documento | [Rafael Pereira](https://github.com/rafgpereira) | 03/02/2025 | [Milena Rocha](https://github.com/MilenaFRocha)  |
-|  1.1   |Adição da técnica In or Out| [Gabriel Scheidt](https://github.com/Gxaite) | 06/02/2025 | [Milena Rocha](https://github.com/MilenaFRocha)  |
+|  1.1   |Criação do documento| [Gabriel Scheidt](https://github.com/Gxaite) | 09/02/2025 | [Victor Hugo](https://github.com/VHbernardes)  |
+
