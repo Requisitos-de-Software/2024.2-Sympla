@@ -65,4 +65,4 @@ No Vídeo 1 apresenta-se a auto inspeção do **Grupo 8 - Sympla**.
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     | 
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
-|  1.0   | Criação desse documento | [Renan Araújo](https://github.com/renantfm4) | 06/02/2025 | [Rafael Pereira](https://github.com/rafgpereira)  |
+|  1.0   | Criação desse documento | [Renan Araújo](https://github.com/renantfm4) | 09/02/2025 | [Rafael Pereira](https://github.com/rafgpereira)  |
