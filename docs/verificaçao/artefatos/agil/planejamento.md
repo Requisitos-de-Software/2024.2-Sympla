@@ -29,7 +29,7 @@ Na Tabela 1 é apresentada a lista de verificação construída conforme a metod
 | ID | Descrição | Autor | Fonte | Imagem |
 |----|-----------|-------|-------|--------|
 | **NFR Framework** |
-| 1  | São utilizadas duas dimensões para facilitar a priorização dos requisitos. | Rafael Pereira, Milena Rocha | WIEGERS, Karl; BEATTY, Joy. Software requirements. 3. ed. Redmond: Microsoft Press, 2013. 637 p. ISBN 978-0-7356-7966-5. | [Imagem](./assets/1.png) |
+| 1  | É apresentado o cartão de especificação do RNF? | VictorS| ILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. Dissertação (Mestrado em Ciências da Computação) – Universidade Federal de Pernambuco, Recife, 2019 | [Imagem](./assets/1.png) |
 | 2  | Com base na análise bidimensional os requisitos são classificados em alta, média e baixa prioridade. | Rafael Pereira | WIEGERS, Karl; BEATTY, Joy. Software requirements. 3. ed. Redmond: Microsoft Press, 2013. 637 p. ISBN 978-0-7356-7966-5. | [Imagem](./assets/2.png) |
 | 3  | Se existirem, os requisitos do quarto quadrante da análise bidimensional são reavaliados sobre sua existência ou classificados como baixa prioridade. | Rafael Pereira | WIEGERS, Karl; BEATTY, Joy. Software requirements. 3. ed. Redmond: Microsoft Press, 2013. 637 p. ISBN 978-0-7356-7966-5. | [Imagem](./assets/3.png) |
 | 4  | Os requisitos foram agrupados em 3 diferentes categorias, sendo elas baixa, média e alta. | Milena Rocha, Victor Hugo, Gabriel Scheidt | SOFTWARE REQUIREMENTS. 3rd Edition. Disponível em: [link](https://www.booksfree.org/wp-content/uploads/2022/03/Software_Requirements_3rd_Edition_compressed.pdf). Acesso em: 18 jan. 2025. | [Imagem](./assets/4.png) |
