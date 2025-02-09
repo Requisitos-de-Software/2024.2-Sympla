@@ -56,9 +56,17 @@ Na Tabela 1 é apresentada a lista de verificação inspecionada, conforme descr
 
 ## Gravação da Inspeção
 
-No Vídeo 1 apresenta-se a auto inspeção do **Grupo 8 - Sympla**.
+No Vídeo 1 apresenta-se a autoinspeção do **Grupo 8 - Sympla**.
 
-// Vídeo aqui
+
+<font size="3"><p style="text-align: center"> Vídeo 1: Autoinspeção Grupo 8 - Sympla: Perfil de Usuário e Personas <p><font>
+
+<div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JQNbJcE_RrQ?si=QLcd2C03IBcdUrq1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+<font size="3"><p style="text-align: center"> Autor: [Rafael Pereira](https://github.com/rafgpereira) , 2025 <p><font>
+
 
 
 
@@ -72,3 +80,4 @@ No Vídeo 1 apresenta-se a auto inspeção do **Grupo 8 - Sympla**.
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor    |
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação desse documento | [Rafael Pereira](https://github.com/rafgpereira) | 03/02/2025 | [Milena Rocha](https://github.com/MilenaFRocha)  |
+|  1.1   | Inpeção v1.0 | [Rafael Pereira](https://github.com/rafgpereira) | 04/02/2025 | [Victor Hugo](https://github.com/VHbernardes)  |

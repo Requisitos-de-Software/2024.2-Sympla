@@ -66,13 +66,18 @@ Na Tabela 1 é apresentada a lista de verificação inspecionada, conforme descr
 
 No Vídeo 1 apresenta-se a inspeção do **Grupo 1 - BlueSky**.
 
-<font size="3"><p style="text-align: center"><b>Autor:</b> [Milena Rocha](https://github.com/MilenaFRocha), 2025</p></font>
+No Vídeo 1 apresenta-se a autoinspeção do **Grupo 8 - Sympla**.
+
+
+
+<font size="3"><p style="text-align: center"> Vídeo 1: Autoinspeção Grupo 8 - Sympla: Técnicas de Elicitação <p><font>
 
 <div align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xI1-IGNwDtw?si=Updu58JRK9Y5ow_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </div>
 
+<font size="3"><p style="text-align: center"><b>Autor:</b> [Milena Rocha](https://github.com/MilenaFRocha), 2025</p></font>
 
 
 ## **Bibliografia**
