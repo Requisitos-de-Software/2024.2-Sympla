@@ -67,5 +67,5 @@ Cada ferramenta desempenhou um papel fundamental em diferentes etapas do projeto
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
-|  1.1   | Criação do documento| [Gabriel Scheidt](https://github.com/Gxaite) | 09/02/2025   | [Victor Hugo](https://github.com/VHbernardes)  |
+|  1.1   | Adição de novas ferramentas| [Gabriel Scheidt](https://github.com/Gxaite) | 09/02/2025   | [Victor Hugo](https://github.com/VHbernardes)  |
 |  1.0   | Criação do documento| [Gabriel Scheidt](https://github.com/Gxaite) | 09/02/2025   | [Victor Hugo](https://github.com/VHbernardes)  |
