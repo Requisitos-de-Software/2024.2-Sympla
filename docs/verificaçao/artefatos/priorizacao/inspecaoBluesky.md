@@ -39,16 +39,6 @@ Na Tabela 1 é apresentada a lista de verificação inspecionada, conforme descr
 | 10  | Foi apresentado um termo de consentimento para os participantes da técnica. | Sim |1.0|10/02/2025|
 | 11  | Os critérios de importância e urgência estão explicitamente definidos e compreendidos por todos os membros da equipe. | Não |1.0|10/02/2025|
 | 12  |Existe uma metodologia documentada para garantir que os critérios de priorização sejam aplicados de forma consistente por todos os envolvidos. | Sim |1.0|10/02/2025|
-
-<font size="3"><p style="text-align: center"><b>Autor:</b> [Rafael Pereira](https://github.com/rafgpereira) e [Milena Rocha](https://github.com/MilenaFRocha), 2025</p></font>
-
-
-Na Tabela 2 é apresentada a lista de verificação inspecionada, conforme descrito anteriormente.
-
-<font size="3"><p style="text-align: center">Tabela 2: Lista de Verificação Inspecionada - Técnicas de Priorização- In or Out</p></font>
-
-| ID | Descrição | Avaliação | Versão | Data |
-|----|-----------|-------|-------|--------|
 | **In or Out** |
 | 1  | Todos os requisitos foram analisados e categorizados corretamente como "In" (dentro) ou "Out" (fora)?  |NA |||
 | 2  | As decisões de priorização foram feitas considerando os objetivos do projeto e a necessidades para a entrega do projeto? | NA|||
@@ -59,15 +49,15 @@ Na Tabela 2 é apresentada a lista de verificação inspecionada, conforme descr
 <font size="3"><p style="text-align: center"><b>Autor:</b> [Gabriel Scheidt](https://github.com/Gxaite) e [Milena Rocha](https://github.com/MilenaFRocha) e , 2025</p></font>
 =======
 <font size="3"><p style="text-align: center"><b>Autores:</b> [Rafael Pereira](https://github.com/rafgpereira) e [Gabriel Scheidt](https://github.com/Gxaite), 2025</p></font>
->>>>>>> b83e110c454be6dfe7bb71c8b680edfe125996cc
+
 
 ## Gravação da Inspeção
 
-No Vídeo 1 apresenta-se a auto inspeção do **Grupo 1 - BlueSky**.
+No Vídeo 1 apresenta-se a inspeção do **Grupo 1 - BlueSky**.
 
 <div align="center">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jalVMjGEi8o?si=C2_ar2GXkL7k_I8t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/54GWsm4l-vw?si=8pHuucqHcS7qexg5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Milena Rocha](https://github.com/MilenaFRocha), 2025</p></font>

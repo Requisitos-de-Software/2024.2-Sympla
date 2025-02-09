@@ -23,7 +23,7 @@ Para cada item que foi elaborado e devidamente referenciado no [planejamento](./
 Na Tabela 1 é apresentada a lista de verificação inspecionada, conforme descrito anteriormente.
 
 <font size="3"><p style="text-align: center">Tabela 1: Lista de Verificação Inspecionada - Técnicas de Priorização</p></font>
-<font size="3"><p style="text-align: center">Tabela 1: Lista de Verificação Inspecionada - Técnicas de Priorização</p></font>
+
 
 | ID | Descrição | Avaliação | Versão | Data |
 |----|-----------|-------|-------|--------|
@@ -41,7 +41,7 @@ Na Tabela 1 é apresentada a lista de verificação inspecionada, conforme descr
 | 11  | Os critérios de importância e urgência estão explicitamente definidos e compreendidos por todos os membros da equipe. |Sim  |1.1|10/02/2025
 | 12  |Existe uma metodologia documentada para garantir que os critérios de priorização sejam aplicados de forma consistente por todos os envolvidos. |Sim  |1.1|10/02/2025
 
-<font size="3"><p style="text-align: center"><b>Autor:</b> [Rafael Pereira](https://github.com/rafgpereira), 2025</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> [Rafael Pereira](https://github.com/rafgpereira) e  [Milena Rocha](https://github.com/MilenaFRocha), 2025</p></font>
 
 
 Na Tabela 2 é apresentada a lista de verificação inspecionada, conforme descrito anteriormente.
@@ -57,7 +57,7 @@ Na Tabela 2 é apresentada a lista de verificação inspecionada, conforme descr
 | 4  | A priorização foi feita com envolvimento de todas as partes interessadas, garantindo um processo colaborativo?|Sim  |1.1|10/02/2025
 | 5  | Foi feito uma tabela para vizualiação dos requisitos que foram classificados como "In" e "Out" |Sim  |1.1|10/02/2025
 
-<font size="3"><p style="text-align: center"><b>Autor:</b> [Gabriel Scheidt](https://github.com/Gxaite) e [Milena Rocha]((https://github.com/MilenaFRocha), 2025</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> [Gabriel Scheidt](https://github.com/Gxaite) e [Milena Rocha](https://github.com/MilenaFRocha), 2025</p></font>
 
 
 ## Gravação da Inspeção
