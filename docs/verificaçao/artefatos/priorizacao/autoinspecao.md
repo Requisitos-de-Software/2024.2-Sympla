@@ -18,7 +18,7 @@ Para cada item que foi elaborado e devidamente referenciado no [planejamento](./
  - **Versão**: versão da avaliação
  - **Data**: data da avaliação da última versão do item
 
-## Inspeção - Técnicas de Priorização
+## Inspeção - Modelagem ágil
 
 Na Tabela 1 é apresentada a lista de verificação inspecionada, conforme descrito anteriormente.
 
@@ -45,7 +45,7 @@ NFR Framework** |
 <font size="3"><p style="text-align: center"><b>Autor:</b> [Gabriel Scheidt](https://github.com/Gxaite), 2025</p></font>
 
 
-## Inspeção - Técnicas de Priorização
+## Inspeção - Modelagem ágil
 
 Na Tabela 2 é apresentada a lista de verificação inspecionada, conforme descrito anteriormente.
 
@@ -54,6 +54,24 @@ Na Tabela 2 é apresentada a lista de verificação inspecionada, conforme descr
 | ID | Descrição | Avaliação | Versão | Data |
 |----|-----------|-------|-------|--------|
 | **Backlog** |
+| 1  | Todos os requisitos foram analisados e categorizados corretamente como "In" (dentro) ou "Out" (fora)?  | |||
+| 2  | As decisões de priorização foram feitas considerando os objetivos do projeto e a necessidades para a entrega do projeto? | |||
+| 3  | Os requisitos classificados como "Out" foram documentados para análise futura? ||||
+| 4  | A priorização foi feita com envolvimento de todas as partes interessadas, garantindo um processo colaborativo? ||||
+| 5  | Foi feito uma tabela para vizualiação dos requisitos que foram classificados como "In" e "Out" ||||
+
+<font size="3"><p style="text-align: center"><b>Autor:</b> [Gabriel Scheidt](https://github.com/Gxaite), 2025</p></font>
+
+## Inspeção - Modelagem ágil
+
+Na Tabela 2 é apresentada a lista de verificação inspecionada, conforme descrito anteriormente.
+
+<font size="3"><p style="text-align: center">Tabela 2: Lista de Verificação Inspecionada - Modelagem ágil Histórias de usuário</p></font>
+
+| ID | Descrição | Avaliação | Versão | Data |
+|----|-----------|-------|-------|--------|
+| **
+Histórias de usuário** |
 | 1  | Todos os requisitos foram analisados e categorizados corretamente como "In" (dentro) ou "Out" (fora)?  | |||
 | 2  | As decisões de priorização foram feitas considerando os objetivos do projeto e a necessidades para a entrega do projeto? | |||
 | 3  | Os requisitos classificados como "Out" foram documentados para análise futura? ||||
