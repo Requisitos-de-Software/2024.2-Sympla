@@ -74,5 +74,5 @@ Na Tabela 2 é apresentada a lista de verificação construída conforme a metod
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     | 
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
-|  1.1   |Adição da técnica In or Out| [Gabriel Scheidt](https://github.com/Gxaite) | 06/02/2025 | [Milena Rocha](https://github.com/MilenaFRocha)  |
 |  1.0   | Criação desse documento | [Rafael Pereira](https://github.com/rafgpereira) | 03/02/2025 | [Milena Rocha](https://github.com/MilenaFRocha)  |
+|  1.1   |Adição da técnica In or Out| [Gabriel Scheidt](https://github.com/Gxaite) | 06/02/2025 | [Milena Rocha](https://github.com/MilenaFRocha)  |
