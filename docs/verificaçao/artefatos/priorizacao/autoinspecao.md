@@ -26,8 +26,7 @@ Na Tabela 1 é apresentada a lista de verificação inspecionada, conforme descr
 
 | ID | Descrição | Avaliação | Versão | Data |
 |----|-----------|-------|-------|--------|
-| **
-NFR Framework** |
+| **Three Level Scale** |
 | 1  | São utilizadas duas dimensões para facilitar a priorização dos requisitos. | |||
 | 2  | Com base na análise bidimensional os requisitos são classificados em alta, média e baixa prioridade. | |||
 | 3  | Se existirem, os requisitos do quarto quadrante da análise bidimensional são reavaliados sobre sua existência ou classificados como baixa prioridade. ||||
