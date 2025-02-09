@@ -50,6 +50,11 @@ Cada ferramenta desempenhou um papel fundamental em diferentes etapas do projeto
 > 
 >  YouTube. Disponível em: https://about.youtube/. Acesso em: 09 de Fevereiro de 2025.
 >
+> 
+>  This Person does not exist. Disponível em: https://this-person-does-not-exist.com/en. Acesso em: 09 de Fevereiro de 2025.
+>
+
+
 
 
 ## Histórico de Versões
