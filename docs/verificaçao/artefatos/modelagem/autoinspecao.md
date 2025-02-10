@@ -27,34 +27,46 @@ Na Tabela 1 é apresentada a lista de verificação inspecionada, conforme descr
 | ID | Descrição | Avaliação | Versão | Data |
 |----|-----------|-------|-------|--------|
 |**Cenários** |
-| 1  | Os cenários possuem um título claro e descritivo. ||||
-| 2 | Os atores envolvidos no cenárioestão claramente identificados. | |||
-| 3 | O contexto em que o cenário se desenrola é descrito de forma detalhada. ||||
-| 4 | As ações dos atores são descritas de forma observável e sequencial. ||||
-| 5 | O planejamento das ações necessárias para alcançar o objetivo está claramente descrito no cenário. | |||
-| 6 | Os cenários elaborados envolvem as principais ações que os usuário vão realizar, e com maior frequência. ||||
-| 7 | Os cenários apresentam: ambiente/contexto, atores, objetivos, planejamento, ações, eventos e avaliação. ||||
-| 8 | Os cenários são uma história sobre pessoas realizando uma atividade, uma narrativa, textual ou pictórica, concreta, rica em detalhes. | |||
+| 1  | Os cenários possuem um título claro e descritivo. |Sim|1.1|10/08/2025|
+| 2 | Os atores envolvidos no cenárioestão claramente identificados. |Sim|1.1|10/08/2025|
+| 3 | O contexto em que o cenário se desenrola é descrito de forma detalhada. |Sim|1.1|10/08/2025|
+| 4 | As ações dos atores são descritas de forma observável e sequencial. |Sim|1.1|10/08/2025|
+| 5 | O planejamento das ações necessárias para alcançar o objetivo está claramente descrito no cenário. |Sim|1.1|10/08/2025|
+| 6 | Os cenários elaborados envolvem as principais ações que os usuário vão realizar, e com maior frequência. |Sim|1.1|10/08/2025|
+| 7 | Os cenários apresentam: ambiente/contexto, atores, objetivos, planejamento, ações, eventos e avaliação. |Não|1.1|10/08/2025|
+| 8 | Os cenários são uma história sobre pessoas realizando uma atividade, uma narrativa, textual ou pictórica, concreta, rica em detalhes.  |Sim|1.1|10/08/2025|
 | **Léxicos** |
-| 9 | A definição do usuário nos Léxicos? | |||
-| 10 | Os léxicos possuem ligações entre si (hiper links)? | |||
-| 11 | Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)?  | |||
+| 9 | Há definição do usuário nos Léxicos? |Não|1.1|10/08/2025|
+| 10 | Os léxicos possuem ligações entre si (hiper links)? |Sim|1.1|10/08/2025|
+| 11 | Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)?  |Sim|1.1|10/08/2025|
 | **Casos de Uso** |
-| 12 | Todos os elementos necessários para a criação do diagrama de caso de uso estão sendo mostrados? (atores, relacionamentos, sistemas e casos de uso) | |||
-| 13  | Os atores principais e atores secundários no diagrama de caso de uso? ||||
-| 14 |  O ator principal está do lado esquerdo do sistema no diagrama de caso de uso? | |||
-| 15 | Os atores estão fora da caixa de limite do sistema no diagrama de caso de uso?  ||||
-| 16 | A especificação do diagrama de caso de uso (com Nome, Descrição, Atores, Pré-Condição,Pós-Condição, Fluxo Principal, Fluxo Alternativo e Fluxo de Exceção etc.)? ||||
-| 17 | O nome da aplicação está no topo do sistema? | |||
-| 18 |O ator recebe um nome devidamente ligado a quem ele é? (Pessoa, Cliente, Organização, Outro sistema, Dispositivo externo) ||||
-| 19 |  Está sendo usado verbos no infinitivo para mostras os casos de uso?  ||||
+| 12 | Todos os elementos necessários para a criação do diagrama de caso de uso estão sendo mostrados? (atores, relacionamentos, sistemas e casos de uso) |Sim|1.0|10/08/2025|
+| 13  | Os atores principais e atores secundários no diagrama de caso de uso? |Sim|1.0|10/08/2025|
+| 14 |  O ator principal está do lado esquerdo do sistema no diagrama de caso de uso? |Sim|1.0|10/08/2025|
+| 15 | Os atores estão fora da caixa de limite do sistema no diagrama de caso de uso? |Sim|1.0|10/08/2025|
+| 16 | A especificação do diagrama de caso de uso (com Nome, Descrição, Atores, Pré-Condição,Pós-Condição, Fluxo Principal, Fluxo Alternativo e Fluxo de Exceção etc.)?|Sim|1.0|10/08/2025|
+| 17 | O nome da aplicação está no topo do sistema? |Sim|1.0|10/08/2025|
+| 18 |O ator recebe um nome devidamente ligado a quem ele é? (Pessoa, Cliente, Organização, Outro sistema, Dispositivo externo) |Sim|1.0|10/08/2025|
+| 19 |  Está sendo usado verbos no infinitivo para mostras os casos de uso?  |Sim|1.0|10/08/2025|
 | **Especificação Suplementar** |
-| 20 | A especificação suplementar? | |||
-| 21 |  O artefato segue o modelo FURPS+? | |||
-| 22 |  O documento especifica o tempo de resposta, no Desempenho? | |||
-| 23 | O documento especifica qual plataforma o aplicativo pode ser executado? | |||
+| 20 | Há especificação suplementar? |Sim|1.2|10/08/2025|
+| 21 |  O artefato segue o modelo FURPS+? |Sim|1.2|10/08/2025|
+| 22 |  O documento especifica o tempo de resposta, no Desempenho? |Sim|1.2|10/08/2025|
+| 23 | O documento especifica qual plataforma o aplicativo pode ser executado? |Sim|1.2|10/08/2025|
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> [Victor Hugo](https://github.com/VHbernardes), 2025</p></font>
+
+No Vídeo 1 apresenta-se a autoinspeção do **Grupo 8 - Sympla**.
+
+
+
+<font size="3"><p style="text-align: center"> Vídeo 1: Auto Inspeção - Modelagem - Grupo 8 <p><font>
+
+<div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V_9xSPVf7mA?si=F6lkNgHKsLaB9umU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+<font size="3"><p style="text-align: center"> Autor: [Milena Rocha](https://github.com/MilenaFRocha) , 2025 <p><font>
 
 ## **Bibliografia**
 
@@ -67,3 +79,4 @@ Na Tabela 1 é apresentada a lista de verificação inspecionada, conforme descr
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação desse documento | [Victor Hugo](https://github.com/VHbernardes) | 08/02/2025 | [Renan Araújo](https://github.com/renantfm4)  |
 |  1.1   | Adição dos itens dos léxicos, Casos de uso e especificação suplementar | [Victor Hugo](https://github.com/VHbernardes) | 08/02/2025 | [Renan Araújo](https://github.com/renantfm4)  |
+|  1.2   | Adição dos itens dos léxicos, Casos de uso e especificação suplementar |[Milena Rocha](https://github.com/MilenaFRocha) | 08/02/2025 |   [Renan Araújo](https://github.com/renantfm4) |
