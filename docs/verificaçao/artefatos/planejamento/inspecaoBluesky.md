@@ -48,6 +48,11 @@ Na Tabela 1 é apresentada a lista de verificação inspecionada, conforme descr
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> [Renan Araújo](https://github.com/renantfm4), 2025</p></font>
 
+
+## Gravação da Inspeção
+
+No Vídeo 1 apresenta-se a autoinspeção do **Grupo +1 - Bluesky**.
+
 <font size="3"><p style="text-align: center"> Vídeo 1: Inspeção - Planejamento - Grupo +1 Bluesky  </p></font>
 
 <div align="center">

@@ -58,7 +58,13 @@ Na Tabela 1 é apresentada a lista de verificação inspecionada, conforme descr
 
 No Vídeo 1 apresenta-se a auto inspeção do **Grupo +1 - Bluesky**.
 
-// Vídeo aqui
+<font size="3"><p style="text-align: center"> Vídeo 1: Inspeção Grupo 1 - Bluesky: Perfil de Usuário e Personas <p><font>
+
+<div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I4vI02OT8iQ?si=1d-_PlEImUlKq6f4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+<font size="3"><p style="text-align: center"> Autor: [Rafael Pereira](https://github.com/rafgpereira) , 2025 <p><font>
 
 
 
