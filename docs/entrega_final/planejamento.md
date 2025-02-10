@@ -15,7 +15,7 @@ O desenvolvimento desse artefato foi baseado em dois cronogramas: o **planejado*
 |----------------|------------------|---------------|------------|------------|
 | Nome do Artefato 1 | Autor 1, Autor 2 | Revisor 1     | DD/MM  | DD/MM  |
 
-<font size="2"><p style="text-align: center"><b>Autor:</b> [Victor Hugo](https://github.com/VHbernardes), 2025</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> [Victor Hugo](https://github.com/VHbernardes), 2025</p></font>
 
 </center>
 
@@ -46,7 +46,7 @@ As tabelas de 2 e 3 apresentam os cronogramas planejados e executados da Entrega
     | Implementar Git Page                      | [Victor Hugo](https://github.com/VHbernardes)                                                                            | [Rafael](https://github.com/rafgpereira)  | 24/10      | 26/10      |
     | Correção pós-apresentação                 | [Milena](https://github.com/MilenaFRocha), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes), [Rafael](https://github.com/rafgpereira) | [Renan](https://github.com/renantfm4)  | 31/10      | 02/11      |
 
-    <font size="2"><p style="text-align: center"><b>Autor:</b> [Victor Hugo](https://github.com/VHbernardes), 2025</p></font>
+    <font size="3"><p style="text-align: center"><b>Autor:</b> [Victor Hugo](https://github.com/VHbernardes), 2025</p></font>
 
 
 ??? abstract "Tabela 3 - Primeira Entrega Executado"
@@ -69,7 +69,7 @@ As tabelas de 2 e 3 apresentam os cronogramas planejados e executados da Entrega
     | Regravação da 1ª Entrega                  | [Gabriel Scheidt](https://github.com/Gxaite)                                                                            | [Rafael](https://github.com/rafgpereira)  | 05/11      | 05/11      |
     | Correção pós-apresentação                 | -                                                                                                                        | -                                        | -          | -          |
 
-    <font size="2"><p style="text-align: center"><b>Autor:</b> [Victor Hugo](https://github.com/VHbernardes), 2025</p></font>
+    <font size="3"><p style="text-align: center"><b>Autor:</b> [Victor Hugo](https://github.com/VHbernardes), 2025</p></font>
 
 
 </center>
@@ -98,7 +98,7 @@ As tabelas de 4 e 5 apresentam os cronogramas planejados e executados da Entrega
     | Preparação final e gravação da apresentação    | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | [Gabriel](https://github.com/Gxaite) | 22/11      | 23/11      |
     | Correção pós apresentação                      | -                                                           | -                                   | -          | -          |
 
-    <font size="2"><p style="text-align: center"><b>Autor:</b> [Victor Hugo](https://github.com/VHbernardes), 2025</p></font>
+    <font size="3"><p style="text-align: center"><b>Autor:</b> [Victor Hugo](https://github.com/VHbernardes), 2025</p></font>
 
 
 ??? abstract "Tabela 5 - Segunda entrega executada"
@@ -121,7 +121,7 @@ As tabelas de 4 e 5 apresentam os cronogramas planejados e executados da Entrega
     | Preparação final e gravação da apresentação    | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | - | 22/11      | 23/11      |
     | Correção pós apresentação                      | -                                                           | -                                   | -          | -          |
 
-    <font size="2"><p style="text-align: center"><b>Autor:</b> [Victor Hugo](https://github.com/VHbernardes), 2025</p></font>
+    <font size="3"><p style="text-align: center"><b>Autor:</b> [Victor Hugo](https://github.com/VHbernardes), 2025</p></font>
 
 </center>
 
@@ -144,7 +144,7 @@ As tabelas de 6 e 7 apresentam os cronogramas planejados e executados da Entrega
     | Gravação da Apresentação e Entrega           | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | 05/12      | 07/12      |
     | Correção pós apresentação                    | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | 08/12      | 09/12      |
 
-    <font size="2"><p style="text-align: center"><b>Autor:</b> [Victor Hugo](https://github.com/VHbernardes), 2025</p></font>
+    <font size="3"><p style="text-align: center"><b>Autor:</b> [Victor Hugo](https://github.com/VHbernardes), 2025</p></font>
 
 
 ??? abstract "Tabela 7 - Terceira Entrega executada"
@@ -160,7 +160,7 @@ As tabelas de 6 e 7 apresentam os cronogramas planejados e executados da Entrega
     | Gravação da Apresentação e Entrega           | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | [Victor Hugo](https://github.com/VHbernardes)              | 07/12      | 08/12      |
     | Correção pós apresentação                    | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | 08/12      | 13/12      |
 
-    <font size="2"><p style="text-align: center"><b>Autor:</b> [Victor Hugo](https://github.com/VHbernardes), 2025</p></font>
+    <font size="3"><p style="text-align: center"><b>Autor:</b> [Victor Hugo](https://github.com/VHbernardes), 2025</p></font>
 
 </center>
 
@@ -182,7 +182,7 @@ As tabelas de 8 e 9 apresentam os cronogramas planejados e executados da Entrega
     | Gravação da Apresentação e Entrega                 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | 14/12      | 15/12      |
     | Correção pós apresentação                          | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | 16/12      | 18/12      |
 
-    <font size="2"><p style="text-align: center"><b>Autor:</b> [Victor Hugo](https://github.com/VHbernardes), 2025</p></font>
+    <font size="3"><p style="text-align: center"><b>Autor:</b> [Victor Hugo](https://github.com/VHbernardes), 2025</p></font>
 
 
 ??? abstract "Tabela 9 - Quarta entrega Executada"
@@ -197,7 +197,7 @@ As tabelas de 8 e 9 apresentam os cronogramas planejados e executados da Entrega
     | Gravação da Apresentação e Entrega                 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | [Gabriel](https://github.com/Gxaite)                      | 14/12      | 15/12      |
     | Correção pós apresentação                          | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | [Victor Hugo](https://github.com/VHbernardes)             | 16/12      | 18/12      |
 
-    <font size="2"><p style="text-align: center"><b>Autor:</b> [Victor Hugo](https://github.com/VHbernardes), 2025</p></font>
+    <font size="3"><p style="text-align: center"><b>Autor:</b> [Victor Hugo](https://github.com/VHbernardes), 2025</p></font>
 
 </center>
 
@@ -218,7 +218,7 @@ As tabelas de 10 e 11 apresentam os cronogramas planejados e executados da Entre
     | Gravação da Apresentação e Entrega               | Início: 27/01<br>Fim: 29/01 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | Início: 30/01<br>Fim: 31/01 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) |
     | Correção pós apresentação                        | Início: 31/01<br>Fim: 02/02 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | Início: 02/02<br>Fim: 04/02 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) |
 
-    <font size="2"><p style="text-align: center"><b>Autor:</b> [Victor Hugo](https://github.com/VHbernardes), 2025</p></font>
+    <font size="3"><p style="text-align: center"><b>Autor:</b> [Victor Hugo](https://github.com/VHbernardes), 2025</p></font>
 
 ??? abstract "Tabela 11 - Quinta entrega Executada"
 
@@ -231,7 +231,7 @@ As tabelas de 10 e 11 apresentam os cronogramas planejados e executados da Entre
     | Gravação da Apresentação e Entrega               | Início: 27/01<br>Fim: 29/01 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | Início: 01/02<br>Fim: 03/02 | [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira) |
     | Correção pós apresentação                        | Início: 31/01<br>Fim: 02/02 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | - | - |
 
-    <font size="2"><p style="text-align: center"><b>Autor:</b> [Victor Hugo](https://github.com/VHbernardes), 2025</p></font>
+    <font size="3"><p style="text-align: center"><b>Autor:</b> [Victor Hugo](https://github.com/VHbernardes), 2025</p></font>
 
 </center>
 
@@ -252,7 +252,7 @@ As tabelas de 12 e 13 apresentam os cronogramas planejados e executados da Entre
     | Gravação da Apresentação e Entrega       | Início: 18/01<br>Fim: 19/01 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | Início: 19/01<br>Fim: 21/01 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) |
     | Correção pós apresentação                | Início: 21/01<br>Fim: 23/01 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | Início: 23/01<br>Fim: 25/01 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) |
 
-    <font size="2"><p style="text-align: center"><b>Autor:</b> [Victor Hugo](https://github.com/VHbernardes), 2025</p></font>
+    <font size="3"><p style="text-align: center"><b>Autor:</b> [Victor Hugo](https://github.com/VHbernardes), 2025</p></font>
 
 
 ??? abstract "Tabela 13 - Sexta entrega Executada"
@@ -267,7 +267,7 @@ As tabelas de 12 e 13 apresentam os cronogramas planejados e executados da Entre
     | Gravação da Apresentação e Entrega          | Início: 18/01<br>Fim: 19/01 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | Início: 19/01<br>Fim: 21/01 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) |
     | Correção pós apresentação                   | Início: 21/01<br>Fim: 23/01 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | Início: 23/01<br>Fim: 25/01 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) |
 
-    <font size="2"><p style="text-align: center"><b>Autor:</b> [Victor Hugo](https://github.com/VHbernardes), 2025</p></font>
+    <font size="3"><p style="text-align: center"><b>Autor:</b> [Victor Hugo](https://github.com/VHbernardes), 2025</p></font>
 
 </center>
 
@@ -287,7 +287,7 @@ As tabelas de 14 e 15 apresentam os cronogramas planejados e executados da Entre
     | Gravação da Apresentação e Entrega             | Início: 08/02<br>Fim: 09/02 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | Início: 04/02<br>Fim: 05/02 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) |
     | Correção pós apresentação                     | Início: 09/02<br>Fim: 11/02 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | Início: 10/02<br>Fim: 11/02 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) |
 
-    <font size="2"><p style="text-align: center"><b>Autor:</b> [Victor Hugo](https://github.com/VHbernardes), 2025</p></font>
+    <font size="3"><p style="text-align: center"><b>Autor:</b> [Victor Hugo](https://github.com/VHbernardes), 2025</p></font>
 
 <!-- <font size="3"><p style="text-align: center"><b>Tabela 15</b> - Entrega Final</p></font>
 
@@ -304,6 +304,8 @@ As tabelas de 14 e 15 apresentam os cronogramas planejados e executados da Entre
 > SALES, André Barros de. <a href="https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf">Plano de Ensino - Requisitos de Software</a>. Acesso em: 09 Fev. de 2025.
 
 > Bilheteria Digital - Planejamento dos recursos e das Entregas. Disponível em: [Link](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/entrega-final/planejamento-recursos-entregas/). Acesso em: 09 Fev. de 2025.
+
+## Histórico de versões
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
