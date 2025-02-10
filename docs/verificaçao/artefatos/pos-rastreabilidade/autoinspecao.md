@@ -27,22 +27,22 @@ Na Tabela 1 é apresentada a lista de verificação inspecionada, conforme descr
 | ID | Descrição | Avaliação | Versão | Data |
 |----|-----------|-------|-------|--------|
 |**Backward-from** |
-| 1  | É apresentado a Backward-from no artefato de Pós-Rastreabiidade? |Sim|1.4|10/08/2025|
-| 2 | Os requisitos estão sendo ligados para as suas devidas fontes? |Sim|1.4|10/08/2025|
-| 3 | É apresentado os tipos de Elos de Rastreabilidade (Satisfação, Recurso, Responsabilidade, Representação, Alocado e Agregação)? |Sim|1.4|10/08/2025|
-| 4 | Está sendo apresentado as classificações dos quatro níveis do Meta-modelo de Toranzo (Ambiental, Organizacional, Gerencial e Desenvolvimento)? |Incompleto|1.4|10/08/2025|
-| 5 | O artefato está sendo conectado por meio de hyperlinks? |Sim|1.4|10/08/2025|
+| 1  | É apresentado a Backward-from no artefato de Pós-Rastreabiidade? |Sim|1.4|10/02/2025|
+| 2 | Os requisitos estão sendo ligados para as suas devidas fontes? |Sim|1.4|10/02/2025|
+| 3 | É apresentado os tipos de Elos de Rastreabilidade (Satisfação, Recurso, Responsabilidade, Representação, Alocado e Agregação)? |Sim|1.4|10/02/2025|
+| 4 | Está sendo apresentado as classificações dos quatro níveis do Meta-modelo de Toranzo (Ambiental, Organizacional, Gerencial e Desenvolvimento)? |Incompleto|1.4|10/02/2025|
+| 5 | O artefato está sendo conectado por meio de hyperlinks? |Sim|1.4|10/02/2025|
 |**Forward-from**|
-| 6 | É apresentado a Forward-from no artefato de Pós Rastreabiidade? |Sim|1.3|10/08/2025|
-| 7 | Os requisitos estão sendo ligados para os artefatos de desenho e implementação?  |Sim|1.3|10/08/2025|
-| 8 | É apresentado os tipos de Elos de Rastreabilidade (Satisfação, Recurso, Responsabilidade, Representação, Alocado e Agregação)? |Sim|1.3|10/08/2025|
-| 9 | Está sendo apresentado as classificações dos quatro níveis do Meta-modelo de Toranzo (Ambiental, Organizacional, Gerencial e Desenvolvimento)? |Incompleto|1.3|10/08/2025|
-| 10 | O artefato está sendo conectado por meio de hyperlinks? |Sim|1.3|10/08/2025|
+| 6 | É apresentado a Forward-from no artefato de Pós Rastreabiidade? |Sim|1.3|10/02/2025|
+| 7 | Os requisitos estão sendo ligados para os artefatos de desenho e implementação?  |Sim|1.3|10/02/2025|
+| 8 | É apresentado os tipos de Elos de Rastreabilidade (Satisfação, Recurso, Responsabilidade, Representação, Alocado e Agregação)? |Sim|1.3|10/02/2025|
+| 9 | Está sendo apresentado as classificações dos quatro níveis do Meta-modelo de Toranzo (Ambiental, Organizacional, Gerencial e Desenvolvimento)? |Incompleto|1.3|10/02/2025|
+| 10 | O artefato está sendo conectado por meio de hyperlinks? |Sim|1.3|10/02/2025|
 | **Matriz de rastreabilidade**|
-| 11 | É apresentado a matriz de rastreabilidade?  |Sim|1.2|10/08/2025|
-| 12 | O artefato está sendo conectado por meio de hyperlinks? |Sim|1.3|10/08/2025|
-| 13  | Os requisitos foram ligados aos artefatos correspondentes? |Sim|1.3|10/08/2025|
-| 14 |  Os elos de rastreabilidade estão sendo apresentados e bem documentados? |Sim|1.3|10/08/2025|
+| 11 | É apresentado a matriz de rastreabilidade?  |Sim|1.2|10/02/2025|
+| 12 | O artefato está sendo conectado por meio de hyperlinks? |Sim|1.3|10/02/2025|
+| 13  | Os requisitos foram ligados aos artefatos correspondentes? |Sim|1.3|10/02/2025|
+| 14 |  Os elos de rastreabilidade estão sendo apresentados e bem documentados? |Sim|1.3|10/02/2025|
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> [Victor Hugo](https://github.com/VHbernardes) e [MilenaFRocha](https://github.com/MilenaFRocha), 2025</p></font>
 
