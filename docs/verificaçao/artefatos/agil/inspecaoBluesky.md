@@ -27,26 +27,26 @@ Na Tabela 1 é apresentada a lista de verificação inspecionada, conforme descr
 | ID | Descrição | Avaliação | Versão | Data |
 |----|-----------|-----------|--------|------|
 | **NFR Framework** |
-| 1  | É apresentado o cartão de especificação do NFR? |  | 1.2 | 09/02/2025 |
-| 2  | Os softgoals são apresentados? Eles condizem com o contexto? |  | 1.2 | 09/02/2025 |
-| 3  | É mostrado no NFR Framework as decomposições do SIG? |  | 1.2 | 09/02/2025 |
-| 4  | Todos os requisitos não funcionais foram identificados como softgoals? |  | 1.2 | 09/02/2025 |
-| 5  | As interdependências entre os softgoals foram mapeadas utilizando o Softgoal Interdependency Graph (SIG)? |  | 1.2 | 09/02/2025 |
-| 6  | Os NFR Framework foram classificados em categorias (ex: desempenho, segurança, usabilidade)? |  | 1.2 | 09/02/2025 |
-| 7  | O NFR Framework contém as decomposições do SIG (Decomposição NFR, Decomposição de Operacionalização, Decomposição de Afirmação, Decomposição de Priorização)? |  | 1.2 | 09/02/2025 |
-| 8  | A propagação de impactos foi feita de acordo com o padrão estabelecido? |  | 1.2 | 09/02/2025 |
-| 9  | O modelo considera a análise e decisão sobre implementação dos requisitos não funcionais? |  | 1.2 | 09/02/2025 |
+| 1  | É apresentado o cartão de especificação do NFR? | sim | 1.2 | 09/02/2025 |
+| 2  | Os softgoals são apresentados? Eles condizem com o contexto? | sim | 1.2 | 09/02/2025 |
+| 3  | É mostrado no NFR Framework as decomposições do SIG? | sim | 1.2 | 09/02/2025 |
+| 4  | Todos os requisitos não funcionais foram identificados como softgoals? | incompleto | 1.2 | 09/02/2025 |
+| 5  | As interdependências entre os softgoals foram mapeadas utilizando o Softgoal Interdependency Graph (SIG)? | sim | 1.2 | 09/02/2025 |
+| 6  | Os NFR Framework foram classificados em categorias (ex: desempenho, segurança, usabilidade)? | sim | 1.2 | 09/02/2025 |
+| 7  | O NFR Framework contém as decomposições do SIG (Decomposição NFR, Decomposição de Operacionalização, Decomposição de Afirmação, Decomposição de Priorização)? | sim | 1.2 | 09/02/2025 |
+| 8  | A propagação de impactos foi feita de acordo com o padrão estabelecido? | não  | 1.2 | 09/02/2025 |
+| 9  | O modelo considera a análise e decisão sobre implementação dos requisitos não funcionais? | Sim| 1.2 | 09/02/2025 |
 | **Backlog** |
-| 1  | O Product Backlog está organizado e priorizado de acordo com as necessidades do produto e seus usuários? |  | 1.2 | 09/02/2025 |
-| 2  | Os itens do Product Backlog estão especificados em formato de histórias de usuários, focando no “o que” e não no “como”? |  | 1.2 | 09/02/2025 |
-| 3  | O Product Owner está envolvido na revisão e atualização contínua do Product Backlog? |  | 1.2 | 09/02/2025 |
-| 4  | O backlog possui épicos e temas? Eles estão bem definidos e descritos? |  | 1.2 | 09/02/2025 |
-| 5  | O Backlog permite alterações durante o desenvolvimento do projeto? |  | 1.2 | 09/02/2025 |
+| 1  | O Product Backlog está organizado e priorizado de acordo com as necessidades do produto e seus usuários? | sim | 1.2 | 09/02/2025 |
+| 2  | Os itens do Product Backlog estão especificados em formato de histórias de usuários, focando no “o que” e não no “como”? | sim | 1.2 | 09/02/2025 |
+| 3  | O Product Owner está envolvido na revisão e atualização contínua do Product Backlog? | sim | 1.2 | 09/02/2025 |
+| 4  | O backlog possui épicos e temas? Eles estão bem definidos e descritos? | Incompleto | 1.2 | 09/02/2025 |
+| 5  | O Backlog permite alterações durante o desenvolvimento do projeto? | sim  | 1.2 | 09/02/2025 |
 | **Histórias de usuário** |
-| 1  | Os critérios de aceitação foram definidos para cada história de usuário? |  | 1.2 | 09/02/2025 |
-| 2  | As Histórias de Usuário seguem algum modelo ou padrão? |  | 1.2 | 09/02/2025 |
-| 3  | As histórias de usuários são baseadas e desenvolvidas com uma descrição curta das funcionalidades do produto? |  | 1.2 | 09/02/2025 |
-| 4  | Cada história de usuário está vinculada a um épico? |  | 1.2 | 09/02/2025 |
+| 1  | Os critérios de aceitação foram definidos para cada história de usuário? | sim | 1.2 | 09/02/2025 |
+| 2  | As Histórias de Usuário seguem algum modelo ou padrão? | sim | 1.2 | 09/02/2025 |
+| 3  | As histórias de usuários são baseadas e desenvolvidas com uma descrição curta das funcionalidades do produto? | sim | 1.2 | 09/02/2025 |
+| 4  | Cada história de usuário está vinculada a um épico? | Sim | 1.2 | 09/02/2025 |
 
 ## Gravação da Inspeção
 
