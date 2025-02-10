@@ -55,8 +55,6 @@ Na Tabela 1 é apresentada a lista de verificação inspecionada, conforme descr
 </div>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/MilenaFRocha">Renan Araújo</a>, 2025</p></font>
-// Vídeo aqui
-
 
 
 ## **Bibliografia**
