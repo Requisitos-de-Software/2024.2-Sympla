@@ -66,7 +66,7 @@ Na Tabela 1 é apresentada a lista de verificação construída conforme a metod
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     | 
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
-|  1.0   | Criação desse documento | [Gabriel Scheidt](https://github.com/rafgpereira) | 09/02/2025 | [Victor Hugo](https://github.com/VHbernardes)  |
-|  1.1   | Adição da lista de verificação NFR framework| [Gabriel Scheidt](https://github.com/rafgpereira) | 09/02/2025 | [Victor Hugo](https://github.com/VHbernardes)  |
-|  1.2   | Adição da lista das histórias de usuário| [Gabriel Scheidt](https://github.com/rafgpereira) | 09/02/2025 | [Milena Rocha](https://github.com/MilenaFRocha)  
+|  1.0   | Criação desse documento | [Gabriel Scheidt](https://github.com/Gxaite) | 09/02/2025 | [Victor Hugo](https://github.com/VHbernardes)  |
+|  1.1   | Adição da lista de verificação NFR framework| [Gabriel Scheidt](https://github.com/Gxaite) | 09/02/2025 | [Victor Hugo](https://github.com/VHbernardes)  |
+|  1.2   | Adição da lista das histórias de usuário| [Gabriel Scheidt](https://github.com/Gxaite) | 10/02/2025 | [Milena Rocha](https://github.com/MilenaFRocha)  
 
