@@ -9,6 +9,7 @@ Para organizar a apresentação das dificuldades e facilidades de cada membro do
 ## Facilidades
 
 ### Gabriel Scheidt
+As maiores facilidades que tive no projeto foram graças ao entrosamento do time. A gente tinha uma dinâmica de trabalho muito boa, com companheirismo e uma divisão de tarefas equilibrada. Isso fez com que conseguíssemos produzir bastante sem sobrecarregar ninguém. Além disso, a comunicação sempre fluiu bem, e todo mundo estava disposto a ajudar quando precisava, o que deixou o processo mais tranquilo e eficiente.
 
 ### Milena Rocha
 
@@ -23,6 +24,8 @@ As maiores facilidades que tive no projeto tem a ver com a grande colaboração 
 ## Dificuldades
 
 ### Gabriel Scheidt
+
+Já as maiores dificuldades vieram dos imprevistos que tive ao longo do semestre, principalmente relacionados à saúde e ao luto. Foi um período difícil, não só pelas matérias, mas também na vida pessoal, e isso acabou afetando meu ritmo. Conciliar tudo foi um grande desafio, e em alguns momentos precisei me esforçar ainda mais para dar conta das entregas sem deixar o projeto de lado.
 
 ### Milena Rocha
 
