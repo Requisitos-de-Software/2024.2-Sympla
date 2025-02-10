@@ -56,7 +56,13 @@ NFR Framework</p></font>
 
 No Vídeo 1 apresenta-se a auto inspeção do **Grupo 8 - Sympla**.
 
-// Vídeo aqui
+<font size="3"><p style="text-align: center"> Vídeo 1: Autoinspeção Grupo 8 - Sympla: Modelagem Ágil <p><font>
+
+<div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RH61IDll10k?si=1t1zq0ZYJr0RC3-S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+<font size="3"><p style="text-align: center"> Autor: [Gabriel Scheidt](https://github.com/Gxaite) , 2025 <p><font>
 
 
 
