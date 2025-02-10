@@ -52,8 +52,13 @@ Na Tabela 1 é apresentada a lista de verificação inspecionada, conforme descr
 
 No Vídeo 1 apresenta-se a auto inspeção do **Grupo 8 - Sympla**.
 
-// Vídeo aqui
+<font size="3"><p style="text-align: center"> Vídeo 1: Autoinspeção Grupo 8 - Sympla: Modelagem Ágil <p><font>
 
+<div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RH61IDll10k?si=1t1zq0ZYJr0RC3-S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+<font size="3"><p style="text-align: center"> Autor: [Gabriel Scheidt](https://github.com/Gxaite) , 2025 <p><font>
 
 
 ## **Bibliografia**
@@ -69,4 +74,5 @@ No Vídeo 1 apresenta-se a auto inspeção do **Grupo 8 - Sympla**.
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   |Criação do documento| [Gabriel Scheidt](https://github.com/Gxaite) | 09/02/2025 | [Victor Hugo](https://github.com/VHbernardes)  |
 |  1.1   | Atualização da bibliografia | [Gabriel Scheidt](https://github.com/rafgpereira) | 09/02/2025 | [Milena Rocha](https://github.com/MilenaFRocha)  |
+|  1.2   | Adição do vídeo | [Gabriel Scheidt](https://github.com/rafgpereira) | 09/02/2025 | [Milena Rocha](https://github.com/MilenaFRocha)  |
 
