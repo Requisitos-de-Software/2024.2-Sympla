@@ -27,24 +27,32 @@ Na Tabela 1 é apresentada a lista de verificação inspecionada, conforme descr
 | ID | Descrição | Avaliação | Versão | Data |
 |----|-----------|-------|-------|--------|
 |**Backward-from** |
-| 1  | É apresentado a Backward-from no artefato de Pós-Rastreabiidade? ||||
-| 2 | Os requisitos estão sendo ligados para as duas devidas fontes? | |||
-| 3 | É apresentado os tipos de Elos de Rastreabilidade (Satisfação, Recurso, Responsabilidade, Representação, Alocado e Agregação)? ||||
-| 4 | Está sendo apresentado as classificações dos quatro níveis do Meta-modelo de Toranzo (Ambiental, Organizacional, Gerencial e Desenvolvimento)? ||||
-| 5 | O artefato está sendo conectado por meio de hyperlinks? | |||
+| 1  | É apresentado a Backward-from no artefato de Pós-Rastreabiidade? |Sim|1.4|10/08/2025|
+| 2 | Os requisitos estão sendo ligados para as suas devidas fontes? |Sim|1.4|10/08/2025|
+| 3 | É apresentado os tipos de Elos de Rastreabilidade (Satisfação, Recurso, Responsabilidade, Representação, Alocado e Agregação)? |Sim|1.4|10/08/2025|
+| 4 | Está sendo apresentado as classificações dos quatro níveis do Meta-modelo de Toranzo (Ambiental, Organizacional, Gerencial e Desenvolvimento)? |Incompleto|1.4|10/08/2025|
+| 5 | O artefato está sendo conectado por meio de hyperlinks? |Sim|1.4|10/08/2025|
 |**Forward-from**|
-| 6 | É apresentado a Forward-from no artefato de Pós Rastreabiidade? ||||
-| 7 | Os requisitos estão sendo ligados para os artefatos de desenho e implementação?  ||||
-| 8 | É apresentado os tipos de Elos de Rastreabilidade (Satisfação, Recurso, Responsabilidade, Representação, Alocado e Agregação)? | |||
-| 9 | Está sendo apresentado as classificações dos quatro níveis do Meta-modelo de Toranzo (Ambiental, Organizacional, Gerencial e Desenvolvimento)? | |||
-| 10 | O artefato está sendo conectado por meio de hyperlinks? | |||
+| 6 | É apresentado a Forward-from no artefato de Pós Rastreabiidade? |Sim|1.3|10/08/2025|
+| 7 | Os requisitos estão sendo ligados para os artefatos de desenho e implementação?  |Sim|1.3|10/08/2025|
+| 8 | É apresentado os tipos de Elos de Rastreabilidade (Satisfação, Recurso, Responsabilidade, Representação, Alocado e Agregação)? |Sim|1.3|10/08/2025|
+| 9 | Está sendo apresentado as classificações dos quatro níveis do Meta-modelo de Toranzo (Ambiental, Organizacional, Gerencial e Desenvolvimento)? |Incompleto|1.3|10/08/2025|
+| 10 | O artefato está sendo conectado por meio de hyperlinks? |Sim|1.3|10/08/2025|
 | **Matriz de rastreabilidade**|
-| 11 | É apresentado a matriz de rastreabilidade?  | |||
-| 12 | O artefato está sendo conectado por meio de hyperlinks? | |||
-| 13  | Os requisitos foram ligados aos artefatos correspondentes? ||||
-| 14 |  Os elos de rastreabilidade estão sendo apresentados e bem documentados? | |||
+| 11 | É apresentado a matriz de rastreabilidade?  |Sim|1.2|10/08/2025|
+| 12 | O artefato está sendo conectado por meio de hyperlinks? |Sim|1.3|10/08/2025|
+| 13  | Os requisitos foram ligados aos artefatos correspondentes? |Sim|1.3|10/08/2025|
+| 14 |  Os elos de rastreabilidade estão sendo apresentados e bem documentados? |Sim|1.3|10/08/2025|
 
-<font size="3"><p style="text-align: center"><b>Autor:</b> [Victor Hugo](https://github.com/VHbernardes), 2025</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> [Victor Hugo](https://github.com/VHbernardes) e [MilenaFRocha](https://github.com/MilenaFRocha), 2025</p></font>
+
+<font size="3"><p style="text-align: center"> Vídeo 1: Autoinspeção - Pós-Rastresbilidade - Grupo 8 <p><font>
+
+<div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_5tL-Z4c2Ag?si=wGN3hN0kpXRkZ7oA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+<font size="3"><p style="text-align: center"> Autor: [Milena Rocha](https://github.com/MilenaFRocha) , 2025 <p><font>
 
 ## **Bibliografia**
 
@@ -60,3 +68,4 @@ Na Tabela 1 é apresentada a lista de verificação inspecionada, conforme descr
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação desse documento | [Victor Hugo](https://github.com/VHbernardes) | 08/02/2025 | [Rafael Pereira](https://github.com/rafgpereira)  |
 |  1.1   | Adição dos itens | [Victor Hugo](https://github.com/VHbernardes) | 08/02/2025 | [Rafael Pereira](https://github.com/rafgpereira)  |
+|  1.2   | Adição do vídeo |[Milena Rocha](https://github.com/MilenaFRocha) | 08/02/2025 | [Rafael Pereira](https://github.com/rafgpereira)  |
