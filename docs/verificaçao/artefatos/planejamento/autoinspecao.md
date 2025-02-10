@@ -44,9 +44,11 @@ Na Tabela 1 é apresentada a lista de verificação inspecionada, conforme descr
 | 15 | A gravação da reunião do grupo está disponível? | Sim  | 1.0  | 10/02/2025 |
 | 16 | O vídeo de apresentação está na categoria "não listado" no YouTube? | Sim  | 1.0  | 10/02/2025  |
 
-
-
 <font size="3"><p style="text-align: center"><b>Autor:</b> [Renan Araújo](https://github.com/renantfm4), 2025</p></font>
+
+## Gravação da Inspeção
+
+No Vídeo 1 apresenta-se a autoinspeção do **Grupo 8 - Sympla**.
 
 <font size="3"><p style="text-align: center"> Vídeo 1: Autoinspeção - Planejamento - Grupo 8 </p></font>
 

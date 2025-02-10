@@ -66,9 +66,6 @@ Na Tabela 1 é apresentada a lista de verificação inspecionada, conforme descr
 
 No Vídeo 1 apresenta-se a inspeção do **Grupo 1 - BlueSky**.
 
-No Vídeo 1 apresenta-se a autoinspeção do **Grupo 8 - Sympla**.
-
-
 
 <font size="3"><p style="text-align: center"> Vídeo 1: Inspeção de Técnicas de Elicitação - Grupo 1
  <p><font>

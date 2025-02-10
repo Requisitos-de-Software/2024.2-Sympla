@@ -53,6 +53,7 @@ Na Tabela 1 é apresentada a lista de verificação inspecionada, conforme descr
 ## Gravação da Inspeção
 
 No Vídeo 1 apresenta-se a auto inspeção do **Grupo 8 - Sympla**.
+
 <div align="center">
 
 <font size="3"><p style="text-align: center"> Vídeo 1: Auto Inspeção - Técnicas de Priorização - Grupo 8

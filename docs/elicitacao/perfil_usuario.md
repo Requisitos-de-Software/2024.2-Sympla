@@ -79,9 +79,9 @@ De acordo com o gráfico apresentado na figura 8 sobre a frequência de compras 
 Após analisar as respostas coletadas, foi possível traçar o perfil de usuário para o aplicativo, levando em consideração as características demográficas, comportamentais e de interação com a tecnologia dos participantes.
 
 - **Gênero**:
-    Predominantemente feminino. A maioria dos participantes que responderam ao questionário se identificam como femininas (60%), com uma participação significativa também do gênero masculino (40%).
+    Predominantemente feminino. A maioria dos participantes que responderam ao questionário se identificam com o gênero feminino (60%) mas a diferença não é suficiente para apontar que o público alvo do Sympla é feminino.
 - **Idade**:
-    A faixa etária dominante dos participantes encontrada nas respostas é composta por jovens adultos, com 82,2% dos respondentes entre 18 e 24 anos. No entanto, para a definição da faixa etária do nosso perfil de usuário, estamos abragendo diversas idades, pois é importante considerar que o Sympla é utilizado por um público amplo.
+    A faixa etária dominante dos participantes encontrada nas respostas é composta por jovens adultos, com 82,2% dos respondentes entre 18 e 24 anos. No entanto, para a definição da faixa etária do nosso perfil de usuário, estamos abragendo diversas idades, pois é importante considerar que o Sympla é utilizado por um público amplo, e o resultado da consulta está diretamente relacionado ao público para o qual foi divulgada.
 - **Experiência** intimidade com a tecnologia, onde 44,4% dos participantes se consideram altamente familiarizados com dispositivos digitais.
 - **Atitudes**:
     Tecnófilos. Os participantes demonstram uma grande afinidade com a tecnologia, com destaque para o alto nível de intimidade com a tecnologia (nível 5) e o fato de serem ativos na utilização de plataformas online. Isso se reflete no comportamento de frequentes compras online, bem como na frequência de participação em eventos e compra de ingressos online.
@@ -103,6 +103,7 @@ Após analisar as respostas coletadas, foi possível traçar o perfil de usuári
 |  1.0   | Criação do documento |  [Victor Hugo](https://github.com/VHbernardes) | 12/11/2024   | [Gabriel Scheidt](https://github.com/Gxaite) |
 |  1.1   | Adição dos resultados e criação do perfil do usuário |  [Victor Hugo](https://github.com/VHbernardes) | 18/11/2024   | [Rafael Pereira](https://github.com/rafgpereira) |
 |  1.2   | Correção pós apresentação (Idade - Perfil do usuário) |  [Victor Hugo](https://github.com/VHbernardes) | 27/11/2024   | [Gabriel Scheidt](https://github.com/Gxaite) |
+|  1.3  | Correção pós inspeção |  [Rafael Pereira](https://github.com/rafgpereira) | 10/02/2025   | [Gabriel Scheidt](https://github.com/Gxaite) |
 
 
 </center>
