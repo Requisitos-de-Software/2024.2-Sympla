@@ -67,3 +67,5 @@ Na Tabela 1 é apresentada a lista de verificação inspecionada, conforme descr
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     | 
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação desse documento | [Renan Araújo](https://github.com/renantfm4) | 09/02/2025 | [Rafael Pereira](https://github.com/rafgpereira)  |
+|  1.1   | Criação das tabelas | [Renan Araújo](https://github.com/renantfm4) | 09/02/2025 | [Rafael Pereira](https://github.com/rafgpereira)  |
+|  1.2   | Vídeo da autoinspeção | [Renan Araújo](https://github.com/renantfm4) | 10/02/2025 | [Rafael Pereira](https://github.com/rafgpereira)  |
