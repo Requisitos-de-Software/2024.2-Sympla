@@ -209,29 +209,31 @@ As tabelas de 10 e 11 apresentam os cronogramas planejados e executados da Entre
 
 ??? abstract "Tabela 10 - Quinta entrega Planejado"
 
-    <font size="2"><p style="text-align: center"><b>Tabela 10</b> - Quinta entrega Planejado</p></font>
+    <font size="2"><p style="text-align: center"><b>Tabela 10</b> - Quinta entrega Planejada</p></font>
 
-    | Atividade                                          | Período de Desenvolvimento | Responsáveis                                                                 | Revisão                | Revisores                                                           |
-    |----------------------------------------------------|----------------------------|-----------------------------------------------------------------------------|-------------------------|----------------------------------------------------------------------|
-    | Verificação por inspeção de todos os artefatos   | Início: 21/01<br>Fim: 23/01 | [Victor Hugo](https://github.com/VHbernardes), [Milena](https://github.com/MilenaFRocha), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite) | Início: 23/01<br>Fim: 25/01 | [Renan](https://github.com/renantfm4) |
-    | Validação: Prototipação e Comprovação Informal   | Início: 23/01<br>Fim: 25/01 | [Milena](https://github.com/MilenaFRocha), [Rafael](https://github.com/rafgpereira), [Renan](https://github.com/renantfm4) | Início: 25/01<br>Fim: 27/01 | [Gabriel](https://github.com/Gxaite) |
-    | Gravação da Apresentação e Entrega               | Início: 27/01<br>Fim: 29/01 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | Início: 30/01<br>Fim: 31/01 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) |
-    | Correção pós apresentação                        | Início: 31/01<br>Fim: 02/02 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | Início: 02/02<br>Fim: 04/02 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) |
+    | Título                                              | Autor(es)                                                   | Revisor(es)                                                 | Início      | Entrega     |
+    |-----------------------------------------------------|-------------------------------------------------------------|------------------------------------------------------------|------------|------------|
+    | Verificação por inspeção de todos os artefatos     | [Victor Hugo](https://github.com/VHbernardes), [Milena](https://github.com/MilenaFRocha), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite) | [Renan](https://github.com/renantfm4)                      | 21/01      | 23/01      |
+    | Validação: Prototipação e Comprovação Informal     | [Milena](https://github.com/MilenaFRocha), [Rafael](https://github.com/rafgpereira), [Renan](https://github.com/renantfm4) | [Gabriel](https://github.com/Gxaite)                      | 23/01      | 25/01      |
+    | Gravação da Apresentação e Entrega                 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | 27/01      | 29/01      |
+    | Correção pós apresentação                          | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | 31/01      | 02/02      |
 
     <font size="3"><p style="text-align: center"><b>Autor:</b> [Victor Hugo](https://github.com/VHbernardes), 2025</p></font>
+
 
 ??? abstract "Tabela 11 - Quinta entrega Executada"
 
     <font size="2"><p style="text-align: center"><b>Tabela 11</b> - Quinta entrega Executada</p></font>
 
-    | Atividade                                          | Período de Desenvolvimento | Responsáveis                                                                 | Revisão                | Revisores                                                           |
-    |----------------------------------------------------|----------------------------|-----------------------------------------------------------------------------|-------------------------|----------------------------------------------------------------------|
-    | Verificação por inspeção de todos os artefatos   | Início: 21/01<br>Fim: 23/01 | [Victor Hugo](https://github.com/VHbernardes), [Milena](https://github.com/MilenaFRocha), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite) | Início: 23/01<br>Fim: 25/01 | [Renan](https://github.com/renantfm4), [Milena](https://github.com/MilenaFRocha) |
-    | Validação: Prototipação e Comprovação Informal   | Início: 25/01<br>Fim: 30/01 | [Milena](https://github.com/MilenaFRocha), [Rafael](https://github.com/rafgpereira), [Renan](https://github.com/renantfm4) | Início: 05/02<br>Fim: 07/02 | [Victor Hugo](https://github.com/VHbernardes), [Gabriel](https://github.com/Gxaite) |
-    | Gravação da Apresentação e Entrega               | Início: 27/01<br>Fim: 29/01 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | Início: 01/02<br>Fim: 03/02 | [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira) |
-    | Correção pós apresentação                        | Início: 31/01<br>Fim: 02/02 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | - | - |
+    | Título                                              | Autor(es)                                                   | Revisor(es)                                                 | Início      | Entrega     |
+    |-----------------------------------------------------|-------------------------------------------------------------|------------------------------------------------------------|------------|------------|
+    | Verificação por inspeção de todos os artefatos     | [Victor Hugo](https://github.com/VHbernardes), [Milena](https://github.com/MilenaFRocha), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite) | [Renan](https://github.com/renantfm4), [Milena](https://github.com/MilenaFRocha) | 21/01      | 23/01      |
+    | Validação: Prototipação e Comprovação Informal     | [Milena](https://github.com/MilenaFRocha), [Rafael](https://github.com/rafgpereira), [Renan](https://github.com/renantfm4) | [Victor Hugo](https://github.com/VHbernardes), [Gabriel](https://github.com/Gxaite) | 25/01      | 30/01      |
+    | Gravação da Apresentação e Entrega                 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira) | 27/01      | 29/01      |
+    | Correção pós apresentação                          | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | - | 31/01      | 02/02      |
 
     <font size="3"><p style="text-align: center"><b>Autor:</b> [Victor Hugo](https://github.com/VHbernardes), 2025</p></font>
+
 
 </center>
 
@@ -243,31 +245,33 @@ As tabelas de 12 e 13 apresentam os cronogramas planejados e executados da Entre
 
 ??? abstract "Tabela 12 - Sexta entrega Planejado"
 
-    <font size="2"><p style="text-align: center"><b>Tabela 12</b> - Sexta entrega Planejado</p></font>
+    <font size="2"><p style="text-align: center"><b>Tabela 12</b> - Sexta entrega Planejada</p></font>
 
-    | Atividade                                 | Período de Desenvolvimento | Responsáveis                                                                 | Revisão                | Revisores                                                           |
-    |-------------------------------------------|----------------------------|-----------------------------------------------------------------------------|-------------------------|----------------------------------------------------------------------|
-    | Pós-rastreabilidade: Backward-form       | Início: 17/12<br>Fim: 05/01 | [Victor Hugo](https://github.com/VHbernardes), [Milena](https://github.com/MilenaFRocha), [Rafael](https://github.com/rafgpereira) | Início: 05/01<br>Fim: 07/01 | [Gabriel](https://github.com/Gxaite), [Renan](https://github.com/renantfm4) |
-    | Pós-rastreabilidade: Forward-form        | Início: 06/01<br>Fim: 17/01 | [Gabriel](https://github.com/Gxaite), [Renan](https://github.com/renantfm4) | Início: 17/01<br>Fim: 19/01 | [Victor Hugo](https://github.com/VHbernardes) |
-    | Gravação da Apresentação e Entrega       | Início: 18/01<br>Fim: 19/01 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | Início: 19/01<br>Fim: 21/01 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) |
-    | Correção pós apresentação                | Início: 21/01<br>Fim: 23/01 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | Início: 23/01<br>Fim: 25/01 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) |
+    | Título                                              | Autor(es)                                                   | Revisor(es)                                                 | Início      | Entrega     |
+    |-----------------------------------------------------|-------------------------------------------------------------|------------------------------------------------------------|------------|------------|
+    | Pós-rastreabilidade: Backward-form                 | [Victor Hugo](https://github.com/VHbernardes), [Milena](https://github.com/MilenaFRocha), [Rafael](https://github.com/rafgpereira) | [Gabriel](https://github.com/Gxaite), [Renan](https://github.com/renantfm4) | 17/12      | 05/01      |
+    | Pós-rastreabilidade: Forward-form                  | [Gabriel](https://github.com/Gxaite), [Renan](https://github.com/renantfm4) | [Victor Hugo](https://github.com/VHbernardes)              | 06/01      | 17/01      |
+    | Gravação da Apresentação e Entrega                 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | 18/01      | 19/01      |
+    | Correção pós apresentação                          | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | 21/01      | 23/01      |
 
     <font size="3"><p style="text-align: center"><b>Autor:</b> [Victor Hugo](https://github.com/VHbernardes), 2025</p></font>
+
 
 
 ??? abstract "Tabela 13 - Sexta entrega Executada"
 
     <font size="2"><p style="text-align: center"><b>Tabela 13</b> - Sexta entrega Executada</p></font>
 
-    | Atividade                                    | Período de Desenvolvimento | Responsáveis                                                                                     | Revisão                | Revisores                                                              |
-    |----------------------------------------------|----------------------------|-------------------------------------------------------------------------------------------------|------------------------|-------------------------------------------------------------------------|
-    | Pós-rastreabilidade: Backward-form          | Início: 06/12<br>Fim: 15/01 | [Gabriel](https://github.com/Gxaite), [Milena](https://github.com/MilenaFRocha)                 | Início: 05/01<br>Fim: 07/01 | [Victor Hugo](https://github.com/VHbernardes), [Renan](https://github.com/renantfm4) |
-    | Pós-rastreabilidade: Forward-form           | Início: 06/01<br>Fim: 15/01 | [Victor Hugo](https://github.com/VHbernardes), [Renan](https://github.com/renantfm4)            | Início: 17/01<br>Fim: 19/01 | [Gabriel](https://github.com/Gxaite) |
-    | Pós-rastreabilidade: Matriz de rastreabilidade | Início: 15/01<br>Fim: 19/01 | [Rafael](https://github.com/rafgpereira)                                                       | Início: 17/01<br>Fim: 19/01 | [Victor Hugo](https://github.com/VHbernardes), [Milena](https://github.com/MilenaFRocha) |
-    | Gravação da Apresentação e Entrega          | Início: 18/01<br>Fim: 19/01 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | Início: 19/01<br>Fim: 21/01 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) |
-    | Correção pós apresentação                   | Início: 21/01<br>Fim: 23/01 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | Início: 23/01<br>Fim: 25/01 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) |
+    | Título                                              | Autor(es)                                                   | Revisor(es)                                                 | Início      | Entrega     |
+    |-----------------------------------------------------|-------------------------------------------------------------|------------------------------------------------------------|------------|------------|
+    | Pós-rastreabilidade: Backward-form                 | [Gabriel](https://github.com/Gxaite), [Milena](https://github.com/MilenaFRocha) | [Victor Hugo](https://github.com/VHbernardes), [Renan](https://github.com/renantfm4) | 06/12      | 15/01      |
+    | Pós-rastreabilidade: Forward-form                  | [Victor Hugo](https://github.com/VHbernardes), [Renan](https://github.com/renantfm4) | [Gabriel](https://github.com/Gxaite)                      | 06/01      | 15/01      |
+    | Pós-rastreabilidade: Matriz de rastreabilidade     | [Rafael](https://github.com/rafgpereira)                   | [Victor Hugo](https://github.com/VHbernardes), [Milena](https://github.com/MilenaFRocha) | 15/01      | 19/01      |
+    | Gravação da Apresentação e Entrega                 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | 18/01      | 19/01      |
+    | Correção pós apresentação                          | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | 21/01      | 23/01      |
 
     <font size="3"><p style="text-align: center"><b>Autor:</b> [Victor Hugo](https://github.com/VHbernardes), 2025</p></font>
+
 
 </center>
 
@@ -281,21 +285,28 @@ As tabelas de 14 e 15 apresentam os cronogramas planejados e executados da Entre
 
     <font size="3"><p style="text-align: center"><b>Tabela 14</b> - Entrega Final Planejado</p></font>
 
-    | Atividade                                      | Período de Desenvolvimento | Responsáveis                                                                                     | Revisão                | Revisores                                                              |
-    |-----------------------------------------------|----------------------------|-------------------------------------------------------------------------------------------------|------------------------|-------------------------------------------------------------------------|
-    | Desenvolvimento do projeto final (correção e complemento) | Início: 21/01<br>Fim: 05/02 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | Início: 30/01<br>Fim: 02/02 | [Rafael](https://github.com/rafgpereira), [Renan](https://github.com/renantfm4) |
-    | Gravação da Apresentação e Entrega             | Início: 08/02<br>Fim: 09/02 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | Início: 04/02<br>Fim: 05/02 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) |
-    | Correção pós apresentação                     | Início: 09/02<br>Fim: 11/02 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | Início: 10/02<br>Fim: 11/02 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) |
+    | Título                                             | Autor(es)                                                   | Revisor(es)                                                 | Início      | Entrega     |
+    |----------------------------------------------------|-------------------------------------------------------------|------------------------------------------------------------|------------|------------|
+    | Desenvolvimento do projeto final (correção e complemento) | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | [Rafael](https://github.com/rafgpereira), [Renan](https://github.com/renantfm4) | 21/01      | 05/02      |
+    | Gravação da Apresentação e Entrega                | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | 08/02      | 09/02      |
+    | Correção pós apresentação                         | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | 09/02      | 11/02      |
 
     <font size="3"><p style="text-align: center"><b>Autor:</b> [Victor Hugo](https://github.com/VHbernardes), 2025</p></font>
 
-<!-- <font size="3"><p style="text-align: center"><b>Tabela 15</b> - Entrega Final</p></font>
 
-| Atividade                                      | Período de Desenvolvimento | Responsáveis                                                                                     | Revisão | Revisores |
-|-----------------------------------------------|----------------------------|-------------------------------------------------------------------------------------------------|---------|-----------|
-| Desenvolvimento do projeto final (correção e complemento) | Início: 21/01<br>Fim: 05/02 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) |  |  |
-| Gravação da Apresentação e Entrega             | Início: 08/02<br>Fim: 09/02 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) |  |  |
-| Correção pós apresentação                     | Início: 09/02<br>Fim: 11/02 | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) |  |  | -->
+
+??? abstract "Tabela 15 - Entrega Final Executado"
+
+    <font size="3"><p style="text-align: center"><b>Tabela 15</b> - Entrega Final Executado</p></font>
+
+    | Título                                             | Autor(es)                                                   | Revisor(es) | Início      | Entrega     |
+    |----------------------------------------------------|-------------------------------------------------------------|-------------|------------|------------|
+    | Desenvolvimento do projeto final (correção e complemento) | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | -           | -      | -      |
+    | Gravação da Apresentação e Entrega                | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | -           | -      | -      |
+    | Correção pós apresentação                         | [Milena](https://github.com/MilenaFRocha), [Renan](https://github.com/renantfm4), [Rafael](https://github.com/rafgpereira), [Gabriel](https://github.com/Gxaite), [Victor Hugo](https://github.com/VHbernardes) | -           | -     | -      |
+
+    <font size="3"><p style="text-align: center"><b>Autor:</b> [Victor Hugo](https://github.com/VHbernardes), 2025</p></font>
+
 
 </center>
 
@@ -311,6 +322,7 @@ As tabelas de 14 e 15 apresentam os cronogramas planejados e executados da Entre
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação desse documento |  [Victor Hugo](https://github.com/VHbernardes) | 09/02/2025   | [Gabriel Scheidt](https://github.com/Gxaite) |
 |  1.1   | Adição dos cronogramas |  [Victor Hugo](https://github.com/VHbernardes) | 09/02/2025   | [Gabriel Scheidt](https://github.com/Gxaite) |
+|  1.2   | Correção dos cronogramas das entregas 5, 6 e final |  [Victor Hugo](https://github.com/VHbernardes) | 09/02/2025   | [Gabriel Scheidt](https://github.com/Gxaite) |
 
 
 
