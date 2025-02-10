@@ -46,6 +46,11 @@ Na Tabela 1 é apresentada a lista de verificação inspecionada, conforme descr
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> [Victor Hugo](https://github.com/VHbernardes) e [MilenaFRocha](https://github.com/MilenaFRocha), 2025</p></font>
 
+
+## Gravação da Inspeção
+
+No Vídeo 1 apresenta-se a autoinspeção do **Grupo 8 - Sympla**.
+
 <font size="3"><p style="text-align: center"> Vídeo 1: Autoinspeção - Pós-Rastresbilidade - Grupo 8 <p><font>
 
 <div align="center">
