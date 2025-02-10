@@ -54,7 +54,7 @@ Na Tabela 1 é apresentada a lista de verificação inspecionada, conforme descr
 | 22 |  O documento especifica o tempo de resposta, no Desempenho? |Sim|1.2|10/08/2025|
 | 23 | O documento especifica qual plataforma o aplicativo pode ser executado? |Sim|1.2|10/08/2025|
 
-<font size="3"><p style="text-align: center"><b>Autor:</b> [Victor Hugo](https://github.com/VHbernardes), 2025</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> [Victor Hugo](https://github.com/VHbernardes) e  [Milena Rocha](https://github.com/MilenaFRocha), 2025</p></font>
 
 No Vídeo 1 apresenta-se a autoinspeção do **Grupo 8 - Sympla**.
 
