@@ -33,17 +33,17 @@ Na Tabela 1 é apresentada a lista de verificação inspecionada, conforme descr
 | 4 | Existe uma relação entre os objetivos e as funcionalidades do produto (coerência). |Sim | 1.0 | 09/02/25 |
 | 5 | O perfil inclui experiência, nível de instrução e atividades. |Sim | 1.0 | 09/02/25 |
 | 6 | A coleta de dados foi feita através de métodos adequados (entrevistas, questionários...). | Sim | 1.0 | 09/02/25 |
-| 7 | Os perfis são consistentes em suas definições. |Incompleto (abranger melhor o perfil (idade, gênero, ...)) | 1.0 | 09/02/25|
+| 7 | Os perfis são consistentes em suas definições. |Sim | 1.1 | 09/02/25|
 | **Personas** |
 | 1 | Cada persona possui um nome inventado e uma imagem representativa. |Sim | 1.0 | 09/02/25|
 | 2 | A descrição inclui dados pessoais básicos e demográficos. |Sim | 1.0 | 09/02/25 |
 | 3 | A persona tem um status definido (primária, secundária, antiusuário...). | Sim | 1.0 | 09/02/25 |
 | 4 | A persona tem objetivos claros e bem descritos. |Sim | 1.0 | 09/02/25 |
-| 5 | A persona possui habilidades descritas, incluindo aquelas que vão além do escopo do produto. | Sim | 1.0 | 09/02/25 |
-| 6 | As tarefas executadas pela persona estão presentes, bem como seus detalhes e características. | Sim | 1.0 | 09/02/25|
-| 7 | Os relacionamentos da persona estão descritos. | Incompleto (deixar mais claro os relacionamentos) | 1.0 | 09/02/25 |
-| 8 | Os requisitos da persona estão presentes, incluindo citações para maior assimilação. |Sim | 1.0 | 09/02/25|
-| 9 | As expectativas da persona acerca do funcionamento do produto estão presentes e são claras. |Sim | 1.0 | 09/02/25 |
+| 5 | A persona possui habilidades descritas, incluindo aquelas que vão além do escopo do produto. | Sim | 1.1 | 09/02/25 |
+| 6 | As tarefas executadas pela persona estão presentes, bem como seus detalhes e características. | Sim | 1.1 | 09/02/25|
+| 7 | Os relacionamentos da persona estão descritos. | Sim | 1.1 | 09/02/25 |
+| 8 | Os requisitos da persona estão presentes, incluindo citações para maior assimilação. |Sim | 1.1 | 09/02/25|
+| 9 | As expectativas da persona acerca do funcionamento do produto estão presentes e são claras. |Sim | 1.1 | 09/02/25 |
 | **Elenco de Personas** |
 | 1 | O elenco contém entre 3 e 12 personas no total. | Sim | 1.0 | 09/02/25 |
 | 2 | Existem 3 personas primárias claramente definidas. |Sim | 1.0 | 09/02/25 |
@@ -81,3 +81,4 @@ No Vídeo 1 apresenta-se a autoinspeção do **Grupo 8 - Sympla**.
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação desse documento | [Rafael Pereira](https://github.com/rafgpereira) | 03/02/2025 | [Milena Rocha](https://github.com/MilenaFRocha)  |
 |  1.1   | Inpeção v1.0 | [Rafael Pereira](https://github.com/rafgpereira) | 04/02/2025 | [Victor Hugo](https://github.com/VHbernardes)  |
+|  1.2   | Inpeção v1.1 | [Rafael Pereira](https://github.com/rafgpereira) | 10/02/2025 | [Gabriel Scheidt](https://github.com/Gxaite)  |
