@@ -20,6 +20,7 @@ Foi facilitado porque tivemos um grupo unido e colaborativo, onde todos se ajuda
 Dentre as facilidades que encontrei durante o desenvolvimento do projeto destaco não só a colaboração do time, que foi essencial, mas também o auxílio do material disponibilizado e as intruções do professor.
 
 ### Renan Araújo
+Apesar das dificuldades, a disciplina foi muito enriquecedora e contribuiu significativamente para minha experiência acadêmica, trazendo aprendizados valiosos. Minha equipe foi muito responsável e tivemos uma dinámica de trabalho eficiente.
 
 ### Victor Hugo
 
@@ -40,6 +41,10 @@ O semestre foi muito difícil. Foram muitas entregas, e cada uma precisava estar
 Em alguns momentos a quantidade de artefatos a serem produzidos e entregues era elevada, dificultando a conciliação com outras disciplinas. Além disso as duas últimas entregas ocorreram em um intervalo de tempo menor quando comparado as outras, o que sobrecarregou a equipe no fim do semestre, que já é naturalmente conturbado.
 
 ### Renan Araújo
+
+Em alguns momentos, a quantidade de tarefas da matéria que precisavam ser produzidos e entregues era bastante alta, o que dificultou o equilíbrio entre as demandas dessa disciplina e as outras. Isso acabou gerando uma pressão pra mim, especialmente no final do semestre. Além disso, conciliar essas responsabilidades acadêmicas com meu trabalho e questões pessoais ao longo do processo tornou tudo mais difícil.
+ 
+
 
 ### Victor Hugo
 
