@@ -1,4 +1,5 @@
 # Introdução
+Este documento tem como objetivo reunir e organizar informações sobre os artefatos produzidos ao longo do projeto. Para isso, apresenta tabelas sintetizadas que listam cada artefato criado em suas respectivas etapas, juntamente com seus autores e revisores. Esse formato estruturado facilita a compreensão do trabalho desenvolvido, garantindo uma visão geral clara das atividades realizadas. Além disso, as tabelas servem como um guia de referência, auxiliando na comunicação da equipe e na verificação de possíveis lacunas ou sobreposições de responsabilidades.
 
 # Tabela dos Artefatos
 
