@@ -13,6 +13,8 @@ As maiores facilidades que tive no projeto foram graças ao entrosamento do time
 
 ### Milena Rocha
 
+Foi facilitado porque tivemos um grupo unido e colaborativo, onde todos se ajudavam, tornando as tarefas mais simples. O uso do GitHub contribuiu para a organização e versionamento, enquanto a documentação bem estruturada garantiu clareza nos requisitos. Além disso, como não era necessário implementar tudo, apenas desenvolver alguns protótipos, o processo foi mais ágil e menos complexo.
+
 ### Rafael Pereira
 
 ### Renan Araújo
@@ -28,6 +30,8 @@ As maiores facilidades que tive no projeto tem a ver com a grande colaboração 
 Já as maiores dificuldades vieram dos imprevistos que tive ao longo do semestre, principalmente relacionados à saúde e ao luto. Foi um período difícil, não só pelas matérias, mas também na vida pessoal, e isso acabou afetando meu ritmo. Conciliar tudo foi um grande desafio, e em alguns momentos precisei me esforçar ainda mais para dar conta das entregas sem deixar o projeto de lado.
 
 ### Milena Rocha
+
+O semestre foi muito difícil. Foram muitas entregas, e cada uma precisava estar extremamente detalhada, o que exigiu bastante tempo e dedicação. A quantidade de explicações e o nível de detalhe cobrados tornaram o processo cansativo e desgastante, exigindo muito esforço para manter tudo bem organizado.
 
 ### Rafael Pereira
 
