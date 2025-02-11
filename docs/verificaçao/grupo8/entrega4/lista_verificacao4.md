@@ -102,4 +102,4 @@ Abaixo, no Vídeo 1, apresentamos o processo de auto verificação do grupo, jus
 |  1.0   | Criação desse documento | [Victor Hugo](https://github.com/VHbernardes) | 17/12/2024 | [Rafael Pereira](https://github.com/rafgpereira) |
 |  1.1   | Validação v1.0 | [Rafael Pereira](https://github.com/rafgpereira) | 17/12/2024 | [Milena Rocha](https://github.com/MilenaFRocha) |
 |  1.2   | Adição do vídeo de auto inspeção | [Victor Hugo](https://github.com/VHbernardes) | 17/12/2024 | [Milena Rocha](https://github.com/MilenaFRocha) |
-|  1.3   | Ajustes de referências |  [Milena Rocha](https://github.com/MilenaFRocha) | 02/02/2025 | [Victor Hugo](https://github.com/VHbernardes)  
+|  1.3   | Ajustes de referências |  [Milena Rocha](https://github.com/MilenaFRocha) | 02/02/2025 | [Victor Hugo](https://github.com/VHbernardes)|  

@@ -103,5 +103,5 @@ Abaixo, no Vídeo 1, apresentamos o processo de auto verificação do grupo, jus
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     | 
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação desse documento | [Victor Hugo](https://github.com/VHbernardes) | 07/12/2024 | [Rafael Pereira](https://github.com/rafgpereira) |
-|  1.1   | Verificação 1.0 | [Rafael Pereira](https://github.com/rafgpereira) | 08/12/2024 | [Milena Rocha](https://github.com/MilenaFRocha) |
+|  1.1   | Verificação 1.0 | [Rafael Pereira](https://github.com/rafgpereira) | 08/12/2024 | [Gabriel Scheidt](https://github.com/Gxaite) |
 |  1.2   | Ajustes de referências |  [Milena Rocha](https://github.com/MilenaFRocha) | 02/02/2025 | [Victor Hugo](https://github.com/VHbernardes)  |

@@ -15,7 +15,7 @@ Os protótipos são essenciais para externalizar as ideias acerca de um produto 
 | RF36  | Deve ser possível cadastrar diferentes métodos de pagamento.                           | Rafael Pereira                    |  <a href="../../elicitacao/tecnicas/entrevista2/#anchor_2ENT">2ENT11</a>  | Não          |
 
 
-<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/rafgpereira">Rafael Pereira, 2025</a></p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/rafgpereira">Rafael Pereira, 2025</a></p></font>
 
 
 ## Metodologia
@@ -49,7 +49,7 @@ Essa entrevista tem como objetivo validar o protótipo referente ao [Requisito F
 
 | **Data**  | **Hora** | **Entrevistador** | **Entrevistado** | **Duração** | **Local**                  |
 |------------|-------|--------------------|------------------|-------------|---------------------------|
-| 03/02/2025 | 11:00 | [Renan Araújo](https://github.com/renantfm4)        | Renan Araújo   | 07:38       | Presencial - FGA|
+| 03/02/2025 | 11:00 | [Renan Araújo](https://github.com/renantfm4)        | Gustavo Alves   | 07:38       | Presencial - FGA|
 
 <font size="3"><p style="text-align: center">Fonte: [Renan Araújo](https://github.com/renantfm4), 2025.<p><font>
 
