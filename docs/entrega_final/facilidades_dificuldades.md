@@ -17,6 +17,8 @@ Foi facilitado porque tivemos um grupo unido e colaborativo, onde todos se ajuda
 
 ### Rafael Pereira
 
+Dentre as facilidades que encontrei durante o desenvolvimento do projeto destaco não só a colaboração do time, que foi essencial, mas também o auxílio do material disponibilizado e as intruções do professor.
+
 ### Renan Araújo
 
 ### Victor Hugo
@@ -34,6 +36,8 @@ Já as maiores dificuldades vieram dos imprevistos que tive ao longo do semestre
 O semestre foi muito difícil. Foram muitas entregas, e cada uma precisava estar extremamente detalhada, o que exigiu bastante tempo e dedicação. A quantidade de explicações e o nível de detalhe cobrados tornaram o processo cansativo e desgastante, exigindo muito esforço para manter tudo bem organizado.
 
 ### Rafael Pereira
+
+Em alguns momentos a quantidade de artefatos a serem produzidos e entregues era elevada, dificultando a conciliação com outras disciplinas. Além disso as duas últimas entregas ocorreram em um intervalo de tempo menor quando comparado as outras, o que sobrecarregou a equipe no fim do semestre, que já é naturalmente conturbado.
 
 ### Renan Araújo
 
