@@ -23,9 +23,9 @@ Fazer a última gravação de entrega final do trabalho de Requisitos de Softwar
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-TrTmLZ0EG8?si=PVZbZbhVIa7VUCeb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mPt0ioaGLm0?si=uiDJSbVxMxrfD4al" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Os Autores. Reunião 8 - Organização do grupo. Disponível em: <a href="https://youtu.be/-TrTmLZ0EG8">https://youtu.be/-TrTmLZ0EG8</a>. Acesso em: 19 jan. 2025.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Entrega Final - Grupo 8 - Sympla - Requisitos de Software. Disponível em: <a href="https://youtu.be/mPt0ioaGLm0">https://www.youtube.com/watch?v=mPt0ioaGLm0</a>. Acesso em: 10 fev. 2025.</p></font>
 
 
 ### Encaminhamentos

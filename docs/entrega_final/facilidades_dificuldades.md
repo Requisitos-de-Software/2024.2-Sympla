@@ -55,6 +55,10 @@ As maiores dificuldades que enfrentei foi encontrar tempo livre para me dedicar 
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
-|  1.0   | Criação desse documento e adição do relato do Victor Hugo |  [Victor Hugo](https://github.com/VHbernardes) | 09/02/2025   | [Milena Rocha](https://github.com/MilenaFRocha) |
+|  1.0   | Criação desse documento e adição do relato do Victor Hugo |  [Victor Hugo](https://github.com/VHbernardes) |  10/02/2025   | [Milena Rocha](https://github.com/MilenaFRocha) |
+|  1.1   |  Adição do relato da Milena |  [Milena Rocha](https://github.com/MilenaFRocha) |  10/02/2025   | [Gabriel Scheidt](https://github.com/Gxaite) |
+|  1.1   |   Adição do relato do Renan | [Renan Araújo](https://github.com/renantfm4) |  10/02/2025   |  [Rafael Pereira](https://github.com/rafgpereira) |
+|  1.3   |   Adição do relato do Rafael |  [Rafael Pereira](https://github.com/rafgpereira) |  10/02/2025   | [Milena Rocha](https://github.com/MilenaFRocha) |
+|  1.4   |   Adição do relato do Gabriel |  [Gabriel Scheidt](https://github.com/Gxaite) |  10/02/2025   | [Renan Araújo](https://github.com/renantfm4)|
 
 
