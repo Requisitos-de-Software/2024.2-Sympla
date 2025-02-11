@@ -15,6 +15,8 @@ As maiores facilidades que tive no projeto foram graças ao entrosamento do time
 
 ### Rafael Pereira
 
+Dentre as facilidades que encontrei durante o desenvolvimento do projeto destaco não só a colaboração do time, que foi essencial, mas também o auxílio do material disponibilizado e as intruções do professor.
+
 ### Renan Araújo
 
 ### Victor Hugo
@@ -30,6 +32,8 @@ Já as maiores dificuldades vieram dos imprevistos que tive ao longo do semestre
 ### Milena Rocha
 
 ### Rafael Pereira
+
+Em alguns momentos a quantidade de artefatos a serem produzidos e entregues era elevada, dificultando a conciliação com outras disciplinas. Além disso as duas últimas entregas ocorreram em um intervalo de tempo menor quando comparado as outras, o que sobrecarregou a equipe no fim do semestre, que já é naturalmente conturbado.
 
 ### Renan Araújo
 
