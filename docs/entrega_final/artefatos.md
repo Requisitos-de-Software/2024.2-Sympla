@@ -21,7 +21,7 @@ Este documento tem como objetivo reunir e organizar informações sobre os artef
     <td>1</td>
     <td>Planejamento</td>
     <td><a>Cronograma</a></td>
-    <td>Planejamento das atividades e entregas do projeto.</td>
+    <td>Planejamento das atividades do projeto.</td>
     <td><a> Rafael Pereira, Milena Rocha, Gabriel Scheidt</a></td>
     <td><a>Victor Hugo</a><a>Renan Araújo </a></td>
   </tr>
@@ -37,7 +37,7 @@ Este documento tem como objetivo reunir e organizar informações sobre os artef
     <td>1</td>
     <td>Planejamento</td>
     <td><a>Aplicativos Avaliados</a></td>
-    <td>Comparação entre os aplicativos analisados antes da seleção final.</td>
+    <td>Comparação entre os aplicativos analisados.</td>
     <td><a >Victor Hugo</a> <a>Milena Rocha </a></td>
     <td><a>Renan Araújo </a> <a> Rafael Pereira</a></td>
   </tr>
@@ -53,7 +53,7 @@ Este documento tem como objetivo reunir e organizar informações sobre os artef
     <td>1</td>
     <td>Planejamento</td>
     <td><a>Rich Picture</a></td>
-    <td>Representação visual do problema e contexto do sistema.</td>
+    <td>Representação visual do problema e contexto.</td>
     <td><a>Victor Hugo </a> <a >Milena Rocha </a><a >Gabriel Scheidt</a><a>Renan Araújo </a> </td>
     <td><a >Gabriel Scheidt</a> <a>Victor Hugo </a> <a >Milena Rocha </a> <a>Renan Araújo </a></td>
   </tr>
@@ -61,7 +61,7 @@ Este documento tem como objetivo reunir e organizar informações sobre os artef
     <td>1</td>
     <td>Planejamento</td>
     <td><a>Heat Map</a></td>
-    <td>Abordagem adotada para o desenvolvimento do projeto.</td>
+    <td>Horários disponíveis para reuniões.</td>
     <td><a >Renan Araújo </a><a >Gabriel Scheidt </a></td>
     <td><a>Victor Hugo </a><a>Milena Rocha </a></td>
   </tr>
@@ -71,7 +71,7 @@ Este documento tem como objetivo reunir e organizar informações sobre os artef
     <td>2</td>
     <td>Usuários</td>
     <td><a>Perfil de Usuário</a></td>
-    <td>Definição dos tipos de usuários do sistema.</td>
+    <td>Definição dos tipos de usuário do aplicativo.</td>
     <td> <a>Victor Hugo </a> <a>Renan Araújo </a> <a >Rafael Pereira </a></td>
     <td><a >Gabriel Scheidt</a> <a>Renan Araújo </a> <a>Victor Hugo </a></td>
   </tr>
@@ -79,7 +79,7 @@ Este documento tem como objetivo reunir e organizar informações sobre os artef
     <td>2</td>
     <td>Usuários</td>
     <td><a>Personas</a></td>
-    <td>Criação de personagens fictícios que representam os usuários do sistema.</td>
+    <td>Criação de personagens fictícios que representam os usuários.</td>
     <td><a>Victor Hugo </a><a>Milena Rocha</a></td>
     <td><a >Gabriel Scheidt </a> <a>Rafael Pereira </a></td>
   </tr>
@@ -97,7 +97,7 @@ Este documento tem como objetivo reunir e organizar informações sobre os artef
     <td>2</td>
     <td>Elicitação</td>
     <td><a>Introspecção</a></td>
-    <td>Identificação de requisitos baseada na experiência dos desenvolvedores.</td>
+    <td>Identificação de requisitos usando como base a experiência dos desenvolvedores.</td>
     <td><a >Gabriel Scheidt</a> <a >Milena Rocha </a></td>
     <td> <a>Renan Áraujo </a> <a >Rafael Pereira</a></td>
   </tr>
@@ -113,7 +113,7 @@ Este documento tem como objetivo reunir e organizar informações sobre os artef
     <td>2</td>
     <td>Elicitação</td>
     <td><a>Observação</a></td>
-    <td>Discussões em grupo para levantamento de requisitos.</td>
+    <td>Avaliação de usuário utilizando o sistema de formas especifícas.</td>
     <td><a >Gabriel Scheidt</a><a >Milena Rocha</a></td>
     <td><a >Victor hugo </a><a >Rafael Pereira </a></td>
   </tr>
@@ -139,7 +139,7 @@ Este documento tem como objetivo reunir e organizar informações sobre os artef
     <td>2</td>
     <td>Priorização</td>
     <td><a>In-or-Out</a></td>
-    <td>Categorização dos requisitos em 'Must have', 'Should have', etc.</td>
+    <td>Categorização dos requisitos em "Dentro" ou "Fora" do projeto.</td>
     <td><a >Renan Araújo</a></td>
     <td><a >Rafel Pereira</a><a >Victor Hugo</a></td>
   </tr>
@@ -261,4 +261,5 @@ Este documento tem como objetivo reunir e organizar informações sobre os artef
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     | 
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
-| 1.0   | Criação do documento e adição de conteúdo  | [Gabriel Scheidt](https://github.com/Gxaite)| 09/02/2025  | [Victor Hugo](https://github.com/VHbernardes)|
+| 1.0   | Criação do documento e adição de conteúdo  | [Gabriel Scheidt](https://github.com/Gxaite)| 10/02/2025  | [Victor Hugo](https://github.com/VHbernardes)|
+| 1.1   | Correção das descrições  | [Gabriel Scheidt](https://github.com/Gxaite)| 10/02/2025  | [Rafael Pereira](https://github.com/rafgpereira)|
