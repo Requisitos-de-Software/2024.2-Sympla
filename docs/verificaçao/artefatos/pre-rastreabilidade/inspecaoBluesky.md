@@ -27,24 +27,29 @@ Na Tabela 1 é apresentada a lista de verificação inspecionada, conforme descr
 | ID | Descrição | Avaliação | Versão | Data |
 |----|-----------|-------|-------|--------|
 | **Rich Picture** |
-| 1  | O Rich Picture inclui todas as pessoas que usarão ou poderão ser afetadas pelo sistema. | |||
-| 2  | O Rich Picture conta uma história clara e compreensível. ||||
-| 3  |No Rich Picture, as setas indicam claramente a direção do fluxo de dados/informação? ||||
-| 4 | Os atores estão devidamente identificados. ||||
-| 5 | São apresentados todos os cinco componentes de um Rich Picture no artefato(operações, atores, limite do sistema, armazenamento e setas). ||||
-| 6 | O artefato do Rich Picture possui uma legenda explicando os símbolos utilizados no diagrama. | |||
-| 7 | No Rich Picture, as operações são vinculadas a outras ações e/ou atores, e refletem as funcionalidades principais do sistema. | |||
+| 1  | O Rich Picture inclui todas as pessoas que usarão ou poderão ser afetadas pelo sistema. |Sim |1.5|10/08/2025|
+| 2  | O Rich Picture conta uma história clara e compreensível. |Sim |1.5|10/08/2025| 
+| 3  |No Rich Picture, as setas indicam claramente a direção do fluxo de dados/informação? |Sim |1.5|10/08/2025|
+| 4 | Os atores estão devidamente identificados. |Sim |1.5|10/08/2025|
+| 5 | São apresentados todos os cinco componentes de um Rich Picture no artefato(operações, atores, limite do sistema, armazenamento e setas). |Sim |1.5|10/08/2025|
+| 6 | O artefato do Rich Picture possui uma legenda explicando os símbolos utilizados no diagrama. |Sim |1.5|10/08/2025|
+| 7 | No Rich Picture, as operações são vinculadas a outras ações e/ou atores, e refletem as funcionalidades principais do sistema. |Sim |1.5|10/08/2025|
 | **Pré-Rastreabilidade** |
-| 1 | Na pré-rastreabilidade é possível identificar de onde os requisitos emergem. ||||
+| 1 | Na pré-rastreabilidade é possível identificar de onde os requisitos emergem. |Sim |1.5|10/08/2025|
 
 
-<font size="3"><p style="text-align: center"><b>Autor:</b> [Renan Araújo](https://github.com/renantfm4), 2025</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> [Renan Araújo](https://github.com/renantfm4) e [Milena Rocha](https://github.com/MilenaFRocha), 2025</p></font>
 
 ## Gravação da Inspeção
 
 No Vídeo 1 apresenta-se a inspeção do **Grupo 1 - Bluesky**.
 
-// Vídeo aqui
+<font size="3"><p style="text-align: center"> Vídeo 1: Inspeção - Pré-Rastresbilidade - Grupo 1 <p><font>
+
+<div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QCioyCTRV9I?si=_P1V66Uiv_qdOq9N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 
 
 
@@ -62,3 +67,4 @@ No Vídeo 1 apresenta-se a inspeção do **Grupo 1 - Bluesky**.
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     | 
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação desse documento | [Renan Araújo](https://github.com/renantfm4) | 06/02/2025 | [Rafael Pereira](https://github.com/rafgpereira)  |
+|  1.1   | Adição do vídeo |[Milena Rocha](https://github.com/MilenaFRocha) | 06/02/2025 |  [Renan Araújo](https://github.com/renantfm4)  |
