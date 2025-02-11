@@ -42,7 +42,7 @@ Em alguns momentos a quantidade de artefatos a serem produzidos e entregues era 
 
 ### Renan Araújo
 
-Em alguns momentos, a quantidade de tarefas da matéria que precisavam ser produzidos e entregues era bastante alta, o que dificultou o equilíbrio entre as demandas dessa disciplina e as outras. Isso acabou gerando uma pressão pra mim, especialmente no final do semestre. Além disso, conciliar essas responsabilidades acadêmicas com meu trabalho e questões pessoais ao longo do processo tornou tudo mais difícil.
+As maiores dificuldades que tive foi a quantidade de tarefas da matéria que precisavam ser produzidos e entregues era muito em cima das outras, o que dificultou o equilíbrio entre as demandas dessa disciplina e as outras. Isso acabou gerando uma pressão pra mim, especialmente no final do semestre. Além disso, conciliar essas responsabilidades acadêmicas com meu trabalho e questões pessoais ao longo do processo tornou tudo mais difícil.
  
 
 
